@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My Github profile is poor of content :P
+
+_So you may want to see my other profile at https://xzblog.vercel.app/
