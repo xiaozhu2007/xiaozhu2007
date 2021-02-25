@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 ### 小猪的热门语言
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhu2007)](https://github.com/)
 
-### 置顶
+### 小猪的仓库
 
-[![置顶](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=hexo)](https://github.com/xiaozhu2007/hexo)
+[![置顶](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=hexo&show_owner=true)](https://github.com/xiaozhu2007/hexo)
 
-[![置顶2](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2021&repo=javascript-tetris)](https://github.com/xiaozhu2021/javascript-tetris)
+[![置顶2](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2021&repo=javascript-tetris&show_owner=true)](https://github.com/xiaozhu2021/javascript-tetris)
 
