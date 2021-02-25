@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+> 我的博客：https://xzblog.vercel.app/
 
-My Github profile is poor of content :P
+### 项目概况
 
-_So you may want to see my other profile at https://xzblog.vercel.app/
+[![Xiaozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhu2007&repo=hexo&locale=cn&count_private=true)](https://xzblog.vercel.app/)
