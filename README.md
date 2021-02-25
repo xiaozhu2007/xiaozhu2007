@@ -1,10 +1,8 @@
-### Hi there 👋
+### 你好啊，今天怎么样 ? 👋
 
 <!--
 **xiaozhu2007/xiaozhu2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,14 +14,16 @@ Here are some ideas to get you started:
 -->
 > 我的博客：https://xzblog.vercel.app/
 
-### 项目概况
+## 项目概况
 
 [![Xiaozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhu2007&repo=hexo&locale=cn&count_private=true)](https://xzblog.vercel.app/)
 
-
+<!--
 ### 小猪的热门语言
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhu2007)](https://github.com/)
+
+-->
 
 ### 小猪的仓库
 
