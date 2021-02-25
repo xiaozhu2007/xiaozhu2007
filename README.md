@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 ### 小猪的仓库
 
-[![置顶](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=hexo&show_owner=true)](https://github.com/xiaozhu2007/hexo)
+[![博客仓库](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=hexo&show_owner=true)](https://github.com/xiaozhu2007/hexo)
 
-[![置顶2](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2021&repo=javascript-tetris&show_owner=true)](https://github.com/xiaozhu2021/javascript-tetris)
+[![仓库2](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2021&repo=javascript-tetris&show_owner=true)](https://github.com/xiaozhu2021/javascript-tetris)
+
+[![仓库3](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=javascript-pong&show_owner=true)](https://github.com/2021/javascript-pong)
 
