@@ -16,7 +16,6 @@ Length: 200 [text/x-plain]
 82%[==============================================>                ] 990900          --.-K/s   in --s Javascript
 ?%[???????????????????????????????????????????????????????????????>] ??          ??K/s   in ??s ???
 33:44:55 (2.333333 MB/s) - `README.md' saved [81/81]
-The Protect Key is:35ed1270e05a131afe193bfb2661f6a136933f26e09d9a73b6e4719b76dccb7143a8b2f63742426db70dfef45dd272aee1fa24d883115cbed25d7eac65aac1d5
 ```
 
 **WAIT**
@@ -36,6 +35,7 @@ Here are some ideas to get you started:
 
 [![甜力怕's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhu2007&repo=hexo&locale=cn&count_private=true)](https://xzblog.gitlab.io/)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhu2007)
 
 ### Pinned Repo(s)
 
