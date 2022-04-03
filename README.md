@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 ## Overview
 
 [![甜力怕's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhu2007&repo=hexo&locale=cn&count_private=true)](https://xzblog.gitlab.io/)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhu2007)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhu2007&hide=html)](https://github.com/xiaozhu2007)
 ### Pinned Repo(s)
 
-[![Pinned仓库](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=GitHosts&show_owner=true)](https://github.com/xiaozhu2007/GitHosts)
+[![Pinned仓库0](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=GitHosts&show_owner=true)](https://github.com/xiaozhu2007/GitHosts)
+
+[![Pinned仓库1](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=X-Status&show_owner=true)](https://github.com/xiaozhu2007/X-Status)
 
 [![仓库javascript-tennis](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2021&repo=javascript-tetris&show_owner=true)](https://github.com/xiaozhu2021/javascript-tetris)
 
