@@ -1,0 +1,31 @@
+{
+  "name": "xiaozhu2007",
+  "private": true,
+  "version": "1.0.0",
+  "description": "My README",
+  "main": "action.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "ncc build action.js -o dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaozhu2007/xiaozhu2007.git"
+  },
+  "keywords": [],
+  "author": "xiaozhu2007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaozhu2007/xiaozhu2007/issues"
+  },
+  "homepage": "https://github.com/xiaozhu2007/xiaozhu2007#readme",
+  "dependencies": {
+    "@actions/core": "^1.4.0",
+    "@octokit/auth-oauth-device": "^3.1.2",
+    "@octokit/plugin-create-or-update-text-file": "^1.0.1",
+    "@vercel/ncc": "^0.28.6",
+    "octokit": "^1.0.5"
+  }
+}
