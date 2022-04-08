@@ -1,4 +1,4 @@
-name: issues
+name: Issues
 
 on:
   issues:
@@ -12,9 +12,7 @@ jobs:
     - uses: actions/checkout@v2
       with:
         ref: ${{ github.head_ref }}
-    - run:  |
-        echo "$ISSUE_BODY" > temp.txt
-        cat temp.txt
-    
+    - run: echo "$ISSUE_BODY" > temp.txt
+    - run: cat temp.txt
       env: 
         ISSUE_BODY: ${{ github.event.issue.body }}
