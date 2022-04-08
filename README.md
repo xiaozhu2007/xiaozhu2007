@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![甜力怕's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhu2007&repo=hexo&locale=cn&count_private=true)](https://xiaozhu2007.gitlab.io/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhu2007&hide=html)](https://github.com/xiaozhu2007)
 
-**xiaozhu2007 has <!-- follower-counter -->0<!-- /follower-counter --> followers**
+**xiaozhu2007 has <!-- follower-counter -->__<!-- /follower-counter --> followers**
 
 ### Pinned Repo(s)
 
