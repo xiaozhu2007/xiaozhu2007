@@ -1,6 +1,4 @@
 #!/usr/bin/env node
-
-// bump follow count in the README
 const { Octokit } = require("octokit");
 const core = require("@actions/core");
 
