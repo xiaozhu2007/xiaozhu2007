@@ -2,10 +2,7 @@
 <p align="center"> <img src="https://gpvc.arturio.dev/xiaozhu2007" alt="xiaozhu2007" />
 <a target="_blank" href=https://github.com/xiaozhu2007>
   <img src=https://img.shields.io/github/followers/xiaozhu2007?label=follow%20me&style=social />
-</a></p>
-
-<p align="center">
-  <img src="https://weather-icon.journeyad.repl.co/@wuhan?v=1">
+</a><img src="https://weather-icon.journeyad.repl.co/@wuhan?v=1">
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xiaozhu2007&theme=monokai&column=8&no-frame=true&no-bg=true" alt="xiaozhu2007" /></a> </p>
