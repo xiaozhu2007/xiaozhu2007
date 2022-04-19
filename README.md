@@ -76,19 +76,9 @@ Here are some ideas to get you started:
 ❤️ &nbsp;**Github Metrics**
 ![Metrics](https://metrics.lecoq.io/xiaozhu2007?template=classic&languages=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories.featured=AGDDoS%2FAGDDoS&config.timezone=Asia%2FShanghai)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaozhu2007&theme=cobalt&hide_border=true&currStreakNum=DD2727&sideNums=8D02DD&stroke=DD2727" alt="GitHub streak stats">
-<br></p>
-
-![](https://activity-graph.herokuapp.com/graph?username=xiaozhu2007&theme=redical)
-
-
-
 ### Pinned Repo(s)
 
 [![Pinned仓库0](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=GitHosts&show_owner=true)](https://github.com/xiaozhu2007/GitHosts)
-
 [![Pinned仓库1](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=X-Status&show_owner=true)](https://github.com/xiaozhu2007/X-Status)
-
 [![仓库javascript-tennis](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2021&repo=javascript-tetris&show_owner=true)](https://github.com/xiaozhu2021/javascript-tetris)
-
 [![仓库javascript-pong](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2021&repo=javascript-pong&show_owner=true)](https://github.com/xiaozhu2021/javascript-pong)
