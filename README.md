@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhu2007&hide=html)](https://github.com/xiaozhu2007)
 
 🛠️ &nbsp;**Languages and Tools**
+
 <p align="center">
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -74,6 +75,7 @@ Here are some ideas to get you started:
 </p>
 
 ❤️ &nbsp;**Github Metrics**
+
 ![Metrics](https://metrics.lecoq.io/xiaozhu2007?template=classic&languages=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories.featured=AGDDoS%2FAGDDoS&config.timezone=Asia%2FShanghai)
 
 ### Pinned Repo(s)
