@@ -2,12 +2,11 @@
 <p align="center"> <img src="https://gpvc.arturio.dev/xiaozhu2007" alt="xiaozhu2007" />
 <a target="_blank" href=https://github.com/xiaozhu2007>
   <img src=https://img.shields.io/github/followers/xiaozhu2007?label=follow%20me&style=social />
-</a><img src="https://weather-icon.journeyad.repl.co/@wuhan?v=1">
-</p>
+</a></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xiaozhu2007&theme=monokai&column=8&no-frame=true&no-bg=true" alt="xiaozhu2007" /></a> </p>
 
-- 🌱 I’m currently learning **golang**
+- 🌱 I’m currently learning **Golang**
 
 - 📝 I regularly write articles on [https://xiaozhu2007.github.io/](https://xiaozhu2007.github.io/)
 
@@ -28,7 +27,7 @@ Length: 200 [text/x-plain]
 58%[====================================>                          ] 200          100K/s   in 2s English
 100%[=============================================================>] 81          100K/s   in 0s Chinese
 69%[========================================>                      ] 98          65397M/s   in 1s C++
-14%[======>                                                        ] 102400       0K/s   in +∞s PHP
+16%[=======>                                                       ] 102400       0K/s   in +∞s PHP
 74%[===========================================>                   ] 65535       655K/s   in 101s Liunx
 82%[==============================================>                ] 990900          --.-K/s   in --s Javascript
 ?%[???????????????????????????????????????????????????????????????>] ??          ??K/s   in ??s ???
@@ -36,18 +35,7 @@ Length: 200 [text/x-plain]
 ```
 
 **WAIT**
-<!--
-**xiaozhu2007/xiaozhu2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 ## Overview
 
 [![甜力怕's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhu2007&repo=hexo&locale=cn&count_private=true)](https://xiaozhu2007.gitlab.io/)
