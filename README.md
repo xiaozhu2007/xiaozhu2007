@@ -69,6 +69,8 @@ Length: 200 [text/x-plain]
 
 
 ### Latest posts
-- [记一次对 Minecraft 的崩溃分析](https://xiaozhu2007.gitlab.io/post/Minecraft%E5%B4%A9%E6%BA%83%E6%8A%A5%E5%91%8A.html) (6 months ago)
-- [Termux安装Java并配置Minecraft服务器](https://xiaozhu2007.gitlab.io/post/Termux%E9%85%8D%E7%BD%AEMinecraft%E6%9C%8D%E5%8A%A1%E5%99%A8.html) (9 months ago)
-- [网页「深色模式」的实现指北](https://xiaozhu2007.gitlab.io/post/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%E6%8C%87%E5%8C%97.html) (9 months ago)
+- [Termux安装Java并配置Minecraft服务器 - 小猪呐](https://www.cnblogs.com/xiaozhu2020/p/termux-java-and-minecraft_server.html) (9 months ago)
+- [PHP无文件木马 - 小猪呐](https://www.cnblogs.com/xiaozhu2020/p/php-nofile_webshell-1.html) (9 months ago)
+- [编程中Foo，Bar 到底是什么意思 - 小猪呐](https://www.cnblogs.com/xiaozhu2020/p/what-is-foobar.html) (11 months ago)
+- [如何用Python进行ARP攻击？ - 小猪呐](https://www.cnblogs.com/xiaozhu2020/p/python-arp.html) (1 year ago)
+- [有哪些有趣的化学方程式？ - 小猪呐](https://www.cnblogs.com/xiaozhu2020/p/14691474.html) (1 year ago)
