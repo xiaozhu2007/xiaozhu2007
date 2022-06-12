@@ -73,6 +73,6 @@ Length: 200 [text/x-plain]
 
 ### Latest posts
 
-{{- range rss "https://xiaozhu2007.github.io/rss.xml" 3 }}
+{{- range rss "https://feed.cnblogs.com/blog/u/609991/rss/" 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
