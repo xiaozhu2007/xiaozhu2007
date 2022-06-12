@@ -1,8 +1,5 @@
 <h1 align="center"> 👋 Hi there, I'm xiaozhu2007</h1>
-<p align="center"> <img src="https://gpvc.arturio.dev/xiaozhu2007" alt="xiaozhu2007" />
-<a target="_blank" href=https://github.com/xiaozhu2007>
-  <img src=https://img.shields.io/github/followers/xiaozhu2007?label=follow%20me&style=social />
-</a></p>
+<p align="center"> <img src="https://gpvc.arturio.dev/xiaozhu2007" alt="xiaozhu2007" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xiaozhu2007&theme=monokai&column=8&no-frame=true&no-bg=true" alt="xiaozhu2007" /></a> </p>
 
@@ -56,7 +53,6 @@ Length: 200 [text/x-plain]
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
 
-
 :heart: &nbsp;**Github Metrics**
 
 ![Metrics](https://metrics.lecoq.io/xiaozhu2007?template=classic&languages=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories.featured=AGDDoS%2FAGDDoS&config.timezone=Asia%2FShanghai)
@@ -67,3 +63,12 @@ Length: 200 [text/x-plain]
 [![Pinned_X-Status](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=X-Status&show_owner=true)](https://github.com/xiaozhu2007/X-Status)
 [![javascript-tennis](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2021&repo=javascript-tetris&show_owner=true)](https://github.com/xiaozhu2021/javascript-tetris)
 [![javascript-pong](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2021&repo=javascript-pong&show_owner=true)](https://github.com/xiaozhu2021/javascript-pong)
+
+### Latest releases
+- AGDDoS [1.0.2-alpha-5](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.2-alpha-5) ([AGDDoS](https://github.com/AGDDoS/AGDDoS), _released 2 weeks ago_)
+
+
+### Latest posts
+- [记一次对 Minecraft 的崩溃分析](https://xiaozhu2007.gitlab.io/post/Minecraft%E5%B4%A9%E6%BA%83%E6%8A%A5%E5%91%8A.html) (6 months ago)
+- [Termux安装Java并配置Minecraft服务器](https://xiaozhu2007.gitlab.io/post/Termux%E9%85%8D%E7%BD%AEMinecraft%E6%9C%8D%E5%8A%A1%E5%99%A8.html) (9 months ago)
+- [网页「深色模式」的实现指北](https://xiaozhu2007.gitlab.io/post/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%E6%8C%87%E5%8C%97.html) (9 months ago)
