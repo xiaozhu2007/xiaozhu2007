@@ -1,0 +1,28 @@
+name: Update README
+
+on:
+  push:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          template: "templates/profile.tpl"
+          writeTo: "README.md"
+      
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: 'docs: Update generated README'
+          branch: main
+          commit_user_name: AGDDoS-bot
+          commit_user_email: 3356136957@qq.com
+          commit_author: AGDDoS-bot <3356136957@qq.com>
