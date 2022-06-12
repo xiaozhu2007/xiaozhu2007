@@ -73,6 +73,6 @@ Length: 200 [text/x-plain]
 
 ### Latest posts
 
-{{- range rss "https://xiaozhu2007.github.io/feed" 3 }}
+{{- range rss "https://xiaozhu2007.github.io/rss.xml" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
