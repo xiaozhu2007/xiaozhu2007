@@ -71,19 +71,9 @@ Length: 200 [text/x-plain]
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🍴 Recent forks
-{{range recentForks 1}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
 #### 🔨 Recent Pull Requests
 {{range recentPullRequests 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 📓 Gists I wrote
-{{range gists 3}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### ⭐ Recent Stars
@@ -91,19 +81,12 @@ Length: 200 [text/x-plain]
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 👯 Recent followers
-{{range followers 3}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
-
 #### 💼 Latest releases
-
 {{- range rss "https://github.com/AGDDoS/AGDDoS/releases.atom" 1 }}
 - AGDDoS [{{ .Title }}]({{ .URL }}) ([AGDDoS](https://github.com/AGDDoS/AGDDoS), _released {{ humanize .PublishedAt }}_)
 {{- end }}
 
 #### 📰 Latest posts
-
 {{- range rss "https://feed.cnblogs.com/blog/u/609991/rss/" 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
