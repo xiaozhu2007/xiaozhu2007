@@ -83,9 +83,7 @@ Length: 200 [text/x-plain]
 [![](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
 
 #### :heart: **Github Metrics**
-
-![Metrics](https://metrics.lecoq.io/xiaozhu2007?template=classic&languages=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories.featured=AGDDoS%2FAGDDoS&config.timezone=Asia%2FShanghai)
-
+![Metrics](https://metrics.lecoq.io/xiaozhu2007?template=classic&introduction=1&activity=1&base.indepth=false&base.hireable=false&activity.limit=10&activity.load=300&activity.days=14&activity.visibility=public&activity.timestamps=true&activity.ignored=AGDDoS-bot&activity.filter=all&introduction.title=true&config.timezone=Asia%2FShanghai)
 ### :star: Pinned Repo(s)
 
 [![Pinned_GitHosts](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=GitHosts&show_owner=true)](https://github.com/xiaozhu2007/GitHosts)
