@@ -83,7 +83,7 @@ Length: 200 [text/x-plain]
 [![](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
 
 #### :heart: **Github Metrics**
-![Metrics](https://metrics.lecoq.io/xiaozhu2007?template=classic&introduction=1&activity=1&base.indepth=false&base.hireable=false&activity.limit=10&activity.load=300&activity.days=14&activity.visibility=public&activity.timestamps=true&activity.ignored=AGDDoS-bot&activity.filter=all&introduction.title=true&config.timezone=Asia%2FShanghai)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ### :star: Pinned Repo(s)
 
