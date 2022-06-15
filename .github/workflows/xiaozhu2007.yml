@@ -3,7 +3,7 @@ name: Update README
 on:
   push:
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   markscribe:
@@ -21,7 +21,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
-          commit_message: 'docs: Update generated README'
+          commit_message: 'docs: Update generated README [skip ci]'
           branch: main
           commit_user_name: AGDDoS-bot
           commit_user_email: 3356136957@qq.com
