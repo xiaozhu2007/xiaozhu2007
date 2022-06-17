@@ -34,16 +34,16 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (today)
 - [xiaozhu2021/key](https://github.com/xiaozhu2021/key) - 激活码 (3 days ago)
 - [xiaozhu2007/HackPig520](https://github.com/xiaozhu2007/HackPig520) - 开黑啦机器人——HackPig520 (5 days ago)
 - [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) - Pig2333 Docs: Personal document built with Vitepress. (1 week ago)
 - [xiaozhu2007/CloudFlareWorkers](https://github.com/xiaozhu2007/CloudFlareWorkers) - 我正在使用的CFW脚本 (1 week ago)
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (1 week ago)
 - [xiaozhu2007/hexo-theme-pigfly](https://github.com/xiaozhu2007/hexo-theme-pigfly) -  (1 week ago)
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (2 weeks ago)
 - [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (2 weeks ago)
 - [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (2 weeks ago)
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (2 weeks ago)
-- [AGDDoS/status](https://github.com/AGDDoS/status) - A simple pure shell to generate the status pages (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -58,11 +58,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars
 
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (today)
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure (5 days ago)
 - [gustaYo/vue-chess](https://github.com/gustaYo/vue-chess) - Multiplayer online chess game use Vue , Nodejs, Webpack, Em6, Socket.io, Mongodb, Express (1 week ago)
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js (1 week ago)
 - [codewithkristian/workers-qr-code-generator](https://github.com/codewithkristian/workers-qr-code-generator) -  (1 week ago)
-- [xiaozhu2007/AGFilter](https://github.com/xiaozhu2007/AGFilter) - Slef-use AdGuard Content Blocking Filters. (1 week ago)
 
 #### 💼 Latest releases
 - AGDDoS [1.0.2-alpha-5](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.2-alpha-5) ([AGDDoS](https://github.com/AGDDoS/AGDDoS), _released 3 weeks ago_)
