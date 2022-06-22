@@ -34,11 +34,11 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (2 days ago)
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (3 days ago)
 - [xiaozhu2021/key](https://github.com/xiaozhu2021/key) - 激活码 (1 week ago)
 - [xiaozhu2007/HackPig520](https://github.com/xiaozhu2007/HackPig520) - 开黑啦机器人——HackPig520 (1 week ago)
 - [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) - Pig2333 Docs: Personal document built with Vitepress. (1 week ago)
-- [xiaozhu2007/CloudFlareWorkers](https://github.com/xiaozhu2007/CloudFlareWorkers) - 我正在使用的CFW脚本 (1 week ago)
+- [xiaozhu2007/CloudFlareWorkers](https://github.com/xiaozhu2007/CloudFlareWorkers) - 我正在使用的CFW脚本 (2 weeks ago)
 - [xiaozhu2007/hexo-theme-pigfly](https://github.com/xiaozhu2007/hexo-theme-pigfly) -  (2 weeks ago)
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (2 weeks ago)
 - [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (2 weeks ago)
@@ -58,11 +58,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars
 
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (4 days ago)
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (5 days ago)
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure (1 week ago)
-- [gustaYo/vue-chess](https://github.com/gustaYo/vue-chess) - Multiplayer online chess game use Vue , Nodejs, Webpack, Em6, Socket.io, Mongodb, Express (1 week ago)
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js (1 week ago)
-- [codewithkristian/workers-qr-code-generator](https://github.com/codewithkristian/workers-qr-code-generator) -  (1 week ago)
+- [gustaYo/vue-chess](https://github.com/gustaYo/vue-chess) - Multiplayer online chess game use Vue , Nodejs, Webpack, Em6, Socket.io, Mongodb, Express (2 weeks ago)
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js (2 weeks ago)
+- [codewithkristian/workers-qr-code-generator](https://github.com/codewithkristian/workers-qr-code-generator) -  (2 weeks ago)
 
 #### 💼 Latest releases
 - AGDDoS [1.0.2-alpha-5](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.2-alpha-5) ([AGDDoS](https://github.com/AGDDoS/AGDDoS), _released 3 weeks ago_)
