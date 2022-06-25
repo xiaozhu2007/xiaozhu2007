@@ -1,5 +1,10 @@
 <h1 align="center"> 👋 Hi there, I'm xiaozhu2007</h1>
-<p align="center"> <img src="https://gpvc.arturio.dev/xiaozhu2007" alt="xiaozhu2007" /></p>
+<p align="center">
+  <img src="https://gpvc.arturio.dev/xiaozhu2007" alt="xiaozhu2007" />
+  <a href="https://github.com/xiaozhu2007">
+    <img src="https://ghchart.rshah.org/xiaozhu2007" alt="甜力怕's Github chart" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Golang**, **TypeScript**
 
@@ -34,21 +39,21 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (today)
 - [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (today)
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (today)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
+- [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (today)
 - [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (6 days ago)
 - [xiaozhu2021/key](https://github.com/xiaozhu2021/key) - 激活码 (1 week ago)
 - [xiaozhu2007/HackPig520](https://github.com/xiaozhu2007/HackPig520) - 开黑啦机器人——HackPig520 (1 week ago)
 - [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) - Pig2333 Docs: Personal document built with Vitepress. (2 weeks ago)
 - [xiaozhu2007/CloudFlareWorkers](https://github.com/xiaozhu2007/CloudFlareWorkers) - 我正在使用的CFW脚本 (2 weeks ago)
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (2 weeks ago)
-- [xiaozhu2007/hexo-theme-pigfly](https://github.com/xiaozhu2007/hexo-theme-pigfly) -  (2 weeks ago)
-- [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (3 weeks ago)
-- [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.0.2-alpha-5](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.2-alpha-5), 1 month ago) - High-performance website testing tool written in Golang.
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) ([v2](https://github.com/xiaozhu2007/GitHosts/releases/tag/v2), 2 months ago) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) ([v2.1](https://github.com/xiaozhu2007/GitHosts/releases/tag/v2.1), today) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.0.2-alpha-7](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.2-alpha-7), today) - High-performance website testing tool written in Golang.
 
 #### 🔨 Recent Pull Requests
 
@@ -65,7 +70,7 @@ Length: 200 [text/x-plain]
 - [gustaYo/vue-chess](https://github.com/gustaYo/vue-chess) - Multiplayer online chess game use Vue , Nodejs, Webpack, Em6, Socket.io, Mongodb, Express (2 weeks ago)
 
 #### 💼 Latest releases
-- AGDDoS [1.0.2-alpha-5](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.2-alpha-5) ([AGDDoS](https://github.com/AGDDoS/AGDDoS), _released 1 month ago_)
+- AGDDoS [1.0.2-alpha-7](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.2-alpha-7) ([AGDDoS](https://github.com/AGDDoS/AGDDoS), _released today_)
 
 #### 📰 Latest posts
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (1 week ago)
