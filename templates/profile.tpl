@@ -1,5 +1,10 @@
 <h1 align="center"> 👋 Hi there, I'm xiaozhu2007</h1>
-<p align="center"> <img src="https://gpvc.arturio.dev/xiaozhu2007" alt="xiaozhu2007" /></p>
+<p align="center">
+  <img src="https://gpvc.arturio.dev/xiaozhu2007" alt="xiaozhu2007" />
+  <a href="https://github.com/xiaozhu2007">
+    <img src="https://ghchart.rshah.org/xiaozhu2007" alt="甜力怕's Github chart" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Golang**, **TypeScript**
 
