@@ -39,16 +39,16 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
+- [xiaozhu2007/KeyLogger](https://github.com/xiaozhu2007/KeyLogger) - A simple KeyLogger writtien in PowerShell (today)
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
-- [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (1 day ago)
 - [xiaozhu2021/key](https://github.com/xiaozhu2021/key) - 激活码 (1 day ago)
-- [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (2 days ago)
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (2 days ago)
+- [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (1 day ago)
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (2 days ago)
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (2 days ago)
+- [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (2 days ago)
 - [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (1 week ago)
 - [xiaozhu2007/HackPig520](https://github.com/xiaozhu2007/HackPig520) - 开黑啦机器人——HackPig520 (2 weeks ago)
 - [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) - Pig2333 Docs: Personal document built with Vitepress. (2 weeks ago)
-- [xiaozhu2007/CloudFlareWorkers](https://github.com/xiaozhu2007/CloudFlareWorkers) - 我正在使用的CFW脚本 (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -63,11 +63,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars
 
+- [RamadhanAmizudin/malware](https://github.com/RamadhanAmizudin/malware) - Malware Samples. Uploaded to GitHub for those want to analyse the code. Code mostly from: http://www.malwaretech.com (today)
+- [NYAN-x-CAT/LimeLogger](https://github.com/NYAN-x-CAT/LimeLogger) - Simple C# Keylogger (Keyboard Layout) (today)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (1 day ago)
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (1 day ago)
 - [Dimples-1337/WebSocketToSocket](https://github.com/Dimples-1337/WebSocketToSocket) - Who want play minecraft in browser? (2 days ago)
-- [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and &#34;walk the stage&#34; on June 11. (2 days ago)
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (1 week ago)
 
 #### 💼 Latest releases
 - AGDDoS [1.0.2-alpha-7](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.2-alpha-7) ([AGDDoS](https://github.com/AGDDoS/AGDDoS), _released 2 days ago_)
