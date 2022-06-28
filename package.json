@@ -1,31 +1,51 @@
 {
   "name": "xiaozhu2007",
-  "private": true,
   "version": "1.0.0",
-  "description": "My README",
-  "main": "action.js",
-  "directories": {
-    "lib": "lib"
-  },
+  "description": "My npm card.",
+  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "build": "ncc build action.js -o dist"
+    "bin": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xiaozhu2007/xiaozhu2007.git"
   },
-  "keywords": [],
-  "author": "xiaozhu2007",
-  "license": "MIT",
+  "keywords": [
+    "card",
+    "xiaozhu2007"
+  ],
+  "author": {
+    "name": "xiaozhu2007",
+    "email": "lz19986912007@163.com",
+    "url": "https://xiaozhu2007.github.io/"
+  },
+  "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/xiaozhu2007/xiaozhu2007/issues"
   },
   "homepage": "https://github.com/xiaozhu2007/xiaozhu2007#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/github": "^8.0.4",
+    "@semantic-release/npm": "^9.0.1",
+    "core-js": "^3.21.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^7.0.4",
+    "rimraf": "^3.0.2"
+  },
   "dependencies": {
-    "@actions/core": "^1.4.0",
-    "@octokit/auth-oauth-device": "^3.1.2",
-    "@octokit/plugin-create-or-update-text-file": "^1.0.1",
-    "@vercel/ncc": "^0.28.6",
-    "octokit": "^1.0.5"
+    "boxen": "^7.0.0",
+    "chalk": "^5.0.1",
+    "clear": "^0.1.0",
+    "inquirer": "^9.0.0",
+    "open": "^8.4.0"
+  },
+  "engines": {
+    "node": ">=16",
+    "npm": ">=6.0.0"
   }
 }
