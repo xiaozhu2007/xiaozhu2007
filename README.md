@@ -39,12 +39,12 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (today)
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
 - [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (1 day ago)
 - [xiaozhu2007/KeyLogger](https://github.com/xiaozhu2007/KeyLogger) - A simple KeyLogger writtien in PowerShell (2 days ago)
 - [xiaozhu2021/key](https://github.com/xiaozhu2021/key) - 激活码 (3 days ago)
 - [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (3 days ago)
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (4 days ago)
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (4 days ago)
 - [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (4 days ago)
 - [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (1 week ago)
@@ -63,11 +63,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars
 
+- [xiaozhu2007/KKA](https://github.com/xiaozhu2007/KKA) - KKA is a *** mod. (today)
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (today)
+- [webbukkit/dynmap](https://github.com/webbukkit/dynmap) - A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations. (today)
 - [Lete114/WebStack-Screenshot](https://github.com/Lete114/WebStack-Screenshot) - 网站截图 API | Website Screenshot API  (1 day ago)
 - [NYAN-x-CAT/Discord-Token-Grabber](https://github.com/NYAN-x-CAT/Discord-Token-Grabber) - Gets discord token form ldb files c# (1 day ago)
-- [NYAN-x-CAT/Dropless-Malware](https://github.com/NYAN-x-CAT/Dropless-Malware) - Download a payload and make it run from registry without droppng. (1 day ago)
-- [gigajew/GitHubUpdater](https://github.com/gigajew/GitHubUpdater) - Update your app using GitHub releases (1 day ago)
-- [RamadhanAmizudin/malware](https://github.com/RamadhanAmizudin/malware) - Malware Samples. Uploaded to GitHub for those want to analyse the code. Code mostly from: http://www.malwaretech.com (2 days ago)
 
 #### 💼 Latest releases
 - AGDDoS [1.0.2-alpha-7](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.2-alpha-7) ([AGDDoS](https://github.com/AGDDoS/AGDDoS), _released 4 days ago_)
