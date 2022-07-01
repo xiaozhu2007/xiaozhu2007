@@ -6,7 +6,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Golang**, **TypeScript**
+- 🌱 I’m currently learning **Golang**, **TypeScript**, **C#**
 
 - 📝 I regularly write articles on [https://www.cnblogs.com/xiaozhu2020/](https://www.cnblogs.com/xiaozhu2020/)
 
@@ -34,33 +34,20 @@ Length: 200 [text/x-plain]
 
 ## 📈 Overview
 
-[![甜力怕's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhu2007&repo=hexo&locale=cn&count_private=true)](https://xiaozhu2007.github.io/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhu2007)](https://github.com/xiaozhu2007)
-
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
+{{range recentContributions 8 }}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 3}}
+#### 🔭 Latest releases
+{{range recentReleases 3 }}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
-#### 🔨 Recent Pull Requests
-{{range recentPullRequests 3}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### ⭐ Recent Stars
-{{range recentStars 5}}
+#### ⭐ Recent Stars (Including **private** repo)
+{{range recentStars 5 }}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
-
-#### 💼 Latest releases
-{{- range rss "https://github.com/AGDDoS/AGDDoS/releases.atom" 1 }}
-- AGDDoS [{{ .Title }}]({{ .URL }}) ([AGDDoS](https://github.com/AGDDoS/AGDDoS), _released {{ humanize .PublishedAt }}_)
-{{- end }}
 
 #### 📰 Latest posts
 {{- range rss "https://feed.cnblogs.com/blog/u/609991/rss/" 5 }}
@@ -70,6 +57,9 @@ Length: 200 [text/x-plain]
 
 <details>
   <summary>点击展开可能影响加载的元素</summary>
+
+[![甜力怕's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhu2007&repo=hexo&locale=cn&count_private=true)](https://xiaozhu2007.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhu2007)](https://github.com/xiaozhu2007)
 
 #### 📫 Find me here
 [![](https://img.shields.io/badge/-Blog-4fc08d?style=flat-square&logo=vue.js&logoColor=white)](https://www.cnblogs.com/xiaozhu2020/)
@@ -90,7 +80,7 @@ Length: 200 [text/x-plain]
 #### :heart: **Github Metrics**
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
-### :star: Pinned Repo(s)
+#### :star: Pinned Repo(s)
 
 [![Pinned_GitHosts](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=GitHosts&show_owner=true)](https://github.com/xiaozhu2007/GitHosts)
 [![Pinned_X-Status](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=X-Status&show_owner=true)](https://github.com/xiaozhu2007/X-Status)
