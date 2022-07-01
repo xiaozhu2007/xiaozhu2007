@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [notgiven688/webminerpool](https://github.com/notgiven688/webminerpool) - Complete sources for a monero webminer.  (today)
+- [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js (today)
+- [shuyangzhang/Kyouka](https://github.com/shuyangzhang/Kyouka) - Kyouka is a simple and powerful music bot for KaiHeiLa, it is easy to use and develop. (today)
 - [Lete114/API-Interface](https://github.com/Lete114/API-Interface) - Express写的一个api接口: 获取访问者设备信息、Bing每日高清壁纸、获取网站信息，图标，标题等、获取QQ信息、QQ头像、QQ昵称、等、获取短视频信息、去水印、抖音、火山、微视、皮皮虾、最右、轻视频(bilibili) (today)
 - [actionsx/prettier](https://github.com/actionsx/prettier) - 🔨 Native, blazingly-fast Prettier CLI on Github Actions (today)
-- [xiaozhu2007/KKA](https://github.com/xiaozhu2007/KKA) - KKA is a *** mod. (2 days ago)
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (2 days ago)
-- [webbukkit/dynmap](https://github.com/webbukkit/dynmap) - A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations. (2 days ago)
 
 #### 📰 Latest posts
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (2 weeks ago)
