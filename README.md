@@ -6,7 +6,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Golang**, **TypeScript**
+- 🌱 I’m currently learning **Golang**, **TypeScript**, **C#**
 
 - 📝 I regularly write articles on [https://www.cnblogs.com/xiaozhu2020/](https://www.cnblogs.com/xiaozhu2020/)
 
@@ -34,12 +34,9 @@ Length: 200 [text/x-plain]
 
 ## 📈 Overview
 
-[![甜力怕's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhu2007&repo=hexo&locale=cn&count_private=true)](https://xiaozhu2007.github.io/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhu2007)](https://github.com/xiaozhu2007)
-
 #### 👷 Check out what I'm currently working on
 
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (1 day ago)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (2 days ago)
 - [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (3 days ago)
 - [xiaozhu2007/KeyLogger](https://github.com/xiaozhu2007/KeyLogger) - A simple KeyLogger writtien in PowerShell (4 days ago)
@@ -47,30 +44,19 @@ Length: 200 [text/x-plain]
 - [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (5 days ago)
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (6 days ago)
 - [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (6 days ago)
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (1 week ago)
-- [xiaozhu2007/HackPig520](https://github.com/xiaozhu2007/HackPig520) - 开黑啦机器人——HackPig520 (2 weeks ago)
 
-#### 🔭 Latest releases I've contributed to
+#### 🔭 Latest releases
 
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) ([v2.1](https://github.com/xiaozhu2007/GitHosts/releases/tag/v2.1), 6 days ago) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.0.2-alpha-7](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.2-alpha-7), 6 days ago) - High-performance website testing tool written in Golang.
 
-#### 🔨 Recent Pull Requests
-
-- [dhhdjs](https://github.com/xiaozhu2021/cloud/pull/1) on [xiaozhu2021/cloud](https://github.com/xiaozhu2021/cloud) (5 days ago)
-- [Update README.md](https://github.com/AGDDoS/AGDDoS/pull/14) on [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) (1 month ago)
-- [[PR] Update Readme](https://github.com/AGDDoS/AGDDoS/pull/13) on [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) (1 month ago)
-
-#### ⭐ Recent Stars
+#### ⭐ Recent Stars (Including **private** repo)
 
 - [xiaozhu2007/KKA](https://github.com/xiaozhu2007/KKA) - KKA is a *** mod. (2 days ago)
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (2 days ago)
 - [webbukkit/dynmap](https://github.com/webbukkit/dynmap) - A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations. (2 days ago)
 - [Lete114/WebStack-Screenshot](https://github.com/Lete114/WebStack-Screenshot) - 网站截图 API | Website Screenshot API  (3 days ago)
 - [NYAN-x-CAT/Discord-Token-Grabber](https://github.com/NYAN-x-CAT/Discord-Token-Grabber) - Gets discord token form ldb files c# (3 days ago)
-
-#### 💼 Latest releases
-- AGDDoS [1.0.2-alpha-7](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.2-alpha-7) ([AGDDoS](https://github.com/AGDDoS/AGDDoS), _released 6 days ago_)
 
 #### 📰 Latest posts
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (2 weeks ago)
@@ -82,6 +68,9 @@ Length: 200 [text/x-plain]
 
 <details>
   <summary>点击展开可能影响加载的元素</summary>
+
+[![甜力怕's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhu2007&repo=hexo&locale=cn&count_private=true)](https://xiaozhu2007.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhu2007)](https://github.com/xiaozhu2007)
 
 #### 📫 Find me here
 [![](https://img.shields.io/badge/-Blog-4fc08d?style=flat-square&logo=vue.js&logoColor=white)](https://www.cnblogs.com/xiaozhu2020/)
@@ -102,7 +91,7 @@ Length: 200 [text/x-plain]
 #### :heart: **Github Metrics**
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
-### :star: Pinned Repo(s)
+#### :star: Pinned Repo(s)
 
 [![Pinned_GitHosts](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=GitHosts&show_owner=true)](https://github.com/xiaozhu2007/GitHosts)
 [![Pinned_X-Status](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=X-Status&show_owner=true)](https://github.com/xiaozhu2007/X-Status)
