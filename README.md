@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [macronut/ghostcp](https://github.com/macronut/ghostcp) - GhosTCP is a program for Windows that protects the TCP connections from being interfered. (today)
 - [PlutoSolutions/Pyro](https://github.com/PlutoSolutions/Pyro) - Pyro Minecraft Anarchy Cheat free ($0.00) edition (mirror: https://crystalpvp.ru/pyro) (today)
 - [yumusb/whois](https://github.com/yumusb/whois) - Golang based whois query server. (today)
 - [xiaozhu2007/KKA](https://github.com/xiaozhu2007/KKA) - KKA is a *** mod. (today)
 - [mbcrocci/coderun](https://github.com/mbcrocci/coderun) - A command line tool to run any code file (today)
-- [mbcrocci/goRAT](https://github.com/mbcrocci/goRAT) - RAT developed in go to learn the concepts required to make one and for educational purposes only. (today)
 
 #### 📰 Latest posts
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (2 weeks ago)
