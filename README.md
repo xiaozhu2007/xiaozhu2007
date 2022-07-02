@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [PlutoSolutions/Pyro](https://github.com/PlutoSolutions/Pyro) - Pyro Minecraft Anarchy Cheat free ($0.00) edition (mirror: https://crystalpvp.ru/pyro) (today)
 - [yumusb/whois](https://github.com/yumusb/whois) - Golang based whois query server. (today)
 - [xiaozhu2007/KKA](https://github.com/xiaozhu2007/KKA) - KKA is a *** mod. (today)
 - [mbcrocci/coderun](https://github.com/mbcrocci/coderun) - A command line tool to run any code file (today)
 - [mbcrocci/goRAT](https://github.com/mbcrocci/goRAT) - RAT developed in go to learn the concepts required to make one and for educational purposes only. (today)
-- [notgiven688/webminerpool](https://github.com/notgiven688/webminerpool) - Complete sources for a monero webminer.  (1 day ago)
 
 #### 📰 Latest posts
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (2 weeks ago)
@@ -99,3 +99,8 @@ Length: 200 [text/x-plain]
 [![javascript-pong](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2021&repo=javascript-pong&show_owner=true)](https://github.com/xiaozhu2021/javascript-pong)
 
 </details>
+<p align="center">
+
+[Blog](https://xiaozhu2007.github.io) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007)
+
+</p>
