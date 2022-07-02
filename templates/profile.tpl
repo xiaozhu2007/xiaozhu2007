@@ -88,3 +88,8 @@ Length: 200 [text/x-plain]
 [![javascript-pong](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2021&repo=javascript-pong&show_owner=true)](https://github.com/xiaozhu2021/javascript-pong)
 
 </details>
+<p align="center">
+
+[Blog](https://xiaozhu2007.github.io) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007)
+
+</p>
