@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (today)
+- [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) - Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs (today)
 - [macronut/ghostcp](https://github.com/macronut/ghostcp) - GhosTCP is a program for Windows that protects the TCP connections from being interfered. (1 day ago)
 - [PlutoSolutions/Pyro](https://github.com/PlutoSolutions/Pyro) - Pyro Minecraft Anarchy Cheat free ($0.00) edition (mirror: https://crystalpvp.ru/pyro) (1 day ago)
 - [yumusb/whois](https://github.com/yumusb/whois) - Golang based whois query server. (1 day ago)
-- [xiaozhu2007/KKA](https://github.com/xiaozhu2007/KKA) - KKA is a *** mod. (1 day ago)
-- [mbcrocci/coderun](https://github.com/mbcrocci/coderun) - A command line tool to run any code file (1 day ago)
 
 #### 📰 Latest posts
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (3 weeks ago)
