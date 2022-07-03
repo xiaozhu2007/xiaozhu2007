@@ -17,6 +17,14 @@ jobs:
           template: "templates/profile.tpl"
           writeTo: "README.md"
       
+      - uses: Platane/snk@v2
+        with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              docs/github-snake.svg
+              docs/github-snake-dark.svg?palette=github-dark
+              docs/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
