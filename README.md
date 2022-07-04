@@ -36,19 +36,19 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (today)
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (today)
+- [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (today)
 - [xiaozhu2007/afk](https://github.com/xiaozhu2007/afk) -  (today)
 - [xiaozhu2007/idea-function](https://github.com/xiaozhu2007/idea-function) - PageFunctionTest (1 day ago)
 - [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (3 days ago)
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (5 days ago)
 - [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (6 days ago)
-- [xiaozhu2007/KeyLogger](https://github.com/xiaozhu2007/KeyLogger) - A simple KeyLogger writtien in PowerShell (1 week ago)
 
 #### 🔭 Latest releases
 
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.0.2](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.2), today) - High-performance website testing tool written in Golang.
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) ([v2.1](https://github.com/xiaozhu2007/GitHosts/releases/tag/v2.1), 1 week ago) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.0.2-alpha-7](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.2-alpha-7), 1 week ago) - High-performance website testing tool written in Golang.
 
 #### ⭐ Recent Stars (Including **private** repo)
 
