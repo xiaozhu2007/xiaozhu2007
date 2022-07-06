@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies (today)
 - [Xechorizo/McFishy](https://github.com/Xechorizo/McFishy) - AFK Fishing in Minecraft 1.16&#43; (2 days ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (3 days ago)
 - [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) - Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs (3 days ago)
 - [macronut/ghostcp](https://github.com/macronut/ghostcp) - GhosTCP is a program for Windows that protects the TCP connections from being interfered. (4 days ago)
-- [PlutoSolutions/Pyro](https://github.com/PlutoSolutions/Pyro) - Pyro Minecraft Anarchy Cheat free ($0.00) edition (mirror: https://crystalpvp.ru/pyro) (4 days ago)
 
 #### 📰 Latest posts
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (3 weeks ago)
