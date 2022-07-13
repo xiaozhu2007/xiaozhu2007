@@ -36,13 +36,13 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (1 day ago)
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (1 week ago)
 - [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (1 week ago)
 - [xiaozhu2007/afk](https://github.com/xiaozhu2007/afk) -  (1 week ago)
 - [xiaozhu2007/idea-function](https://github.com/xiaozhu2007/idea-function) - PageFunctionTest (1 week ago)
 - [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (1 week ago)
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (1 week ago)
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (2 weeks ago)
 - [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (2 weeks ago)
 
 #### 🔭 Latest releases
@@ -52,7 +52,7 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-- [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies (6 days ago)
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies (1 week ago)
 - [Xechorizo/McFishy](https://github.com/Xechorizo/McFishy) - AFK Fishing in Minecraft 1.16&#43; (1 week ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 week ago)
 - [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) - Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs (1 week ago)
