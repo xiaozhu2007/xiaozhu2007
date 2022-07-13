@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [Loving11ish/SpeedLimit](https://github.com/Loving11ish/SpeedLimit) - This plugin allows an admin to limit a players movement speed on join, this also resets there speed everytime they rejoin. (today)
+- [Tajam/jext-spigot-plugin](https://github.com/Tajam/jext-spigot-plugin) - A spigot plugin that allows server to add custom music disc. (today)
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies (1 week ago)
 - [Xechorizo/McFishy](https://github.com/Xechorizo/McFishy) - AFK Fishing in Minecraft 1.16&#43; (1 week ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 week ago)
-- [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) - Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs (1 week ago)
-- [macronut/ghostcp](https://github.com/macronut/ghostcp) - GhosTCP is a program for Windows that protects the TCP connections from being interfered. (1 week ago)
 
 #### 📰 Latest posts
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (1 month ago)
