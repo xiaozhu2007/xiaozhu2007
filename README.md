@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Golang**, **TypeScript**, **C#**
 
-- 📝 I regularly write articles on [https://www.cnblogs.com/xiaozhu2020/](https://www.cnblogs.com/xiaozhu2020/)
+- 📝 I regularly write articles on [cnblogs](https://www.cnblogs.com/xiaozhu2020/) and [my blog](https://xiaozhu2007.netlify.app/)
 
 - 💬 Ask me about **golang, devops**
 
@@ -58,7 +58,7 @@ Length: 200 [text/x-plain]
 - [Xechorizo/McFishy](https://github.com/Xechorizo/McFishy) - AFK Fishing in Minecraft 1.16&#43; (1 week ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 week ago)
 
-#### 📰 Latest posts
+#### 📰 Latest posts (cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (1 month ago)
 - [Termux安装Java并配置Minecraft服务器 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/termux-java-and-minecraft_server.html) (10 months ago)
 - [PHP无文件木马 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/php-nofile_webshell-1.html) (11 months ago)
@@ -67,7 +67,7 @@ Length: 200 [text/x-plain]
 
 
 <details>
-  <summary>点击展开可能影响加载的元素</summary>
+  <summary>Click to expand elements that may affect loading. 点击展开可能影响加载的元素.</summary>
 
 [![甜力怕's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhu2007&repo=hexo&locale=cn&count_private=true)](https://xiaozhu2007.github.io/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhu2007)](https://github.com/xiaozhu2007)
