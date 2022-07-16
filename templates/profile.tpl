@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Golang**, **TypeScript**, **C#**
 
-- 📝 I regularly write articles on [https://www.cnblogs.com/xiaozhu2020/](https://www.cnblogs.com/xiaozhu2020/)
+- 📝 I regularly write articles on [cnblogs](https://www.cnblogs.com/xiaozhu2020/) and [my blog](https://xiaozhu2007.netlify.app/)
 
 - 💬 Ask me about **golang, devops**
 
@@ -49,14 +49,14 @@ Length: 200 [text/x-plain]
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 📰 Latest posts
+#### 📰 Latest posts (cnblogs)
 {{- range rss "https://feed.cnblogs.com/blog/u/609991/rss/" 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
 
 <details>
-  <summary>点击展开可能影响加载的元素</summary>
+  <summary>Click to expand elements that may affect loading. 点击展开可能影响加载的元素.</summary>
 
 [![甜力怕's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhu2007&repo=hexo&locale=cn&count_private=true)](https://xiaozhu2007.github.io/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhu2007)](https://github.com/xiaozhu2007)
