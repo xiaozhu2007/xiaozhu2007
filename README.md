@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [nicooprat/diaporama](https://github.com/nicooprat/diaporama) - Turn Youtube videos into  scrollable caption-based slideshows (today)
+- [netlify/functions.netlify.com](https://github.com/netlify/functions.netlify.com) - Tutorials, examples, workshops and a playground for serverless with Netlify Functions (today)
 - [Loving11ish/SpeedLimit](https://github.com/Loving11ish/SpeedLimit) - This plugin allows an admin to limit a players movement speed on join, this also resets there speed everytime they rejoin. (3 days ago)
 - [Tajam/jext-spigot-plugin](https://github.com/Tajam/jext-spigot-plugin) - A spigot plugin that allows server to add custom music disc. (3 days ago)
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies (1 week ago)
-- [Xechorizo/McFishy](https://github.com/Xechorizo/McFishy) - AFK Fishing in Minecraft 1.16&#43; (1 week ago)
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 week ago)
 
 #### 📰 Latest posts (cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (1 month ago)
