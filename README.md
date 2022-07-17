@@ -38,9 +38,9 @@ Length: 200 [text/x-plain]
 
 - [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (today)
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (2 days ago)
-- [xiaozhu2007/afk](https://github.com/xiaozhu2007/afk) -  (1 week ago)
-- [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (1 week ago)
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (1 week ago)
+- [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (1 week ago)
+- [xiaozhu2007/afk](https://github.com/xiaozhu2007/afk) -  (1 week ago)
 - [xiaozhu2007/idea-function](https://github.com/xiaozhu2007/idea-function) - PageFunctionTest (2 weeks ago)
 - [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (2 weeks ago)
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (2 weeks ago)
@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [DavidWells/netlify-functions-workshop](https://github.com/DavidWells/netlify-functions-workshop) - Netlify Serverless Functions Workshop (today)
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (1 day ago)
 - [nicooprat/diaporama](https://github.com/nicooprat/diaporama) - Turn Youtube videos into  scrollable caption-based slideshows (1 day ago)
 - [netlify/functions.netlify.com](https://github.com/netlify/functions.netlify.com) - Tutorials, examples, workshops and a playground for serverless with Netlify Functions (1 day ago)
 - [Loving11ish/SpeedLimit](https://github.com/Loving11ish/SpeedLimit) - This plugin allows an admin to limit a players movement speed on join, this also resets there speed everytime they rejoin. (4 days ago)
-- [Tajam/jext-spigot-plugin](https://github.com/Tajam/jext-spigot-plugin) - A spigot plugin that allows server to add custom music disc. (4 days ago)
 
 #### 📰 Latest posts (cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (1 month ago)
