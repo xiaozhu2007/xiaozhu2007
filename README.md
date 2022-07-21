@@ -36,14 +36,14 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (today)
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
 - [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (today)
+- [AGDDoS/status](https://github.com/AGDDoS/status) - A simple pure shell to generate the status pages (today)
 - [xiaozhu2021/xiaozhu2021.github.io](https://github.com/xiaozhu2021/xiaozhu2021.github.io) - My new post! (3 days ago)
 - [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (2 weeks ago)
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (2 weeks ago)
 - [xiaozhu2007/afk](https://github.com/xiaozhu2007/afk) -  (2 weeks ago)
-- [xiaozhu2007/idea-function](https://github.com/xiaozhu2007/idea-function) - PageFunctionTest (2 weeks ago)
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (2 weeks ago)
 
 #### 🔭 Latest releases
 
@@ -58,12 +58,19 @@ Length: 200 [text/x-plain]
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (5 days ago)
 - [nicooprat/diaporama](https://github.com/nicooprat/diaporama) - Turn Youtube videos into  scrollable caption-based slideshows (5 days ago)
 
-#### 📰 Latest posts (cnblogs)
+#### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (1 month ago)
 - [Termux安装Java并配置Minecraft服务器 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/termux-java-and-minecraft_server.html) (10 months ago)
 - [PHP无文件木马 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/php-nofile_webshell-1.html) (11 months ago)
 - [编程中Foo，Bar 到底是什么意思 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/what-is-foobar.html) (1 year ago)
 - [如何用Python进行ARP攻击？ - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/python-arp.html) (1 year ago)
+
+#### 📰 Latest posts (Based on netlify)
+- [Sitemap 介绍](https://xiaozhu2007.netlify.app/posts/Sitemap%E4%BB%8B%E7%BB%8D.html) (1 month ago)
+- [记一次对 Minecraft 的崩溃分析](https://xiaozhu2007.netlify.app/posts/Minecraft%E5%B4%A9%E6%BA%83%E6%8A%A5%E5%91%8A.html) (7 months ago)
+- [Termux安装Java并配置Minecraft服务器](https://xiaozhu2007.netlify.app/posts/Termux%E9%85%8D%E7%BD%AEMinecraft%E6%9C%8D%E5%8A%A1%E5%99%A8.html) (10 months ago)
+- [网页「深色模式」的实现指北](https://xiaozhu2007.netlify.app/posts/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%E6%8C%87%E5%8C%97.html) (10 months ago)
+- [用 GitLab CI 进行持续集成](https://xiaozhu2007.netlify.app/posts/%E7%94%A8GitLabCI%E8%BF%9B%E8%A1%8C%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90.html) (10 months ago)
 
 
 <details>
