@@ -49,8 +49,13 @@ Length: 200 [text/x-plain]
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 📰 Latest posts (cnblogs)
+#### 📰 Latest posts (Based on cnblogs)
 {{- range rss "https://feed.cnblogs.com/blog/u/609991/rss/" 5 }}
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+{{- end }}
+
+#### 📰 Latest posts (Based on netlify)
+{{- range rss "https://xiaozhu2007.netlify.app/atom.xml" 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
