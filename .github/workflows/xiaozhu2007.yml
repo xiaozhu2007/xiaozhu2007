@@ -3,7 +3,7 @@ name: Update README
 on:
   push:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */8 * * *"
 
 jobs:
   markscribe:
@@ -22,6 +22,7 @@ jobs:
             github_user_name: ${{ github.repository_owner }}
             outputs: |
               docs/github-snake.svg
+              docs/github-snake.gif
               docs/github-snake-dark.svg?palette=github-dark
               docs/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       
