@@ -36,11 +36,11 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (today)
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (today)
-- [AGDDoS/status](https://github.com/AGDDoS/status) - A simple pure shell to generate the status pages (today)
-- [xiaozhu2021/xiaozhu2021.github.io](https://github.com/xiaozhu2021/xiaozhu2021.github.io) - My new post! (3 days ago)
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (1 day ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (1 day ago)
+- [AGDDoS/status](https://github.com/AGDDoS/status) - A simple pure shell to generate the status pages (1 day ago)
+- [xiaozhu2021/xiaozhu2021.github.io](https://github.com/xiaozhu2021/xiaozhu2021.github.io) - My new post! (4 days ago)
 - [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (2 weeks ago)
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (2 weeks ago)
 - [xiaozhu2007/afk](https://github.com/xiaozhu2007/afk) -  (2 weeks ago)
@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-- [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工 (today)
-- [Hex-Dragon/LTW3](https://github.com/Hex-Dragon/LTW3) - 一个 Minecraft 中的多人小游戏合集地图，龙猫战争 3！ (1 day ago)
-- [netlify-labs/all-the-functions](https://github.com/netlify-labs/all-the-functions) - Large example of function use cases and all event driven Netlify functions (1 day ago)
-- [DavidWells/netlify-functions-workshop](https://github.com/DavidWells/netlify-functions-workshop) - Netlify Serverless Functions Workshop (4 days ago)
-- [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (5 days ago)
+- [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工 (1 day ago)
+- [Hex-Dragon/LTW3](https://github.com/Hex-Dragon/LTW3) - 一个 Minecraft 中的多人小游戏合集地图，龙猫战争 3！ (2 days ago)
+- [netlify-labs/all-the-functions](https://github.com/netlify-labs/all-the-functions) - Large example of function use cases and all event driven Netlify functions (2 days ago)
+- [DavidWells/netlify-functions-workshop](https://github.com/DavidWells/netlify-functions-workshop) - Netlify Serverless Functions Workshop (5 days ago)
+- [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总 (6 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (1 month ago)
