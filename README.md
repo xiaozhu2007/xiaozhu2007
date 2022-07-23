@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-- [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser (today)
-- [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 用规则驱动黑科技 || 一个基于规则的前端路由拦截器 || A simple, globally hijacked, easily customizable, Service Worker-based front-end worker (today)
-- [fslongjin/This-repo-has-1055-stars](https://github.com/fslongjin/This-repo-has-1055-stars) - 这个仓库有1055个star，不信你试试 (today)
-- [alimustafa53tr/3arth4ck-Configs](https://github.com/alimustafa53tr/3arth4ck-Configs) - every single 3arth4ck config i have (today)
-- [ChenYFan/AnyaShield](https://github.com/ChenYFan/AnyaShield) -  一个哇酷哇酷的无服务器徽章生成器 CloudFlareWorker (today)
+- [kidchenko/BotnetWebSocket](https://github.com/kidchenko/BotnetWebSocket) - Botnet (Zombie Networks) with C# and Web Socket (today)
+- [d3p0rt/d3pl0y-IRC-BotNet](https://github.com/d3p0rt/d3pl0y-IRC-BotNet) - A C# irc bot malware POC. (today)
+- [iIIusi0n/WyvernHTTP](https://github.com/iIIusi0n/WyvernHTTP) - HTTP botnet for stress testing (today)
+- [qwqdanchun/DcBot](https://github.com/qwqdanchun/DcBot) - A simple Botnet.   一个简单的僵尸网络Bot。 (today)
+- [AdvancedHacker101/Javascript-Botnet-C-Sharp](https://github.com/AdvancedHacker101/Javascript-Botnet-C-Sharp) - This is a plugin for the c# R.A.T Server providing extension to javascript based browser botnets (today)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (1 month ago)
