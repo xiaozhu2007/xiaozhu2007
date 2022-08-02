@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [ruby3141/AFKFishing](https://github.com/ruby3141/AFKFishing) - AutoHotKey script for Minecraft AFK autofishing (today)
+- [CemraJC/clickfix](https://github.com/CemraJC/clickfix) - Stop annoying repeat clicks - tame your mouse (today)
+- [Anlos0023/webdos-ddoser](https://github.com/Anlos0023/webdos-ddoser) - one of the most powerfull ddos tool...... (today)
 - [AfterShip/SaaS](https://github.com/AfterShip/SaaS) - List of SaaS that we are using (2 days ago)
 - [KSroido/Mozi-Botnet-theWRE](https://github.com/KSroido/Mozi-Botnet-theWRE) - mozi僵尸网络的模仿实现  a simulating implementation of mozi botNet virus (3 days ago)
-- [Flangvik/NetLoader](https://github.com/Flangvik/NetLoader) - Loads any C# binary in mem, patching AMSI &#43; ETW.  (3 days ago)
-- [xdingya/Minecraft-Sever-Pictrue](https://github.com/xdingya/Minecraft-Sever-Pictrue) - Minecraft Sever-Status Pictrue | 我的世界服务器状态贴图生成器 (3 days ago)
-- [mbcrocci/coderun](https://github.com/mbcrocci/coderun) - A command line tool to run any code file (3 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (1 month ago)
