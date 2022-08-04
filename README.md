@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [tr0uble-mAker/POC-bomber](https://github.com/tr0uble-mAker/POC-bomber) - 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点 (today)
 - [ruby3141/AFKFishing](https://github.com/ruby3141/AFKFishing) - AutoHotKey script for Minecraft AFK autofishing (2 days ago)
 - [CemraJC/clickfix](https://github.com/CemraJC/clickfix) - Stop annoying repeat clicks - tame your mouse (2 days ago)
 - [Anlos0023/webdos-ddoser](https://github.com/Anlos0023/webdos-ddoser) - one of the most powerfull ddos tool...... (2 days ago)
 - [AfterShip/SaaS](https://github.com/AfterShip/SaaS) - List of SaaS that we are using (4 days ago)
-- [KSroido/Mozi-Botnet-theWRE](https://github.com/KSroido/Mozi-Botnet-theWRE) - mozi僵尸网络的模仿实现  a simulating implementation of mozi botNet virus (5 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (1 month ago)
