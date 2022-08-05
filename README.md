@@ -37,7 +37,7 @@ Length: 200 [text/x-plain]
 #### 👷 Check out what I'm currently working on
 
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (5 days ago)
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (6 days ago)
 - [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (1 week ago)
 - [xiaozhu2007/CloudFlareWorkers](https://github.com/xiaozhu2007/CloudFlareWorkers) - 我正在使用的CFW脚本 (1 week ago)
 - [xiaozhu2021/xiaozhu2021.github.io](https://github.com/xiaozhu2021/xiaozhu2021.github.io) - My new post! (1 week ago)
@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-- [tr0uble-mAker/POC-bomber](https://github.com/tr0uble-mAker/POC-bomber) - 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点 (today)
-- [ruby3141/AFKFishing](https://github.com/ruby3141/AFKFishing) - AutoHotKey script for Minecraft AFK autofishing (2 days ago)
-- [CemraJC/clickfix](https://github.com/CemraJC/clickfix) - Stop annoying repeat clicks - tame your mouse (2 days ago)
-- [Anlos0023/webdos-ddoser](https://github.com/Anlos0023/webdos-ddoser) - one of the most powerfull ddos tool...... (2 days ago)
-- [AfterShip/SaaS](https://github.com/AfterShip/SaaS) - List of SaaS that we are using (4 days ago)
+- [tr0uble-mAker/POC-bomber](https://github.com/tr0uble-mAker/POC-bomber) - 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点 (1 day ago)
+- [ruby3141/AFKFishing](https://github.com/ruby3141/AFKFishing) - AutoHotKey script for Minecraft AFK autofishing (3 days ago)
+- [CemraJC/clickfix](https://github.com/CemraJC/clickfix) - Stop annoying repeat clicks - tame your mouse (3 days ago)
+- [Anlos0023/webdos-ddoser](https://github.com/Anlos0023/webdos-ddoser) - one of the most powerfull ddos tool...... (3 days ago)
+- [AfterShip/SaaS](https://github.com/AfterShip/SaaS) - List of SaaS that we are using (5 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (1 month ago)
