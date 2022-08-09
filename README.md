@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-- [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API. (2 days ago)
-- [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - Parse and serialize minecraft packets, plus authentication and encryption. (3 days ago)
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. (3 days ago)
-- [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client (3 days ago)
-- [aresrpg/aresrpg](https://github.com/aresrpg/aresrpg) - AresRPG is a Minecraft MMORPG Server (3 days ago)
+- [proteansec/malware-samples](https://github.com/proteansec/malware-samples) -  (today)
+- [Rdimo/Discord-Injection](https://github.com/Rdimo/Discord-Injection) - Discord Injection is a simple .js script that you can use for your own malware to inject into discord which comes with many features! (today)
+- [rpgeeganage/file-less-ransomware-demo](https://github.com/rpgeeganage/file-less-ransomware-demo) - Demonstrate about file-less malware approach using JavaScript (today)
+- [maximilianmarx/c-sharp-collection](https://github.com/maximilianmarx/c-sharp-collection) - Just a small collection of C# programs that I haven&#39;t found a better place for yet. (today)
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (today)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (1 month ago)
