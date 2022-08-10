@@ -37,8 +37,8 @@ Length: 200 [text/x-plain]
 #### 👷 Check out what I'm currently working on
 
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (4 days ago)
-- [xiaozhu2007/Wiki](https://github.com/xiaozhu2007/Wiki) -  (4 days ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (5 days ago)
+- [xiaozhu2007/Wiki](https://github.com/xiaozhu2007/Wiki) -  (5 days ago)
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (1 week ago)
 - [xiaozhu2007/CloudFlareWorkers](https://github.com/xiaozhu2007/CloudFlareWorkers) - 我正在使用的CFW脚本 (2 weeks ago)
 - [xiaozhu2021/xiaozhu2021.github.io](https://github.com/xiaozhu2021/xiaozhu2021.github.io) - My new post! (2 weeks ago)
@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-- [proteansec/malware-samples](https://github.com/proteansec/malware-samples) -  (today)
-- [Rdimo/Discord-Injection](https://github.com/Rdimo/Discord-Injection) - Discord Injection is a simple .js script that you can use for your own malware to inject into discord which comes with many features! (today)
-- [rpgeeganage/file-less-ransomware-demo](https://github.com/rpgeeganage/file-less-ransomware-demo) - Demonstrate about file-less malware approach using JavaScript (today)
-- [maximilianmarx/c-sharp-collection](https://github.com/maximilianmarx/c-sharp-collection) - Just a small collection of C# programs that I haven&#39;t found a better place for yet. (today)
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (today)
+- [Coderx-Gamer/shulker-dupe](https://github.com/Coderx-Gamer/shulker-dupe) - A client-side fabric mod that makes it easier to perform the shulker dupe. (discontinued for the time being as 1.19.1 has patched this, may look for bypasses soon) (today)
+- [Coderx-Gamer/boat-crash](https://github.com/Coderx-Gamer/boat-crash) - Weird exploit that crashes vanilla servers. (today)
+- [proteansec/malware-samples](https://github.com/proteansec/malware-samples) -  (1 day ago)
+- [Rdimo/Discord-Injection](https://github.com/Rdimo/Discord-Injection) - Discord Injection is a simple .js script that you can use for your own malware to inject into discord which comes with many features! (1 day ago)
+- [rpgeeganage/file-less-ransomware-demo](https://github.com/rpgeeganage/file-less-ransomware-demo) - Demonstrate about file-less malware approach using JavaScript (1 day ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (1 month ago)
