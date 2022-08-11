@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit (today)
 - [Coderx-Gamer/shulker-dupe](https://github.com/Coderx-Gamer/shulker-dupe) - A client-side fabric mod that makes it easier to perform the shulker dupe. (discontinued for the time being as 1.19.1 has patched this, may look for bypasses soon) (1 day ago)
 - [Coderx-Gamer/boat-crash](https://github.com/Coderx-Gamer/boat-crash) - Weird exploit that crashes vanilla servers. (1 day ago)
 - [proteansec/malware-samples](https://github.com/proteansec/malware-samples) -  (2 days ago)
 - [Rdimo/Discord-Injection](https://github.com/Rdimo/Discord-Injection) - Discord Injection is a simple .js script that you can use for your own malware to inject into discord which comes with many features! (2 days ago)
-- [rpgeeganage/file-less-ransomware-demo](https://github.com/rpgeeganage/file-less-ransomware-demo) - Demonstrate about file-less malware approach using JavaScript (2 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (2 months ago)
