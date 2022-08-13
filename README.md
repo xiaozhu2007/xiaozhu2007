@@ -36,12 +36,12 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (today)
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (1 day ago)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (1 day ago)
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (1 day ago)
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (2 days ago)
 - [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (1 week ago)
 - [xiaozhu2007/Wiki](https://github.com/xiaozhu2007/Wiki) -  (1 week ago)
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (1 week ago)
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (2 weeks ago)
 - [xiaozhu2007/CloudFlareWorkers](https://github.com/xiaozhu2007/CloudFlareWorkers) - 我正在使用的CFW脚本 (2 weeks ago)
 - [xiaozhu2021/xiaozhu2021.github.io](https://github.com/xiaozhu2021/xiaozhu2021.github.io) - My new post! (2 weeks ago)
 
@@ -52,11 +52,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (today)
-- [josemmo/yamipa](https://github.com/josemmo/yamipa) - Yet Another Minecraft Image Placing Addon (today)
-- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit (1 day ago)
-- [Coderx-Gamer/shulker-dupe](https://github.com/Coderx-Gamer/shulker-dupe) - A client-side fabric mod that makes it easier to perform the shulker dupe. (discontinued for the time being as 1.19.1 has patched this, may look for bypasses soon) (2 days ago)
-- [Coderx-Gamer/boat-crash](https://github.com/Coderx-Gamer/boat-crash) - Weird exploit that crashes vanilla servers. (2 days ago)
+- [kookts/kook.ts](https://github.com/kookts/kook.ts) - KOOK Javascript/Typescript SDK (today)
+- [fi6/kBotify](https://github.com/fi6/kBotify) - 开黑啦TypeScript/JavaScript开发框架，几行代码即可制作机器人。包含全部官方API，添加了多个便利的方法，让开发者用尽可能短的代码完成用户交互功能。 (today)
+- [MeteorDevelopment/meteor-bot](https://github.com/MeteorDevelopment/meteor-bot) - Our discord bot (today)
+- [MeteorDevelopment/starscript](https://github.com/MeteorDevelopment/starscript) - Fast text formatting language for Java. (today)
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (1 day ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (2 months ago)
