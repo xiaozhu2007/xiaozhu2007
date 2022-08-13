@@ -22,14 +22,14 @@ Resolving xiaozhu2007... -1.-1.-1.-1, ::-1
 Connecting to xiaozhu2007|-1.-1.-1.-1|:65536... connected.
 HTTP request sent, awaiting response... 418 I'm a teapot.
 Length: 200 [text/x-plain]
-58%[====================================>                          ] 200          100K/s   in 2s English
-100%[=============================================================>] 81          100K/s   in 0s Chinese
-69%[========================================>                      ] 98          65397M/s   in 1s C++
-16%[=======>                                                       ] 102400       0K/s   in +∞s PHP
-74%[===========================================>                   ] 65535       655K/s   in 101s Liunx
-82%[==============================================>                ] 990900          --.-K/s   in --s Javascript
-?%[???????????????????????????????????????????????????????????????>] ??          ??K/s   in ??s ???
-33:44:55 (2.333333 MB/s) - `README.md' saved [81/81]
+58%[====================================>                          ] 200          100K/s   in 10s English
+99%[============================================================>  ] 81           100K/s   in 5s Chinese
+69%[========================================>                      ] 98           6537M/s  in 1s Golang
+16%[=======>                                                       ] 102400       0K/s     in +∞s Python
+74%[===========================================>                   ] 65535        655K/s   in 18s C#
+82%[==============================================>                ] 990900       --.-K/s  in --s Javascript
+??%[??????????????????????????????????????????????????????????????>] ??          ??K/s    in ??s ???
+22:33:44 (2.33333 MB/s) - `README.md' saved [81/81]
 ```
 
 ## 📈 Overview
@@ -40,7 +40,7 @@ Length: 200 [text/x-plain]
 {{- end}}
 
 #### 🔭 Latest releases
-{{range recentReleases 3 }}
+{{range recentReleases 1 }}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
@@ -94,4 +94,4 @@ Length: 200 [text/x-plain]
 
 </details>
 
-[Blog](https://xiaozhu2007.github.io) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | KOOK | HelloToolsWeb
+[Blog](https://xiaozhu2007.netlify.app/) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [KOOK](https://kook.top/) | [HelloTools Home](https://hellotools.netlify.app/)
