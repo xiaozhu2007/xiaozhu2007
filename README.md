@@ -22,14 +22,14 @@ Resolving xiaozhu2007... -1.-1.-1.-1, ::-1
 Connecting to xiaozhu2007|-1.-1.-1.-1|:65536... connected.
 HTTP request sent, awaiting response... 418 I'm a teapot.
 Length: 200 [text/x-plain]
-58%[====================================>                          ] 200          100K/s   in 2s English
-100%[=============================================================>] 81          100K/s   in 0s Chinese
-69%[========================================>                      ] 98          65397M/s   in 1s C++
-16%[=======>                                                       ] 102400       0K/s   in +∞s PHP
-74%[===========================================>                   ] 65535       655K/s   in 101s Liunx
-82%[==============================================>                ] 990900          --.-K/s   in --s Javascript
-?%[???????????????????????????????????????????????????????????????>] ??          ??K/s   in ??s ???
-33:44:55 (2.333333 MB/s) - `README.md' saved [81/81]
+58%[====================================>                          ] 200          100K/s   in 10s English
+99%[============================================================>  ] 81           100K/s   in 5s Chinese
+69%[========================================>                      ] 98           6537M/s  in 1s Golang
+16%[=======>                                                       ] 102400       0K/s     in +∞s Python
+74%[===========================================>                   ] 65535        655K/s   in 18s C#
+82%[==============================================>                ] 990900       --.-K/s  in --s Javascript
+??%[??????????????????????????????????????????????????????????????>] ??          ??K/s    in ??s ???
+22:33:44 (2.33333 MB/s) - `README.md' saved [81/81]
 ```
 
 ## 📈 Overview
@@ -48,7 +48,6 @@ Length: 200 [text/x-plain]
 #### 🔭 Latest releases
 
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.0.2](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.2), 1 month ago) - High-performance website testing tool written in Golang.
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) ([v2.1](https://github.com/xiaozhu2007/GitHosts/releases/tag/v2.1), 1 month ago) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题
 
 #### ⭐ Recent Stars (Including **private** repo)
 
@@ -107,4 +106,4 @@ Length: 200 [text/x-plain]
 
 </details>
 
-[Blog](https://xiaozhu2007.github.io) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | KOOK | HelloToolsWeb
+[Blog](https://xiaozhu2007.netlify.app/) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [KOOK](https://kook.top/) | [HelloTools Home](https://hellotools.netlify.app/)
