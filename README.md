@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [OpenNBS/OpenNoteBlockStudio](https://github.com/OpenNBS/OpenNoteBlockStudio) - An open-source Minecraft music maker. (today)
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (1 day ago)
 - [kookts/kook.ts](https://github.com/kookts/kook.ts) - KOOK Javascript/Typescript SDK (2 days ago)
 - [fi6/kBotify](https://github.com/fi6/kBotify) - 开黑啦TypeScript/JavaScript开发框架，几行代码即可制作机器人。包含全部官方API，添加了多个便利的方法，让开发者用尽可能短的代码完成用户交互功能。 (2 days ago)
 - [MeteorDevelopment/meteor-bot](https://github.com/MeteorDevelopment/meteor-bot) - Our discord bot (2 days ago)
-- [MeteorDevelopment/starscript](https://github.com/MeteorDevelopment/starscript) - Fast text formatting language for Java. (2 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (2 months ago)
