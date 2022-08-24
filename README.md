@@ -36,7 +36,7 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (1 day ago)
 - [xiaozhu2007/HackPig520.ts](https://github.com/xiaozhu2007/HackPig520.ts) - New bot (1 week ago)
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (1 week ago)
 - [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (1 week ago)
@@ -51,10 +51,10 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (4 days ago)
-- [mchorse/blockbuster](https://github.com/mchorse/blockbuster) - The Machinima Studio mod (4 days ago)
-- [neko-craft/NekoMaid](https://github.com/neko-craft/NekoMaid) - A plugin can use Web to manage your server. (4 days ago)
-- [ExceptedPrism3/Logger](https://github.com/ExceptedPrism3/Logger) - Log all Activities from Players or Server Side! (6 days ago)
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (5 days ago)
+- [mchorse/blockbuster](https://github.com/mchorse/blockbuster) - The Machinima Studio mod (5 days ago)
+- [neko-craft/NekoMaid](https://github.com/neko-craft/NekoMaid) - A plugin can use Web to manage your server. (5 days ago)
+- [ExceptedPrism3/Logger](https://github.com/ExceptedPrism3/Logger) - Log all Activities from Players or Server Side! (1 week ago)
 - [OpenNBS/OpenNoteBlockStudio](https://github.com/OpenNBS/OpenNoteBlockStudio) - An open-source Minecraft music maker. (1 week ago)
 
 #### 📰 Latest posts (Based on cnblogs)
