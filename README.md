@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [Encinet/Aliwaka](https://github.com/Encinet/Aliwaka) - 服务器管理工具 (today)
 - [xiaozhu2007/heroku-catcity](https://github.com/xiaozhu2007/heroku-catcity) -  (6 days ago)
 - [pg0408/lorem-ipsum-demo](https://github.com/pg0408/lorem-ipsum-demo) -  (6 days ago)
 - [reruin/sharelist-heroku](https://github.com/reruin/sharelist-heroku) -  (1 week ago)
 - [reruin/sharelist](https://github.com/reruin/sharelist) - 快速分享 GoogleDrive OneDrive  (1 week ago)
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (1 week ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (2 months ago)
