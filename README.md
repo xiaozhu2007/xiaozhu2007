@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [PotatoCraft-Studio/QuickShop-Reremake](https://github.com/PotatoCraft-Studio/QuickShop-Reremake) - QuickShop-Reremake is a **FREE** shop plugin that allows players to easily sell/buy any items from a chest without any commands. In fact, none of the commands that QuickShop-Reremake provides are ever needed by a player. (today)
 - [Encinet/Aliwaka](https://github.com/Encinet/Aliwaka) - 服务器管理工具 (1 day ago)
 - [xiaozhu2007/heroku-catcity](https://github.com/xiaozhu2007/heroku-catcity) -  (1 week ago)
 - [pg0408/lorem-ipsum-demo](https://github.com/pg0408/lorem-ipsum-demo) -  (1 week ago)
 - [reruin/sharelist-heroku](https://github.com/reruin/sharelist-heroku) -  (1 week ago)
-- [reruin/sharelist](https://github.com/reruin/sharelist) - 快速分享 GoogleDrive OneDrive  (1 week ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (2 months ago)
