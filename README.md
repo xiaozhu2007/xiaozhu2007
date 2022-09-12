@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-- [ascclemens/paste](https://github.com/ascclemens/paste) - A sensible, modern pastebin. (today)
-- [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper. (2 days ago)
-- [PotatoCraft-Studio/QuickShop-Reremake](https://github.com/PotatoCraft-Studio/QuickShop-Reremake) - QuickShop-Reremake is a **FREE** shop plugin that allows players to easily sell/buy any items from a chest without any commands. In fact, none of the commands that QuickShop-Reremake provides are ever needed by a player. (1 week ago)
-- [Encinet/Aliwaka](https://github.com/Encinet/Aliwaka) - 服务器管理工具 (1 week ago)
-- [xiaozhu2007/heroku-catcity](https://github.com/xiaozhu2007/heroku-catcity) -  (2 weeks ago)
+- [Smug246/Luna-Token-Grabber](https://github.com/Smug246/Luna-Token-Grabber) -  discord token grabber made with python (today)
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (today)
+- [Archy-X/AureliumSkills](https://github.com/Archy-X/AureliumSkills) - Advanced Skills, Stats, Abilities, and more (today)
+- [Pr3roxDLC/Catalyst](https://github.com/Pr3roxDLC/Catalyst) - Open Source Catalyst  Client (today)
+- [fawazahmed0/Latest-adb-fastboot-installer-for-windows](https://github.com/fawazahmed0/Latest-adb-fastboot-installer-for-windows) - A Simple Android Driver installer tool for windows (Always installs the latest version). Sponsored by https://sendletter.org, the Cheapest way to Send Letters (today)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (3 months ago)
