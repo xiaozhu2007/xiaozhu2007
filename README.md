@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-- [Smug246/Luna-Token-Grabber](https://github.com/Smug246/Luna-Token-Grabber) -  discord token grabber made with python (2 days ago)
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (2 days ago)
-- [Archy-X/AureliumSkills](https://github.com/Archy-X/AureliumSkills) - Advanced Skills, Stats, Abilities, and more (2 days ago)
-- [Pr3roxDLC/Catalyst](https://github.com/Pr3roxDLC/Catalyst) - Open Source Catalyst  Client (2 days ago)
-- [fawazahmed0/Latest-adb-fastboot-installer-for-windows](https://github.com/fawazahmed0/Latest-adb-fastboot-installer-for-windows) - A Simple Android Driver installer tool for windows (Always installs the latest version). Sponsored by https://sendletter.org, the Cheapest way to Send Letters (2 days ago)
+- [CCob/SweetPotato](https://github.com/CCob/SweetPotato) - Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019 (today)
+- [CCob/BeaconEye](https://github.com/CCob/BeaconEye) - Hunts out CobaltStrike beacons and logs operator command output (today)
+- [CCob/gookies](https://github.com/CCob/gookies) - A Chrome cookie dumping utility (today)
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。 (today)
+- [NightfallGT/Mercurial-Grabber](https://github.com/NightfallGT/Mercurial-Grabber) - Grab Discord tokens, Chrome passwords and cookies, and more (today)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (3 months ago)
