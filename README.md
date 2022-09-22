@@ -36,10 +36,10 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (1 day ago)
 - [xiaozhu2021/xiaozhu2021.github.io](https://github.com/xiaozhu2021/xiaozhu2021.github.io) - My new post! (1 week ago)
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (2 weeks ago)
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (3 weeks ago)
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (3 weeks ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (4 weeks ago)
 - [xiaozhu2007/HackPig520.ts](https://github.com/xiaozhu2007/HackPig520.ts) - New bot (1 month ago)
 - [kookts/kook.ts](https://github.com/kookts/kook.ts) - KOOK Javascript/Typescript SDK (1 month ago)
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (1 month ago)
@@ -47,7 +47,7 @@ Length: 200 [text/x-plain]
 
 #### 🔭 Latest releases
 
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.0.3](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.3), 2 weeks ago) - High-performance website testing tool written in Golang.
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.0.3](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.3), 3 weeks ago) - High-performance website testing tool written in Golang.
 
 #### ⭐ Recent Stars (Including **private** repo)
 
