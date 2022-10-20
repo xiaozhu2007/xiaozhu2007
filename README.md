@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [anaer/Sub](https://github.com/anaer/Sub) - 自用clash订阅链接 (today)
+- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash (today)
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙 (2 days ago)
 - [daycat/freeray](https://github.com/daycat/freeray) - 免费Clash节点，每小时自动更新 (2 days ago)
 - [TMKCodes/godoor](https://github.com/TMKCodes/godoor) - Simple configurable Backdoor with Go.  (3 days ago)
-- [cs8425/go-bot](https://github.com/cs8425/go-bot) - a simple reverse connected bot in golang. (3 days ago)
-- [razc411/GoBD](https://github.com/razc411/GoBD) - A Golang covert backdoor using raw sockets. (3 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (4 months ago)
