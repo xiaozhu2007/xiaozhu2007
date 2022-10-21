@@ -36,14 +36,14 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (1 day ago)
+- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - 存放404专用[滑稽] (today)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
 - [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (3 days ago)
 - [xiaozhu2007/-](https://github.com/xiaozhu2007/-) -  (5 days ago)
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (2 weeks ago)
 - [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (2 weeks ago)
 - [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (2 weeks ago)
 - [xiaozhu2021/xiaozhu2021.github.io](https://github.com/xiaozhu2021/xiaozhu2021.github.io) - My new post! (1 month ago)
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (1 month ago)
 
 #### 🔭 Latest releases
 
@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [dentmaged/Minecraft-Injector](https://github.com/dentmaged/Minecraft-Injector) - A simple library that will inject a .jar into the Minecraft process. (today)
+- [TheQmaks/JavaInjector](https://github.com/TheQmaks/JavaInjector) - Way to inject jar files into java process through a dll. (today)
+- [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas (today)
 - [hariomenkel/CobaltSpam](https://github.com/hariomenkel/CobaltSpam) - Tool based on CobaltStrikeParser from SentinelOne which can be used to spam a CobaltStrike server with fake beacons (today)
 - [anaer/Sub](https://github.com/anaer/Sub) - 自用clash订阅链接 (1 day ago)
-- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash (1 day ago)
-- [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙 (3 days ago)
-- [daycat/freeray](https://github.com/daycat/freeray) - 免费Clash节点，每小时自动更新 (3 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (4 months ago)
@@ -106,4 +106,4 @@ Length: 200 [text/x-plain]
 
 </details>
 
-[Blog](https://xiaozhu2007.netlify.app/) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [KOOK](https://kook.top/BM6xFA) | [HelloTools Home](https://hellotools.netlify.app/)
+[Blog](https://xiaozhu2007.netlify.app/) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [KOOK](https://kook.top/) | [HelloTools Home](https://hellotools.netlify.app/)
