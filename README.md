@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: A GitHub Action to send an email to multiple recipients (today)
 - [he55/DreamScene2](https://github.com/he55/DreamScene2) - 一个小而快并且功能强大的 Windows 动态桌面软件 (today)
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet download/upload manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client. (1 day ago)
 - [MinerTribe/PoetryGame](https://github.com/MinerTribe/PoetryGame) - 文社風雅集，何不行飛花詩詞之雅令？ (1 day ago)
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。 (2 days ago)
-- [TheDudeFromCI/Mineflayer-Youtube-Tutorials](https://github.com/TheDudeFromCI/Mineflayer-Youtube-Tutorials) - A collection of source files for my Mineflayer Youtube tutorial videos. (2 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (4 months ago)
