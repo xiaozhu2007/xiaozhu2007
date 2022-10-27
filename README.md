@@ -36,7 +36,7 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (1 day ago)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
 - [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - 存放404专用[滑稽] (4 days ago)
 - [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (4 days ago)
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (6 days ago)
@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [4drian3d/KickRedirect](https://github.com/4drian3d/KickRedirect) - Redirect your players to a server after a server shutdown (today)
 - [BillyGalbreath/Pl3xMap](https://github.com/BillyGalbreath/Pl3xMap) - Pl3xMap is a minimalistic and lightweight world map viewer for Paper servers using the vanilla Minecraft rendering style (1 day ago)
 - [PurpurMC/PurpurExtras](https://github.com/PurpurMC/PurpurExtras) - Purpur suggestions that should be a plugin. (1 day ago)
 - [iovxw/downloader](https://github.com/iovxw/downloader) - HTTP file downloader (1 day ago)
 - [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: A GitHub Action to send an email to multiple recipients (3 days ago)
-- [he55/DreamScene2](https://github.com/he55/DreamScene2) - 一个小而快并且功能强大的 Windows 动态桌面软件 (3 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (4 months ago)
