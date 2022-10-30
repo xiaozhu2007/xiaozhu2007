@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [crpmax/mc-bots](https://github.com/crpmax/mc-bots) - A simple app used for stress testing Minecraft servers with bots (today)
+- [ddf8196/FakePlayer](https://github.com/ddf8196/FakePlayer) - Minecraft Bedrock Edition 假人客户端 (today)
+- [games647/LambdaAttack](https://github.com/games647/LambdaAttack) - Minecraft bot for servers. Currently supports stress testing.  (today)
 - [willin/js.cool](https://github.com/willin/js.cool) - 为国人开源项目提供免费的子域名（自 2020 年 8 月起），现在支持 Vercel 啦！ (3 days ago)
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (3 days ago)
-- [4drian3d/KickRedirect](https://github.com/4drian3d/KickRedirect) - Redirect your players to a server after a server shutdown (3 days ago)
-- [BillyGalbreath/Pl3xMap](https://github.com/BillyGalbreath/Pl3xMap) - Pl3xMap is a minimalistic and lightweight world map viewer for Paper servers using the vanilla Minecraft rendering style (4 days ago)
-- [PurpurMC/PurpurExtras](https://github.com/PurpurMC/PurpurExtras) - Purpur suggestions that should be a plugin. (4 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (4 months ago)
