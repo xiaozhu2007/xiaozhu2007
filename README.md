@@ -36,12 +36,12 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
 - [xiaozhu2007/cc-website](https://github.com/xiaozhu2007/cc-website) - The website for CatCity(A Minecraft Server) (1 day ago)
 - [xiaozhu2007/HackPig520.ts](https://github.com/xiaozhu2007/HackPig520.ts) - New bot (1 day ago)
 - [xiaozhu2007/FuckWYXBatch](https://github.com/xiaozhu2007/FuckWYXBatch) - WYX是**（仿Creeper23456） (1 day ago)
 - [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (1 day ago)
 - [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (1 day ago)
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (2 days ago)
 - [xiaozhu2007/CloudFlareWorkers](https://github.com/xiaozhu2007/CloudFlareWorkers) - 我正在使用的CFW脚本 (3 days ago)
 - [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (3 days ago)
 
@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [hitop/CFWorkers](https://github.com/hitop/CFWorkers) - 一些适用于 cloudflare workers 的小脚本 (today)
+- [beckzhu/SimpleRemote](https://github.com/beckzhu/SimpleRemote) - Remote Administration Tools (today)
 - [Lingerhk/0net](https://github.com/Lingerhk/0net) - 一个简单的Windows远程控制后门 (today)
 - [S3cur3Th1sSh1t/Sharp-HackBrowserData](https://github.com/S3cur3Th1sSh1t/Sharp-HackBrowserData) - C# binary with embeded golang hack-browser-data (today)
 - [hariomenkel/CobaltSpam](https://github.com/hariomenkel/CobaltSpam) - Tool based on CobaltStrikeParser from SentinelOne which can be used to spam a CobaltStrike server with fake beacons (today)
-- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015  (today)
-- [crpmax/minecraft-bot-flood](https://github.com/crpmax/minecraft-bot-flood) - PHP Minecraft bot flood stress tester (today)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (4 months ago)
