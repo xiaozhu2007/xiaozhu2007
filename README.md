@@ -37,7 +37,7 @@ Length: 200 [text/x-plain]
 #### 👷 Check out what I'm currently working on
 
 - [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (today)
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (1 day ago)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
 - [xiaozhu2007/cc-website](https://github.com/xiaozhu2007/cc-website) - The website for CatCity(A Minecraft Server) (3 days ago)
 - [xiaozhu2007/HackPig520.ts](https://github.com/xiaozhu2007/HackPig520.ts) - New bot (3 days ago)
 - [xiaozhu2007/FuckWYXBatch](https://github.com/xiaozhu2007/FuckWYXBatch) - WYX是**（仿Creeper23456） (3 days ago)
@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [Machou/Cloudflare-Block](https://github.com/Machou/Cloudflare-Block) - Bash script that automatically activates Cloudflare&#39;s &#34;I&#39;m Under Attack!&#34; mode if the server detects an attack. (today)
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Free Image Hosting solution, Flickr/imgur alternative. Using Cloudflare Pages and Telegraph. (1 day ago)
 - [openp2p-cn/openp2p](https://github.com/openp2p-cn/openp2p) - OpenP2P is a lightweight P2P sharing network. Support Cone,Symmetric(NAT1-NAT4),UPNP,IPv6,both UDP&amp;TCP punch. You can build you private sharing network, or uses the public sharing network (1 day ago)
 - [codewithkristian/i18n-example-workers](https://github.com/codewithkristian/i18n-example-workers) -  (1 day ago)
 - [hezhijie0327/CloudflareWorkers](https://github.com/hezhijie0327/CloudflareWorkers) - Toolkits build on Cloudflare Workers (2 days ago)
-- [hitop/CFWorkers](https://github.com/hitop/CFWorkers) - 一些适用于 cloudflare workers 的小脚本 (2 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (4 months ago)
