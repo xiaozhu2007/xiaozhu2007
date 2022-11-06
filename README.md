@@ -36,14 +36,14 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
-- [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (today)
-- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - 存放404专用[滑稽] (today)
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (3 days ago)
-- [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (6 days ago)
-- [xiaozhu2007/FuckWYXBatch](https://github.com/xiaozhu2007/FuckWYXBatch) - WYX是**（仿Creeper23456） (6 days ago)
-- [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (6 days ago)
-- [xiaozhu2007/cc-website](https://github.com/xiaozhu2007/cc-website) - The website for CatCity(A Minecraft Server) (6 days ago)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (1 day ago)
+- [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (1 day ago)
+- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - 存放404专用[滑稽] (1 day ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (4 days ago)
+- [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (1 week ago)
+- [xiaozhu2007/FuckWYXBatch](https://github.com/xiaozhu2007/FuckWYXBatch) - WYX是**（仿Creeper23456） (1 week ago)
+- [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (1 week ago)
+- [xiaozhu2007/cc-website](https://github.com/xiaozhu2007/cc-website) - The website for CatCity(A Minecraft Server) (1 week ago)
 
 #### 🔭 Latest releases
 
@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-- [TheSocietyProject/2b2t-world-downloader-project](https://github.com/TheSocietyProject/2b2t-world-downloader-project) -  (today)
-- [OBKoro1/autoCommit](https://github.com/OBKoro1/autoCommit) - 这是一个可以在任意时间范围自动提交commit的VSCode插件觉得插件不错的话，点击右上角给个Star⭐️呀~ (today)
-- [mengfandh/mengfandh.github.io](https://github.com/mengfandh/mengfandh.github.io) - 萌翻导航防屏蔽网址发布页：萌翻导航、萌翻导航在线、萌翻导航发布页、萌翻导航西瓜导航、萌翻导航网址、萌翻导航官网、萌翻导航网站、萌翻导航入口、萌翻导航谎伴；狼友喜欢的萌翻导航发布页。 (today)
-- [fate0/proxylist](https://github.com/fate0/proxylist) - proxylist, generate by fate0/getproxy project in every 15 minute (today)
-- [Machou/Cloudflare-Block](https://github.com/Machou/Cloudflare-Block) - Bash script that automatically activates Cloudflare&#39;s &#34;I&#39;m Under Attack!&#34; mode if the server detects an attack. (3 days ago)
+- [TheSocietyProject/2b2t-world-downloader-project](https://github.com/TheSocietyProject/2b2t-world-downloader-project) -  (1 day ago)
+- [OBKoro1/autoCommit](https://github.com/OBKoro1/autoCommit) - 这是一个可以在任意时间范围自动提交commit的VSCode插件觉得插件不错的话，点击右上角给个Star⭐️呀~ (1 day ago)
+- [mengfandh/mengfandh.github.io](https://github.com/mengfandh/mengfandh.github.io) - 萌翻导航防屏蔽网址发布页：萌翻导航、萌翻导航在线、萌翻导航发布页、萌翻导航西瓜导航、萌翻导航网址、萌翻导航官网、萌翻导航网站、萌翻导航入口、萌翻导航谎伴；狼友喜欢的萌翻导航发布页。 (1 day ago)
+- [fate0/proxylist](https://github.com/fate0/proxylist) - proxylist, generate by fate0/getproxy project in every 15 minute (1 day ago)
+- [Machou/Cloudflare-Block](https://github.com/Machou/Cloudflare-Block) - Bash script that automatically activates Cloudflare&#39;s &#34;I&#39;m Under Attack!&#34; mode if the server detects an attack. (4 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (4 months ago)
