@@ -37,25 +37,25 @@ Length: 200 [text/x-plain]
 #### 👷 Check out what I'm currently working on
 
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (today)
 - [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (2 weeks ago)
 - [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - 存放404专用[滑稽] (2 weeks ago)
 - [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (2 weeks ago)
-- [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (2 weeks ago)
-- [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (2 weeks ago)
-- [xiaozhu2007/cc-website](https://github.com/xiaozhu2007/cc-website) - The website for CatCity(A Minecraft Server) (2 weeks ago)
 - [xiaozhu2007/HackPig520.ts](https://github.com/xiaozhu2007/HackPig520.ts) - New bot (2 weeks ago)
+- [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (2 weeks ago)
+- [xiaozhu2007/cc-website](https://github.com/xiaozhu2007/cc-website) - The website for CatCity(A Minecraft Server) (2 weeks ago)
 
 #### 🔭 Latest releases
 
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.0.3](https://github.com/AGDDoS/AGDDoS/releases/tag/1.0.3), 2 months ago) - High-performance website testing tool written in Golang.
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.1.0](https://github.com/AGDDoS/AGDDoS/releases/tag/1.1.0), today) - High-performance website testing tool written in Golang.
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable (today)
 - [TideSec/BypassAntiVirus](https://github.com/TideSec/BypassAntiVirus) - 远控免杀系列文章及配套工具，汇总测试了互联网上的几十种免杀工具、113种白名单免杀方式、8种代码编译免杀、若干免杀实战技术，并对免杀效果进行了一一测试，为远控的免杀和杀软对抗免杀提供参考。 (4 days ago)
 - [bilibili/DanmakuFlameMaster](https://github.com/bilibili/DanmakuFlameMaster) - Android开源弹幕引擎·烈焰弹幕使 ～ (6 days ago)
 - [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player (6 days ago)
 - [f1tz/cnseay](https://github.com/f1tz/cnseay) - Seay源代码审计系统 (1 week ago)
-- [veo/vshell](https://github.com/veo/vshell) - vshell 是一款go编写的主机管理工具 vshell is a Remote Administation tool written in Go (RAT) (1 week ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (5 months ago)
