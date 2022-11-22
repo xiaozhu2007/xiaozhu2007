@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [ducc/GoMusicBot](https://github.com/ducc/GoMusicBot) - Go music bot (today)
+- [AV1080p/Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) - Golang安全资源合集 (today)
+- [navaneethkm004/mc-server-hosting-24x7](https://github.com/navaneethkm004/mc-server-hosting-24x7) - Host Minecraft server on repl.it, glitch, heroku, etc... for free 24/7! (today)
 - [xiaoxinpro/ViewLocalWiFiKey](https://github.com/xiaoxinpro/ViewLocalWiFiKey) - 基于C#查看本地WiFi密码的工具 (2 days ago)
 - [ForgQi/biliup-rs](https://github.com/ForgQi/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流&#43;大幅提速。 (2 days ago)
-- [AsaChiri/DDRecorder](https://github.com/AsaChiri/DDRecorder) - 📺Headless全自动B站直播录播、切片、上传一体工具 (2 days ago)
-- [metowolf/BilibiliHelper](https://github.com/metowolf/BilibiliHelper) - :taco: B 站自动领瓜子、直播挂机脚本，!!! 非 B 站后台源码 !!! (2 days ago)
-- [wyt1215819315/autoplan](https://github.com/wyt1215819315/autoplan) - 这是一个自动化的托管系统，目前支持网易云，bilibili，米游社原神签到，测试地址https://auto.oldwu.top (2 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (5 months ago)
