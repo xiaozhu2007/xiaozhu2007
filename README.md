@@ -36,7 +36,7 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - 存放404专用[滑稽] (1 day ago)
+- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - 存放404专用[滑稽] (today)
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (2 days ago)
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (3 days ago)
 - [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (2 weeks ago)
@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [Bendr0id/xmrigCC](https://github.com/Bendr0id/xmrigCC) - RandomX, CryptoNight, Argon2 and GhostRider CPU/GPU miner with Command&amp;Control (CC) Server and Monitoring (today)
 - [ducc/GoMusicBot](https://github.com/ducc/GoMusicBot) - Go music bot (1 day ago)
 - [AV1080p/Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) - Golang安全资源合集 (1 day ago)
 - [navaneethkm004/mc-server-hosting-24x7](https://github.com/navaneethkm004/mc-server-hosting-24x7) - Host Minecraft server on repl.it, glitch, heroku, etc... for free 24/7! (1 day ago)
 - [xiaoxinpro/ViewLocalWiFiKey](https://github.com/xiaoxinpro/ViewLocalWiFiKey) - 基于C#查看本地WiFi密码的工具 (3 days ago)
-- [ForgQi/biliup-rs](https://github.com/ForgQi/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流&#43;大幅提速。 (3 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (5 months ago)
