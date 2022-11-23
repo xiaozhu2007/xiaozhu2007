@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [ludufre/xmworkers](https://github.com/ludufre/xmworkers) - XMRig Dashboard (today)
 - [Bendr0id/xmrigCC](https://github.com/Bendr0id/xmrigCC) - RandomX, CryptoNight, Argon2 and GhostRider CPU/GPU miner with Command&amp;Control (CC) Server and Monitoring (today)
 - [ducc/GoMusicBot](https://github.com/ducc/GoMusicBot) - Go music bot (1 day ago)
 - [AV1080p/Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) - Golang安全资源合集 (1 day ago)
 - [navaneethkm004/mc-server-hosting-24x7](https://github.com/navaneethkm004/mc-server-hosting-24x7) - Host Minecraft server on repl.it, glitch, heroku, etc... for free 24/7! (1 day ago)
-- [xiaoxinpro/ViewLocalWiFiKey](https://github.com/xiaoxinpro/ViewLocalWiFiKey) - 基于C#查看本地WiFi密码的工具 (3 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (5 months ago)
