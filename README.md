@@ -43,7 +43,7 @@ Length: 200 [text/x-plain]
 - [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (2 weeks ago)
 - [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (3 weeks ago)
 - [xiaozhu2007/HackPig520.ts](https://github.com/xiaozhu2007/HackPig520.ts) - New bot (3 weeks ago)
-- [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (3 weeks ago)
+- [xiaozhu2007/cc-website](https://github.com/xiaozhu2007/cc-website) - The website for CatCity(A Minecraft Server) (3 weeks ago)
 
 #### 🔭 Latest releases
 
