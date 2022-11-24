@@ -36,26 +36,26 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - 存放404专用[滑稽] (today)
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (2 days ago)
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (3 days ago)
+- [1zyao/RETE](https://github.com/1zyao/RETE) - RETE服务器官网 (today)
+- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - 存放404专用[滑稽] (1 day ago)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (3 days ago)
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (4 days ago)
 - [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (2 weeks ago)
 - [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (3 weeks ago)
 - [xiaozhu2007/HackPig520.ts](https://github.com/xiaozhu2007/HackPig520.ts) - New bot (3 weeks ago)
-- [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (3 weeks ago)
-- [xiaozhu2007/cc-website](https://github.com/xiaozhu2007/cc-website) - The website for CatCity(A Minecraft Server) (3 weeks ago)
+- [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (3 weeks ago)
 
 #### 🔭 Latest releases
 
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.1.1](https://github.com/AGDDoS/AGDDoS/releases/tag/1.1.1), 3 days ago) - High-performance website testing tool written in Golang.
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.1.1](https://github.com/AGDDoS/AGDDoS/releases/tag/1.1.1), 4 days ago) - High-performance website testing tool written in Golang.
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-- [ludufre/xmworkers](https://github.com/ludufre/xmworkers) - XMRig Dashboard (today)
-- [Bendr0id/xmrigCC](https://github.com/Bendr0id/xmrigCC) - RandomX, CryptoNight, Argon2 and GhostRider CPU/GPU miner with Command&amp;Control (CC) Server and Monitoring (today)
-- [ducc/GoMusicBot](https://github.com/ducc/GoMusicBot) - Go music bot (1 day ago)
-- [AV1080p/Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) - Golang安全资源合集 (1 day ago)
-- [navaneethkm004/mc-server-hosting-24x7](https://github.com/navaneethkm004/mc-server-hosting-24x7) - Host Minecraft server on repl.it, glitch, heroku, etc... for free 24/7! (1 day ago)
+- [1zyao/RETE](https://github.com/1zyao/RETE) - RETE服务器官网 (today)
+- [ludufre/xmworkers](https://github.com/ludufre/xmworkers) - XMRig Dashboard (1 day ago)
+- [Bendr0id/xmrigCC](https://github.com/Bendr0id/xmrigCC) - RandomX, CryptoNight, Argon2 and GhostRider CPU/GPU miner with Command&amp;Control (CC) Server and Monitoring (1 day ago)
+- [ducc/GoMusicBot](https://github.com/ducc/GoMusicBot) - Go music bot (2 days ago)
+- [AV1080p/Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) - Golang安全资源合集 (2 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (5 months ago)
