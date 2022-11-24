@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go (today)
+- [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。 (today)
 - [1zyao/RETE](https://github.com/1zyao/RETE) - RETE服务器官网 (today)
 - [ludufre/xmworkers](https://github.com/ludufre/xmworkers) - XMRig Dashboard (1 day ago)
 - [Bendr0id/xmrigCC](https://github.com/Bendr0id/xmrigCC) - RandomX, CryptoNight, Argon2 and GhostRider CPU/GPU miner with Command&amp;Control (CC) Server and Monitoring (1 day ago)
-- [ducc/GoMusicBot](https://github.com/ducc/GoMusicBot) - Go music bot (2 days ago)
-- [AV1080p/Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) - Golang安全资源合集 (2 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (5 months ago)
