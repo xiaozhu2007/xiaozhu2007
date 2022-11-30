@@ -36,8 +36,8 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (today)
 - [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) - Pig2333 Docs: Personal document built with Vitepress. (today)
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (1 day ago)
 - [1zyao/RETE](https://github.com/1zyao/RETE) - RETE服务器官网 (3 days ago)
 - [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - 存放404专用[滑稽] (1 week ago)
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (1 week ago)
@@ -65,11 +65,11 @@ Length: 200 [text/x-plain]
 - [如何用Python进行ARP攻击？ - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/python-arp.html) (2 years ago)
 
 #### 📰 Latest posts (Based on netlify)
+- [江泽民同志逝世,享年96岁](https://xiaozhu2007.netlify.app/posts/%E8%87%B4%E6%95%AC%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97.html) (today)
 - [无需信用卡，白嫖谷歌云创建 RDP 远程桌面！](https://xiaozhu2007.netlify.app/posts/%E7%99%BD%E5%AB%96GCS.html) (1 day ago)
 - [2022年如何申请EU.ORG免费二级域名](https://xiaozhu2007.netlify.app/posts/%E7%94%B3%E8%AF%B7%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8Deu-org.html) (1 month ago)
 - [什么是UUID？有什么用处？](https://xiaozhu2007.netlify.app/posts/UUID.html) (2 months ago)
-- [什么是域名停靠？](https://xiaozhu2007.netlify.app/posts/about-parking.html) (3 months ago)
-- [Sitemap 介绍](https://xiaozhu2007.netlify.app/posts/Sitemap%E4%BB%8B%E7%BB%8D.html) (6 months ago)
+- [什么是域名停靠？](https://xiaozhu2007.netlify.app/posts/domain-parking.html) (3 months ago)
 
 
 <details>
