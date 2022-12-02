@@ -36,12 +36,12 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) - Pig2333 Docs: Personal document built with Vitepress. (today)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (today)
 - [1zyao/RETEBeta](https://github.com/1zyao/RETEBeta) - RETE服务器官网 (today)
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (2 days ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (today)
+- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) - Pig2333 Docs: Personal document built with Vitepress. (today)
 - [1zyao/RETE](https://github.com/1zyao/RETE) - RETE服务器官网 (5 days ago)
 - [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - 存放404专用[滑稽] (1 week ago)
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (1 week ago)
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (1 week ago)
 - [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (3 weeks ago)
 
@@ -65,11 +65,11 @@ Length: 200 [text/x-plain]
 - [如何用Python进行ARP攻击？ - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/python-arp.html) (2 years ago)
 
 #### 📰 Latest posts (Based on netlify)
-- [江泽民同志逝世,享年96岁](https://xiaozhu2007.netlify.app/posts/%E8%87%B4%E6%95%AC%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97.html) (2 days ago)
+- [谷歌游戏纪念黑人视频游戏先驱杰里·劳森生日](https://xiaozhu2007.netlify.app/posts/%E8%B0%B7%E6%AD%8C%E6%B8%B8%E6%88%8F%E7%BA%AA%E5%BF%B5%E6%9D%B0%E9%87%8C%E5%8A%B3%E6%A3%AE%E7%94%9F%E6%97%A5.html) (today)
+- [我终于拥有了一个属于自己的新域名！](https://xiaozhu2007.netlify.app/posts/new-domain.html) (1 day ago)
 - [无需信用卡，白嫖谷歌云创建 RDP 远程桌面！](https://xiaozhu2007.netlify.app/posts/%E7%99%BD%E5%AB%96GCS.html) (3 days ago)
 - [2022年如何申请EU.ORG免费二级域名](https://xiaozhu2007.netlify.app/posts/%E7%94%B3%E8%AF%B7%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8Deu-org.html) (1 month ago)
 - [什么是UUID？有什么用处？](https://xiaozhu2007.netlify.app/posts/UUID.html) (2 months ago)
-- [什么是域名停靠？](https://xiaozhu2007.netlify.app/posts/domain-parking.html) (3 months ago)
 
 
 <details>
