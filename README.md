@@ -36,14 +36,14 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) - Pig2333 Docs: Personal document built with Vitepress. (1 day ago)
+- [HelloTools-Studio/blog](https://github.com/HelloTools-Studio/blog) -  (today)
+- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) - Pig2333 Docs: Personal document built with Vitepress. (today)
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (2 days ago)
-- [1zyao/RETEBeta](https://github.com/1zyao/RETEBeta) - RETE服务器官网 (2 days ago)
 - [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (2 days ago)
+- [1zyao/RETEBeta](https://github.com/1zyao/RETEBeta) - RETE服务器官网 (2 days ago)
 - [1zyao/RETE](https://github.com/1zyao/RETE) - RETE服务器官网 (1 week ago)
 - [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - 存放404专用[滑稽] (1 week ago)
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (2 weeks ago)
-- [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (4 weeks ago)
 
 #### 🔭 Latest releases
 
@@ -51,11 +51,11 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
+- [ShenQingchuan/meditate](https://github.com/ShenQingchuan/meditate) - Aim to be a powerful slack-off CLI application. (today)
 - [antfu/sponsorkit](https://github.com/antfu/sponsorkit) - 💖 Toolkit for generating sponsors images 😄 (1 day ago)
 - [vuejs/blog](https://github.com/vuejs/blog) - 📝 The official Vue.js blog (1 day ago)
 - [ShenQingchuan/github-contributor-svg-generator](https://github.com/ShenQingchuan/github-contributor-svg-generator) - Generate all contributors by counting PRs and commits. (3 days ago)
 - [jessesilva/Simple-C-HTTP-Botnet](https://github.com/jessesilva/Simple-C-HTTP-Botnet) - Bot simples para manter acesso em máquinas Windows. (4 days ago)
-- [ardvarknet/JS-BotNet](https://github.com/ardvarknet/JS-BotNet) - A Simple JS and PHP Botnet (4 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (5 months ago)
