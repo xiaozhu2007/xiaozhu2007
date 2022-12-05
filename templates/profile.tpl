@@ -6,11 +6,11 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Golang**, **TypeScript**, **C#**
+- 🌱 I’m currently learning **Golang**, **JavaScript**
 
-- 📝 I regularly write articles on [cnblogs](https://www.cnblogs.com/xiaozhu2020/) and [my blog](https://xiaozhu2007.netlify.app/)
+- 📝 I regularly write articles on [cnblogs](https://www.cnblogs.com/xiaozhu2020/) and [my own blog](https://xiaozhu2007.netlify.app/)
 
-- 💬 Ask me about **golang, devops**
+- 💬 Ask me about **devops**
 
 ## 📄 Profile
 
@@ -22,11 +22,11 @@ Resolving xiaozhu2007... -1.-1.-1.-1, ::-1
 Connecting to xiaozhu2007|-1.-1.-1.-1|:65536... connected.
 HTTP request sent, awaiting response... 418 I'm a teapot.
 Length: 200 [text/x-plain]
-58%[====================================>                          ] 200          100K/s   in 10s English
-99%[============================================================>  ] 81           100K/s   in 5s Chinese
-69%[========================================>                      ] 98           6537M/s  in 1s Golang
+58%[====================================>                          ] 200          100K/s   in 50s English
+99%[============================================================>  ] 81           100K/s   in 8s Chinese
+69%[========================================>                      ] 98           6537M/s  in 60s Golang
 16%[=======>                                                       ] 102400       0K/s     in +∞s Python
-74%[===========================================>                   ] 65535        655K/s   in 18s C#
+74%[===========================================>                   ] 65535        655K/s   in 38s C#
 82%[==============================================>                ] 990900       --.-K/s  in --s Javascript
 ??%[??????????????????????????????????????????????????????????????>] ???          ??K/s    in ??s ???
 22:33:44 (2.33333 MB/s) - `README.md' saved [81/81]
@@ -50,12 +50,17 @@ Length: 200 [text/x-plain]
 {{- end}}
 
 #### 📰 Latest posts (Based on cnblogs)
-{{- range rss "https://feed.cnblogs.com/blog/u/609991/rss/" 5 }}
+{{- range rss "https://feed.cnblogs.com/blog/u/609991/rss/" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
 #### 📰 Latest posts (Based on netlify)
-{{- range rss "https://xiaozhu2007.netlify.app/atom.xml" 5 }}
+{{- range rss "https://xiaozhu2007.netlify.app/atom.xml" 8 }}
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+{{- end }}
+
+#### 📰 Latest team blog posts
+{{- range rss "https://blog.yeeee.ml/feed.rss" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
