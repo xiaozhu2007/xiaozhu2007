@@ -6,11 +6,11 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Golang**, **TypeScript**, **C#**
+- 🌱 I’m currently learning **Golang**, **JavaScript**
 
-- 📝 I regularly write articles on [cnblogs](https://www.cnblogs.com/xiaozhu2020/) and [my blog](https://xiaozhu2007.netlify.app/)
+- 📝 I regularly write articles on [cnblogs](https://www.cnblogs.com/xiaozhu2020/) and [my own blog](https://xiaozhu2007.netlify.app/)
 
-- 💬 Ask me about **golang, devops**
+- 💬 Ask me about **devops**
 
 ## 📄 Profile
 
@@ -22,11 +22,11 @@ Resolving xiaozhu2007... -1.-1.-1.-1, ::-1
 Connecting to xiaozhu2007|-1.-1.-1.-1|:65536... connected.
 HTTP request sent, awaiting response... 418 I'm a teapot.
 Length: 200 [text/x-plain]
-58%[====================================>                          ] 200          100K/s   in 10s English
-99%[============================================================>  ] 81           100K/s   in 5s Chinese
-69%[========================================>                      ] 98           6537M/s  in 1s Golang
+58%[====================================>                          ] 200          100K/s   in 50s English
+99%[============================================================>  ] 81           100K/s   in 8s Chinese
+69%[========================================>                      ] 98           6537M/s  in 60s Golang
 16%[=======>                                                       ] 102400       0K/s     in +∞s Python
-74%[===========================================>                   ] 65535        655K/s   in 18s C#
+74%[===========================================>                   ] 65535        655K/s   in 38s C#
 82%[==============================================>                ] 990900       --.-K/s  in --s Javascript
 ??%[??????????????????????????????????????????????????????????????>] ???          ??K/s    in ??s ???
 22:33:44 (2.33333 MB/s) - `README.md' saved [81/81]
@@ -36,11 +36,11 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [HelloTools-Studio/blog](https://github.com/HelloTools-Studio/blog) -  (today)
-- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) - Pig2333 Docs: Personal document built with Vitepress. (today)
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (2 days ago)
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (2 days ago)
-- [1zyao/RETEBeta](https://github.com/1zyao/RETEBeta) - RETE服务器官网 (2 days ago)
+- [HelloTools-Studio/blog](https://github.com/HelloTools-Studio/blog) -  (1 day ago)
+- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (1 day ago)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (3 days ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (3 days ago)
+- [1zyao/RETEBeta](https://github.com/1zyao/RETEBeta) - RETE服务器官网 (3 days ago)
 - [1zyao/RETE](https://github.com/1zyao/RETE) - RETE服务器官网 (1 week ago)
 - [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - 存放404专用[滑稽] (1 week ago)
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (2 weeks ago)
@@ -51,25 +51,29 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-- [ShenQingchuan/meditate](https://github.com/ShenQingchuan/meditate) - Aim to be a powerful slack-off CLI application. (today)
-- [antfu/sponsorkit](https://github.com/antfu/sponsorkit) - 💖 Toolkit for generating sponsors images 😄 (1 day ago)
-- [vuejs/blog](https://github.com/vuejs/blog) - 📝 The official Vue.js blog (1 day ago)
-- [ShenQingchuan/github-contributor-svg-generator](https://github.com/ShenQingchuan/github-contributor-svg-generator) - Generate all contributors by counting PRs and commits. (3 days ago)
-- [jessesilva/Simple-C-HTTP-Botnet](https://github.com/jessesilva/Simple-C-HTTP-Botnet) - Bot simples para manter acesso em máquinas Windows. (4 days ago)
+- [ShenQingchuan/meditate](https://github.com/ShenQingchuan/meditate) - Aim to be a powerful slack-off CLI application. (1 day ago)
+- [antfu/sponsorkit](https://github.com/antfu/sponsorkit) - 💖 Toolkit for generating sponsors images 😄 (2 days ago)
+- [vuejs/blog](https://github.com/vuejs/blog) - 📝 The official Vue.js blog (2 days ago)
+- [ShenQingchuan/github-contributor-svg-generator](https://github.com/ShenQingchuan/github-contributor-svg-generator) - Generate all contributors by counting PRs and commits. (4 days ago)
+- [jessesilva/Simple-C-HTTP-Botnet](https://github.com/jessesilva/Simple-C-HTTP-Botnet) - Bot simples para manter acesso em máquinas Windows. (5 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 - [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (5 months ago)
 - [Termux安装Java并配置Minecraft服务器 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/termux-java-and-minecraft_server.html) (1 year ago)
 - [PHP无文件木马 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/php-nofile_webshell-1.html) (1 year ago)
-- [编程中Foo，Bar 到底是什么意思 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/what-is-foobar.html) (1 year ago)
-- [如何用Python进行ARP攻击？ - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/python-arp.html) (2 years ago)
 
 #### 📰 Latest posts (Based on netlify)
-- [谷歌游戏纪念黑人视频游戏先驱杰里·劳森生日](https://xiaozhu2007.netlify.app/posts/%E8%B0%B7%E6%AD%8C%E6%B8%B8%E6%88%8F%E7%BA%AA%E5%BF%B5%E6%9D%B0%E9%87%8C%E5%8A%B3%E6%A3%AE%E7%94%9F%E6%97%A5.html) (2 days ago)
-- [我终于拥有了一个属于自己的新域名！](https://xiaozhu2007.netlify.app/posts/new-domain.html) (3 days ago)
-- [无需信用卡，白嫖谷歌云创建 RDP 远程桌面！](https://xiaozhu2007.netlify.app/posts/%E7%99%BD%E5%AB%96GCS.html) (5 days ago)
+- [谷歌游戏纪念黑人视频游戏先驱杰里·劳森生日](https://xiaozhu2007.netlify.app/posts/%E8%B0%B7%E6%AD%8C%E6%B8%B8%E6%88%8F%E7%BA%AA%E5%BF%B5%E6%9D%B0%E9%87%8C%E5%8A%B3%E6%A3%AE%E7%94%9F%E6%97%A5.html) (3 days ago)
+- [我终于拥有了一个属于自己的新域名！](https://xiaozhu2007.netlify.app/posts/new-domain.html) (4 days ago)
+- [无需信用卡，白嫖谷歌云创建 RDP 远程桌面！](https://xiaozhu2007.netlify.app/posts/%E7%99%BD%E5%AB%96GCS.html) (6 days ago)
 - [2022年如何申请EU.ORG免费二级域名](https://xiaozhu2007.netlify.app/posts/%E7%94%B3%E8%AF%B7%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8Deu-org.html) (1 month ago)
 - [什么是UUID？有什么用处？](https://xiaozhu2007.netlify.app/posts/UUID.html) (2 months ago)
+- [什么是域名停靠？](https://xiaozhu2007.netlify.app/posts/domain-parking.html) (3 months ago)
+- [Sitemap 介绍](https://xiaozhu2007.netlify.app/posts/Sitemap%E4%BB%8B%E7%BB%8D.html) (6 months ago)
+- [记一次对 Minecraft 的崩溃分析](https://xiaozhu2007.netlify.app/posts/Minecraft%E5%B4%A9%E6%BA%83%E6%8A%A5%E5%91%8A.html) (1 year ago)
+
+#### 📰 Latest team blog posts
+- [团队博客正式上线啦~](https://blog.yeeee.ml/posts/hello-2021.html) (1 day ago)
 
 
 <details>
@@ -106,4 +110,4 @@ Length: 200 [text/x-plain]
 
 </details>
 
-[Blog](https://xiaozhu2007.netlify.app/) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [KOOK](https://kook.top/) | [HelloTools Home](https://hellotools.netlify.app/)
+[Blog](https://xiaozhu2007.netlify.app/) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [KOOK](https://kook.top/) | [HelloTools Cloud](https://yeeee.ml/)
