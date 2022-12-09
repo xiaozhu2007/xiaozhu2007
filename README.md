@@ -36,11 +36,11 @@ Length: 200 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (1 day ago)
-- [HelloTools-Studio/blog](https://github.com/HelloTools-Studio/blog) -  (2 days ago)
-- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (4 days ago)
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (6 days ago)
-- [1zyao/RETEBeta](https://github.com/1zyao/RETEBeta) - RETE服务器官网 (6 days ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo. 唉~又回到了原点 (2 days ago)
+- [HelloTools-Studio/blog](https://github.com/HelloTools-Studio/blog) -  (3 days ago)
+- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (5 days ago)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (1 week ago)
+- [1zyao/RETEBeta](https://github.com/1zyao/RETEBeta) - RETE服务器官网 (1 week ago)
 - [1zyao/RETE](https://github.com/1zyao/RETE) - RETE服务器官网 (1 week ago)
 - [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - 存放404专用[滑稽] (2 weeks ago)
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (2 weeks ago)
@@ -51,19 +51,19 @@ Length: 200 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-- [antfu/v-dollar](https://github.com/antfu/v-dollar) - jQuery-like Vue Reactivity API (2 days ago)
-- [developeranaz/cloudshell-novnc-automation](https://github.com/developeranaz/cloudshell-novnc-automation) - Google Cloudshell Free VPS with novnc and Ngrok - AUTOMATION (3 days ago)
-- [kmille36/Windows-11-VPS](https://github.com/kmille36/Windows-11-VPS) - 😎😘 Free Windows 11 VPS for 2 Hours ! Easy Method! (3 days ago)
-- [ShenQingchuan/meditate](https://github.com/ShenQingchuan/meditate) - Aim to be a powerful slack-off CLI application. (4 days ago)
-- [antfu/sponsorkit](https://github.com/antfu/sponsorkit) - 💖 Toolkit for generating sponsors images 😄 (5 days ago)
+- [PencilNavigator/Freenom-Workers](https://github.com/PencilNavigator/Freenom-Workers) - 通过Cloudflare Workers自动续期Freenom域名(.cf .ga .gq .ml .tk)。Renew your Freenom domain (.cf .ga .gq .ml .tk) automaticly with Cloudflare Workers. (1 day ago)
+- [antfu/v-dollar](https://github.com/antfu/v-dollar) - jQuery-like Vue Reactivity API (3 days ago)
+- [developeranaz/cloudshell-novnc-automation](https://github.com/developeranaz/cloudshell-novnc-automation) - Google Cloudshell Free VPS with novnc and Ngrok - AUTOMATION (4 days ago)
+- [kmille36/Windows-11-VPS](https://github.com/kmille36/Windows-11-VPS) - 😎😘 Free Windows 11 VPS for 2 Hours ! Easy Method! (4 days ago)
+- [ShenQingchuan/meditate](https://github.com/ShenQingchuan/meditate) - Aim to be a powerful slack-off CLI application. (5 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
-- [【最新】最全的Google镜像站地址 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/google-mirror.html) (3 days ago)
-- [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (5 months ago)
+- [【最新】最全的Google镜像站地址 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/google-mirror.html) (4 days ago)
+- [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (6 months ago)
 - [Termux安装Java并配置Minecraft服务器 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/termux-java-and-minecraft_server.html) (1 year ago)
 
 #### 📰 Latest posts (Based on netlify)
-- [谷歌游戏纪念黑人视频游戏先驱杰里·劳森生日](https://xiaozhu2007.netlify.app/posts/%E8%B0%B7%E6%AD%8C%E6%B8%B8%E6%88%8F%E7%BA%AA%E5%BF%B5%E6%9D%B0%E9%87%8C%E5%8A%B3%E6%A3%AE%E7%94%9F%E6%97%A5.html) (6 days ago)
+- [谷歌游戏纪念黑人视频游戏先驱杰里·劳森生日](https://xiaozhu2007.netlify.app/posts/%E8%B0%B7%E6%AD%8C%E6%B8%B8%E6%88%8F%E7%BA%AA%E5%BF%B5%E6%9D%B0%E9%87%8C%E5%8A%B3%E6%A3%AE%E7%94%9F%E6%97%A5.html) (1 week ago)
 - [我终于拥有了一个属于自己的新域名！](https://xiaozhu2007.netlify.app/posts/new-domain.html) (1 week ago)
 - [无需信用卡，白嫖谷歌云创建 RDP 远程桌面！](https://xiaozhu2007.netlify.app/posts/%E7%99%BD%E5%AB%96GCS.html) (1 week ago)
 - [2022年如何申请EU.ORG免费二级域名](https://xiaozhu2007.netlify.app/posts/%E7%94%B3%E8%AF%B7%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8Deu-org.html) (1 month ago)
@@ -73,7 +73,7 @@ Length: 200 [text/x-plain]
 - [记一次对 Minecraft 的崩溃分析](https://xiaozhu2007.netlify.app/posts/Minecraft%E5%B4%A9%E6%BA%83%E6%8A%A5%E5%91%8A.html) (1 year ago)
 
 #### 📰 Latest team blog posts
-- [团队博客正式上线啦~](https://blog.yeeee.ml/posts/hello-2021.html) (4 days ago)
+- [团队博客正式上线啦~](https://blog.yeeee.ml/posts/hello-2021.html) (5 days ago)
 
 
 <details>
