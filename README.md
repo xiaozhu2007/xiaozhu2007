@@ -39,7 +39,7 @@ Length: 200 [text/x-plain]
 
 
 
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (1 day ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (today)
 
 - [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (1 day ago)
 
@@ -85,6 +85,8 @@ Length: 200 [text/x-plain]
 
 #### 📰 Latest posts (Based on netlify)
 
+- [永久免费的在线工具汇总](https://xiaozhu2007.netlify.app/posts/online-tools.html) (2 days ago)
+
 - [谷歌游戏纪念黑人视频游戏先驱杰里·劳森生日](https://xiaozhu2007.netlify.app/posts/%E8%B0%B7%E6%AD%8C%E6%B8%B8%E6%88%8F%E7%BA%AA%E5%BF%B5%E6%9D%B0%E9%87%8C%E5%8A%B3%E6%A3%AE%E7%94%9F%E6%97%A5.html) (2 weeks ago)
 
 - [我终于拥有了一个属于自己的新域名！](https://xiaozhu2007.netlify.app/posts/new-domain.html) (2 weeks ago)
@@ -98,8 +100,6 @@ Length: 200 [text/x-plain]
 - [什么是域名停靠？](https://xiaozhu2007.netlify.app/posts/domain-parking.html) (4 months ago)
 
 - [Sitemap 介绍](https://xiaozhu2007.netlify.app/posts/Sitemap%E4%BB%8B%E7%BB%8D.html) (6 months ago)
-
-- [记一次对 Minecraft 的崩溃分析](https://xiaozhu2007.netlify.app/posts/Minecraft%E5%B4%A9%E6%BA%83%E6%8A%A5%E5%91%8A.html) (1 year ago)
 
 #### 📰 Latest team blog posts
 
