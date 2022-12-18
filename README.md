@@ -41,19 +41,19 @@ Length: 200 [text/x-plain]
 
 - [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (today)
 
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (2 days ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (today)
+
+- [xiaozhu2007/CloudFlareWorkers](https://github.com/xiaozhu2007/CloudFlareWorkers) - 我正在使用的CFW脚本 (today)
 
 - [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (3 days ago)
 
-- [xiaozhu2007/-](https://github.com/xiaozhu2007/-) - 一个镜像站搜集站点 (5 days ago)
+- [1zyao/RETEBeta](https://github.com/1zyao/RETEBeta) - RETE服务器官网 (5 days ago)
 
 - [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (5 days ago)
 
-- [1zyao/RETEBeta](https://github.com/1zyao/RETEBeta) - RETE服务器官网 (5 days ago)
+- [xiaozhu2007/-](https://github.com/xiaozhu2007/-) - 一个镜像站搜集站点 (5 days ago)
 
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (1 week ago)
-
-- [HelloTools-Studio/blog](https://github.com/HelloTools-Studio/blog) -  (1 week ago)
 
 #### 🔭 Latest releases
 
@@ -85,6 +85,8 @@ Length: 200 [text/x-plain]
 
 #### 📰 Latest posts (Based on netlify)
 
+- [一些关于 Markdown 的奇技淫巧](https://xiaozhu2007.netlify.app/posts/something-about-markdown.html) (today)
+
 - [永久免费的在线工具汇总](https://xiaozhu2007.netlify.app/posts/online-tools.html) (4 days ago)
 
 - [谷歌游戏纪念黑人视频游戏先驱杰里·劳森生日](https://xiaozhu2007.netlify.app/posts/%E8%B0%B7%E6%AD%8C%E6%B8%B8%E6%88%8F%E7%BA%AA%E5%BF%B5%E6%9D%B0%E9%87%8C%E5%8A%B3%E6%A3%AE%E7%94%9F%E6%97%A5.html) (2 weeks ago)
@@ -98,8 +100,6 @@ Length: 200 [text/x-plain]
 - [什么是UUID？有什么用处？](https://xiaozhu2007.netlify.app/posts/UUID.html) (2 months ago)
 
 - [什么是域名停靠？](https://xiaozhu2007.netlify.app/posts/domain-parking.html) (4 months ago)
-
-- [Sitemap 介绍](https://xiaozhu2007.netlify.app/posts/Sitemap%E4%BB%8B%E7%BB%8D.html) (6 months ago)
 
 #### 📰 Latest team blog posts
 
