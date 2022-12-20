@@ -41,7 +41,7 @@ Length: 200 [text/x-plain]
 
 - [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (today)
 
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (2 days ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (today)
 
 - [xiaozhu2007/CloudFlareWorkers](https://github.com/xiaozhu2007/CloudFlareWorkers) - 我正在使用的CFW脚本 (2 days ago)
 
@@ -65,6 +65,8 @@ Length: 200 [text/x-plain]
 
 
 
+- [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端) (today)
+
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (1 day ago)
 
 - [cssxsh/meme-helper](https://github.com/cssxsh/meme-helper) - Mirai Console 表情包生成插件 (6 days ago)
@@ -72,8 +74,6 @@ Length: 200 [text/x-plain]
 - [Rabies1337/Vox](https://github.com/Rabies1337/Vox) - forge 1.12.2 ghost client :ok: (6 days ago)
 
 - [justjavac/auto-green](https://github.com/justjavac/auto-green) - 自动保持 GitHub 提交状态常绿 a commit every day, keep your girlfriend far away. (1 week ago)
-
-- [CoderLeixiaoshuai/wuhan-IT](https://github.com/CoderLeixiaoshuai/wuhan-IT) - 『武汉互联网』持续关注武汉互联网公司，帮助大家排坑，让一线浪子顺利回家 (1 week ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
@@ -85,9 +85,13 @@ Length: 200 [text/x-plain]
 
 #### 📰 Latest posts (Based on netlify)
 
+- [关于 CloudFlare Workers 的奇技淫巧](https://xiaozhu2007.netlify.app/posts/cfw-advanced.html) (today)
+
 - [一些关于 Markdown 的奇技淫巧](https://xiaozhu2007.netlify.app/posts/something-about-markdown.html) (2 days ago)
 
 - [永久免费的在线工具汇总](https://xiaozhu2007.netlify.app/posts/online-tools.html) (6 days ago)
+
+- [永久免费 Evolution Host主机，最高免费8H16G VPS!](https://xiaozhu2007.netlify.app/posts/free-evolution-host.html) (1 week ago)
 
 - [谷歌游戏纪念黑人视频游戏先驱杰里·劳森生日](https://xiaozhu2007.netlify.app/posts/%E8%B0%B7%E6%AD%8C%E6%B8%B8%E6%88%8F%E7%BA%AA%E5%BF%B5%E6%9D%B0%E9%87%8C%E5%8A%B3%E6%A3%AE%E7%94%9F%E6%97%A5.html) (2 weeks ago)
 
@@ -96,10 +100,6 @@ Length: 200 [text/x-plain]
 - [无需信用卡，白嫖谷歌云创建 RDP 远程桌面！](https://xiaozhu2007.netlify.app/posts/%E7%99%BD%E5%AB%96GCS.html) (3 weeks ago)
 
 - [2022年如何申请EU.ORG免费二级域名](https://xiaozhu2007.netlify.app/posts/%E7%94%B3%E8%AF%B7%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8Deu-org.html) (1 month ago)
-
-- [什么是UUID？有什么用处？](https://xiaozhu2007.netlify.app/posts/UUID.html) (2 months ago)
-
-- [什么是域名停靠？](https://xiaozhu2007.netlify.app/posts/domain-parking.html) (4 months ago)
 
 #### 📰 Latest team blog posts
 
