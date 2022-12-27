@@ -1,5 +1,3 @@
-**【曝光】盗文章狗：<https://blog.51cto.com/u_15258271>**
-
 <h1 align="center"> 👋 Hi there, I'm xiaozhu2007</h1>
 <p align="center">
   <img src="https://gpvc.arturio.dev/xiaozhu2007" alt="xiaozhu2007" />
