@@ -39,9 +39,11 @@ Length: 200 [text/x-plain]
 
 
 
-- [xiaozhu2007/hexo](https://github.com/xiaozhu2007/hexo) - [DEPRECATED] 小猪的技术性博客 - Xiaozhu&#39;s Technical Blog (1 day ago)
+- [1zyao/RETE](https://github.com/1zyao/RETE) - RETE服务器官网 (today)
 
 - [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (1 day ago)
+
+- [xiaozhu2007/hexo](https://github.com/xiaozhu2007/hexo) - [DEPRECATED] 小猪的技术性博客 - Xiaozhu&#39;s Technical Blog (1 day ago)
 
 - [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (2 days ago)
 
@@ -53,8 +55,6 @@ Length: 200 [text/x-plain]
 
 - [xiaozhu2007/Fishing](https://github.com/xiaozhu2007/Fishing) - 钓鱼 (6 days ago)
 
-- [HelloTools-Studio/blog](https://github.com/HelloTools-Studio/blog) -  (6 days ago)
-
 #### 🔭 Latest releases
 
 
@@ -65,15 +65,15 @@ Length: 200 [text/x-plain]
 
 
 
-- [draftbookJs/cli](https://github.com/draftbookJs/cli) - Draftbook cli,For quickly creating a customized sdk (1 day ago)
+- [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular (today)
 
-- [corestudi0/corestudi0.github.io](https://github.com/corestudi0/corestudi0.github.io) -  (1 day ago)
+- [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface (today)
 
-- [msgdw/CommandWhitelist](https://github.com/msgdw/CommandWhitelist) -  (1 day ago)
+- [aternosorg/mclogs-bukkit](https://github.com/aternosorg/mclogs-bukkit) - A Bukkit plugin to easily share and analyse your server logs with mclo.gs (today)
 
-- [ezesundayeze/anonymouse-realtime-chat-app](https://github.com/ezesundayeze/anonymouse-realtime-chat-app) - Realtime Anonymous Chat application with NodeJS, Express, Mongodb and SocketIO (2 days ago)
+- [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap) - A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. (today)
 
-- [ScaleDrone/webrtc](https://github.com/ScaleDrone/webrtc) - Video chat App with WebRTC using Scaledrone Realtime Messaging Service (2 days ago)
+- [BillyGalbreath/Pl3xMap](https://github.com/BillyGalbreath/Pl3xMap) - Pl3xMap is a minimalistic and lightweight world map viewer for Paper servers using the vanilla Minecraft rendering style (today)
 
 #### 📰 Latest posts (Based on cnblogs)
 
