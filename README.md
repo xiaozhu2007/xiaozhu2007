@@ -65,6 +65,8 @@ Length: 200 [text/x-plain]
 
 
 
+- [2lstudios-mc/AntiBot](https://github.com/2lstudios-mc/AntiBot) - Lightweight BungeeCord plugin that aims to stop attacks on your server quickly and efficiently. (today)
+
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer (1 day ago)
 
 - [PotatoCraft-Studio/QuickShopLimited](https://github.com/PotatoCraft-Studio/QuickShopLimited) - L I M I T (1 day ago)
@@ -72,8 +74,6 @@ Length: 200 [text/x-plain]
 - [doomslayerwithabfg/eaglercraft](https://github.com/doomslayerwithabfg/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it through a custom proxy based on Bungeecord. (1 day ago)
 
 - [java-deobfuscator/deobfuscator-gui](https://github.com/java-deobfuscator/deobfuscator-gui) - An awesome GUI for an awesome deobfuscator (1 day ago)
-
-- [Guardsquare/proguard](https://github.com/Guardsquare/proguard) - ProGuard, Java optimizer and obfuscator (1 day ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
