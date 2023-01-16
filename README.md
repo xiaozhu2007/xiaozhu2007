@@ -39,15 +39,15 @@ Length: 200 [text/x-plain]
 
 
 
-- [xiaozhu2007/----------------------------------------------------------------------------------------------------](https://github.com/xiaozhu2007/----------------------------------------------------------------------------------------------------) - ---------------------------------------------------------------------------------------------------- (1 day ago)
+- [xiaozhu2007/----------------------------------------------------------------------------------------------------](https://github.com/xiaozhu2007/----------------------------------------------------------------------------------------------------) - ---------------------------------------------------------------------------------------------------- (2 days ago)
 
-- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (2 days ago)
+- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (3 days ago)
 
-- [xiaozhu2007/Fishing](https://github.com/xiaozhu2007/Fishing) - 钓鱼 (3 days ago)
+- [xiaozhu2007/Fishing](https://github.com/xiaozhu2007/Fishing) - 钓鱼 (4 days ago)
 
-- [octodemo/awesome-actions](https://github.com/octodemo/awesome-actions) - Repository template used to showcase Actions that tie into pull request and issue events (5 days ago)
+- [octodemo/awesome-actions](https://github.com/octodemo/awesome-actions) - Repository template used to showcase Actions that tie into pull request and issue events (6 days ago)
 
-- [1zyao/RETE](https://github.com/1zyao/RETE) - RETE服务器官网 (1 week ago)
+- [1zyao/RETE](https://github.com/1zyao/RETE) - RETE服务器官网 (2 weeks ago)
 
 - [xiaozhu2007/hexo](https://github.com/xiaozhu2007/hexo) - [DEPRECATED] 小猪的技术性博客 - Xiaozhu&#39;s Technical Blog (2 weeks ago)
 
@@ -65,15 +65,15 @@ Length: 200 [text/x-plain]
 
 
 
-- [2lstudios-mc/AntiBot](https://github.com/2lstudios-mc/AntiBot) - Lightweight BungeeCord plugin that aims to stop attacks on your server quickly and efficiently. (today)
+- [spravil/PHP-Minecraft-Server-Status-Query](https://github.com/spravil/PHP-Minecraft-Server-Status-Query) - Minecraft Server Status Query, written in PHP, with online players, motd, favicon and more server related informations without plugins and enable-query. (today)
 
-- [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer (1 day ago)
+- [2lstudios-mc/AntiBot](https://github.com/2lstudios-mc/AntiBot) - Lightweight BungeeCord plugin that aims to stop attacks on your server quickly and efficiently. (1 day ago)
 
-- [PotatoCraft-Studio/QuickShopLimited](https://github.com/PotatoCraft-Studio/QuickShopLimited) - L I M I T (1 day ago)
+- [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer (2 days ago)
 
-- [doomslayerwithabfg/eaglercraft](https://github.com/doomslayerwithabfg/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it through a custom proxy based on Bungeecord. (1 day ago)
+- [PotatoCraft-Studio/QuickShopLimited](https://github.com/PotatoCraft-Studio/QuickShopLimited) - L I M I T (2 days ago)
 
-- [java-deobfuscator/deobfuscator-gui](https://github.com/java-deobfuscator/deobfuscator-gui) - An awesome GUI for an awesome deobfuscator (1 day ago)
+- [doomslayerwithabfg/eaglercraft](https://github.com/doomslayerwithabfg/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it through a custom proxy based on Bungeecord. (2 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
