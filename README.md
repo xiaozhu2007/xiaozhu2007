@@ -65,6 +65,8 @@ Length: 200 [text/x-plain]
 
 
 
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. (today)
+
 - [spravil/PHP-Minecraft-Server-Status-Query](https://github.com/spravil/PHP-Minecraft-Server-Status-Query) - Minecraft Server Status Query, written in PHP, with online players, motd, favicon and more server related informations without plugins and enable-query. (1 day ago)
 
 - [2lstudios-mc/AntiBot](https://github.com/2lstudios-mc/AntiBot) - Lightweight BungeeCord plugin that aims to stop attacks on your server quickly and efficiently. (2 days ago)
@@ -72,8 +74,6 @@ Length: 200 [text/x-plain]
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer (3 days ago)
 
 - [PotatoCraft-Studio/QuickShopLimited](https://github.com/PotatoCraft-Studio/QuickShopLimited) - L I M I T (3 days ago)
-
-- [doomslayerwithabfg/eaglercraft](https://github.com/doomslayerwithabfg/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it through a custom proxy based on Bungeecord. (3 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
