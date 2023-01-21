@@ -1,8 +1,9 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 */4 * * *"}]
+  # Schedule updates (each 6 hour)
+  schedule:
+  - cron: 0 */6 * * *
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
 jobs:
@@ -29,7 +30,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           plugin_activity: yes
-          plugin_activity_days: 14
+          plugin_activity_days: 7
           plugin_activity_filter: all
           plugin_activity_ignored: AGDDoS-bot
           plugin_activity_limit: 10
