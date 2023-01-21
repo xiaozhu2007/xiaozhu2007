@@ -26,13 +26,6 @@ const questions = [
         }
       },
       {
-        name: `Send Pig2333 an ${chalk.green.bold("email")}?`,
-        value: () => {
-          open("mailto:pig2333minecraft@yeah.net");
-          console.log("\nDone, see you soon.\n");
-        }
-      },
-      {
         name: "Just quit.",
         value: () => {
           console.log("Ok, bye.\n");
