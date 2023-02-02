@@ -65,15 +65,15 @@ Length: 200 [text/x-plain]
 
 
 
+- [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。 (today)
+
+- [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (today)
+
 - [xiaozhu2007/BACKUP-Dress](https://github.com/xiaozhu2007/BACKUP-Dress) - [备份]好耶  是女装 (3 days ago)
 
 - [Fallen-Breath/MCDReforged](https://github.com/Fallen-Breath/MCDReforged) - A rewritten version of MCDaemon, a python script to control your Minecraft server (3 days ago)
 
 - [XavierXuV5/Check-Browser](https://github.com/XavierXuV5/Check-Browser) - Detecting a mobile browser ,desktop browser ,wechat , QQ ,UC, and iOS, Android browser (5 days ago)
-
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (5 days ago)
-
-- [octodemo/awesome-actions](https://github.com/octodemo/awesome-actions) - Repository template used to showcase Actions that tie into pull request and issue events (6 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
