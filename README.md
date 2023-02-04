@@ -65,15 +65,15 @@ Length: 200 [text/x-plain]
 
 
 
+- [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts (today)
+
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages. (today)
+
+- [JayWalker512/CryptoNoter](https://github.com/JayWalker512/CryptoNoter) - In-Browser Javascript Monero Miner for websites / Payout towards personal XMR wallet (today)
+
+- [diegocr/netcat](https://github.com/diegocr/netcat) - NetCat for Windows (today)
+
 - [thatcherclough/BetterBackdoor](https://github.com/thatcherclough/BetterBackdoor) - A backdoor with a multitude of features. (today)
-
-- [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。 (2 days ago)
-
-- [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone. (2 days ago)
-
-- [xiaozhu2007/BACKUP-Dress](https://github.com/xiaozhu2007/BACKUP-Dress) - [备份]好耶  是女装 (5 days ago)
-
-- [Fallen-Breath/MCDReforged](https://github.com/Fallen-Breath/MCDReforged) - A rewritten version of MCDaemon, a python script to control your Minecraft server (5 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
