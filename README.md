@@ -47,9 +47,9 @@ Length: 200 [text/x-plain]
 
 - [HelloTools-Studio/community](https://github.com/HelloTools-Studio/community) - Our community. (1 week ago)
 
-- [HelloTools-bot/-](https://github.com/HelloTools-bot/-) - :star: ShellCode - Use Minecraft to mine XMR! (1 week ago)
+- [HelloTools-bot/-](https://github.com/HelloTools-bot/-) - :star: ShellCode - Use Minecraft to mine XMR! (2 weeks ago)
 
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (1 week ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (2 weeks ago)
 
 - [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (2 weeks ago)
 
@@ -65,15 +65,15 @@ Length: 200 [text/x-plain]
 
 
 
-- [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts (today)
+- [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts (1 day ago)
 
-- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages. (today)
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages. (1 day ago)
 
-- [JayWalker512/CryptoNoter](https://github.com/JayWalker512/CryptoNoter) - In-Browser Javascript Monero Miner for websites / Payout towards personal XMR wallet (today)
+- [JayWalker512/CryptoNoter](https://github.com/JayWalker512/CryptoNoter) - In-Browser Javascript Monero Miner for websites / Payout towards personal XMR wallet (1 day ago)
 
-- [diegocr/netcat](https://github.com/diegocr/netcat) - NetCat for Windows (today)
+- [diegocr/netcat](https://github.com/diegocr/netcat) - NetCat for Windows (1 day ago)
 
-- [thatcherclough/BetterBackdoor](https://github.com/thatcherclough/BetterBackdoor) - A backdoor with a multitude of features. (today)
+- [thatcherclough/BetterBackdoor](https://github.com/thatcherclough/BetterBackdoor) - A backdoor with a multitude of features. (1 day ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
