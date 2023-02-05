@@ -39,6 +39,10 @@ Length: 200 [text/x-plain]
 
 
 
+- [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (today)
+
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (today)
+
 - [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (1 week ago)
 
 - [HelloTools-Studio/blog](https://github.com/HelloTools-Studio/blog) -  (1 week ago)
@@ -47,13 +51,9 @@ Length: 200 [text/x-plain]
 
 - [HelloTools-Studio/community](https://github.com/HelloTools-Studio/community) - Our community. (1 week ago)
 
-- [HelloTools-bot/-](https://github.com/HelloTools-bot/-) - :star: ShellCode - Use Minecraft to mine XMR! (2 weeks ago)
-
 - [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (2 weeks ago)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (2 weeks ago)
-
-- [1zyao/RETEBeta](https://github.com/1zyao/RETEBeta) - RETE服务器官网 (2 weeks ago)
+- [HelloTools-bot/-](https://github.com/HelloTools-bot/-) - :star: ShellCode - Use Minecraft to mine XMR! (2 weeks ago)
 
 #### 🔭 Latest releases
 
@@ -65,15 +65,15 @@ Length: 200 [text/x-plain]
 
 
 
+- [davias1211990/web-miner](https://github.com/davias1211990/web-miner) - XMR Web-miner. Make money for your page views instead of waiting on google ads. (today)
+
+- [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&amp;M tool (today)
+
 - [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts (1 day ago)
 
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages. (1 day ago)
 
 - [JayWalker512/CryptoNoter](https://github.com/JayWalker512/CryptoNoter) - In-Browser Javascript Monero Miner for websites / Payout towards personal XMR wallet (1 day ago)
-
-- [diegocr/netcat](https://github.com/diegocr/netcat) - NetCat for Windows (1 day ago)
-
-- [thatcherclough/BetterBackdoor](https://github.com/thatcherclough/BetterBackdoor) - A backdoor with a multitude of features. (1 day ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
