@@ -39,11 +39,11 @@ Length: 200 [text/x-plain]
 
 
 
-- [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (today)
+- [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (1 day ago)
 
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (today)
+- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (1 day ago)
 
-- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (1 week ago)
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (1 day ago)
 
 - [HelloTools-Studio/blog](https://github.com/HelloTools-Studio/blog) -  (1 week ago)
 
@@ -65,15 +65,15 @@ Length: 200 [text/x-plain]
 
 
 
-- [davias1211990/web-miner](https://github.com/davias1211990/web-miner) - XMR Web-miner. Make money for your page views instead of waiting on google ads. (today)
+- [davias1211990/web-miner](https://github.com/davias1211990/web-miner) - XMR Web-miner. Make money for your page views instead of waiting on google ads. (1 day ago)
 
-- [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&amp;M tool (today)
+- [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&amp;M tool (1 day ago)
 
-- [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts (1 day ago)
+- [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts (2 days ago)
 
-- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages. (1 day ago)
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages. (2 days ago)
 
-- [JayWalker512/CryptoNoter](https://github.com/JayWalker512/CryptoNoter) - In-Browser Javascript Monero Miner for websites / Payout towards personal XMR wallet (1 day ago)
+- [JayWalker512/CryptoNoter](https://github.com/JayWalker512/CryptoNoter) - In-Browser Javascript Monero Miner for websites / Payout towards personal XMR wallet (2 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
@@ -103,7 +103,7 @@ Length: 200 [text/x-plain]
 
 #### 📰 Latest team blog posts
 
-- [如何使用 D1 来搭建评论服务？](https://blog.yeeee.ml/posts/d1-demo-guide.html) (1 week ago)
+- [如何使用 D1 来搭建评论服务？](https://blog.yeeee.ml/posts/d1-demo-guide.html) (2 weeks ago)
 
 - [如何使用 CloudFlare D1 ?](https://blog.yeeee.ml/posts/d1-guide.html) (2 weeks ago)
 
