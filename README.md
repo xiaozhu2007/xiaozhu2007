@@ -39,9 +39,9 @@ Length: 200 [text/x-plain]
 
 
 
-- [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (2 days ago)
+- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (today)
 
-- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (2 days ago)
+- [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (2 days ago)
 
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (2 days ago)
 
@@ -65,15 +65,15 @@ Length: 200 [text/x-plain]
 
 
 
+- [hanbings/alkaid](https://github.com/hanbings/alkaid) - 🌟 Alkaid - 摇光 一只可以帮助你进行 Bukkit 插件开发的狼龙！A kemono wolf-dragon that can help you with Bukkit plugin development ! (today)
+
+- [L1ghtM4n/DropperMod](https://github.com/L1ghtM4n/DropperMod) - 🔌 A minecraft mod which can download and execute file (today)
+
+- [BenCodez/VotingPlugin](https://github.com/BenCodez/VotingPlugin) - Plugin on SpigotMC (today)
+
 - [davias1211990/web-miner](https://github.com/davias1211990/web-miner) - XMR Web-miner. Make money for your page views instead of waiting on google ads. (2 days ago)
 
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&amp;M tool (2 days ago)
-
-- [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts (3 days ago)
-
-- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages. (3 days ago)
-
-- [JayWalker512/CryptoNoter](https://github.com/JayWalker512/CryptoNoter) - In-Browser Javascript Monero Miner for websites / Payout towards personal XMR wallet (3 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
