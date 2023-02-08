@@ -65,15 +65,15 @@ Length: 200 [text/x-plain]
 
 
 
+- [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README. (today)
+
+- [TheQmaks/JavaInjector](https://github.com/TheQmaks/JavaInjector) - Way to inject jar files into java process through a dll. (today)
+
+- [SuperSkidder/LuneClient](https://github.com/SuperSkidder/LuneClient) -  (today)
+
+- [SuperSkidder/Tomorrow](https://github.com/SuperSkidder/Tomorrow) - My Client (today)
+
 - [hanbings/alkaid](https://github.com/hanbings/alkaid) - 🌟 Alkaid - 摇光 一只可以帮助你进行 Bukkit 插件开发的狼龙！A kemono wolf-dragon that can help you with Bukkit plugin development ! (1 day ago)
-
-- [L1ghtM4n/DropperMod](https://github.com/L1ghtM4n/DropperMod) - 🔌 A minecraft mod which can download and execute file (1 day ago)
-
-- [BenCodez/VotingPlugin](https://github.com/BenCodez/VotingPlugin) - Plugin on SpigotMC (1 day ago)
-
-- [davias1211990/web-miner](https://github.com/davias1211990/web-miner) - XMR Web-miner. Make money for your page views instead of waiting on google ads. (3 days ago)
-
-- [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&amp;M tool (3 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
