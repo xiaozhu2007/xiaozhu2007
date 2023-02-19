@@ -39,9 +39,9 @@ Length: 200 [text/x-plain]
 
 
 
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (1 week ago)
+- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (today)
 
-- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (1 week ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (1 week ago)
 
 - [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (2 weeks ago)
 
