@@ -85,8 +85,8 @@ Length: 200 [text/x-plain]
 
 #### 📫 Find me here
 
-[![](https://img.shields.io/badge/-Blog-4fc08d?style=flat-square&logo=vue.js&logoColor=white)](https://www.cnblogs.com/xiaozhu2020/)
-[![](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lz19986912007@163.com)
+[![](https://img.shields.io/badge/-Blog-4fc08d?style=flat-square&logo=vue.js&logoColor=white)](https://xiaozhu2007.netlify.app/)
+[![](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hackpig520@gmail.com)
 [![](https://img.shields.io/badge/QQ-faaf08?style=flat-square&logo=tencent-qq&logoColor=000000)](http://wpa.qq.com/msgrd?v=3&uin=3356136957&site=qq&menu=yes)
 ![](https://img.shields.io/badge/HackPig520-C160?style=flat-square&logo=wechat&logoColor=white)
 
