@@ -1,16 +1,15 @@
 <h1 align="center"> 👋 Hi there, I'm xiaozhu2007</h1>
 <p align="center">
-  <img src="https://gpvc.arturio.dev/xiaozhu2007" alt="xiaozhu2007" />
-  <a href="https://github.com/xiaozhu2007">
-    <img src="https://ghchart.rshah.org/xiaozhu2007" alt="甜力怕's Github chart" />
+  <img src="https://count.getloli.com/get/@xiaozhu2007" alt="甜力怕的主页访问次数" />
+  <br />
+  <a href="https://github.com/xiaozhu2007?from=ghchart.rshah.org">
+    <img src="https://ghchart.rshah.org/xiaozhu2007" alt="甜力怕的贡献" />
   </a>
 </p>
 
-- 🌱 I’m currently learning **Golang**, **JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
-- 📝 I regularly write articles on [cnblogs](https://www.cnblogs.com/xiaozhu2020/) and [my own blog](https://xiaozhu2007.netlify.app/)
-
-- 💬 Ask me about **devops**
+- 📝 I regularly write articles on [Hashnode](https://hackpig520.hashnode.dev/) and [my own blog](https://xiaozhu2007.netlify.app/)
 
 ## 📄 Profile
 
@@ -22,13 +21,13 @@
 Resolving xiaozhu2007... -1.-1.-1.-1, ::-1
 Connecting to xiaozhu2007|-1.-1.-1.-1|:65536... connected.
 HTTP request sent, awaiting response... 418 I'm a teapot.
-Length: 200 [text/x-plain]
+Length: 250 [text/x-plain]
 58%[====================================>                          ] 200          100K/s   in 50s English
-99%[============================================================>  ] 81           100K/s   in 8s Chinese
-69%[========================================>                      ] 98           6537M/s  in 60s Golang
-16%[=======>                                                       ] 102400       0K/s     in +∞s Python
-74%[===========================================>                   ] 65535        655K/s   in 38s C#
+99%[============================================================>  ] 81           100K/s   in 8s  Chinese
 82%[==============================================>                ] 990900       --.-K/s  in --s Javascript
+69%[========================================>                      ] 114514       67K/s    in 60s Golang
+20%[=========>                                                     ] 102400       2K/s     in +∞s Python
+74%[===========================================>                   ] 65535        655K/s   in 38s C#
 ??%[??????????????????????????????????????????????????????????????>] ???          ??K/s    in ??s ???
 22:33:44 (2.33333 MB/s) - `README.md' saved [81/81]
 ```
@@ -39,7 +38,7 @@ Length: 200 [text/x-plain]
 
 
 
-- [xiaozhu2021/xiaozhu2021.github.io](https://github.com/xiaozhu2021/xiaozhu2021.github.io) - My new post! (2 days ago)
+- [xiaozhu2021/xiaozhu2021.github.io](https://github.com/xiaozhu2021/xiaozhu2021.github.io) - My new post! (today)
 
 - [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (3 days ago)
 
@@ -49,21 +48,19 @@ Length: 200 [text/x-plain]
 
 - [xiaozhu2007/Fishing](https://github.com/xiaozhu2007/Fishing) - 钓鱼 (1 week ago)
 
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (2 weeks ago)
-
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) - High-performance website testing tool written in Golang. (3 weeks ago)
-
-- [xiaozhu2007/NTBot](https://github.com/xiaozhu2007/NTBot) - NTBot, a Minecraft bot based on Mineflayer. (3 weeks ago)
-
 #### 🔭 Latest releases
 
 
 
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.1.1](https://github.com/AGDDoS/AGDDoS/releases/tag/1.1.1), 3 months ago) - High-performance website testing tool written in Golang.
 
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) ([v2.1](https://github.com/xiaozhu2007/GitHosts/releases/tag/v2.1), 8 months ago) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题
+
 #### ⭐ Recent Stars (Including **private** repo)
 
 
+
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more (today)
 
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly (1 day ago)
 
@@ -73,41 +70,25 @@ Length: 200 [text/x-plain]
 
 - [Olivr/free-domain](https://github.com/Olivr/free-domain) - Get a cluster.ws &amp; wip.la domain for free and instantly (3 days ago)
 
-- [Upinel/localhost.direct](https://github.com/Upinel/localhost.direct) - localhost with public CA signed SSL certificate (3 days ago)
-
 #### 📰 Latest posts (Based on cnblogs)
 
 - [Markdown编辑器 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16981427.html) (2 months ago)
 
-- [【即时更新】Google 镜像站地址 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/google-mirror.html) (2 months ago)
+#### 📰 Latest posts (Based on hashnode)
 
-- [文件防盗链的实现(含源码) - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/16368726.html) (8 months ago)
+- [Young artist dedicated to passing down the craft of tongcao flowers making](https://hackpig520.hashnode.dev/young-artist-dedicated-to-passing-down-the-craft-of-tongcao-flowers-making) (today)
 
-#### 📰 Latest posts (Based on netlify)
+- [China unveils blueprint for propelling digital development through 2035](https://hackpig520.hashnode.dev/china-unveils-blueprint-for-propelling-digital-development-through-2035) (1 day ago)
 
-- [关于 CloudFlare Workers 的奇技淫巧](https://xiaozhu2007.netlify.app/posts/cfw-advanced.html) (2 months ago)
+- [jQuery 点击按钮元素移动动画](https://hackpig520.hashnode.dev/jquery-01) (1 day ago)
 
-- [一些关于 Markdown 的奇技淫巧](https://xiaozhu2007.netlify.app/posts/markdown-advanced.html) (2 months ago)
+- [First &#39;forest library&#39; in Shanghai opens to public](https://hackpig520.hashnode.dev/first-forest-library-in-shanghai-opens-to-public) (2 days ago)
 
-- [永久免费的在线工具汇总](https://xiaozhu2007.netlify.app/posts/online-tools.html) (2 months ago)
-
-- [永久免费 Evolution Host主机，最高免费8H16G VPS!](https://xiaozhu2007.netlify.app/posts/free-evolution-host.html) (2 months ago)
-
-- [谷歌游戏纪念黑人视频游戏先驱杰里·劳森生日](https://xiaozhu2007.netlify.app/posts/%E8%B0%B7%E6%AD%8C%E6%B8%B8%E6%88%8F%E7%BA%AA%E5%BF%B5%E6%9D%B0%E9%87%8C%E5%8A%B3%E6%A3%AE%E7%94%9F%E6%97%A5.html) (2 months ago)
-
-- [我终于拥有了一个属于自己的新域名！](https://xiaozhu2007.netlify.app/posts/new-domain.html) (3 months ago)
-
-- [无需信用卡，白嫖谷歌云创建 RDP 远程桌面！](https://xiaozhu2007.netlify.app/posts/%E7%99%BD%E5%AB%96GCS.html) (3 months ago)
-
-- [2022年如何申请EU.ORG免费二级域名](https://xiaozhu2007.netlify.app/posts/%E7%94%B3%E8%AF%B7%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8Deu-org.html) (4 months ago)
+- [Lingdingyang bridge under construction in south China&#39;s Guangdong](https://hackpig520.hashnode.dev/lingdingyang-bridge-under-construction-in-south-chinas-guangdong) (4 days ago)
 
 #### 📰 Latest team blog posts
 
 - [如何使用 D1 来搭建评论服务？](https://blog.yeeee.ml/posts/d1-demo-guide.html) (1 month ago)
-
-- [如何使用 CloudFlare D1 ?](https://blog.yeeee.ml/posts/d1-guide.html) (1 month ago)
-
-- [为什么我们放弃了 KOOK ？](https://blog.yeeee.ml/posts/why-not-kaiheila.html) (2 months ago)
 
 <details>
   <summary>Click to expand elements that may affect loading. 点击展开可能影响加载的元素.</summary>
