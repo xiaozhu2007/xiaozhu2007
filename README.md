@@ -60,15 +60,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (1 day ago)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (today)
+
+- [Neoflow/ReverseProxy-PlausibleAnalytics](https://github.com/Neoflow/ReverseProxy-PlausibleAnalytics) - Reverse proxy for Plausible Analytics, written in PHP for Shared Hostings on Apache. (today)
 
 - [lwd-temp/Bilibili-Video-Reply-Crawler](https://github.com/lwd-temp/Bilibili-Video-Reply-Crawler) - Python爬虫获取Bilibili视频/专栏评论，Demo：https://github.com/lwd-temp/Bilibili-Video-Reply-Crawler-Production (3 days ago)
 
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more (3 days ago)
 
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly (4 days ago)
-
-- [actionsdemos/calculator](https://github.com/actionsdemos/calculator) - A node.js demo application (4 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
