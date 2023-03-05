@@ -40,13 +40,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (today)
 
-- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (1 day ago)
+- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (today)
+
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (today)
 
 - [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (2 days ago)
 
 - [xiaozhu2007/Fishing](https://github.com/xiaozhu2007/Fishing) - 钓鱼 (4 days ago)
-
-- [xiaozhu2021/xiaozhu2021.github.io](https://github.com/xiaozhu2021/xiaozhu2021.github.io) - My new post! (4 days ago)
 
 #### 🔭 Latest releases
 
@@ -60,6 +60,8 @@ Length: 250 [text/x-plain]
 
 
 
+- [DavidWells/netlify-functions-workshop](https://github.com/DavidWells/netlify-functions-workshop) - Netlify Serverless Functions Workshop (today)
+
 - [anak10thn/WTFPL](https://github.com/anak10thn/WTFPL) - DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (1 day ago)
 
 - [SakuraKoi/old-driver-passwords](https://github.com/SakuraKoi/old-driver-passwords) - 老司机的解压密码字典 (1 day ago)
@@ -67,8 +69,6 @@ Length: 250 [text/x-plain]
 - [zanjie1999/tcp-over-websocket](https://github.com/zanjie1999/tcp-over-websocket) - 将TCP放到WebSocket中传输（就能走CDN）基于ws的内网穿透 隧道代理 tcp2ws  全平台0依赖 (1 day ago)
 
 - [MexHigh/Cloudflare-Workers-URL-Shortener](https://github.com/MexHigh/Cloudflare-Workers-URL-Shortener) - URL shortener with simple admin frontend and extension for Chrome (with auto-login) on top of Cloudflare Workers (1 day ago)
-
-- [tvvocold/how2makemoney](https://github.com/tvvocold/how2makemoney) - 帮助开发者赚钱的网站、产品/服务目录 (1 day ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
