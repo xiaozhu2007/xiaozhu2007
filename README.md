@@ -38,15 +38,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (1 day ago)
+- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (2 days ago)
 
-- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (1 day ago)
+- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (2 days ago)
 
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (1 day ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (2 days ago)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (3 days ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (4 days ago)
 
-- [xiaozhu2007/Fishing](https://github.com/xiaozhu2007/Fishing) - 钓鱼 (5 days ago)
+- [xiaozhu2007/Fishing](https://github.com/xiaozhu2007/Fishing) - 钓鱼 (6 days ago)
 
 #### 🔭 Latest releases
 
@@ -60,15 +60,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [DavidWells/netlify-functions-workshop](https://github.com/DavidWells/netlify-functions-workshop) - Netlify Serverless Functions Workshop (1 day ago)
+- [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！ (1 day ago)
 
-- [anak10thn/WTFPL](https://github.com/anak10thn/WTFPL) - DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (2 days ago)
+- [TGSAN/UCEditors](https://github.com/TGSAN/UCEditors) - 震惊！UC编辑部工具惨遭开源！ (1 day ago)
 
-- [SakuraKoi/old-driver-passwords](https://github.com/SakuraKoi/old-driver-passwords) - 老司机的解压密码字典 (2 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (1 day ago)
 
-- [zanjie1999/tcp-over-websocket](https://github.com/zanjie1999/tcp-over-websocket) - 将TCP放到WebSocket中传输（就能走CDN）基于ws的内网穿透 隧道代理 tcp2ws  全平台0依赖 (2 days ago)
+- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 (1 day ago)
 
-- [MexHigh/Cloudflare-Workers-URL-Shortener](https://github.com/MexHigh/Cloudflare-Workers-URL-Shortener) - URL shortener with simple admin frontend and extension for Chrome (with auto-login) on top of Cloudflare Workers (2 days ago)
+- [DavidWells/netlify-functions-workshop](https://github.com/DavidWells/netlify-functions-workshop) - Netlify Serverless Functions Workshop (2 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
@@ -76,11 +76,11 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on hashnode)
 
-- [Young artist dedicated to passing down the craft of tongcao flowers making](https://hackpig520.hashnode.dev/young-artist-dedicated-to-passing-down-the-craft-of-tongcao-flowers-making) (5 days ago)
+- [Young artist dedicated to passing down the craft of tongcao flowers making](https://hackpig520.hashnode.dev/young-artist-dedicated-to-passing-down-the-craft-of-tongcao-flowers-making) (6 days ago)
 
-- [China unveils blueprint for propelling digital development through 2035](https://hackpig520.hashnode.dev/china-unveils-blueprint-for-propelling-digital-development-through-2035) (6 days ago)
+- [China unveils blueprint for propelling digital development through 2035](https://hackpig520.hashnode.dev/china-unveils-blueprint-for-propelling-digital-development-through-2035) (1 week ago)
 
-- [jQuery 点击按钮元素移动动画](https://hackpig520.hashnode.dev/jquery-01) (6 days ago)
+- [jQuery 点击按钮元素移动动画](https://hackpig520.hashnode.dev/jquery-01) (1 week ago)
 
 - [First &#39;forest library&#39; in Shanghai opens to public](https://hackpig520.hashnode.dev/first-forest-library-in-shanghai-opens-to-public) (1 week ago)
 
