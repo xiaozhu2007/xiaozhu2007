@@ -38,15 +38,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (3 days ago)
+- [xiaozhu2007/LAds](https://github.com/xiaozhu2007/LAds) - 自用浏览器通知广告平台 (1 day ago)
 
-- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (3 days ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (4 days ago)
 
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (3 days ago)
+- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (4 days ago)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (5 days ago)
+- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (4 days ago)
 
-- [xiaozhu2007/Fishing](https://github.com/xiaozhu2007/Fishing) - 钓鱼 (1 week ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (6 days ago)
 
 #### 🔭 Latest releases
 
@@ -60,15 +60,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！ (2 days ago)
+- [tabtang/bmshAd](https://github.com/tabtang/bmshAd) - 一个JS跨域广告加载插件（自用） (1 day ago)
 
-- [TGSAN/UCEditors](https://github.com/TGSAN/UCEditors) - 震惊！UC编辑部工具惨遭开源！ (2 days ago)
+- [diafygi/webrtc-ips](https://github.com/diafygi/webrtc-ips) - Demo: https://diafygi.github.io/webrtc-ips/ (1 day ago)
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 days ago)
+- [Open-Web-Analytics/Open-Web-Analytics](https://github.com/Open-Web-Analytics/Open-Web-Analytics) - Official repository for Open Web Analytics which is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app.  Please consider sponsoring this project. (1 day ago)
 
-- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 (2 days ago)
+- [TingGe/web-analytics](https://github.com/TingGe/web-analytics) - 监测分析、异常监测、广告验证、访客唯一标识 (1 day ago)
 
-- [DavidWells/netlify-functions-workshop](https://github.com/DavidWells/netlify-functions-workshop) - Netlify Serverless Functions Workshop (3 days ago)
+- [yellowmessenger/demos](https://github.com/yellowmessenger/demos) - advertisement (1 day ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
