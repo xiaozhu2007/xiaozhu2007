@@ -38,15 +38,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/LAds](https://github.com/xiaozhu2007/LAds) - 自用浏览器通知广告平台 (1 day ago)
+- [xiaozhu2007/LAds](https://github.com/xiaozhu2007/LAds) - 自用浏览器通知广告平台 (2 days ago)
 
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (4 days ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (5 days ago)
 
-- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (4 days ago)
+- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (5 days ago)
 
-- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (4 days ago)
+- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (5 days ago)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (6 days ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 week ago)
 
 #### 🔭 Latest releases
 
@@ -60,15 +60,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [tabtang/bmshAd](https://github.com/tabtang/bmshAd) - 一个JS跨域广告加载插件（自用） (1 day ago)
+- [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH. (1 day ago)
 
-- [diafygi/webrtc-ips](https://github.com/diafygi/webrtc-ips) - Demo: https://diafygi.github.io/webrtc-ips/ (1 day ago)
+- [tvvocold/FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev) - A hub of Free and open-source software for developers (1 day ago)
 
-- [Open-Web-Analytics/Open-Web-Analytics](https://github.com/Open-Web-Analytics/Open-Web-Analytics) - Official repository for Open Web Analytics which is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app.  Please consider sponsoring this project. (1 day ago)
+- [zhaodaoai/Makers-Union](https://github.com/zhaodaoai/Makers-Union) - Makers Union 创作者联盟 💍 (1 day ago)
 
-- [TingGe/web-analytics](https://github.com/TingGe/web-analytics) - 监测分析、异常监测、广告验证、访客唯一标识 (1 day ago)
+- [codegolf/ping](https://github.com/codegolf/ping) - A minimalistic game in &lt; 256 bytes of HTML and JS (1 day ago)
 
-- [yellowmessenger/demos](https://github.com/yellowmessenger/demos) - advertisement (1 day ago)
+- [tabtang/bmshAd](https://github.com/tabtang/bmshAd) - 一个JS跨域广告加载插件（自用） (2 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
