@@ -38,7 +38,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/error](https://github.com/xiaozhu2007/error) - STATIC.CYFAN.GA - 存放各种可能用到的恶意文件 (2 days ago)
+- [oslook/THIS_REPO_HAS_84_STARS](https://github.com/oslook/THIS_REPO_HAS_84_STARS) - Click Star ⭐️ to see Github Actions, your name will be in README.md 😀 (today)
 
 - [xiaozhu2007/LAds](https://github.com/xiaozhu2007/LAds) - 自用浏览器通知广告平台 (4 days ago)
 
@@ -60,15 +60,15 @@ Length: 250 [text/x-plain]
 
 
 
+- [sharmajv/vpn](https://github.com/sharmajv/vpn) - VPN软件（小三VPN），完全免费，不注册，不限速，不限流，不看广告不流氓 (today)
+
+- [oslook/THIS_REPO_HAS_84_STARS](https://github.com/oslook/THIS_REPO_HAS_84_STARS) - Click Star ⭐️ to see Github Actions, your name will be in README.md 😀 (today)
+
+- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。 (today)
+
+- [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙 (today)
+
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH. (3 days ago)
-
-- [tvvocold/FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev) - A hub of Free and open-source software for developers (3 days ago)
-
-- [zhaodaoai/Makers-Union](https://github.com/zhaodaoai/Makers-Union) - Makers Union 创作者联盟 💍 (3 days ago)
-
-- [codegolf/ping](https://github.com/codegolf/ping) - A minimalistic game in &lt; 256 bytes of HTML and JS (3 days ago)
-
-- [tabtang/bmshAd](https://github.com/tabtang/bmshAd) - 一个JS跨域广告加载插件（自用） (4 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
