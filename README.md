@@ -38,7 +38,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [oslook/THIS_REPO_HAS_84_STARS](https://github.com/oslook/THIS_REPO_HAS_84_STARS) - Click Star ⭐️ to see Github Actions, your name will be in README.md 😀 (5 days ago)
+- [oslook/THIS_REPO_HAS_85_STARS](https://github.com/oslook/THIS_REPO_HAS_85_STARS) - Click Star ⭐️ to see Github Actions, your name will be in README.md 😀 (5 days ago)
 
 - [xiaozhu2007/LAds](https://github.com/xiaozhu2007/LAds) - 自用浏览器通知广告平台 (1 week ago)
 
@@ -66,7 +66,7 @@ Length: 250 [text/x-plain]
 
 - [sharmajv/vpn](https://github.com/sharmajv/vpn) - VPN软件（小三VPN），完全免费，不注册，不限速，不限流，不看广告不流氓 (5 days ago)
 
-- [oslook/THIS_REPO_HAS_84_STARS](https://github.com/oslook/THIS_REPO_HAS_84_STARS) - Click Star ⭐️ to see Github Actions, your name will be in README.md 😀 (5 days ago)
+- [oslook/THIS_REPO_HAS_85_STARS](https://github.com/oslook/THIS_REPO_HAS_85_STARS) - Click Star ⭐️ to see Github Actions, your name will be in README.md 😀 (5 days ago)
 
 - [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。 (5 days ago)
 
