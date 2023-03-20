@@ -52,7 +52,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.1.1](https://github.com/AGDDoS/AGDDoS/releases/tag/1.1.1), 3 months ago) - High-performance website testing tool written in Golang.
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.1.1](https://github.com/AGDDoS/AGDDoS/releases/tag/1.1.1), 4 months ago) - High-performance website testing tool written in Golang.
 
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) ([v2.1](https://github.com/xiaozhu2007/GitHosts/releases/tag/v2.1), 8 months ago) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题
 
@@ -60,15 +60,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers (today)
+- [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers (1 day ago)
 
-- [angulartics/angulartics](https://github.com/angulartics/angulartics) - Analytics for AngularJS applications. (2 days ago)
+- [angulartics/angulartics](https://github.com/angulartics/angulartics) - Analytics for AngularJS applications. (3 days ago)
 
-- [DavidWells/analytics](https://github.com/DavidWells/analytics) -  Lightweight analytics abstraction layer for tracking page views, custom events, &amp; identifying visitors          (2 days ago)
+- [DavidWells/analytics](https://github.com/DavidWells/analytics) -  Lightweight analytics abstraction layer for tracking page views, custom events, &amp; identifying visitors          (3 days ago)
 
-- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力 (2 days ago)
+- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力 (3 days ago)
 
-- [borabzdgn/rubyddos](https://github.com/borabzdgn/rubyddos) - Ruby HTTP DDOS Script (5 days ago)
+- [borabzdgn/rubyddos](https://github.com/borabzdgn/rubyddos) - Ruby HTTP DDOS Script (6 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
