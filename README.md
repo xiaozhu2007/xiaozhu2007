@@ -60,15 +60,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill. (1 day ago)
+- [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill. (2 days ago)
 
-- [inexorabletash/polyfill](https://github.com/inexorabletash/polyfill) - JavaScript Polyfills, Shims and More (1 day ago)
+- [inexorabletash/polyfill](https://github.com/inexorabletash/polyfill) - JavaScript Polyfills, Shims and More (2 days ago)
 
-- [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev (1 day ago)
+- [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev (2 days ago)
 
-- [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers (3 days ago)
+- [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers (4 days ago)
 
-- [angulartics/angulartics](https://github.com/angulartics/angulartics) - Analytics for AngularJS applications. (5 days ago)
+- [angulartics/angulartics](https://github.com/angulartics/angulartics) - Analytics for AngularJS applications. (6 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
@@ -76,7 +76,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on hashnode)
 
-- [How to Make an HTTP Request in JavaScript](https://blog.cyfan.ga/how-to-make-an-http-request-in-javascript) (3 days ago)
+- [How to Make an HTTP Request in JavaScript](https://blog.cyfan.ga/how-to-make-an-http-request-in-javascript) (4 days ago)
 
 - [How to Encode and Decode Base64 using JavaScript](https://blog.cyfan.ga/how-to-encode-and-decode-base64-using-javascript) (1 week ago)
 
