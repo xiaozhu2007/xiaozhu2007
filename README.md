@@ -40,15 +40,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [oslook/THIS_REPO_HAS_85_STARS](https://github.com/oslook/THIS_REPO_HAS_85_STARS) - Click Star ⭐️ to see Github Actions, your name will be in README.md 😀 (3 days ago)
+- [oslook/THIS_REPO_HAS_85_STARS](https://github.com/oslook/THIS_REPO_HAS_85_STARS) - Click Star ⭐️ to see Github Actions, your name will be in README.md 😀 (4 days ago)
 
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (6 days ago)
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (1 week ago)
 
 - [xiaozhu2007/LAds](https://github.com/xiaozhu2007/LAds) - 自用浏览器通知广告平台 (3 weeks ago)
 
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (3 weeks ago)
+- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (4 weeks ago)
 
-- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (3 weeks ago)
+- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (4 weeks ago)
 
 #### 🔭 Latest releases
 
@@ -62,23 +62,23 @@ Length: 250 [text/x-plain]
 
 
 
-- [chrisant996/clink](https://github.com/chrisant996/clink) - Bash&#39;s powerful command line editing in cmd.exe (1 day ago)
+- [doramatadora/edge-social-cards](https://github.com/doramatadora/edge-social-cards) - Social sharing cards generated on Fastly&#39;s Compute@Edge (1 day ago)
 
-- [journey-ad/chat-room](https://github.com/journey-ad/chat-room) - 一个普通的聊天室 (2 days ago)
+- [lotusbaba/Captcha-On-Edge](https://github.com/lotusbaba/Captcha-On-Edge) - Fastly Compute@Edge Captcha App built in Rust (1 day ago)
 
-- [dearbot/github-public-ip](https://github.com/dearbot/github-public-ip) - IP addresses of Github Hosted Runner (2 days ago)
+- [chrisant996/clink](https://github.com/chrisant996/clink) - Bash&#39;s powerful command line editing in cmd.exe (2 days ago)
 
-- [oslook/THIS_REPO_HAS_85_STARS](https://github.com/oslook/THIS_REPO_HAS_85_STARS) - Click Star ⭐️ to see Github Actions, your name will be in README.md 😀 (3 days ago)
+- [journey-ad/chat-room](https://github.com/journey-ad/chat-room) - 一个普通的聊天室 (3 days ago)
 
-- [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。 (3 days ago)
+- [dearbot/github-public-ip](https://github.com/dearbot/github-public-ip) - IP addresses of Github Hosted Runner (3 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
-- [[GitHosts]修改系统host实现Github的访问 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/githosts.html) (6 days ago)
+- [[GitHosts]修改系统host实现Github的访问 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/githosts.html) (1 week ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
-- [How to Make an HTTP Request in JavaScript](https://blog.cyfan.ga/how-to-make-an-http-request-in-javascript) (1 week ago)
+- [How to Make an HTTP Request in JavaScript](https://blog.cyfan.ga/how-to-make-an-http-request-in-javascript) (2 weeks ago)
 
 - [How to Encode and Decode Base64 using JavaScript](https://blog.cyfan.ga/how-to-encode-and-decode-base64-using-javascript) (2 weeks ago)
 
