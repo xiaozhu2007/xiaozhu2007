@@ -1,4 +1,4 @@
-> 真是糟心，蜘蛛又把cnblogs冲了，艹！https://www.cnblogs.com/cmt/p/17254793.html
+> 一个免费的在线IDE: [https://www.mycompiler.io/](http://adfoc.us/79133889171071)
 
 <h1 align="center"> 👋 Hi there, I'm xiaozhu2007</h1>
 <p align="center">
@@ -40,6 +40,8 @@ Length: 250 [text/x-plain]
 
 
 
+- [xiaozhu2007/hashnode](https://github.com/xiaozhu2007/hashnode) - Hashnode 博客备份 &amp; Github 推送发布 (today)
+
 - [uextra/uextra.github.io](https://github.com/uextra/uextra.github.io) - DataSets (3 days ago)
 
 - [oslook/THIS_REPO_HAS_86_STARS](https://github.com/oslook/THIS_REPO_HAS_86_STARS) - Click Star ⭐️ to see Github Actions, your name will be in README.md 😀 (1 week ago)
@@ -47,8 +49,6 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (1 week ago)
 
 - [xiaozhu2007/LAds](https://github.com/xiaozhu2007/LAds) - 自用浏览器通知广告平台 (4 weeks ago)
-
-- [xiaozhu2007/blog](https://github.com/xiaozhu2007/blog) - My blog based on Hexo and Netlify (1 month ago)
 
 #### 🔭 Latest releases
 
@@ -62,21 +62,23 @@ Length: 250 [text/x-plain]
 
 
 
+- [yazeedobaid/vue-http-status](https://github.com/yazeedobaid/vue-http-status) - A set of HTTP status pages implemented in Vuejs (today)
+
+- [RReverser/WiFi-Password](https://github.com/RReverser/WiFi-Password) - People ask you for the Wi-Fi password. Answer quickly. (today)
+
+- [SukkaW/cloudflare-workers-async-google-analytics](https://github.com/SukkaW/cloudflare-workers-async-google-analytics) - :cloud: The Cloudflare Workers implementation of an async Google Analytics (today)
+
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem. (1 day ago)
 
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (1 day ago)
-
-- [loveispapapa/txt_files](https://github.com/loveispapapa/txt_files) - ge zhong xiao shuo (1 day ago)
-
-- [ZALin/ESJZone-novel-mirror](https://github.com/ZALin/ESJZone-novel-mirror) - ESJZone 的小說備份 (1 day ago)
-
-- [liuli-moe/ZhuYanXue](https://github.com/liuli-moe/ZhuYanXue) - 整理的《朱颜血》小说 (1 day ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
 - [[GitHosts]修改系统host实现Github的访问 - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/githosts.html) (1 week ago)
 
 #### 📰 Latest posts (Based on hashnode)
+
+- [推荐几个 Midi 音乐播放软件](https://blog.cyfan.ga/midi) (5 days ago)
 
 - [How to Make an HTTP Request in JavaScript](https://blog.cyfan.ga/how-to-make-an-http-request-in-javascript) (2 weeks ago)
 
@@ -85,8 +87,6 @@ Length: 250 [text/x-plain]
 - [刘禛的一篇作文](https://blog.cyfan.ga/5l2c5pah) (3 weeks ago)
 
 - [How to Get the Number of Days in a Month in Python](https://blog.cyfan.ga/how-to-get-the-number-of-days-in-a-month-in-python) (1 month ago)
-
-- [Young artist dedicated to passing down the craft of tongcao flowers making](https://blog.cyfan.ga/young-artist-dedicated-to-passing-down-the-craft-of-tongcao-flowers-making) (1 month ago)
 
 #### 📰 Latest team blog posts
 
