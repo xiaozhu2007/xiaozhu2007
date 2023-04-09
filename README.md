@@ -6,13 +6,11 @@
     <img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)" />
   </div>
 </a>
-<a href="https://github.com/xiaozhu2007?from=profile">
-  <img align="left" src="docs/github-snake.svg" alt="甜力怕 的 贡献" />
-</a>
 
 - 🌱 I’m currently learning **JavaScript**
-
 - 📝 I regularly write articles on [Hashnode](https://hackpig520.hashnode.dev/) and [my own blog](https://xiaozhu2007.netlify.app/)
+- 🧧 Donate me at [爱发电](https://afdian.net/a/xiaozhu2021)
+- 
 
 ## 📄 Profile
 
