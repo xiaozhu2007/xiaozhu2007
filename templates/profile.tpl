@@ -1,17 +1,14 @@
-> 一个免费的在线IDE: [https://www.mycompiler.io/](http://adfoc.us/79133889171071)
+> 一个免费的在线 IDE: [https://www.mycompiler.io/](http://adfoc.us/79133889171071)
 
 <h1 align="center"> 👋 Hi there, I'm 甜力怕(HackPig520)</h1>
-<p align="center">
-  <a href="https://github.com/xiaozhu2007?from=profile">
-    <div align="right">
-      <img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)" />
-    </div>
-  </a>
-  <br />
-  <a href="https://github.com/xiaozhu2007?from=profile">
-    <img src="docs/github-snake.svg" alt="甜力怕 的 贡献" />
-  </a>
-</p>
+<a href="https://github.com/xiaozhu2007?from=profile">
+  <div align="right">
+    <img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)" />
+  </div>
+</a>
+<a href="https://github.com/xiaozhu2007?from=profile">
+  <img align="left" src="docs/github-snake.svg" alt="甜力怕 的 贡献" />
+</a>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -133,41 +130,3 @@ Want more? Click [here](https://github.com/xiaozhu2007/-) to explore more!
 ---
 
 [Blog](https://xiaozhu2007.netlify.app/) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [KOOK](https://kook.top/) | [HelloTools Cloud](https://yeeee.ml/)
-<!--
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
-傻逼吴佳琦
--->
