@@ -1,17 +1,14 @@
-> 一个免费的在线IDE: [https://www.mycompiler.io/](http://adfoc.us/79133889171071)
+> 一个免费的在线 IDE: [https://www.mycompiler.io/](http://adfoc.us/79133889171071)
 
 <h1 align="center"> 👋 Hi there, I'm 甜力怕(HackPig520)</h1>
-<p align="center">
-  <a href="https://github.com/xiaozhu2007?from=profile">
-    <div align="right">
-      <img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)" />
-    </div>
-  </a>
-  <br />
-  <a href="https://github.com/xiaozhu2007?from=profile">
-    <img src="docs/github-snake.svg" alt="甜力怕 的 贡献" />
-  </a>
-</p>
+<a href="https://github.com/xiaozhu2007?from=profile">
+  <div align="right">
+    <img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)" />
+  </div>
+</a>
+<a href="https://github.com/xiaozhu2007?from=profile">
+  <img align="left" src="docs/github-snake.svg" alt="甜力怕 的 贡献" />
+</a>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -66,15 +63,15 @@ Length: 250 [text/x-plain]
 
 
 
+- [sharkDoor/vpn-free-nodes](https://github.com/sharkDoor/vpn-free-nodes) - 不定时更新分享免费的vpn节点，主要提供免费Trojan节点和免费V2Ray节点，这两种协议是快速稳定的vpn代理协议，可以随时随地搭建自己的梯子科学上网 (today)
+
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository. (today)
+
 - [renbaoshuo/network-config](https://github.com/renbaoshuo/network-config) -  (3 days ago)
 
 - [ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo. (4 days ago)
 
 - [renbaoshuo/hexo-for-oiers](https://github.com/renbaoshuo/hexo-for-oiers) - A hexo blog template for oiers. (4 days ago)
-
-- [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo. (4 days ago)
-
-- [renbaoshuo/hexo-theme-pure](https://github.com/renbaoshuo/hexo-theme-pure) - 🎨 A pure, modern and simple theme for Hexo. (4 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
@@ -147,4 +144,3 @@ Want more? Click [here](https://github.com/xiaozhu2007/-) to explore more!
 ---
 
 [Blog](https://xiaozhu2007.netlify.app/) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [KOOK](https://kook.top/) | [HelloTools Cloud](https://yeeee.ml/)
-
