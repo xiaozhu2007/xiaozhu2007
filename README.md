@@ -1,11 +1,15 @@
 > 一个免费的在线IDE: [https://www.mycompiler.io/](http://adfoc.us/79133889171071)
 
-<h1 align="center"> 👋 Hi there, I'm xiaozhu2007</h1>
+<h1 align="center"> 👋 Hi there, I'm 甜力怕(HackPig520)</h1>
 <p align="center">
-  <img src="https://count.getloli.com/get/@xiaozhu2007" alt="甜力怕的主页访问次数" />
+  <a href="https://github.com/xiaozhu2007?from=profile">
+    <div align="right">
+      <img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)" />
+    </div>
+  </a>
   <br />
-  <a href="https://github.com/xiaozhu2007?from=ghchart.rshah.org">
-    <img src="https://ghchart.rshah.org/xiaozhu2007" alt="甜力怕的贡献" />
+  <a href="https://github.com/xiaozhu2007?from=profile">
+    <img src="docs/github-snake.svg" alt="甜力怕 的 贡献" />
   </a>
 </p>
 
