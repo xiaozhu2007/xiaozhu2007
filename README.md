@@ -61,6 +61,8 @@ Length: 250 [text/x-plain]
 
 
 
+- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav... (today)
+
 - [sharkDoor/vpn-free-nodes](https://github.com/sharkDoor/vpn-free-nodes) - 不定时更新分享免费的vpn节点，主要提供免费Trojan节点和免费V2Ray节点，这两种协议是快速稳定的vpn代理协议，可以随时随地搭建自己的梯子科学上网 (today)
 
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository. (today)
@@ -68,8 +70,6 @@ Length: 250 [text/x-plain]
 - [renbaoshuo/network-config](https://github.com/renbaoshuo/network-config) -  (3 days ago)
 
 - [ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo. (4 days ago)
-
-- [renbaoshuo/hexo-for-oiers](https://github.com/renbaoshuo/hexo-for-oiers) - A hexo blog template for oiers. (4 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
