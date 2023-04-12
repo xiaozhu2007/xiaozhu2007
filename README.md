@@ -39,15 +39,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (2 days ago)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (3 days ago)
 
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (2 days ago)
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (3 days ago)
 
-- [xiaozhu2007/hashnode](https://github.com/xiaozhu2007/hashnode) - Hashnode 博客备份 &amp; Github 推送发布 (6 days ago)
+- [xiaozhu2007/hashnode](https://github.com/xiaozhu2007/hashnode) - Hashnode 博客备份 &amp; Github 推送发布 (1 week ago)
 
 - [uextra/uextra.github.io](https://github.com/uextra/uextra.github.io) - DataSets (1 week ago)
 
-- [oslook/THIS_REPO_HAS_91_STARS](https://github.com/oslook/THIS_REPO_HAS_91_STARS) - Click Star ⭐️ to see Github Actions, your name will be in README.md 😀 (1 week ago)
+- [oslook/THIS_REPO_HAS_92_STARS](https://github.com/oslook/THIS_REPO_HAS_92_STARS) - Click Star ⭐️ to see Github Actions, your name will be in README.md 😀 (2 weeks ago)
 
 #### 🔭 Latest releases
 
@@ -61,15 +61,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible (1 day ago)
+- [sh1mmer/dnsserver.js](https://github.com/sh1mmer/dnsserver.js) - A DNS server for Node.js (1 day ago)
 
-- [KassuK1/BlackOut](https://github.com/KassuK1/BlackOut) - Plugin for meteor client adding more features mostly focusing on CPVP (1 day ago)
+- [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io (1 day ago)
 
-- [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android. (1 day ago)
+- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club&#39;s DNS through a GitHub repository (1 day ago)
 
-- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav... (2 days ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 day ago)
 
-- [sharkDoor/vpn-free-nodes](https://github.com/sharkDoor/vpn-free-nodes) - 不定时更新分享免费的vpn节点，主要提供免费Trojan节点和免费V2Ray节点，这两种协议是快速稳定的vpn代理协议，可以随时随地搭建自己的梯子科学上网 (2 days ago)
+- [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server (1 day ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
@@ -81,7 +81,7 @@ Length: 250 [text/x-plain]
 
 - [How to Make an HTTP Request in JavaScript](https://blog.cyfan.ga/how-to-make-an-http-request-in-javascript) (3 weeks ago)
 
-- [How to Encode and Decode Base64 using JavaScript](https://blog.cyfan.ga/how-to-encode-and-decode-base64-using-javascript) (3 weeks ago)
+- [How to Encode and Decode Base64 using JavaScript](https://blog.cyfan.ga/how-to-encode-and-decode-base64-using-javascript) (4 weeks ago)
 
 - [刘禛的一篇作文](https://blog.cyfan.ga/5l2c5pah) (1 month ago)
 
