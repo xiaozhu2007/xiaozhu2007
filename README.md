@@ -47,7 +47,7 @@ Length: 250 [text/x-plain]
 
 - [uextra/uextra.github.io](https://github.com/uextra/uextra.github.io) - DataSets (1 week ago)
 
-- [oslook/THIS_REPO_HAS_95_STARS](https://github.com/oslook/THIS_REPO_HAS_95_STARS) - Click Star ⭐️ to see Github Actions, your name will be in README.md 😀 (2 weeks ago)
+- [oslook/THIS_REPO_HAS_96_STARS](https://github.com/oslook/THIS_REPO_HAS_96_STARS) - Click Star ⭐️ to see Github Actions, your name will be in README.md 😀 (2 weeks ago)
 
 #### 🔭 Latest releases
 
