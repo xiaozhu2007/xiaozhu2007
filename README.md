@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (today)
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (1 day ago)
 
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (1 week ago)
 
@@ -47,7 +47,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/hashnode](https://github.com/xiaozhu2007/hashnode) - Hashnode 博客备份 &amp; Github 推送发布 (3 weeks ago)
 
-- [uextra/uextra.github.io](https://github.com/uextra/uextra.github.io) - DataSets (4 weeks ago)
+- [uextra/uextra.github.io](https://github.com/uextra/uextra.github.io) - DataSets (1 month ago)
 
 #### 🔭 Latest releases
 
