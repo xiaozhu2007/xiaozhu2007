@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (3 weeks ago)
+- [xiaozhu2007/lz-oss](https://github.com/xiaozhu2007/lz-oss) - The OSS for my Blog. (4 weeks ago)
 
 - [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (1 month ago)
 
@@ -61,15 +61,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) - Puppeteer Core fork that works with Cloudflare Browser Workers (5 days ago)
+- [andrewaeva/gobotnet](https://github.com/andrewaeva/gobotnet) - Pure HTTP and DNS Botnet written in Golang for Windows. (1 day ago)
 
-- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... (1 week ago)
+- [Macr0phag3/vscode-door](https://github.com/Macr0phag3/vscode-door) - 利用 vscode 配置制作后门 (1 day ago)
 
-- [mynameissami/DDoS-Simulator](https://github.com/mynameissami/DDoS-Simulator) - Distributed Denial of Service Attack Simulator (1 week ago)
+- [Macr0phag3/WebShells](https://github.com/Macr0phag3/WebShells) - Some cool WebShells (1 day ago)
 
-- [DanielRTeixeira/R.U.D.Y.](https://github.com/DanielRTeixeira/R.U.D.Y.) - R-U-Dead-Yet, or RUDY for short, implements the generic HTTP DoS attack via long form field submissions. (1 week ago)
+- [Macr0phag3/Zero-Width-Spaces-Hiden](https://github.com/Macr0phag3/Zero-Width-Spaces-Hiden) - Hide information using  Unicode(Zero-Width-Spaces). (1 day ago)
 
-- [gkbrk/slowloris](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool. Slowloris rewrite in Python. (1 week ago)
+- [Macr0phag3/ReIPDog](https://github.com/Macr0phag3/ReIPDog) -  用 Python 写的一个查询旁站的脚本 (1 day ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
