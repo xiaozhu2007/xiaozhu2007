@@ -61,15 +61,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [magisterquis/dnsbotnet](https://github.com/magisterquis/dnsbotnet) - DNS Botnet Server and Client (2 days ago)
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (1 day ago)
 
-- [ym2011/SecurityTechnique](https://github.com/ym2011/SecurityTechnique) - Security technique  research and some funny work on it !  (2 days ago)
+- [DNSPod/oh-my-free-data](https://github.com/DNSPod/oh-my-free-data) - 整理一些 DNSPod 开放数据 (1 day ago)
 
-- [andrewaeva/gobotnet](https://github.com/andrewaeva/gobotnet) - Pure HTTP and DNS Botnet written in Golang for Windows. (4 days ago)
+- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins (1 day ago)
 
-- [Macr0phag3/vscode-door](https://github.com/Macr0phag3/vscode-door) - 利用 vscode 配置制作后门 (4 days ago)
+- [DNSPod/dnspod-sr](https://github.com/DNSPod/dnspod-sr) - A faster recursive dns server from DNSPod (1 day ago)
 
-- [Macr0phag3/WebShells](https://github.com/Macr0phag3/WebShells) - Some cool WebShells (4 days ago)
+- [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives. (1 day ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
