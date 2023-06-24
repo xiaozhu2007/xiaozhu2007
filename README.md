@@ -1,7 +1,7 @@
 > 推荐： `Webhook as a Service` 提供平台: [查看介绍](https://github.com/xiaozhu2007/blog#%E5%85%B3%E4%BA%8E-repeatdev)
 
 <h1 align="center"> 👋 Hi there, I'm 甜力怕(HackPig520)</h1>
-<a href="https://github.com/xiaozhu2007?from=profile"><div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)"></div></a>
+<div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)"></div>
 
 - 🌱 I’m currently learning **JavaScript**
 - 📝 I regularly write articles on [Hashnode](https://hackpig520.hashnode.dev/) and [my own blog](https://xiaozhu2007.netlify.app/)
