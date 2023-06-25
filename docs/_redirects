@@ -1,0 +1,7 @@
+/gh/:owner/:project     https://github.com/:owner/:project
+/privacy-policy/        /?from=privacy-policy
+
+# Social links
+/github                 https://github.com/xiaozhu2007
+/twitch                 https://twitch.tv
+/youtube                https://www.youtube.com/channel/UCOE6Ckq2Pip08Ia1Zg6dUGA
