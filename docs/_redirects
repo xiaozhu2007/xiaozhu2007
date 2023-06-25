@@ -1,4 +1,5 @@
 /gh/:owner/:project     https://github.com/:owner/:project
+/gh/:owner              https://github.com/:owner
 /privacy-policy/        /?from=privacy-policy
 
 # Social links
