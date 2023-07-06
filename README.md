@@ -57,8 +57,6 @@ Length: 250 [text/x-plain]
 
 
 
-- [hackpig520/first-repository](https://github.com/hackpig520/first-repository) -  (4 days ago)
-
 - [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network. (5 days ago)
 
 - [netnr/workers](https://github.com/netnr/workers) - Cloudflare Workers (5 days ago)
@@ -66,6 +64,8 @@ Length: 250 [text/x-plain]
 - [ViaVersion/ViaRewind](https://github.com/ViaVersion/ViaRewind) - Allow 1.8.x and 1.7.x on your server. (5 days ago)
 
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard &#43; Chart &amp; UML Extensible. (5 days ago)
+
+- [koba04/swr-devtools](https://github.com/koba04/swr-devtools) - A DevTool for SWR (5 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
