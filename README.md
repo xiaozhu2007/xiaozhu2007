@@ -57,15 +57,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [swagkarna/Nivistealer](https://github.com/swagkarna/Nivistealer) - steal victim images  exact location device info and much more  (today)
+- [swagkarna/Nivistealer](https://github.com/swagkarna/Nivistealer) - steal victim images  exact location device info and much more  (1 day ago)
 
-- [galviy/Discord-IPLogger-HTTP](https://github.com/galviy/Discord-IPLogger-HTTP) -  (today)
+- [galviy/Discord-IPLogger-HTTP](https://github.com/galviy/Discord-IPLogger-HTTP) -  (1 day ago)
 
-- [slarkvan/Block-Pornographic-Replies](https://github.com/slarkvan/Block-Pornographic-Replies) - 屏蔽推特回复下的黄推。Block pornographic replies below the tweet. (today)
+- [slarkvan/Block-Pornographic-Replies](https://github.com/slarkvan/Block-Pornographic-Replies) - 屏蔽推特回复下的黄推。Block pornographic replies below the tweet. (1 day ago)
 
-- [virajmane/IPLogger](https://github.com/virajmane/IPLogger) - URL Shortener and IP Logger. Gives information about User agent and IP location. (today)
+- [virajmane/IPLogger](https://github.com/virajmane/IPLogger) - URL Shortener and IP Logger. Gives information about User agent and IP location. (1 day ago)
 
-- [buf1024/app-release](https://github.com/buf1024/app-release) -  (2 days ago)
+- [buf1024/app-release](https://github.com/buf1024/app-release) -  (3 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
