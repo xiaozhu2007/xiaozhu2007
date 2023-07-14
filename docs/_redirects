@@ -8,4 +8,5 @@
 /youtube                https://www.youtube.com/channel/UCOE6Ckq2Pip08Ia1Zg6dUGA
 
 # Other links
-/v2.txt                 /fxxk.txt?code=v2
+/v2-node/:code          /fxxk.txt?code=:code
+/v2.txt                 /fxxk.txt?code=default
