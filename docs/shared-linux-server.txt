@@ -1,0 +1,10 @@
+[!] SSH Interface 由 Tmate.io 提供(第三方)
+[!] 服务器数据由 UExtra 免费提供(无 SLA 保障)
+---
+免费服务器一号:
+[*] 下方地址为同一台服务器, 如果无法连接, 请等5分钟后尝试更换地址
+[!] 无 SLA 保障
+$ ssh htbot/858706f5-4044-4677-b964-dc4fc83f6945@nyc1.tmate.io
+$ ssh htbot/858706f5-4044-4677-b964-dc4fc83f6945@sfo2.tmate.io
+---
+Copyright 2023 UExtra@Github
