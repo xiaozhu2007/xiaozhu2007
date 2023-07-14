@@ -9,4 +9,4 @@
 
 # Other links (PROXY MODE)
 /v2-node/:code          /fxxk.txt?code=:code     200
-/v2.txt                 /fxxk.txt?code=default   200
+/v2                     /fxxk.txt?code=default   200
