@@ -35,6 +35,8 @@ Length: 250 [text/x-plain]
 
 
 
+- [xiaozhu2007/v2free](https://github.com/xiaozhu2007/v2free) - VFree 自动签到（多账号支持）参考 xiangxingxing/v2free_auto_sign (today)
+
 - [xiaozhu2007/-](https://github.com/xiaozhu2007/-) - 一个镜像站搜集站点 (1 week ago)
 
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (2 weeks ago)
@@ -42,8 +44,6 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (2 weeks ago)
 
 - [xiaozhu2007/sw.js](https://github.com/xiaozhu2007/sw.js) - Service Worker for Everyone (3 weeks ago)
-
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (3 weeks ago)
 
 #### 🔭 Latest releases
 
@@ -73,15 +73,15 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on hashnode)
 
+- [Introduce HTDNS(IPV6)](https://hackpig520.hashnode.dev/introduce-htdns) (today)
+
+- [Why DNS Privacy is Especially Important](https://hackpig520.hashnode.dev/why-dns-privacy-is-especially-important) (1 day ago)
+
 - [What is &#34;114514&#34;?](https://hackpig520.hashnode.dev/what-is-114514) (1 week ago)
 
 - [【镜像站】关于镜像站被屏蔽这件事](https://hackpig520.hashnode.dev/44cq6zwc5yop56uz44cr5ywz5lqo6zwc5yop56uz6kkr5bgp6js96lz5lu25lqlica) (2 weeks ago)
 
 - [关于 Cloudflare Snippets 的一段介绍](https://hackpig520.hashnode.dev/cloudflare-snippets) (3 weeks ago)
-
-- [推荐几个 Midi 音乐播放软件](https://hackpig520.hashnode.dev/midi) (3 months ago)
-
-- [How to Make an HTTP Request in JavaScript](https://hackpig520.hashnode.dev/how-to-make-an-http-request-in-javascript) (3 months ago)
 
 #### 📰 Latest team blog posts
 
