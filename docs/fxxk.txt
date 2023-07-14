@@ -1,4 +1,6 @@
-[*] 由 UExtra Inc 免费提供
+[!] 代理流量由 V2FREE 提供(第三方)
+[*] 下方数据由 UExtra 破解
+[*] 网站基于 CloudFlare Pages
 [*] 最新可访问地址: https://xiaozhu2007.pages.dev/v2.txt
 ---
 订阅链接列表(导入 Clash):
