@@ -1,6 +1,14 @@
+# 添加安全标头
 /*
   Access-Control-Allow-Origin: *
-/fxxk.txt
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+# 添加元信息标头
+/:path
   X-Server: CloudFlare
   X-Author: HackPig520
-  X-Source: github.com/xiaozhu2007/xiaozhu2007
+  X-Source: github.com/xiaozhu2007/xiaozhu2007/blob/main/docs/:path
+# 添加禁止收录标头
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
