@@ -1,0 +1,23 @@
+[*] 由 UExtra Inc 免费提供
+[*] 最新可访问地址: https://xiaozhu2007.pages.dev/v2.txt
+---
+订阅链接列表(导入 Clash):
+https://v1.v2ai.top/link/J6neTlB8eK2xbpjr?clash=1
+https://v1.v2ai.top/link/UKsAsVdWCn48Xf0a?clash=1
+---
+订阅链接列表(导入 V2rayN/V2rayA):
+https://v1.v2ai.top/link/J6neTlB8eK2xbpjr?sub=3
+https://v1.v2ai.top/link/UKsAsVdWCn48Xf0a?sub=3
+---
+更新日志:
+* 2023/07/14 增加代理节点 [NEW]
+* 2023/07/13 增加代理节点
+* 2023/07/12 完善文档
+* 2023/06/28 增加代理节点
+* 2023/06/20 开始运营
+---
+Copyright 2023 UExtra @UExtra
+---
+调试信息(您无需关注这些信息):
+J6XXXX:55fXXXX5#xyz.fun
+UKXXXX:dnX@xyz.fun
