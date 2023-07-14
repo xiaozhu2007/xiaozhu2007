@@ -7,6 +7,6 @@
 /twitch                 https://twitch.tv
 /youtube                https://www.youtube.com/channel/UCOE6Ckq2Pip08Ia1Zg6dUGA
 
-# Other links
-/v2-node/:code          /fxxk.txt?code=:code
-/v2.txt                 /fxxk.txt?code=default
+# Other links (PROXY MODE)
+/v2-node/:code          /fxxk.txt?code=:code     200
+/v2.txt                 /fxxk.txt?code=default   200
