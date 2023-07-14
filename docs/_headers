@@ -12,3 +12,6 @@
 # 添加禁止收录标头
 https://:project.pages.dev/*
   X-Robots-Tag: noindex
+# 其他标头
+/v2-node/:code
+  X-Invite-Code: :code
