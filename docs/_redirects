@@ -1,11 +1,11 @@
-/gh/:owner/:project     https://github.com/:owner/:project
-/gh/:owner              https://github.com/:owner
-/privacy-policy/        /?from=privacy-policy
+/gh/:owner/:project     https://adfoc.us/serve/sitelinks/?id=791338&url=https://github.com/:owner/:project
+/gh/:owner              https://adfoc.us/serve/sitelinks/?id=791338&url=https://github.com/:owner
+/privacy-policy/        https://adfoc.us/serve/sitelinks/?id=791338&url=https://xiaozhu2007.pages.dev/?from=privacy-policy
 
 # Social links
 /github                 https://github.com/xiaozhu2007
-/twitch                 https://twitch.tv/
-/youtube                https://www.youtube.com/channel/UCOE6Ckq2Pip08Ia1Zg6dUGA
+/twitch                 https://adfoc.us/serve/sitelinks/?id=791338&url=https://twitch.tv/
+/youtube                https://adfoc.us/serve/sitelinks/?id=791338&url=https://www.youtube.com/channel/UCOE6Ckq2Pip08Ia1Zg6dUGA
 
 # Other links
 /v2                     https://adfoc.us/serve/sitelinks/?id=791338&url=https://xiaozhu2007.pages.dev/v2-node/0
