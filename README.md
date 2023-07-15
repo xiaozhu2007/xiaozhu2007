@@ -35,15 +35,15 @@ Length: 250 [text/x-plain]
 
 
 
+- [HelloTools-bot/-](https://github.com/HelloTools-bot/-) - :star: ShellCode - Use Minecraft to mine XMR! (today)
+
 - [xiaozhu2007/v2free](https://github.com/xiaozhu2007/v2free) - VFree 自动签到（多账号支持）参考 xiangxingxing/v2free_auto_sign (today)
 
-- [xiaozhu2007/-](https://github.com/xiaozhu2007/-) - 一个镜像站搜集站点 (1 week ago)
+- [xiaozhu2007/-](https://github.com/xiaozhu2007/-) - 一个镜像站搜集站点 (2 weeks ago)
 
 - [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (2 weeks ago)
 
-- [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (2 weeks ago)
-
-- [xiaozhu2007/sw.js](https://github.com/xiaozhu2007/sw.js) - Service Worker for Everyone (3 weeks ago)
+- [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (3 weeks ago)
 
 #### 🔭 Latest releases
 
@@ -57,25 +57,25 @@ Length: 250 [text/x-plain]
 
 
 
-- [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) - Fabric mod to connect to EVERY Minecraft server version (Release, Beta, Alpha, Classic, Snapshots, Bedrock) with QoL fixes to the gameplay (today)
+- [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) - Fabric mod to connect to EVERY Minecraft server version (Release, Beta, Alpha, Classic, Snapshots, Bedrock) with QoL fixes to the gameplay (1 day ago)
 
-- [PieKing1215/InvMove](https://github.com/PieKing1215/InvMove) - Minecraft Forge/Fabric/Quilt mod that adds the ability to walk around while in inventories  (today)
+- [PieKing1215/InvMove](https://github.com/PieKing1215/InvMove) - Minecraft Forge/Fabric/Quilt mod that adds the ability to walk around while in inventories  (1 day ago)
 
-- [discord/discord-example-app](https://github.com/discord/discord-example-app) - Basic Discord app with examples (today)
+- [discord/discord-example-app](https://github.com/discord/discord-example-app) - Basic Discord app with examples (1 day ago)
 
-- [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com (1 day ago)
+- [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com (2 days ago)
 
-- [dickriding/Ddos-Archive](https://github.com/dickriding/Ddos-Archive) - Method Archive (Layer3 / Layer4 / Layer7 / Bypass &#43; Various Other scripts) (1 day ago)
+- [dickriding/Ddos-Archive](https://github.com/dickriding/Ddos-Archive) - Method Archive (Layer3 / Layer4 / Layer7 / Bypass &#43; Various Other scripts) (2 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
-- [如何使用 CloudFlare D1 来搭建评论服务？ - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/d1-demo.html) (3 weeks ago)
+- [如何使用 CloudFlare D1 来搭建评论服务？ - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/d1-demo.html) (4 weeks ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
-- [Introduce HTDNS(IPV6)](https://hackpig520.hashnode.dev/introduce-htdns) (today)
+- [Introduce HTDNS(IPV6)](https://hackpig520.hashnode.dev/introduce-htdns) (1 day ago)
 
-- [Why DNS Privacy is Especially Important](https://hackpig520.hashnode.dev/why-dns-privacy-is-especially-important) (1 day ago)
+- [Why DNS Privacy is Especially Important](https://hackpig520.hashnode.dev/why-dns-privacy-is-especially-important) (2 days ago)
 
 - [What is &#34;114514&#34;?](https://hackpig520.hashnode.dev/what-is-114514) (1 week ago)
 
