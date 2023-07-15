@@ -4,9 +4,10 @@
 
 # Social links
 /github                 https://github.com/xiaozhu2007
-/twitch                 https://twitch.tv
+/twitch                 https://twitch.tv/
 /youtube                https://www.youtube.com/channel/UCOE6Ckq2Pip08Ia1Zg6dUGA
 
-# Other links (PROXY MODE)
-/v2-node/:code          /fxxk.txt?code=:code     200
-/v2                     /fxxk.txt?code=default   200
+# Other links
+/v2                     https://adfoc.us/serve/sitelinks/?id=791338&url=https://xiaozhu2007.pages.dev/v2-node/0
+# PROXY MODE
+/v2-node/:code          /fxxk.txt?c=:code             200
