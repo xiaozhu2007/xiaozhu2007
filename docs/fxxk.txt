@@ -1,12 +1,12 @@
 [!] 代理流量由 V2FREE 提供(第三方)
-[!] 订阅数据由 UExtra 破解
+[*] 订阅数据由 UExtra 提供
 ---
 订阅链接列表(导入 Clash):
 https://v1.v2ai.top/link/J6neTlB8eK2xbpjr?clash=1
 https://v1.v2ai.top/link/UKsAsVdWCn48Xf0a?clash=1
 https://v1.v2ai.top/link/71CfD03nQpwvSIGA?clash=1
 ---
-订阅链接列表(导入 V2rayN 如有重复则为不同账号):
+订阅链接列表(导入 V2rayN 如有重复则为不同的 V2FREE 账号):
 vmess://eyJ2IjoyLCJwcyI6IkRFLXYxMTctIiwiYWRkIjoidjExNy50b2RkbnMuZ3EiLCJwb3J0Ijo4MCwiaWQiOiJjYjJjNzM2NS1kMmQwLTMzZTQtOGQ4YS1kYzQ4MGNiOWMyYjciLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii92MTE3REVjeERYeHhPdkQiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoyLCJwcyI6IkZSLXYxMDEtIiwiYWRkIjoidjEwMS50b2RkbnMuZ3EiLCJwb3J0Ijo4MCwiaWQiOiJjYjJjNzM2NS1kMmQwLTMzZTQtOGQ4YS1kYzQ4MGNiOWMyYjciLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9mcmZyeHh4MGZrODMydjEwMU4iLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoyLCJwcyI6IkZSLXYxMzMtIiwiYWRkIjoidjEzMy50b2RkbnMuZ3EiLCJwb3J0Ijo4MCwiaWQiOiJjYjJjNzM2NS1kMmQwLTMzZTQtOGQ4YS1kYzQ4MGNiOWMyYjciLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii92MTMzUERYa2tseExFY092RCIsInRscyI6IiJ9
@@ -43,7 +43,8 @@ vmess://eyJ2IjoyLCJwcyI6IlVTLXYxMTgtIiwiYWRkIjoidjExOC50b2RkbnMuZ3EiLCJwb3J0Ijo4
 vmess://eyJ2IjoyLCJwcyI6IlVTLXYxNDktIiwiYWRkIjoidjE0OS50b2RkbnMuZ3EiLCJwb3J0Ijo4MCwiaWQiOiI1ZWRmODU5MS01YzEzLTMyZTQtYWExNC05Y2E1MjY4YzFlYmYiLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii92MTQ5LWRza2RzNjUiLCJ0bHMiOiIifQ==
 ---
 更新日志:
-* 2023/07/14 增加代理节点 [NEW]
+* 2023/07/16 增加代理节点 [NEW]
+* 2023/07/14 增加代理节点
 * 2023/07/13 增加代理节点
 * 2023/07/12 完善文档
 * 2023/06/28 增加代理节点
