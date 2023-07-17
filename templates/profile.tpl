@@ -1,12 +1,10 @@
-> 推荐： `Webhook as a Service` 提供平台: [查看介绍](https://github.com/xiaozhu2007/blog#%E5%85%B3%E4%BA%8E-repeatdev)
-
 <h1 align="center"> 👋 Hi there, I'm 甜力怕(HackPig520)</h1>
 <div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)"></div>
 
 - 🌱 I’m currently learning **JavaScript**
 - 📝 I regularly write articles on [Hashnode](https://hackpig520.hashnode.dev/) and [my own blog](https://xiaozhu2007.netlify.app/)
 - 🧧 Donate me at [爱发电](https://afdian.net/a/xiaozhu2021)
-- 
+- 无
 
 ## 📄 Profile
 
@@ -33,21 +31,21 @@ Length: 250 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-{{range recentContributions 5 }}
+{{range recentContributions 1 }}
 
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
   {{- end}}
 
 #### 🔭 Latest releases
 
-{{range recentReleases 3 }}
+{{range recentReleases 1 }}
 
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
   {{- end}}
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-{{range recentStars 5 }}
+{{range recentStars 3 }}
 
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
   {{- end}}
@@ -61,7 +59,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on hashnode)
 
-{{- range rss "https://hackpig520.hashnode.dev/rss.xml" 5 }}
+{{- range rss "https://hackpig520.hashnode.dev/rss.xml" 1 }}
 
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
   {{- end }}
@@ -97,17 +95,6 @@ Length: 250 [text/x-plain]
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
 
-#### :heart: **Github Metrics**
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-#### :star: Pinned Repo(s)
-
-[![Pinned_GitHosts](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=GitHosts&show_owner=true)](https://github.com/xiaozhu2007/GitHosts)
-[![Pinned_X-Status](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=X-Status&show_owner=true)](https://github.com/xiaozhu2007/X-Status)
-[![javascript-tennis](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2021&repo=javascript-tetris&show_owner=true)](https://github.com/xiaozhu2021/javascript-tetris)
-[![javascript-pong](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2021&repo=javascript-pong&show_owner=true)](https://github.com/xiaozhu2021/javascript-pong)
-
 </details>
 <details>
   <summary>镜像站推荐(国内可访优先)</summary>
@@ -123,4 +110,4 @@ Want more? Click [here](https://github.com/xiaozhu2007/-) to explore more!
 
 ---
 
-[Blog](https://xiaozhu2007.netlify.app/) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [KOOK](https://kook.top/) | [HelloTools Cloud](https://yeeee.ml/)
+[Home](https://xiaozhu2007.pages.dev/) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [KOOK](https://kook.top/) | [HelloTools Cloud](https://yeeee.ml/)
