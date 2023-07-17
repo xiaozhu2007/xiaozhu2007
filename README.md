@@ -1,12 +1,10 @@
-> 推荐： `Webhook as a Service` 提供平台: [查看介绍](https://github.com/xiaozhu2007/blog#%E5%85%B3%E4%BA%8E-repeatdev)
-
 <h1 align="center"> 👋 Hi there, I'm 甜力怕(HackPig520)</h1>
 <div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)"></div>
 
 - 🌱 I’m currently learning **JavaScript**
 - 📝 I regularly write articles on [Hashnode](https://hackpig520.hashnode.dev/) and [my own blog](https://xiaozhu2007.netlify.app/)
 - 🧧 Donate me at [爱发电](https://afdian.net/a/xiaozhu2021)
-- 
+- 无
 
 ## 📄 Profile
 
@@ -37,35 +35,21 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/v2free](https://github.com/xiaozhu2007/v2free) - VFree 自动签到（多账号支持）参考 xiangxingxing/v2free_auto_sign (1 day ago)
 
-- [HelloTools-bot/-](https://github.com/HelloTools-bot/-) - :star: ShellCode - Use Minecraft to mine XMR! (2 days ago)
-
-- [xiaozhu2007/-](https://github.com/xiaozhu2007/-) - 一个镜像站搜集站点 (2 weeks ago)
-
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) -  (3 weeks ago)
-
-- [xiaozhu2007/xiaozhu2007.github.io](https://github.com/xiaozhu2007/xiaozhu2007.github.io) -  (3 weeks ago)
-
 #### 🔭 Latest releases
 
 
 
 - [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.1.1](https://github.com/AGDDoS/AGDDoS/releases/tag/1.1.1), 7 months ago) - High-performance website testing tool written in Golang.
 
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) ([v2.1](https://github.com/xiaozhu2007/GitHosts/releases/tag/v2.1), 1 year ago) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题
-
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
+- [Aloento/CraftServer](https://github.com/Aloento/CraftServer) - A community-based Minecraft server / 一个社区维护的自由Minecraft服务器 (today)
+
 - [sdwoodbury/UDP_Flood](https://github.com/sdwoodbury/UDP_Flood) - a udp flood attack (1 day ago)
 
 - [afshinm/flood.js](https://github.com/afshinm/flood.js) - TCP/UDP/HTTP Flood Application in NodeJs (1 day ago)
-
-- [zhenbianshu/gotorch](https://github.com/zhenbianshu/gotorch) - a task management system (cron &#43; ) written in go (2 days ago)
-
-- [yitd/Any-Proxy](https://github.com/yitd/Any-Proxy) - Any-Proxy可以用PHP帮助你完美匿名反向代理浏览任何网站 (2 days ago)
-
-- [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable (2 days ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
@@ -74,14 +58,6 @@ Length: 250 [text/x-plain]
 #### 📰 Latest posts (Based on hashnode)
 
 - [Introduce HTDNS(IPV6)](https://hackpig520.hashnode.dev/introduce-htdns) (3 days ago)
-
-- [Why DNS Privacy is Especially Important](https://hackpig520.hashnode.dev/why-dns-privacy-is-especially-important) (4 days ago)
-
-- [What is &#34;114514&#34;?](https://hackpig520.hashnode.dev/what-is-114514) (1 week ago)
-
-- [【镜像站】关于镜像站被屏蔽这件事](https://hackpig520.hashnode.dev/44cq6zwc5yop56uz44cr5ywz5lqo6zwc5yop56uz6kkr5bgp6js96lz5lu25lqlica) (2 weeks ago)
-
-- [关于 Cloudflare Snippets 的一段介绍](https://hackpig520.hashnode.dev/cloudflare-snippets) (4 weeks ago)
 
 #### 📰 Latest team blog posts
 
@@ -111,17 +87,6 @@ Length: 250 [text/x-plain]
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
 
-#### :heart: **Github Metrics**
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-#### :star: Pinned Repo(s)
-
-[![Pinned_GitHosts](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=GitHosts&show_owner=true)](https://github.com/xiaozhu2007/GitHosts)
-[![Pinned_X-Status](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2007&repo=X-Status&show_owner=true)](https://github.com/xiaozhu2007/X-Status)
-[![javascript-tennis](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2021&repo=javascript-tetris&show_owner=true)](https://github.com/xiaozhu2021/javascript-tetris)
-[![javascript-pong](https://github-readme-stats.vercel.app/api/pin/?username=xiaozhu2021&repo=javascript-pong&show_owner=true)](https://github.com/xiaozhu2021/javascript-pong)
-
 </details>
 <details>
   <summary>镜像站推荐(国内可访优先)</summary>
@@ -137,4 +102,4 @@ Want more? Click [here](https://github.com/xiaozhu2007/-) to explore more!
 
 ---
 
-[Blog](https://xiaozhu2007.netlify.app/) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [KOOK](https://kook.top/) | [HelloTools Cloud](https://yeeee.ml/)
+[Home](https://xiaozhu2007.pages.dev/) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [KOOK](https://kook.top/) | [HelloTools Cloud](https://yeeee.ml/)
