@@ -33,23 +33,23 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (today)
+- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (1 day ago)
 
 #### 🔭 Latest releases
 
 
 
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.1.1](https://github.com/AGDDoS/AGDDoS/releases/tag/1.1.1), 7 months ago) - High-performance website testing tool written in Golang.
+- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.1.1](https://github.com/AGDDoS/AGDDoS/releases/tag/1.1.1), 8 months ago) - High-performance website testing tool written in Golang.
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [DragonetMC/DragonProxy](https://github.com/DragonetMC/DragonProxy) - 🐲 A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers. (today)
+- [DragonetMC/DragonProxy](https://github.com/DragonetMC/DragonProxy) - 🐲 A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers. (1 day ago)
 
-- [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) - Download Minecraft worlds, extend server&#39;s render distance. 1.12.2 - 1.20.1 (today)
+- [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) - Download Minecraft worlds, extend server&#39;s render distance. 1.12.2 - 1.20.1 (1 day ago)
 
-- [xPaw/PHP-Minecraft-Query](https://github.com/xPaw/PHP-Minecraft-Query) - 🐘 PHP library to query Minecraft servers (today)
+- [xPaw/PHP-Minecraft-Query](https://github.com/xPaw/PHP-Minecraft-Query) - 🐘 PHP library to query Minecraft servers (1 day ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
@@ -57,7 +57,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on hashnode)
 
-- [免费不限流量上网神器，告别付费机场，再也不用担心节点流量不足和速度慢的问题](https://hackpig520.hashnode.dev/warplus) (today)
+- [免费不限流量上网神器，告别付费机场，再也不用担心节点流量不足和速度慢的问题](https://hackpig520.hashnode.dev/warplus) (1 day ago)
 
 #### 📰 Latest team blog posts
 
