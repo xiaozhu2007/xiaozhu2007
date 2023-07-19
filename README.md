@@ -33,7 +33,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (1 day ago)
+- [xiaozhu2007/docs](https://github.com/xiaozhu2007/docs) -  (2 days ago)
 
 #### 🔭 Latest releases
 
@@ -45,11 +45,11 @@ Length: 250 [text/x-plain]
 
 
 
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (today)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 day ago)
 
-- [buhe/build-your-own-x-zh](https://github.com/buhe/build-your-own-x-zh) - 🤓 Build your own (insert technology here) simplified chinese  version (today)
+- [buhe/build-your-own-x-zh](https://github.com/buhe/build-your-own-x-zh) - 🤓 Build your own (insert technology here) simplified chinese  version (1 day ago)
 
-- [pufferffish/wireproxy](https://github.com/pufferffish/wireproxy) - Wireguard client that exposes itself as a socks5 proxy (today)
+- [pufferffish/wireproxy](https://github.com/pufferffish/wireproxy) - Wireguard client that exposes itself as a socks5 proxy (1 day ago)
 
 #### 📰 Latest posts (Based on cnblogs)
 
@@ -57,7 +57,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on hashnode)
 
-- [免费不限流量上网神器，告别付费机场，再也不用担心节点流量不足和速度慢的问题](https://hackpig520.hashnode.dev/warplus) (1 day ago)
+- [免费不限流量上网神器，告别付费机场，再也不用担心节点流量不足和速度慢的问题](https://hackpig520.hashnode.dev/warplus) (2 days ago)
 
 #### 📰 Latest team blog posts
 
