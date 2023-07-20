@@ -90,10 +90,15 @@
           </div>
         </div>
         <button class="w-100 btn btn-lg btn-primary" type="submit">
-          Sign up for free
+          Sign in
         </button>
         <p class="mt-5 mb-3 text-muted">
-          Go to <a href="/user/login">Login</a>
+          <a href="https://github.com/cloudflare/turnstile-demo-workers"
+            ><i class="bi bi-github"></i> See code</a
+          >
+        </p>
+        <p class="mt-5 mb-3 text-muted">
+          Go to the <a href="/explicit">explicit render demo</a>
         </p>
       </form>
     </main>
@@ -101,11 +106,11 @@
       window.onloadTurnstileCallback = function () {
         /* 通过 Turnstile 验证客户端 */
         turnstile.render("#captcha", {
-          sitekey: "0x4AAAAAAAEKujSDWavWZyOL",
+          sitekey: "0x4AAAAAAAHnP7VTRPt0CB1u",
           // size: 'compact',
           callback: function (token) {
             let formData = new FormData();
-            formData.append("secret", "0x4AAAAAAAEKujbM0rbm0yVzTBpvo_mw99Y");
+            formData.append("secret", "0x4AAAAAAAHnP9EX4gOrMfrTGogv9Dq-GxE");
             formData.append("response", token);
             const url =
               "https://challenges.cloudflare.com/turnstile/v0/siteverify";
