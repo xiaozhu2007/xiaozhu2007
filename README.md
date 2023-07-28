@@ -33,35 +33,23 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2021/wgcf.conf](https://github.com/xiaozhu2021/wgcf.conf) - CloudFlare WARP&#43; 中提取的 WireGuard 配置 (today)
-
-#### 🔭 Latest releases
-
-
-
-- [AGDDoS/AGDDoS](https://github.com/AGDDoS/AGDDoS) ([1.1.1](https://github.com/AGDDoS/AGDDoS/releases/tag/1.1.1), 8 months ago) - High-performance website testing tool written in Golang.
+- [xiaozhu2007/cdn](https://github.com/xiaozhu2007/cdn) - HackPig520 CDN (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [XTLS/Xray-docs-next](https://github.com/XTLS/Xray-docs-next) - Xray-docs-next (today)
+- [mirlivaxs/iplogger](https://github.com/mirlivaxs/iplogger) - a JavaScript that sends ip to your webhook  (5 days ago)
 
-- [ChrAlpha/hexo-theme-cards](https://github.com/ChrAlpha/hexo-theme-cards) - Another Simple &amp; Swift theme for Hexo (today)
+#### 📰 Latest xLog posts
 
-- [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface (today)
+- [雷雨计划 - 我是这样优化用户体验的](https://xlog.app/api/redirection?characterId=57409&amp;noteId=33) (today)
 
-#### 📰 Latest posts (Based on cnblogs)
-
-- [如何使用 CloudFlare D1 来搭建评论服务？ - HackPig520](https://www.cnblogs.com/xiaozhu2020/p/d1-demo.html) (1 month ago)
+- [Pot 划词翻译 – 免费、方便的跨平台划词翻译工具，支持多个翻译源](https://xlog.app/api/redirection?characterId=57409&amp;noteId=32) (1 day ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
-- [免费不限流量上网神器，告别付费机场，再也不用担心节点流量不足和速度慢的问题](https://hackpig520.hashnode.dev/warplus) (2 days ago)
-
-#### 📰 Latest team blog posts
-
-- [如何使用 D1 来搭建评论服务？](https://blog.yeeee.ml/posts/d1-demo-guide.html) (5 months ago)
+- [Minecraft Game Mechanics: A Comprehensive Overview](https://hackpig520.hashnode.dev/minecraft-game-mechanics-a-comprehensive-overview) (5 days ago)
 
 <details>
   <summary>Click to expand elements that may affect loading. 点击展开可能影响加载的元素.</summary>
@@ -102,4 +90,4 @@ Want more? Click [here](https://github.com/xiaozhu2007/-) to explore more!
 
 ---
 
-[Home](https://xiaozhu2007.pages.dev/) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [KOOK](https://kook.top/) | [HelloTools Cloud](https://yeeee.ml/)
+[Home](https://xiaozhu2007.pages.dev/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#)
