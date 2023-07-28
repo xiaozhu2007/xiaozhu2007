@@ -36,23 +36,16 @@ Length: 250 [text/x-plain]
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
   {{- end}}
 
-#### 🔭 Latest releases
-
-{{range recentReleases 1 }}
-
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
-  {{- end}}
-
 #### ⭐ Recent Stars (Including **private** repo)
 
-{{range recentStars 3 }}
+{{range recentStars 1 }}
 
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
   {{- end}}
 
-#### 📰 Latest posts (Based on cnblogs)
+#### 📰 Latest xLog posts
 
-{{- range rss "https://feed.cnblogs.com/blog/u/609991/rss/" 1 }}
+{{- range rss "https://hackpig520.xlog.app/feed" 2 }}
 
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
   {{- end }}
@@ -60,13 +53,6 @@ Length: 250 [text/x-plain]
 #### 📰 Latest posts (Based on hashnode)
 
 {{- range rss "https://hackpig520.hashnode.dev/rss.xml" 1 }}
-
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-  {{- end }}
-
-#### 📰 Latest team blog posts
-
-{{- range rss "https://blog.yeeee.ml/feed.rss" 1 }}
 
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
   {{- end }}
@@ -110,4 +96,4 @@ Want more? Click [here](https://github.com/xiaozhu2007/-) to explore more!
 
 ---
 
-[Home](https://xiaozhu2007.pages.dev/) | [Status](https://hellotools.statuspage.io/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [KOOK](https://kook.top/) | [HelloTools Cloud](https://yeeee.ml/)
+[Home](https://xiaozhu2007.pages.dev/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#)
