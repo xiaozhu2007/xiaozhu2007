@@ -43,9 +43,9 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest xLog posts
 
-- [雷雨计划 - 我是这样优化用户体验的](https://xlog.app/api/redirection?characterId=57409&amp;noteId=33) (today)
-
 - [Pot 划词翻译 – 免费、方便的跨平台划词翻译工具，支持多个翻译源](https://xlog.app/api/redirection?characterId=57409&amp;noteId=32) (1 day ago)
+
+- [免费不限流量上网神器，告别付费机场，再也不用担心节点流量不足和速度慢的问题](https://xlog.app/api/redirection?characterId=57409&amp;noteId=29) (2 days ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
