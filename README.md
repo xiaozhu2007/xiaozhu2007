@@ -39,13 +39,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [mirlivaxs/iplogger](https://github.com/mirlivaxs/iplogger) - a JavaScript that sends ip to your webhook  (1 week ago)
+- [get-icon/geticon](https://github.com/get-icon/geticon) - Web / IT project stack / tool / technique icon / logo collection &amp; markdown / HTML generator :electron:🚀 (1 day ago)
 
 #### 📰 Latest xLog posts
 
-- [雷雨计划 - 我是这样优化用户体验的](https://xlog.app/api/redirection?characterId=57409&amp;noteId=33) (2 days ago)
+- [雷雨计划 - 我是这样优化用户体验的](https://xlog.app/api/redirection?characterId=57409&amp;noteId=33) (3 days ago)
 
-- [Pot 划词翻译 – 免费、方便的跨平台划词翻译工具，支持多个翻译源](https://xlog.app/api/redirection?characterId=57409&amp;noteId=32) (3 days ago)
+- [Pot 划词翻译 – 免费、方便的跨平台划词翻译工具，支持多个翻译源](https://xlog.app/api/redirection?characterId=57409&amp;noteId=32) (4 days ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
