@@ -33,19 +33,19 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/cdn](https://github.com/xiaozhu2007/cdn) - HackPig520 CDN (1 day ago)
+- [xiaozhu2021/xiaozhu2021.github.io](https://github.com/xiaozhu2021/xiaozhu2021.github.io) - My new post! (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [get-icon/geticon](https://github.com/get-icon/geticon) - Web / IT project stack / tool / technique icon / logo collection &amp; markdown / HTML generator :electron:🚀 (1 day ago)
+- [get-icon/geticon](https://github.com/get-icon/geticon) - Web / IT project stack / tool / technique icon / logo collection &amp; markdown / HTML generator :electron:🚀 (2 days ago)
 
 #### 📰 Latest xLog posts
 
-- [雷雨计划 - 我是这样优化用户体验的](https://xlog.app/api/redirection?characterId=57409&amp;noteId=33) (3 days ago)
+- [雷雨计划 - 我是这样优化用户体验的](https://xlog.app/api/redirection?characterId=57409&amp;noteId=33) (4 days ago)
 
-- [Pot 划词翻译 – 免费、方便的跨平台划词翻译工具，支持多个翻译源](https://xlog.app/api/redirection?characterId=57409&amp;noteId=32) (4 days ago)
+- [Pot 划词翻译 – 免费、方便的跨平台划词翻译工具，支持多个翻译源](https://xlog.app/api/redirection?characterId=57409&amp;noteId=32) (5 days ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
