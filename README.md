@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/v2free](https://github.com/xiaozhu2007/v2free) - VFree 自动签到（多账号支持）参考 xiangxingxing/v2free_auto_sign (today)
+- [xiaozhu2007/v2free](https://github.com/xiaozhu2007/v2free) - VFree 自动签到（多账号支持）参考 xiangxingxing/v2free_auto_sign (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [cccccccccccccccccccccccccccccccccc/cccccccccccccccccccccccccccccccccc](https://github.com/cccccccccccccccccccccccccccccccccc/cccccccccccccccccccccccccccccccccc) -  (today)
+- [cccccccccccccccccccccccccccccccccc/cccccccccccccccccccccccccccccccccc](https://github.com/cccccccccccccccccccccccccccccccccc/cccccccccccccccccccccccccccccccccc) -  (1 day ago)
 
 #### 📰 Latest xLog posts
 
