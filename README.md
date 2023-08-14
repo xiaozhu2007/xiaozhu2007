@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/cdn](https://github.com/xiaozhu2007/cdn) - cdn0 (HackPig520 CDN) (3 days ago)
+- [xiaozhu2007/v2free](https://github.com/xiaozhu2007/v2free) - VFree 自动签到（多账号支持）参考 xiangxingxing/v2free_auto_sign (4 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [spiritLHLS/Hang-up-items](https://github.com/spiritLHLS/Hang-up-items) - 问卷调查项目，云服务器推荐，挂机项目，免费代理，各种脚本收集。欢迎右上角点铃铛及时收取更新信息。(不要fork，低调) Questionnaire project, cloud server recommendation, hanging project, free proxy, various script collection. Welcome to the upper right corner of the point bell to receive timely updates. (Do not fork, low profile) (3 days ago)
+- [spiritLHLS/Hang-up-items](https://github.com/spiritLHLS/Hang-up-items) - 问卷调查项目，云服务器推荐，挂机项目，免费代理，各种脚本收集。欢迎右上角点铃铛及时收取更新信息。(不要fork，低调) Questionnaire project, cloud server recommendation, hanging project, free proxy, various script collection. Welcome to the upper right corner of the point bell to receive timely updates. (Do not fork, low profile) (4 days ago)
 
 #### 📰 Latest xLog posts
 
