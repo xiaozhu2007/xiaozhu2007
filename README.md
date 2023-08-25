@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas (1 day ago)
+- [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas (2 days ago)
 
 #### 📰 Latest xLog posts
 
@@ -49,7 +49,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on hashnode)
 
-- [日本福岛核废水排放报告](https://hackpig520.hashnode.dev/5pel5pys56ap5bkb5qc45bqf5rc05o6s5ps5oql5zgk) (today)
+- [日本福岛核废水排放报告](https://hackpig520.hashnode.dev/5pel5pys56ap5bkb5qc45bqf5rc05o6s5ps5oql5zgk) (1 day ago)
 
 <details>
   <summary>Click to expand elements that may affect loading. 点击展开可能影响加载的元素.</summary>
