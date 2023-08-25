@@ -214,7 +214,8 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJhd3Mt576O5Zu9IHwgaHR0cHM6Ly90Lm1lL3dhcnA1
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLmmbrliKkt5rWL6K+VIiwKICAiYWRkIjogInpsbC5uZHk1ODg1MC5tZSIsCiAgInBvcnQiOiAyMDk2LAogICJpZCI6ICJiM2M1ZWJjYy1hYzVkLTQzOGUtODIzNC1hYzg5YmU4OTRiNDgiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogInpsbC5uZHk1ODg1MC5tZSIsCiAgInBhdGgiOiAiL2RhZmFhNDUzNSIsCiAgInRscyI6ICJ0bHMiCn0=
 ---
 更新日志:
-* 2023/07/16 增加代理节点(群友提供) [NEW]
+* 2023/08/25 增加约 150 个代理节点(群友提供)
+* 2023/08/16 增加代理节点(群友提供) [NEW]
 * 2023/07/16 增加代理节点(UExtra 提供)
 * 2023/07/14 增加代理节点(UExtra 提供)
 * 2023/07/13 增加代理节点(群友提供)
@@ -223,8 +224,3 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLmmbrliKkt5rWL6K+VIiwKICAiYWRkIjogInpsbC5u
 * 2023/06/20 开始运营
 ---
 Copyright 2023 UExtra @UExtra
----
-调试信息(您无需关注这些信息):
-J6XXXX:55fXXXX#XXXX.fun
-UKXXXX:dXX#XXXX.fun
-71XXXX:hXX#XXXXX.org
