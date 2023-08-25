@@ -49,11 +49,12 @@ vmess://eyJ2IjoyLCJwcyI6IlVTLXYxMTgtIiwiYWRkIjoidjExOC50b2RkbnMuZ3EiLCJwb3J0Ijo4
 vmess://eyJ2IjoyLCJwcyI6IlVTLXYxNDktIiwiYWRkIjoidjE0OS50b2RkbnMuZ3EiLCJwb3J0Ijo4MCwiaWQiOiI1ZWRmODU5MS01YzEzLTMyZTQtYWExNC05Y2E1MjY4YzFlYmYiLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii92MTQ5LWRza2RzNjUiLCJ0bHMiOiIifQ==
 ---
 更新日志:
-* 2023/07/16 增加代理节点 [NEW]
-* 2023/07/14 增加代理节点
-* 2023/07/13 增加代理节点
+* 2023/07/16 增加代理节点(群友提供) [NEW]
+* 2023/07/16 增加代理节点(UExtra 提供)
+* 2023/07/14 增加代理节点(UExtra 提供)
+* 2023/07/13 增加代理节点(群友提供)
 * 2023/07/12 完善文档
-* 2023/06/28 增加代理节点
+* 2023/06/28 增加代理节点(UExtra 提供)
 * 2023/06/20 开始运营
 ---
 Copyright 2023 UExtra @UExtra
