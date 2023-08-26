@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/v2free](https://github.com/xiaozhu2007/v2free) - VFree 自动签到（多账号支持）参考 xiangxingxing/v2free_auto_sign (2 weeks ago)
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas (2 days ago)
+- [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas (3 days ago)
 
 #### 📰 Latest xLog posts
 
@@ -49,7 +49,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on hashnode)
 
-- [日本福岛核废水排放报告](https://hackpig520.hashnode.dev/5pel5pys56ap5bkb5qc45bqf5rc05o6s5ps5oql5zgk) (1 day ago)
+- [日本福岛核废水排放报告](https://hackpig520.hashnode.dev/5pel5pys56ap5bkb5qc45bqf5rc05o6s5ps5oql5zgk) (2 days ago)
 
 <details>
   <summary>Click to expand elements that may affect loading. 点击展开可能影响加载的元素.</summary>
