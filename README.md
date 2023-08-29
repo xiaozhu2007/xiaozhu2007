@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (3 days ago)
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (4 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [johnnpeacock/CryptoNoter](https://github.com/johnnpeacock/CryptoNoter) - Archive April 102018 with CryptoNoter In-Browser Javascript Web Miner for Monero (XMR), Electroneum (ETN), Sumokoin (SUMO) &amp; ByteCoin (BCN) https://www.cryptonoter.com (1 day ago)
+- [Leeon123/CC-attack](https://github.com/Leeon123/CC-attack) - Using Socks4/5 or http proxies to make a multithreading Http-flood/Https-flood (cc) attack. (1 day ago)
 
 #### 📰 Latest xLog posts
 
@@ -49,7 +49,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on hashnode)
 
-- [日本福岛核废水排放报告](https://hackpig520.hashnode.dev/5pel5pys56ap5bkb5qc45bqf5rc05o6s5ps5oql5zgk) (4 days ago)
+- [日本福岛核废水排放报告](https://hackpig520.hashnode.dev/5pel5pys56ap5bkb5qc45bqf5rc05o6s5ps5oql5zgk) (5 days ago)
 
 <details>
   <summary>Click to expand elements that may affect loading. 点击展开可能影响加载的元素.</summary>
