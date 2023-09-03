@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Login | HackPig520 的小站</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.1/css/bootstrap.min.css"
+      integrity="sha512-siwe/oXMhSjGCwLn+scraPOWrJxHlUgMBMZXdPe2Tnk3I0x3ESCoLz7WZ5NTH6SZrywMY+PB1cjyqJ5jAluCOg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.9.1/font/bootstrap-icons.min.css"
+      integrity="sha512-5PV92qsds/16vyYIJo3T/As4m2d8b6oWYfoqV+vtizRB6KhF1F9kYzWzQmsO6T3z3QG2Xdhrx7FQ+5R1LiQdUA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <style>
+      html,
+      body {
+        height: 100%;
+      }
+
+      body {
+        display: flex;
+        align-items: center;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        background-color: #fefefe;
+      }
+
+      .form-signin {
+        width: 100%;
+        max-width: 330px;
+        padding: 15px;
+        margin: auto;
+      }
+
+      .form-signin .checkbox {
+        font-weight: 400;
+      }
+
+      .form-signin .form-floating:focus-within {
+        z-index: 2;
+      }
+
+      .form-signin input[type="text"] {
+        margin-bottom: -1px;
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+      }
+
+      .form-signin input[type="password"] {
+        margin-bottom: 10px;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="form-signin">
+      <form method="POST" action="/api/auth">
+        <h2 class="h3 mb-3 fw-normal">Login for HackPig520 的小站</h2>
+
+        <div class="form-floating">
+          <input type="text" id="user" class="form-control" />
+          <label for="user">Username</label>
+        </div>
+        <div class="form-floating">
+          <input
+            type="password"
+            id="pass"
+            class="form-control"
+            autocomplete="off"
+          />
+          <label for="pass">Password</label>
+        </div>
+
+        <div class="checkbox mb-3">
+          <div id="captcha">
+            <div id="captchaTips"><p style="text-align:center;">加载验证码中...</p></div>
+          </div>
+        </div>
+        <button class="w-100 btn btn-lg btn-primary" type="submit">
+          Login
+        </button>
+        <p class="mt-5 mb-3 text-muted">
+          Go to <a href="/user/signuo">Sign up</a>
+        </p>
+      </form>
+    </main>
+     <script src="https://challenges.cloudflare.com/turnstile/v0/api.js"></script>
+    <script>
+      window.onloadTurnstileCallback = function () {
+        /* 通过 Turnstile 验证客户端 */
+        turnstile.render("#captcha", {
+          sitekey: "0x4AAAAAAAHnP7VTRPt0CB1u",
+          // size: 'compact',
+          callback: function (token) {
+            let formData = new FormData();
+            formData.append("secret", "0x4AAAAAAAHnP9EX4gOrMfrTGogv9Dq-GxE");
+            formData.append("response", token);
+            const url =
+              "https://challenges.cloudflare.com/turnstile/v0/siteverify";
+            fetch(url, {
+              body: formData,
+              mode: "no-cors",
+              method: "POST"
+            });
+            document.getElementById("captchaTips").style.display = "none";
+            document.getElementById("captcha").style.display = "none";
+          }
+        });
+      };
+      turnstile.ready(onloadTurnstileCallback);
+    </script>
+  </body>
+</html>
