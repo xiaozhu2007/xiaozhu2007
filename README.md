@@ -39,11 +39,11 @@ Length: 250 [text/x-plain]
 
 
 
-- [CaiJimmy/card](https://github.com/CaiJimmy/card) - 🏚 A Material Design Homepage  (4 days ago)
+- [CaiJimmy/card](https://github.com/CaiJimmy/card) - 🏚 A Material Design Homepage  (5 days ago)
 
 #### 📰 Latest xLog posts
 
-- [File Doge —— 一个免费无广告文件分享服务](https://xlog.app/api/redirection?characterId=57409&amp;noteId=35) (3 weeks ago)
+- [File Doge —— 一个免费无广告文件分享服务](https://xlog.app/api/redirection?characterId=57409&amp;noteId=35) (4 weeks ago)
 
 - [使用 Coverview 快速创建博客封面图](https://xlog.app/api/redirection?characterId=57409&amp;noteId=34) (1 month ago)
 
