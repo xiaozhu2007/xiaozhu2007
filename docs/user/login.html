@@ -94,9 +94,9 @@
     <script>
       window.onloadTurnstileCallback = function () {
         /* 通过 Turnstile 验证客户端 */
+        document.getElementById("captchaTips").innerHTML = '<p style="text-align:center;">请完成下方的验证码</p>';
         turnstile.render("#captcha", {
           sitekey: "0x4AAAAAAAHnP7VTRPt0CB1u",
-          // size: 'compact',
           callback: function (token) {
             let formData = new FormData();
             formData.append("secret", "0x4AAAAAAAHnP9EX4gOrMfrTGogv9Dq-GxE");
