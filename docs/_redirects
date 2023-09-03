@@ -2,6 +2,10 @@
 /gh/:owner              https://github.com/:owner
 /privacy-policy/        https://xiaozhu2007.pages.dev/?from=privacy-policy
 
+# API
+/api/login              /user/index.html
+/api/signup             /user/index.html
+
 # Social links
 /github                 https://github.com/xiaozhu2007
 /twitch                 https://twitch.tv/
