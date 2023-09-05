@@ -39,11 +39,11 @@ Length: 250 [text/x-plain]
 
 
 
-- [HelloTools-bot/Spoofable-DNS-Servers](https://github.com/HelloTools-bot/Spoofable-DNS-Servers) -  (1 day ago)
+- [HelloTools-bot/Spoofable-DNS-Servers](https://github.com/HelloTools-bot/Spoofable-DNS-Servers) -  (2 days ago)
 
 #### 📰 Latest xLog posts
 
-- [File Doge —— 一个免费无广告文件分享服务](https://xlog.app/api/redirection?characterId=57409&amp;noteId=35) (4 weeks ago)
+- [File Doge —— 一个免费无广告文件分享服务](https://xlog.app/api/redirection?characterId=57409&amp;noteId=35) (1 month ago)
 
 - [使用 Coverview 快速创建博客封面图](https://xlog.app/api/redirection?characterId=57409&amp;noteId=34) (1 month ago)
 
