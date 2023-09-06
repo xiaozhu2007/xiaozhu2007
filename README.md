@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [HelloTools-bot/Spoofable-DNS-Servers](https://github.com/HelloTools-bot/Spoofable-DNS-Servers) -  (2 days ago)
+- [HelloTools-bot/Spoofable-DNS-Servers](https://github.com/HelloTools-bot/Spoofable-DNS-Servers) -  (3 days ago)
 
 #### 📰 Latest xLog posts
 
