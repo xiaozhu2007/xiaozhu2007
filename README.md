@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (2 weeks ago)
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [HelloTools-bot/Spoofable-DNS-Servers](https://github.com/HelloTools-bot/Spoofable-DNS-Servers) -  (1 week ago)
+- [FurryGamesIndex/games](https://github.com/FurryGamesIndex/games) - Furry Games Index | 兽人控游戏索引 (1 day ago)
 
 #### 📰 Latest xLog posts
 
