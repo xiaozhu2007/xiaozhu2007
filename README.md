@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (3 days ago)
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (4 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [FurryGamesIndex/games](https://github.com/FurryGamesIndex/games) - Furry Games Index | 兽人控游戏索引 (3 days ago)
+- [FurryGamesIndex/games](https://github.com/FurryGamesIndex/games) - Furry Games Index | 兽人控游戏索引 (4 days ago)
 
 #### 📰 Latest xLog posts
 
