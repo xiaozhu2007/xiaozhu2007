@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (5 days ago)
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (6 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [haohaozaici/HttpDNS](https://github.com/haohaozaici/HttpDNS) - HttpDNS服务，包含预解析、缓存、懒加载、HTTPS、降级等策略 (1 day ago)
+- [haohaozaici/HttpDNS](https://github.com/haohaozaici/HttpDNS) - HttpDNS服务，包含预解析、缓存、懒加载、HTTPS、降级等策略 (2 days ago)
 
 #### 📰 Latest xLog posts
 
