@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [haohaozaici/HttpDNS](https://github.com/haohaozaici/HttpDNS) - HttpDNS服务，包含预解析、缓存、懒加载、HTTPS、降级等策略 (3 days ago)
+- [CSneko/CSNKTools](https://github.com/CSneko/CSNKTools) - 一个运行在Spigot,Paper及其分支的一个多功能，可自定义，且开源免费的工具插件 (1 day ago)
 
 #### 📰 Latest xLog posts
 
