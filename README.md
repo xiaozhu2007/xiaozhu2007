@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) - Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes. (1 day ago)
+- [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档 (1 day ago)
 
 #### 📰 Latest xLog posts
 
