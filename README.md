@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档 (2 days ago)
+- [sa1tor/ceye](https://github.com/sa1tor/ceye) - Check dnslog from ceye.io (1 day ago)
 
 #### 📰 Latest xLog posts
 
