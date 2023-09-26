@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [sa1tor/ceye](https://github.com/sa1tor/ceye) - Check dnslog from ceye.io (1 day ago)
+- [sa1tor/ceye](https://github.com/sa1tor/ceye) - Check dnslog from ceye.io (2 days ago)
 
 #### 📰 Latest xLog posts
 
