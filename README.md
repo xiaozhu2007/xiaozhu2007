@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [niklasvh/php.js](https://github.com/niklasvh/php.js) - PHP to JavaScript converter and VM written in JavaScript (1 day ago)
+- [sim0n/stress-bot](https://github.com/sim0n/stress-bot) - A lightweight stress testing bot for Minecraft: Java Edition (1 day ago)
 
 #### 📰 Latest xLog posts
 
