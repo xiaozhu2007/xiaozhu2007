@@ -54,9 +54,6 @@ Length: 250 [text/x-plain]
 <details>
   <summary>Click to expand elements that may affect loading. 点击展开可能影响加载的元素.</summary>
 
-[![甜力怕's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhu2007&repo=hexo&locale=cn&count_private=true)](https://xiaozhu2007.github.io/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhu2007)](https://github.com/xiaozhu2007)
-
 #### 📫 Find me here
 
 [![](https://img.shields.io/badge/-Blog-4fc08d?style=flat-square&logo=vue.js&logoColor=white)](https://xiaozhu2007.netlify.app/)
