@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [sim0n/stress-bot](https://github.com/sim0n/stress-bot) - A lightweight stress testing bot for Minecraft: Java Edition (1 day ago)
+- [sim0n/stress-bot](https://github.com/sim0n/stress-bot) - A lightweight stress testing bot for Minecraft: Java Edition (2 days ago)
 
 #### 📰 Latest xLog posts
 
