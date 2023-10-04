@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (2 weeks ago)
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (3 weeks ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [sim0n/stress-bot](https://github.com/sim0n/stress-bot) - A lightweight stress testing bot for Minecraft: Java Edition (2 days ago)
+- [sim0n/stress-bot](https://github.com/sim0n/stress-bot) - A lightweight stress testing bot for Minecraft: Java Edition (3 days ago)
 
 #### 📰 Latest xLog posts
 
