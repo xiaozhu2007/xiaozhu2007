@@ -5,7 +5,7 @@ https://v1.v2ai.top/link/J6neTlB8eK2xbpjr?clash=1
 https://v1.v2ai.top/link/UKsAsVdWCn48Xf0a?clash=1
 https://v1.v2ai.top/link/71CfD03nQpwvSIGA?clash=1
 https://sub.xn--mesv7f5toqlp.com/api/v1/client/subscribe?token=db77d82e4ab9ddc771edb0ab8a920a35
-https://www.dbtop.top/link/8jDMNoy3Ddbx269R?clash=1
+https://www.dbtop.top/link/VMbjW8P5YwZs3lPU?clash=1
 https://dingy.886811.xyz/api/v1/client/subscribe?token=50894114bd3a107ba396e6ace6c4dcd1
 ---
 订阅列表(导入 V2rayN, UExtra 提供):
@@ -245,6 +245,7 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJhd3Mt576O5Zu9IHwgaHR0cHM6Ly90Lm1lL3dhcnA1
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLmmbrliKkt5rWL6K+VIiwKICAiYWRkIjogInpsbC5uZHk1ODg1MC5tZSIsCiAgInBvcnQiOiAyMDk2LAogICJpZCI6ICJiM2M1ZWJjYy1hYzVkLTQzOGUtODIzNC1hYzg5YmU4OTRiNDgiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogInpsbC5uZHk1ODg1MC5tZSIsCiAgInBhdGgiOiAiL2RhZmFhNDUzNSIsCiAgInRscyI6ICJ0bHMiCn0=
 ---
 更新日志:
+* 2023/10/08 替换部分失效链接
 * 2023/09/30 增加 1 个订阅链接(UExtra 提供)
 * 2023/09/28 增加 18 个代理节点(UExtra 提供)
 * 2023/08/25 增加约 150 个代理节点(群友提供)
