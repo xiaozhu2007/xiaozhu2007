@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [sim0n/stress-bot](https://github.com/sim0n/stress-bot) - A lightweight stress testing bot for Minecraft: Java Edition (1 week ago)
+- [Anankke/SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) - SSPanel V3 魔改再次修改版 (today)
 
 #### 📰 Latest xLog posts
 
