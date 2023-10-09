@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [Anankke/SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) - SSPanel V3 魔改再次修改版 (today)
+- [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库 (1 day ago)
 
 #### 📰 Latest xLog posts
 
