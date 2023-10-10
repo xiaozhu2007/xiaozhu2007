@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (3 weeks ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库 (1 day ago)
+- [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain. (1 day ago)
 
 #### 📰 Latest xLog posts
 
