@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [HelloGitHub-Team/geese](https://github.com/HelloGitHub-Team/geese) - 一款基于 Next.js 构建的开源爱好者社区。这里有丰富的开源项目、真实的评论、文章，希望你能在这里找到开源的乐趣。 (5 days ago)
+- [kogekiplay/ClashMetaForWindows_Mini](https://github.com/kogekiplay/ClashMetaForWindows_Mini) -  (1 day ago)
 
 #### 📰 Latest xLog posts
 
