@@ -39,11 +39,11 @@ Length: 250 [text/x-plain]
 
 
 
-- [kogekiplay/ClashMetaForWindows_Mini](https://github.com/kogekiplay/ClashMetaForWindows_Mini) -  (1 day ago)
+- [klsf/kldns](https://github.com/klsf/kldns) - 快乐二级域名分发系统 (1 day ago)
 
 #### 📰 Latest xLog posts
 
-- [兰亭序-周杰伦 Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=40) (2 weeks ago)
+- [兰亭序-周杰伦 Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=40) (3 weeks ago)
 
 - [快速搭建一个.onion的Tor网络隐藏服务](https://xlog.app/api/redirection?characterId=57409&amp;noteId=43) (1 week ago)
 
