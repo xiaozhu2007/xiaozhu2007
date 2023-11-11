@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [r9mq6bxg/g1b4f2](https://github.com/r9mq6bxg/g1b4f2) - Just open an issue to attack online services! [g1b4f2] (1 day ago)
+- [zenuo/gogo](https://github.com/zenuo/gogo) - 「勾勾」是一个搜索工具，搜索结果基于谷歌，致力于「安全和简洁」的搜索体验。 (2 days ago)
 
 #### 📰 Latest xLog posts
 
