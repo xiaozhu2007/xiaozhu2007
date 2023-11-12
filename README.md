@@ -39,11 +39,11 @@ Length: 250 [text/x-plain]
 
 
 
-- [zenuo/gogo](https://github.com/zenuo/gogo) - 「勾勾」是一个搜索工具，搜索结果基于谷歌，致力于「安全和简洁」的搜索体验。 (2 days ago)
+- [managed-components/http-request](https://github.com/managed-components/http-request) - An MC to send HTTP requests (1 day ago)
 
 #### 📰 Latest xLog posts
 
-- [兰亭序-周杰伦 Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=40) (3 weeks ago)
+- [兰亭序-周杰伦 Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=40) (4 weeks ago)
 
 - [快速搭建一个.onion的Tor网络隐藏服务](https://xlog.app/api/redirection?characterId=57409&amp;noteId=43) (2 weeks ago)
 
