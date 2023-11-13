@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [managed-components/http-request](https://github.com/managed-components/http-request) - An MC to send HTTP requests (1 day ago)
+- [managed-components/http-request](https://github.com/managed-components/http-request) - An MC to send HTTP requests (2 days ago)
 
 #### 📰 Latest xLog posts
 
