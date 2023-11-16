@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [managed-components/http-request](https://github.com/managed-components/http-request) - An MC to send HTTP requests (4 days ago)
+- [censys-workshop/threatfox-censys](https://github.com/censys-workshop/threatfox-censys) - Threatfox Censys is a tool to query Censys Search for IP addresses and domains and then parses the JSON and submits the results to Threatfox. (1 day ago)
 
 #### 📰 Latest xLog posts
 
