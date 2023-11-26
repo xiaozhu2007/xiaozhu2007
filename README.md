@@ -39,11 +39,11 @@ Length: 250 [text/x-plain]
 
 
 
-- [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor (1 day ago)
+- [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針) (1 day ago)
 
 #### 📰 Latest xLog posts
 
-- [成都(Inst.) Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=44) (5 days ago)
+- [成都(Inst.) Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=44) (6 days ago)
 
 - [兰亭序-周杰伦 Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=40) (1 month ago)
 
