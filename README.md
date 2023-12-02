@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/cdn](https://github.com/xiaozhu2007/cdn) - cdn0 (HackPig520 CDN) (1 week ago)
+- [xiaozhu2007/cdn](https://github.com/xiaozhu2007/cdn) - cdn0 (HackPig520 CDN) (2 weeks ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針) (6 days ago)
+- [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針) (1 week ago)
 
 #### 📰 Latest xLog posts
 
