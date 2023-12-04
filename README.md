@@ -39,11 +39,11 @@ Length: 250 [text/x-plain]
 
 
 
-- [rtfingc/RSS](https://github.com/rtfingc/RSS) - 公开部分订阅RSS (1 day ago)
+- [CrossC2/CrossC2Kit](https://github.com/CrossC2/CrossC2Kit) - CrossC2 developed based on the Cobalt Strike framework can be used for other cross-platform system control. CrossC2Kit provides some interfaces for users to call to manipulate the CrossC2 Beacon session, thereby extending the functionality of Cobalt Strike. (1 day ago)
 
 #### 📰 Latest xLog posts
 
-- [成都(Inst.) Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=44) (1 week ago)
+- [成都(Inst.) Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=44) (2 weeks ago)
 
 - [兰亭序-周杰伦 Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=40) (1 month ago)
 
