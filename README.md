@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [CrossC2/CrossC2Kit](https://github.com/CrossC2/CrossC2Kit) - CrossC2 developed based on the Cobalt Strike framework can be used for other cross-platform system control. CrossC2Kit provides some interfaces for users to call to manipulate the CrossC2 Beacon session, thereby extending the functionality of Cobalt Strike. (3 days ago)
+- [SukkaW/fast-cidr-tools](https://github.com/SukkaW/fast-cidr-tools) - cidr-tools but up to 20x faster (1 day ago)
 
 #### 📰 Latest xLog posts
 
