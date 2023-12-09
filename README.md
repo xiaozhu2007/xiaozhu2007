@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/cdn](https://github.com/xiaozhu2007/cdn) - cdn0 (HackPig520 CDN) (2 weeks ago)
+- [xiaozhu2007/cdn](https://github.com/xiaozhu2007/cdn) - cdn0 (HackPig520 CDN) (3 weeks ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [SukkaW/fast-cidr-tools](https://github.com/SukkaW/fast-cidr-tools) - cidr-tools but up to 20x faster (2 days ago)
+- [SukkaW/fast-cidr-tools](https://github.com/SukkaW/fast-cidr-tools) - cidr-tools but up to 20x faster (3 days ago)
 
 #### 📰 Latest xLog posts
 
