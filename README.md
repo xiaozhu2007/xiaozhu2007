@@ -39,11 +39,11 @@ Length: 250 [text/x-plain]
 
 
 
-- [SukkaW/fast-cidr-tools](https://github.com/SukkaW/fast-cidr-tools) - cidr-tools but up to 20x faster (4 days ago)
+- [SukkaW/fast-cidr-tools](https://github.com/SukkaW/fast-cidr-tools) - cidr-tools but up to 20x faster (5 days ago)
 
 #### 📰 Latest xLog posts
 
-- [成都(Inst.) Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=44) (2 weeks ago)
+- [成都(Inst.) Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=44) (3 weeks ago)
 
 - [兰亭序-周杰伦 Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=40) (1 month ago)
 
