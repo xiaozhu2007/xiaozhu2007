@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [SukkaW/fast-cidr-tools](https://github.com/SukkaW/fast-cidr-tools) - cidr-tools but up to 20x faster (5 days ago)
+- [SukkaW/fast-cidr-tools](https://github.com/SukkaW/fast-cidr-tools) - cidr-tools but up to 20x faster (6 days ago)
 
 #### 📰 Latest xLog posts
 
