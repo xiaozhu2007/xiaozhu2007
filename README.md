@@ -45,7 +45,7 @@ Length: 250 [text/x-plain]
 
 - [成都(Inst.) Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=44) (3 weeks ago)
 
-- [兰亭序-周杰伦 Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=40) (1 month ago)
+- [兰亭序-周杰伦 Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=40) (2 months ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
