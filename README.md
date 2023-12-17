@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [SukkaW/fast-cidr-tools](https://github.com/SukkaW/fast-cidr-tools) - cidr-tools but up to 20x faster (1 week ago)
+- [xsshim/ddos](https://github.com/xsshim/ddos) - Freebuf动手搭建DDoS演练：揭秘在线DDoS攻击平台 (1 day ago)
 
 #### 📰 Latest xLog posts
 
