@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [NajmAjmal/monero-webminer](https://github.com/NajmAjmal/monero-webminer) - Javascript monero miner (1 day ago)
+- [NajmAjmal/monero-webminer](https://github.com/NajmAjmal/monero-webminer) - Javascript monero miner (2 days ago)
 
 #### 📰 Latest xLog posts
 
