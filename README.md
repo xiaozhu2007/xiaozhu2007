@@ -39,11 +39,11 @@ Length: 250 [text/x-plain]
 
 
 
-- [NajmAjmal/monero-webminer](https://github.com/NajmAjmal/monero-webminer) - Javascript monero miner (2 days ago)
+- [NajmAjmal/monero-webminer](https://github.com/NajmAjmal/monero-webminer) - Javascript monero miner (3 days ago)
 
 #### 📰 Latest xLog posts
 
-- [成都(Inst.) Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=44) (4 weeks ago)
+- [成都(Inst.) Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=44) (1 month ago)
 
 - [快速搭建一个.onion的Tor网络隐藏服务](https://xlog.app/api/redirection?characterId=57409&amp;noteId=43) (1 month ago)
 
