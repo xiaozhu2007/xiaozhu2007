@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/cdn](https://github.com/xiaozhu2007/cdn) - cdn0 (HackPig520 CDN) (1 month ago)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) - 某网站的镜像（仅配置） (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [NajmAjmal/monero-webminer](https://github.com/NajmAjmal/monero-webminer) - Javascript monero miner (3 days ago)
+- [fossabot/clash](https://github.com/fossabot/clash) - A rule based proxy in Go. (1 day ago)
 
 #### 📰 Latest xLog posts
 
