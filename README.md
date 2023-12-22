@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) - 某网站的镜像（仅配置） (1 day ago)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) - 某网站的镜像（仅配置） (2 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [fossabot/clash](https://github.com/fossabot/clash) - A rule based proxy in Go. (1 day ago)
+- [fossabot/clash](https://github.com/fossabot/clash) - A rule based proxy in Go. (2 days ago)
 
 #### 📰 Latest xLog posts
 
