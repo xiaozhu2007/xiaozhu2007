@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) - 某网站的镜像（仅配置） (1 day ago)
+- [xiaozhu2007/HappyNewYear](https://github.com/xiaozhu2007/HappyNewYear) - 新年快乐！一个用canvas实现的烟花效果 (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs. (1 week ago)
+- [zhoudedi/xzdns](https://github.com/zhoudedi/xzdns) - 小周二级域名分配系统 (today)
 
 #### 📰 Latest xLog posts
 
