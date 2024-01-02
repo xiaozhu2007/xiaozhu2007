@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/HappyNewYear](https://github.com/xiaozhu2007/HappyNewYear) - 新年快乐！一个用canvas实现的烟花效果 (1 day ago)
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [zhoudedi/xzdns](https://github.com/zhoudedi/xzdns) - 小周二级域名分配系统 (today)
+- [zhoudedi/xzdns](https://github.com/zhoudedi/xzdns) - 小周二级域名分配系统 (1 day ago)
 
 #### 📰 Latest xLog posts
 
