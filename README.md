@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (2 days ago)
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (3 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [zhoudedi/xzdns](https://github.com/zhoudedi/xzdns) - 小周二级域名分配系统 (2 days ago)
+- [zhoudedi/xzdns](https://github.com/zhoudedi/xzdns) - 小周二级域名分配系统 (3 days ago)
 
 #### 📰 Latest xLog posts
 
