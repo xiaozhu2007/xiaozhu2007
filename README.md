@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (4 days ago)
+- [AGDDoS/AGProxy](https://github.com/AGDDoS/AGProxy) - 😎 Free SOCK5 Proxy List for Stress Testing 🎁🎁🎁 (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [stamparm/identYwaf](https://github.com/stamparm/identYwaf) - Blind WAF identification tool (today)
+- [theajack/disable-devtool](https://github.com/theajack/disable-devtool) - Disable web developer tools from the f12 button, right-click and browser menu (1 day ago)
 
 #### 📰 Latest xLog posts
 
