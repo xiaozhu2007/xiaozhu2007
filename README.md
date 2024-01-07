@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [AGDDoS/AGProxy](https://github.com/AGDDoS/AGProxy) - 😎 Free SOCK5 Proxy List for Stress Testing 🎁🎁🎁 (1 day ago)
+- [AGDDoS/AGProxy](https://github.com/AGDDoS/AGProxy) - 😎 Free SOCK5 Proxy List for Stress Testing 🎁🎁🎁 (2 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [theajack/disable-devtool](https://github.com/theajack/disable-devtool) - Disable web developer tools from the f12 button, right-click and browser menu (1 day ago)
+- [SukkaW/teacup.js](https://github.com/SukkaW/teacup.js) - :tea: Cache javascript &amp; css files in localStorage (1 day ago)
 
 #### 📰 Latest xLog posts
 
@@ -49,7 +49,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on hashnode)
 
-- [CobaltStrike 4.x 指导书免费下载](https://hackpig520.hashnode.dev/cs4-manual) (1 week ago)
+- [CobaltStrike 4.x 指导书免费下载](https://hackpig520.hashnode.dev/cs4-manual) (2 weeks ago)
 
 <details>
   <summary>Click to expand elements that may affect loading. 点击展开可能影响加载的元素.</summary>
