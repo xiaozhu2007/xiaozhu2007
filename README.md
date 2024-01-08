@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [AGDDoS/AGProxy](https://github.com/AGDDoS/AGProxy) - 😎 Free SOCK5 Proxy List for Stress Testing 🎁🎁🎁 (2 days ago)
+- [xiaozhu2007/v2free](https://github.com/xiaozhu2007/v2free) - VFree 自动签到（多账号支持）参考 xiangxingxing/v2free_auto_sign (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [SukkaW/teacup.js](https://github.com/SukkaW/teacup.js) - :tea: Cache javascript &amp; css files in localStorage (1 day ago)
+- [nek0YanSu/CheckVM-Sandbox](https://github.com/nek0YanSu/CheckVM-Sandbox) - source code (1 day ago)
 
 #### 📰 Latest xLog posts
 
