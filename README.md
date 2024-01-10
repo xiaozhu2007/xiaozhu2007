@@ -33,13 +33,13 @@ Length: 250 [text/x-plain]
 
 
 
-- [wling-art/U1bot](https://github.com/wling-art/U1bot) - 一个复杂的娱乐机器 (1 day ago)
+- [xiaozhu2007/-](https://github.com/xiaozhu2007/-) - 一个镜像站搜集站点 (today)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [Sh1n3zZ/LightNotes](https://github.com/Sh1n3zZ/LightNotes) - 大小事，随手记。一个极简、美观、多端同步、支持多种文件格式、支持解析多种文件的轻量化在线便签。 / Keep small and large matters to heart.A lightweight note application that supports multiple file formats and parsing. (today)
+- [zu1k/my_followers](https://github.com/zu1k/my_followers) - Automatically generate an avatar wall of followers for your GitHub account (today)
 
 #### 📰 Latest xLog posts
 
@@ -49,7 +49,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on hashnode)
 
-- [📨Gmailnator：一个 Gmail 临时邮箱服务](https://hackpig520.hashnode.dev/gmailnator-gmail) (1 day ago)
+- [📨Gmailnator：一个 Gmail 临时邮箱服务](https://hackpig520.hashnode.dev/gmailnator-gmail) (2 days ago)
 
 <details>
   <summary>Click to expand elements that may affect loading. 点击展开可能影响加载的元素.</summary>
