@@ -2,7 +2,7 @@
 <div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)"></div>
 
 - 🌱 I’m currently learning **JavaScript**
-- 📝 I regularly write articles on [Hashnode](https://hackpig520.hashnode.dev/) and [my own blog](https://xiaozhu2007.netlify.app/)
+- 📝 I regularly write articles on [Hashnode](https://hackpig520.is-a.dev/) and [my own blog](https://blog.liuzhen932.top/)
 - 🧧 Donate me at [爱发电](https://afdian.net/a/xiaozhu2021)
 - 😀 I have some [Github](https://github.com) accounts for guest login, please [contact me](mailto:xiaozhu2007_github@against-ddos.eu.org) for detailed information
 
@@ -35,11 +35,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/-](https://github.com/xiaozhu2007/-) - 一个镜像站搜集站点 (today)
 
+- [wling-art/U1bot](https://github.com/wling-art/U1bot) - 一个复杂的娱乐机器 (2 days ago)
+
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [zu1k/my_followers](https://github.com/zu1k/my_followers) - Automatically generate an avatar wall of followers for your GitHub account (today)
+- [duo001/evil.js](https://github.com/duo001/evil.js) - Use with caution (today)
 
 #### 📰 Latest xLog posts
 
@@ -79,7 +81,7 @@ Length: 250 [text/x-plain]
 | TYPE          | NODE                                                                                                                                                               |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Google Search | [AUST](https://search.aust.cf) - [ECNU](https://search.ecnu.cf) - [NJAU](https://search.njau.cf) - [AHAU](https://search.ahau.cf) - [AHNU](https://search.ahnu.cf) |
-| Web Proxy     | [HelloTools Global Proxy](https://hellotools.eu.org/)(cloudflare)                                                                                                  |
+| Web Proxy     | [HelloTools Global Proxy](https://e.hellotools.eu.org/)(cloudflare)                                                                                                |
 
 Want more? Click [here](https://github.com/xiaozhu2007/-) to explore more!
 
@@ -87,4 +89,4 @@ Want more? Click [here](https://github.com/xiaozhu2007/-) to explore more!
 
 ---
 
-[Home](https://xiaozhu2007.pages.dev/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#)
+[Home](https://xiaozhu2007.pages.dev/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#) | [Status (cloudfalre)](https://status.liuzhen932.top/status/all)
