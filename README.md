@@ -33,21 +33,21 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/ZLdocs](https://github.com/xiaozhu2007/ZLdocs) - 🛠 未完成的钟乐服务器文档 (today)
+- [xiaozhu2007/ZLdocs](https://github.com/xiaozhu2007/ZLdocs) - 🛠 未完成的钟乐服务器文档 (1 day ago)
 
-- [wling-art/U1bot](https://github.com/wling-art/U1bot) - 一个复杂的娱乐机器 (1 day ago)
+- [wling-art/U1bot](https://github.com/wling-art/U1bot) - 一个复杂的娱乐机器 (2 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [wling-art/zl_doc](https://github.com/wling-art/zl_doc) -  (2 days ago)
+- [wling-art/U1_wiki](https://github.com/wling-art/U1_wiki) -  (1 day ago)
 
 #### 📰 Latest xLog posts
 
 - [成都(Inst.) Music by HackPig520](https://xlog.app/api/redirection?characterId=57409&amp;noteId=44) (2 months ago)
 
-- [一次对 Github 卡片的研究](https://xlog.app/api/redirection?characterId=57409&amp;noteId=46) (1 week ago)
+- [一次对 Github 卡片的研究](https://xlog.app/api/redirection?characterId=57409&amp;noteId=46) (2 weeks ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
