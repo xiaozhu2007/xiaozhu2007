@@ -43,9 +43,9 @@ Length: 250 [text/x-plain]
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
   {{- end}}
 
-#### 📰 Latest xLog posts
+#### 📰 Latest audios
 
-{{- range rss "https://hackpig520.xlog.app/feed" 2 }}
+{{- range rss "https://audio.com/rss/author/1779649775223659" 3 }}
 
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
   {{- end }}
