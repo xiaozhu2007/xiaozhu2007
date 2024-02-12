@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (1 day ago)
+- [xiaozhu2021/xiaozhu2021.github.io](https://github.com/xiaozhu2021/xiaozhu2021.github.io) - My new post! (2 days ago)
 
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) - 某网站的镜像（仅配置） (1 day ago)
+- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (2 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [LinDaiDai/niubility-coding-js](https://github.com/LinDaiDai/niubility-coding-js) - 📒  霖呆呆的个人博客汇总 (1 day ago)
+- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) (1 day ago)
 
 #### 📰 Latest audios
 
