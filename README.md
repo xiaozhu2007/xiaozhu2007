@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2021/xiaozhu2021.github.io](https://github.com/xiaozhu2021/xiaozhu2021.github.io) - My new post! (3 days ago)
+- [xiaozhu2021/xiaozhu2021.github.io](https://github.com/xiaozhu2021/xiaozhu2021.github.io) - My new post! (4 days ago)
 
-- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (3 days ago)
+- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (4 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) (2 days ago)
+- [bytedance/GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) -  (1 day ago)
 
 #### 📰 Latest audios
 
