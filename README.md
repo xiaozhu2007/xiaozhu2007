@@ -33,7 +33,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/lxgw-wenkai-web](https://github.com/xiaozhu2007/lxgw-wenkai-web) - Another webfont package for the LXGW WenKai typeface (1 day ago)
+- [xiaozhu2007/lxgw-wenkai-web](https://github.com/xiaozhu2007/lxgw-wenkai-web) - Another webfont package for the LXGW WenKai typeface (2 days ago)
 
 - [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (1 week ago)
 
@@ -41,7 +41,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [LibreService/my_font_converter](https://github.com/LibreService/my_font_converter) - Convert ttf/woff2 fonts. (1 day ago)
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (1 day ago)
 
 #### 📰 Latest audios
 
