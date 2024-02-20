@@ -33,7 +33,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/lxgw-wenkai-web](https://github.com/xiaozhu2007/lxgw-wenkai-web) - Another webfont package for the LXGW WenKai typeface (2 days ago)
+- [xiaozhu2007/lxgw-wenkai-web](https://github.com/xiaozhu2007/lxgw-wenkai-web) - Another webfont package for the LXGW WenKai typeface (3 days ago)
 
 - [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (1 week ago)
 
@@ -41,7 +41,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (1 day ago)
+- [TGSAN/CSharpAnywhere](https://github.com/TGSAN/CSharpAnywhere) - A script to execute C# code on PowerShell installed system without .NET SDK. (1 day ago)
 
 #### 📰 Latest audios
 
