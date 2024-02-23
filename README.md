@@ -20,7 +20,7 @@ Length: 250 [text/x-plain]
 58%[====================================>                          ] 200          100K/s   in 50s English
 99%[============================================================>  ] 81           100K/s   in 8s  Chinese
 82%[==============================================>                ] 990900       --.-K/s  in --s Javascript
-69%[========================================>                      ] 114514       67K/s    in 60s Golang
+16%[===>                                                           ] 114514       67K/s    in 18d Golang
 20%[=========>                                                     ] 102400       2K/s     in +∞s Python
 74%[===========================================>                   ] 65535        655K/s   in 38s C#
 ??%[??????????????????????????????????????????????????????????????>] ???          ??K/s    in ??s ???
@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/lxgw-wenkai-web](https://github.com/xiaozhu2007/lxgw-wenkai-web) - Another webfont package for the LXGW WenKai typeface (5 days ago)
+- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (1 day ago)
 
-- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (1 week ago)
+- [xiaozhu2007/lxgw-wenkai-web](https://github.com/xiaozhu2007/lxgw-wenkai-web) - Another webfont package for the LXGW WenKai typeface (6 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [Linux-CN/archive](https://github.com/Linux-CN/archive) - Linux.cn Archive (1 day ago)
+- [Linux-CN/archive](https://github.com/Linux-CN/archive) - Linux.cn Archive (2 days ago)
 
 #### 📰 Latest audios
 
