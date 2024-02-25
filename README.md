@@ -2,7 +2,7 @@
 <div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)"></div>
 
 - 🌱 I’m currently learning **JavaScript**
-- 📝 I regularly write articles on [Hashnode](https://hackpig520.is-a.dev/) and [my own blog](https://blog.liuzhen932.top/)
+- 📝 I regularly write articles on [Hashnode](https://hackpig520.hashnode.dev/) and [my own blog](https://blog.liuzhen932.top/)
 - 🧧 Donate me at [爱发电](https://afdian.net/a/xiaozhu2021)
 - 😀 I have some [Github](https://github.com) accounts for guest login, please [contact me](mailto:xiaozhu2007_github@against-ddos.eu.org) for detailed information
 
@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (3 days ago)
+- [JankieQwQ/OpenGitHubCopilot](https://github.com/JankieQwQ/OpenGitHubCopilot) - Free GitHub Copilot (today)
 
-- [xiaozhu2007/lxgw-wenkai-web](https://github.com/xiaozhu2007/lxgw-wenkai-web) - Another webfont package for the LXGW WenKai typeface (1 week ago)
+- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (3 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [lucko/paste](https://github.com/lucko/paste) - paste is a simple web app for writing &amp; sharing code. (1 day ago)
+- [mandatoryprogrammer/xcname](https://github.com/mandatoryprogrammer/xcname) - A tool for enumerating expired domains in CNAME records (today)
 
 #### 📰 Latest audios
 
@@ -60,21 +60,29 @@ Length: 250 [text/x-plain]
 
 #### 📫 Find me here
 
-[![](https://img.shields.io/badge/-Blog-4fc08d?style=flat-square&logo=vue.js&logoColor=white)](https://xiaozhu2007.netlify.app/)
-[![](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hackpig520@gmail.com)
-[![](https://img.shields.io/badge/QQ-faaf08?style=flat-square&logo=tencent-qq&logoColor=000000)](http://wpa.qq.com/msgrd?v=3&uin=3356136957&site=qq&menu=yes)
+[![](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=nextra&logoColor=white)](https://liuzhen932.top/)
+[![](https://img.shields.io/badge/-Email-0078d4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:hackpig520@outlook.com)
+[![](https://img.shields.io/badge/QQ-eb1923?style=flat-square&logo=tencent-qq&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=3356136957&site=qq&menu=yes)
 ![](https://img.shields.io/badge/HackPig520-C160?style=flat-square&logo=wechat&logoColor=white)
 
 #### 🛠 Platform & Tools
 
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10) [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/-AdGuard-688c71?style=flat-square&logo=adguard&logoColor=ffffff)](https://adguard.com/zh_cn/welcome.html)
+[![](https://img.shields.io/badge/-P60-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huawei.com/)
+[![](https://img.shields.io/badge/-Air%2014%202019-e2231a?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/)
+[![](https://img.shields.io/badge/-4B%204G-a22846?style=flat-square&logo=raspberrypi&logoColor=ffffff)](https://raspberrypi.com/)
+
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
+[![](https://img.shields.io/badge/-Nuxt.js-00c58e?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
+[![](https://img.shields.io/badge/-Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![](https://img.shields.io/badge/-Pages-f38020?style=flat-square&logo=cloudflarepages&logoColor=white)](https://www.cloudflare.com/)
 
 </details>
 <details>
