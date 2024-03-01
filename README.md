@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (2 days ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (1 day ago)
 
-- [JankieQwQ/OpenGitHubCopilot](https://github.com/JankieQwQ/OpenGitHubCopilot) - Free GitHub Copilot (4 days ago)
+- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (3 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (2 days ago)
+- [JohnWes7/Daily_Nutrition](https://github.com/JohnWes7/Daily_Nutrition) - 每日营养 全自动p站涩图爬虫 (1 day ago)
 
 #### 📰 Latest audios
 
