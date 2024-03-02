@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (2 days ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (today)
 
-- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (4 days ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (2 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [JohnWes7/Daily_Nutrition](https://github.com/JohnWes7/Daily_Nutrition) - 每日营养 全自动p站涩图爬虫 (2 days ago)
+- [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics &#43; Uptime Monitor &#43; Server Status. not only another GA alternatives (today)
 
 #### 📰 Latest audios
 
