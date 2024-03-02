@@ -33,30 +33,27 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (1 day ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (2 days ago)
 
-- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (3 days ago)
+- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (4 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [JohnWes7/Daily_Nutrition](https://github.com/JohnWes7/Daily_Nutrition) - 每日营养 全自动p站涩图爬虫 (1 day ago)
+- [JohnWes7/Daily_Nutrition](https://github.com/JohnWes7/Daily_Nutrition) - 每日营养 全自动p站涩图爬虫 (2 days ago)
 
 #### 📰 Latest audios
 
-- [[HackPig520] Haddaway - What is love]() (3 weeks ago)
+- [[HackPig520] Haddaway - What is love]() (4 weeks ago)
 
-- [Alan Walker - Alone]() (3 weeks ago)
+- [Alan Walker - Alone]() (4 weeks ago)
 
-- [[HackPig520] Alan Walker - The Spectre]() (3 weeks ago)
+- [[HackPig520] Alan Walker - The Spectre]() (4 weeks ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
 - [📨Gmailnator：一个 Gmail 临时邮箱服务](https://hackpig520.hashnode.dev/gmailnator-gmail) (1 month ago)
-
-<details>
-  <summary>Click to expand elements that may affect loading. 点击展开可能影响加载的元素.</summary>
 
 #### 📫 Find me here
 
@@ -84,14 +81,13 @@ Length: 250 [text/x-plain]
 [![](https://img.shields.io/badge/-Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![](https://img.shields.io/badge/-Pages-f38020?style=flat-square&logo=cloudflarepages&logoColor=white)](https://www.cloudflare.com/)
 
-</details>
 <details>
-  <summary>镜像站推荐(国内可访优先)</summary>
+  <summary>各种镜像站推荐</summary>
 
-| TYPE          | NODE                                                                                                                                                               |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Google Search | [AUST](https://search.aust.cf) - [ECNU](https://search.ecnu.cf) - [NJAU](https://search.njau.cf) - [AHAU](https://search.ahau.cf) - [AHNU](https://search.ahnu.cf) |
-| Web Proxy     | [HelloTools Global Proxy](https://e.hellotools.eu.org/)(cloudflare)                                                                                                |
+| TYPE          | NODE                                                                  |
+| ------------- | --------------------------------------------------------------------- |
+| Google Search | [HTMirror](https://pig.cn.eu.org)                                     |
+| Web Proxy     | [HelloTools Global Proxy](https://e.hellotools.eu.org/)(cloudflare)   |
 
 Want more? Click [here](https://github.com/xiaozhu2007/-) to explore more!
 
