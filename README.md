@@ -1,3 +1,5 @@
+> 我们(HelloTools)现在允许您使用[兔小巢平台](https://support.qq.com/products/144168)向我们提出 Minecraft 服务器崩溃分析请求, 此过程免费且公开透明, 快来~~骚扰~~联系我们吧!
+
 <h1 align="center"> 👋 Hi there, I'm 甜力怕(HackPig520)</h1>
 <div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)"></div>
 
@@ -33,15 +35,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (today)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 day ago)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (2 days ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (3 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics &#43; Uptime Monitor &#43; Server Status. not only another GA alternatives (today)
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works (today)
 
 #### 📰 Latest audios
 
