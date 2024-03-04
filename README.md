@@ -35,23 +35,23 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 day ago)
+- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (1 day ago)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (3 days ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (2 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works (today)
+- [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests (today)
 
 #### 📰 Latest audios
 
-- [[HackPig520] Haddaway - What is love]() (4 weeks ago)
+- [[HackPig520] Haddaway - What is love]() (1 month ago)
 
-- [Alan Walker - Alone]() (4 weeks ago)
+- [Alan Walker - Alone]() (1 month ago)
 
-- [[HackPig520] Alan Walker - The Spectre]() (4 weeks ago)
+- [[HackPig520] Alan Walker - The Spectre]() (1 month ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
