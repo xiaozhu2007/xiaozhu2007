@@ -1,5 +1,3 @@
-> 我们(HelloTools)现在允许您使用[兔小巢平台](https://support.qq.com/products/144168)向我们提出 Minecraft 服务器崩溃分析请求, 此过程免费且公开透明, 快来~~骚扰~~联系我们吧!
-
 <h1 align="center"> 👋 Hi there, I'm 甜力怕(HackPig520)</h1>
 <div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)"></div>
 
@@ -43,7 +41,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [Xecades/API](https://github.com/Xecades/API) - 好耶！又是一个个人名片 API ✨ (today)
+- [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) - AIO Repack for latest Microsoft Visual C&#43;&#43; Redistributable Runtimes (today)
 
 #### 📰 Latest audios
 
