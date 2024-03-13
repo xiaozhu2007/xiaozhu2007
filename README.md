@@ -33,7 +33,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (2 days ago)
+- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (1 day ago)
 
 - [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 week ago)
 
@@ -41,7 +41,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) - AIO Repack for latest Microsoft Visual C&#43;&#43; Redistributable Runtimes (1 day ago)
+- [Nyan-Work/oh-my-minecraft-client](https://github.com/Nyan-Work/oh-my-minecraft-client) - oh-my-minecraft-client (today)
 
 #### 📰 Latest audios
 
