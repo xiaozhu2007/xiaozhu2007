@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **JavaScript**
 - 📝 I regularly write articles on [Hashnode](https://hackpig520.hashnode.dev/) and [my own blog](https://blog.liuzhen932.top/)
 - 🧧 Donate me at [爱发电](https://afdian.net/a/xiaozhu2021)
-- 😀 I have some [Github](https://github.com) accounts for guest login, please [contact me](mailto:xiaozhu2007_github@against-ddos.eu.org) for detailed information
+- 😀 I have some [Github](https://github.com) accounts for guest login, please [contact me](mailto:hackpig520@outlook.com) for detailed information
 
 ## 📄 Profile
 
@@ -43,7 +43,7 @@ Length: 250 [text/x-plain]
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
   {{- end}}
 
-#### 📰 Latest audios
+#### 🎧 Latest audios
 
 {{- range rss "https://audio.com/rss/author/1779649775223659" 3 }}
 
