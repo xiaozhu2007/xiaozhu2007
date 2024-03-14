@@ -33,7 +33,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (1 day ago)
+- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (2 days ago)
 
 - [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 week ago)
 
@@ -41,15 +41,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [Nyan-Work/oh-my-minecraft-client](https://github.com/Nyan-Work/oh-my-minecraft-client) - oh-my-minecraft-client (today)
+- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler (1 day ago)
 
 #### 🎧 Latest audios
 
-- [Nova - Ahrix]() (today)
+- [Nova - Ahrix]() (1 day ago)
+
+- [Nova - Ahrix(NoteBlock Editon)]() (1 day ago)
 
 - [[HackPig520] Haddaway - What is love]() (1 month ago)
-
-- [Alan Walker - Alone]() (1 month ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
