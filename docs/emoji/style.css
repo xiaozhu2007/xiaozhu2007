@@ -1,0 +1,107 @@
+/* rainyun_ads */
+.rainyun_ads {
+    padding: 22px 10px;
+    background-image: linear-gradient(to left,#86243c 0%,#2b1b35 100%);
+    color:#fff;
+    border-radius:3px;
+    height:100%;
+    width: 100%;
+    display: flex;
+    max-width: 728px;
+    margin: 20px auto;
+}
+.rainyun_ads .advert_title {
+    border-right:3px solid;
+    border-radius:100px;
+}
+.rainyun_ads .advert_text {
+    padding:0px 10px;
+    width:100%;
+    font-weight:100;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.rainyun_ads .advert_text span {
+    font-size:20px;
+    border:1px dashed;
+    margin-left:10px;
+    border-radius:3px;
+    padding:0px 10px;
+}
+.rainyun_ads h3 {
+    font-size: 21px;
+    text-align:center;
+    margin:0px;
+    padding-right:10px;
+    color:#fff;
+    border-left:0px;
+    line-height:46px;
+    padding-left:0px;
+    white-space:nowrap;
+}
+.rainyun_ads p {
+    font-size:21px;
+    display:inline-block;
+    margin-bottom:0px;
+    line-height:45px;
+    padding-left:0px;
+    font-weight:100;
+}
+.rainyun_ads .advert_text a {
+    font-size:12px;
+    border-radius:3px;
+    text-align:center;
+    color:#fff !important;
+    font-weight:100;
+    transition:0.6s all ease;
+    text-decoration:none !important;
+    background-color: #a9253e;
+    padding: 13px 20px;
+}
+.rainyun_ads a:hover {
+    background-color:#ffffff;
+    color:#005ceb !important;
+}
+.ul-highlight{
+    padding-left: 18px;
+    margin: auto auto 30px auto;
+    max-width: 1000px;
+}
+@media(max-width: 768px){
+    .rainyun_ads {
+        padding: 5px 10px;
+    }
+    .rainyun_ads .advert_text p {
+        font-size:11px;
+        line-height:50px;
+    }
+    .rainyun_ads .advert_text span {
+        font-size:11px;
+        margin-right:1px;
+    }
+    .rainyun_ads .advert_text a {
+        line-height:normal;
+        padding: 5px 20px;
+    }
+}
+@media(max-width: 460px){
+    .rainyun_ads .advert_text a {
+        padding: 10px 60px;
+    }
+    .rainyun_ads{
+        display: block;
+        padding: 20px;
+    }
+    .rainyun_ads .advert_title{
+        border-right: 0;
+    }
+    .rainyun_ads h3{
+        font-size: 25px;
+        line-height: 20px;
+        padding: 6px 0;
+    }
+    .rainyun_ads .advert_text{
+        flex-direction: column;
+    }
+}
