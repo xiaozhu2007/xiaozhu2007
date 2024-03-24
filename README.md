@@ -35,13 +35,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 day ago)
 
-- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (6 days ago)
+- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (1 week ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [VolmitSoftware/Iris](https://github.com/VolmitSoftware/Iris) - World Generation through a new Iris (today)
+- [VolmitSoftware/Iris](https://github.com/VolmitSoftware/Iris) - World Generation through a new Iris (1 day ago)
 
 #### 🎧 Latest audios
 
