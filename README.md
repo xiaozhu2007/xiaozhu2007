@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (1 day ago)
+- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (2 days ago)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (2 days ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (3 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [SharjeelCh/NeonChat](https://github.com/SharjeelCh/NeonChat) - Cross platform chat app integrated with firebase (1 day ago)
+- [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more. (1 day ago)
 
 #### 🎧 Latest audios
 
