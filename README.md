@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (4 days ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (today)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (5 days ago)
+- [ZL-Server/docs](https://github.com/ZL-Server/docs) - 钟乐服务器 Wiki (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [Syrent/VelocityReport](https://github.com/Syrent/VelocityReport) - Minecraft report system for Velocity servers with amazing features (today)
+- [gloxec/CrossC2](https://github.com/gloxec/CrossC2) - generate CobaltStrike&#39;s cross-platform payload (today)
 
 #### 🎧 Latest audios
 
