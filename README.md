@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [CrashVibe/U1_wiki](https://github.com/CrashVibe/U1_wiki) -  (6 days ago)
+- [CrashVibe/U1bot](https://github.com/CrashVibe/U1bot) - 一个令人欢喜的娱乐机器 (3 days ago)
 
-- [CrashVibe/docs](https://github.com/CrashVibe/docs) - 钟乐服务器 Wiki (6 days ago)
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (1 week ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat (today)
+- [koishijs/koishi-plugin-marry](https://github.com/koishijs/koishi-plugin-marry) -  (today)
 
 #### 🎧 Latest audios
 
