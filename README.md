@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [CrashVibe/U1bot](https://github.com/CrashVibe/U1bot) - 一个令人欢喜的娱乐机器 (3 days ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 day ago)
 
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (1 week ago)
+- [CrashVibe/CrashvibeWebsite](https://github.com/CrashVibe/CrashvibeWebsite) - 一个工作室官网 (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [koishijs/koishi-plugin-marry](https://github.com/koishijs/koishi-plugin-marry) -  (today)
+- [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件 (today)
 
 #### 🎧 Latest audios
 
