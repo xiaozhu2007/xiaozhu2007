@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [CrashVibe/U1bot](https://github.com/CrashVibe/U1bot) - 一个令人欢喜的娱乐机器 (2 days ago)
+- [ToolDelta/Wiki](https://github.com/ToolDelta/Wiki) - ToolDelta 维基 (1 day ago)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (2 days ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [badmojr/crosscheck](https://github.com/badmojr/crosscheck) - Comparison of blocklists and how much of their contents is included on other lists. (today)
+- [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun  (1 day ago)
 
 #### 🎧 Latest audios
 
