@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [ToolDelta/Wiki](https://github.com/ToolDelta/Wiki) - ToolDelta 维基 (1 day ago)
+- [ToolDelta/Wiki](https://github.com/ToolDelta/Wiki) - ToolDelta 维基 (2 days ago)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (1 day ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (2 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun  (1 day ago)
+- [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun  (2 days ago)
 
 #### 🎧 Latest audios
 
