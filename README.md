@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [ToolDelta/Wiki](https://github.com/ToolDelta/Wiki) - ToolDelta 维基 (2 days ago)
+- [ToolDelta/Wiki](https://github.com/ToolDelta/Wiki) - ToolDelta 维基 (3 days ago)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (2 days ago)
+- [xiaozhu2007/ToolDeltaInstaller](https://github.com/xiaozhu2007/ToolDeltaInstaller) - ToolDelta(Minecraft) installer for Termux users (3 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun  (2 days ago)
+- [Slimefun-Addon-Community/LiteXpansion](https://github.com/Slimefun-Addon-Community/LiteXpansion) -  (today)
 
 #### 🎧 Latest audios
 
