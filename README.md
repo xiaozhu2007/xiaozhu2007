@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [ToolDelta/Wiki](https://github.com/ToolDelta/Wiki) - ToolDelta 维基 (3 days ago)
+- [ToolDelta/Wiki](https://github.com/ToolDelta/Wiki) - ToolDelta 维基 (4 days ago)
 
-- [xiaozhu2007/ToolDeltaInstaller](https://github.com/xiaozhu2007/ToolDeltaInstaller) - ToolDelta(Minecraft) installer for Termux users (3 days ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (4 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [Slimefun-Addon-Community/LiteXpansion](https://github.com/Slimefun-Addon-Community/LiteXpansion) -  (today)
+- [zsjy/halo-theme-dream2.0-plus](https://github.com/zsjy/halo-theme-dream2.0-plus) - 适配halo2.x的dream2主题，增加原仓库未合并的功能。自用修改版主题，不保证满足所有需求。 (1 day ago)
 
 #### 🎧 Latest audios
 
