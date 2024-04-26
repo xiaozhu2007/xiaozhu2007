@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/UBot](https://github.com/xiaozhu2007/UBot) - Another Minecraft Bot (1 day ago)
+- [CrashVibe/docs](https://github.com/CrashVibe/docs) - 钟乐服务器 Wiki (1 day ago)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (6 days ago)
+- [xiaozhu2007/UBot](https://github.com/xiaozhu2007/UBot) - Another Minecraft Bot (2 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [stilleshan/frps](https://github.com/stilleshan/frps) - 基于原版 frp 内网穿透服务端 frps 的一键安装卸载脚本和 docker 镜像.支持 Linux 服务器和 docker 等多种环境安装部署. (today)
+- [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - A industry-leading free, high-performance, AI and semantic technology web application and API security protection product - uuWAF. 一款工业级免费、高性能、高扩展，支持AI和语义引擎的Web应用和API安全防护产品-南墙。Web应用防火墙、WAF、WAAP (1 day ago)
 
 #### 🎧 Latest audios
 
