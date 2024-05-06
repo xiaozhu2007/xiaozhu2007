@@ -31,15 +31,9 @@ Length: 250 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-
-
-- [CrashVibe/docs](https://github.com/CrashVibe/docs) - 钟乐服务器 Wiki (2 days ago)
-
 - [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (3 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-
-
 
 - [NeoCloud/NeoNetwork](https://github.com/NeoCloud/NeoNetwork) - A useless VPN Network ready for peering (3 days ago)
 
