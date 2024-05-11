@@ -33,7 +33,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [CrashVibe/docs](https://github.com/CrashVibe/docs) - 钟乐服务器 Wiki (4 days ago)
+- [CrashVibe/docs](https://github.com/CrashVibe/docs) - 钟乐服务器 Wiki (5 days ago)
 
 - [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 week ago)
 
@@ -41,7 +41,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [slarkvan/Block-Pornographic-Replies](https://github.com/slarkvan/Block-Pornographic-Replies) - 屏蔽推特回复下的黄推。Block pornographic replies below the tweet. (today)
+- [mrfdev/CMI](https://github.com/mrfdev/CMI) - The 1MB CMI Project (today)
 
 #### 🎧 Latest audios
 
