@@ -33,15 +33,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [CrashVibe/docs](https://github.com/CrashVibe/docs) - 钟乐服务器 Wiki (6 days ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (1 day ago)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 week ago)
+- [CrashVibe/docs](https://github.com/CrashVibe/docs) - 钟乐服务器 Wiki (1 week ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) -  (today)
+- [magicdawn/yun-playlist-downloader](https://github.com/magicdawn/yun-playlist-downloader) - 网易云音乐 - 歌单/专辑/电台 - 下载器 (1 day ago)
 
 #### 🎧 Latest audios
 
