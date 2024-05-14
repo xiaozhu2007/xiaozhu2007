@@ -41,7 +41,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [magicdawn/yun-playlist-downloader](https://github.com/magicdawn/yun-playlist-downloader) - 网易云音乐 - 歌单/专辑/电台 - 下载器 (1 day ago)
+- [idoknow/Campux](https://github.com/idoknow/Campux) - QQ 空间 校园墙自动化解决方案 ｜ 在线投稿、网页审核、自动发说说 (today)
 
 #### 🎧 Latest audios
 
