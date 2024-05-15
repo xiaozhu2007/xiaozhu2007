@@ -33,7 +33,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (1 day ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - 快来 :star: &amp; watching 这个仓库，让你的收件箱爆炸 (2 days ago)
 
 - [CrashVibe/docs](https://github.com/CrashVibe/docs) - 钟乐服务器 Wiki (1 week ago)
 
@@ -41,7 +41,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [idoknow/Campux](https://github.com/idoknow/Campux) - QQ 空间 校园墙自动化解决方案 ｜ 在线投稿、网页审核、自动发说说 (today)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models. (1 day ago)
 
 #### 🎧 Latest audios
 
