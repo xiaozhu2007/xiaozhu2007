@@ -35,13 +35,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (today)
 
-- [CrashVibe/docs](https://github.com/CrashVibe/docs) - 钟乐服务器 Wiki (1 day ago)
+- [CrashVibe/docs](https://github.com/CrashVibe/docs) - 钟乐服务器 Wiki (2 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [lijiahangmax/orion-visor](https://github.com/lijiahangmax/orion-visor) - 一款高颜值、现代化的智能运维&amp;轻量堡垒机平台。 (today)
+- [Gaming12846/TrollPlus](https://github.com/Gaming12846/TrollPlus) - Troll your friends in Minecraft and see their reactions! (today)
 
 #### 🎧 Latest audios
 
