@@ -35,13 +35,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [CrashVibe/docs](https://github.com/CrashVibe/docs) - 钟乐服务器 Wiki (1 day ago)
+- [CrashVibe/docs](https://github.com/CrashVibe/docs) - 钟乐服务器 Wiki (2 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [TNXG/ProcessReporterWinpy](https://github.com/TNXG/ProcessReporterWinpy) -  (1 day ago)
+- [latentcat/mpmath](https://github.com/latentcat/mpmath) - 微信公众号公式编辑插件 (today)
 
 #### 🎧 Latest audios
 
