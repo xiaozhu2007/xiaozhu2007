@@ -35,13 +35,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [CrashVibe/docs](https://github.com/CrashVibe/docs) - 钟乐服务器 Wiki (2 days ago)
+- [CrashVibe/docs](https://github.com/CrashVibe/docs) - 钟乐服务器 Wiki (3 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [latentcat/mpmath](https://github.com/latentcat/mpmath) - 微信公众号公式编辑插件 (today)
+- [LemonBench/LemonBench](https://github.com/LemonBench/LemonBench) - A simple Linux Benchmark Toolkit (today)
 
 #### 🎧 Latest audios
 
