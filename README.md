@@ -35,13 +35,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [CrashVibe/docs](https://github.com/CrashVibe/docs) - 钟乐服务器 Wiki (3 days ago)
+- [CrashVibe/ZLhtml](https://github.com/CrashVibe/ZLhtml) - 钟乐服务器的官网 (today)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [LemonBench/LemonBench](https://github.com/LemonBench/LemonBench) - A simple Linux Benchmark Toolkit (today)
+- [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video &amp; Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 &amp; 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 &amp; AI课代表) (today)
 
 #### 🎧 Latest audios
 
