@@ -35,13 +35,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [CrashVibe/ZLhtml](https://github.com/CrashVibe/ZLhtml) - 钟乐服务器的官网 (today)
+- [CrashVibe/ZLhtml](https://github.com/CrashVibe/ZLhtml) - 钟乐服务器的官网 (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video &amp; Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 &amp; 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 &amp; AI课代表) (today)
+- [suziwen/markdownxiaoshujiang](https://github.com/suziwen/markdownxiaoshujiang) - 小书匠是一款本地优先，去中心化，分布式，支持选择性同步的全平台覆盖知识管理笔记软件。 (1 day ago)
 
 #### 🎧 Latest audios
 
