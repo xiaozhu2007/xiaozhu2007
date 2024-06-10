@@ -35,17 +35,17 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) - 某网站的镜像（仅配置） (2 days ago)
+- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) - 某网站的镜像（仅配置） (3 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [akirarika/creamdb](https://github.com/akirarika/creamdb) - CreamDB 是一个轻量级的客户端 &#34;数据库&#34;，可以运行在任何能够运行 JavaScript 的地方。 (1 day ago)
+- [maruohon/malilib](https://github.com/maruohon/malilib) - Library mod for masa&#39;s client-side Minecraft mods (1 day ago)
 
 #### 🎧 Latest audios
 
-- [黑人抬棺 (8-bit)]() (5 days ago)
+- [黑人抬棺 (8-bit)]() (6 days ago)
 
 - [Nova - Ahrix]() (2 months ago)
 
