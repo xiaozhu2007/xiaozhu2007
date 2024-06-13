@@ -35,13 +35,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/actions-waddle](https://github.com/xiaozhu2007/actions-waddle) - 某网站的镜像（仅配置） (5 days ago)
+- [xiaozhu2007/-](https://github.com/xiaozhu2007/-) - 一个镜像站搜集站点 (1 day ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。 (1 day ago)
+- [mcoo/status](https://github.com/mcoo/status) -  (1 day ago)
 
 #### 🎧 Latest audios
 
