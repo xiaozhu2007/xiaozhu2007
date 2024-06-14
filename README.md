@@ -35,13 +35,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/-](https://github.com/xiaozhu2007/-) - 一个镜像站搜集站点 (1 day ago)
+- [xiaozhu2007/-](https://github.com/xiaozhu2007/-) - 一个镜像站搜集站点 (2 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [mcoo/status](https://github.com/mcoo/status) -  (1 day ago)
+- [Zgoly/Meteorist](https://github.com/Zgoly/Meteorist) - ☄️ Add-on for Meteor that adds useful utilities for non-vanilla anarchy servers ☄️ (today)
 
 #### 🎧 Latest audios
 
