@@ -35,13 +35,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 day ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (2 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [WiIIiam278/HuskSync](https://github.com/WiIIiam278/HuskSync) - A modern, cross-server player data synchronisation system (1 day ago)
+- [WiIIiam278/HuskSync](https://github.com/WiIIiam278/HuskSync) - A modern, cross-server player data synchronisation system (2 days ago)
 
 #### 🎧 Latest audios
 
