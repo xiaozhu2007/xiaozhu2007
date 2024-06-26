@@ -41,7 +41,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [Zhang12334/MoreCrafting](https://github.com/Zhang12334/MoreCrafting) - A Minecraft Datapack , added more interesting crafting recipes (6 days ago)
+- [LOOHP/InteractionVisualizer](https://github.com/LOOHP/InteractionVisualizer) - Visualize Function Blocks like Crafting Tables with Animations client-side! (1 day ago)
 
 #### 🎧 Latest audios
 
