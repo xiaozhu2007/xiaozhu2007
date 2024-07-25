@@ -41,7 +41,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [Orient-Fishing-Server/DT](https://github.com/Orient-Fishing-Server/DT) - 吊图合集 (1 week ago)
+- [mcmod-info-mirror/mcim](https://github.com/mcmod-info-mirror/mcim) - 为各平台的 mod 信息镜像加速 (1 day ago)
 
 #### 🎧 Latest audios
 
