@@ -41,7 +41,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [mcmod-info-mirror/mcim](https://github.com/mcmod-info-mirror/mcim) - 为各平台的 mod 信息镜像加速 (1 day ago)
+- [mcmod-info-mirror/mcim](https://github.com/mcmod-info-mirror/mcim) - 为各平台的 mod 信息镜像加速 (2 days ago)
 
 #### 🎧 Latest audios
 
