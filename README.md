@@ -41,7 +41,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [chaitin/xtools](https://github.com/chaitin/xtools) -  (1 day ago)
+- [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS. (today)
 
 #### 🎧 Latest audios
 
