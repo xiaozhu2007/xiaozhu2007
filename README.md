@@ -41,15 +41,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS. (1 day ago)
+- [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目 (today)
 
 #### 🎧 Latest audios
 
 - [黑人抬棺 (8-bit)]() (2 months ago)
 
-- [Nova - Ahrix]() (4 months ago)
+- [Nova - Ahrix]() (5 months ago)
 
-- [Nova - Ahrix(NoteBlock Editon)]() (4 months ago)
+- [Nova - Ahrix(NoteBlock Editon)]() (5 months ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
