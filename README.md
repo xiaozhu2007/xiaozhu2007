@@ -35,13 +35,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 day ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (2 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong](https://github.com/ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong) - Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger (1 day ago)
+- [yukimochi/Activity-Relay](https://github.com/yukimochi/Activity-Relay) - Yet another powerful customizable ActivityPub relay server written in Go. (1 day ago)
 
 #### 🎧 Latest audios
 
