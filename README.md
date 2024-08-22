@@ -41,7 +41,7 @@ Length: 250 [text/x-plain]
 
 
 
-- [Kokoro-js/ticket-bot-viewer](https://github.com/Kokoro-js/ticket-bot-viewer) - 只是个用来查看工单类机器人导出工单数据的工具 (1 day ago)
+- [zhuhansan666/koishi-plugin-systools-lts](https://github.com/zhuhansan666/koishi-plugin-systools-lts) - 系统助手 长期支持版本 - 支持运行系统命令、备份 Koishi 配置文件到 GitHub、查询系统状态、获取 IP 地址等进阶操作 (1 day ago)
 
 #### 🎧 Latest audios
 
