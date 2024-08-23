@@ -35,13 +35,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/vercel-pcl-bmclapi](https://github.com/xiaozhu2007/vercel-pcl-bmclapi) - 一个实时显示 OpenBMCLAPI 负载的 PCL2 主页，基于 Vercel Function PHP（修改版） (1 day ago)
+- [xiaozhu2007/vercel-pcl-bmclapi](https://github.com/xiaozhu2007/vercel-pcl-bmclapi) - 一个实时显示 OpenBMCLAPI 负载的 PCL2 主页，基于 Vercel Function PHP（修改版） (2 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [zhuhansan666/koishi-plugin-systools-lts](https://github.com/zhuhansan666/koishi-plugin-systools-lts) - 系统助手 长期支持版本 - 支持运行系统命令、备份 Koishi 配置文件到 GitHub、查询系统状态、获取 IP 地址等进阶操作 (1 day ago)
+- [Normal-pcer/Re_QianningChineseChess](https://github.com/Normal-pcer/Re_QianningChineseChess) -  (1 day ago)
 
 #### 🎧 Latest audios
 
