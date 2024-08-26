@@ -35,13 +35,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/vercel-pcl-bmclapi](https://github.com/xiaozhu2007/vercel-pcl-bmclapi) - 一个实时显示 OpenBMCLAPI 负载的 PCL2 主页，基于 Vercel Function PHP（修改版） (4 days ago)
+- [xiaozhu2007/vercel-pcl-bmclapi](https://github.com/xiaozhu2007/vercel-pcl-bmclapi) - 一个实时显示 OpenBMCLAPI 负载的 PCL2 主页，基于 Vercel Function PHP（修改版） (5 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [Normal-pcer/Re_QianningChineseChess](https://github.com/Normal-pcer/Re_QianningChineseChess) -  (3 days ago)
+- [TeaOSLab/EdgeAdmin](https://github.com/TeaOSLab/EdgeAdmin) - CDN &amp; WAF集群管理系统。 (1 day ago)
 
 #### 🎧 Latest audios
 
