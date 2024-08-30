@@ -35,13 +35,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [hackpig520/ts-node](https://github.com/hackpig520/ts-node) -  (3 days ago)
+- [hackpig520/ts-node](https://github.com/hackpig520/ts-node) -  (4 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [SaltWood-Studio/Open93AtHome-V3](https://github.com/SaltWood-Studio/Open93AtHome-V3) -  (1 day ago)
+- [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API  (today)
 
 #### 🎧 Latest audios
 
