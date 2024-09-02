@@ -35,17 +35,17 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics &#43; Uptime Monitor &#43; Server Status. not only another GA alternatives (2 days ago)
+- [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics &#43; Uptime Monitor &#43; Server Status. not only another GA alternatives (3 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [NunuM/my-systemd-service-file-generator](https://github.com/NunuM/my-systemd-service-file-generator) - A simple Systemd service file online generator. (1 day ago)
+- [all-in-aigc/melodisco](https://github.com/all-in-aigc/melodisco) - AI Music Player (today)
 
 #### 🎧 Latest audios
 
-- [黑人抬棺 (8-bit)]() (2 months ago)
+- [黑人抬棺 (8-bit)]() (3 months ago)
 
 - [Nova - Ahrix]() (5 months ago)
 
