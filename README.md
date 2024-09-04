@@ -35,13 +35,13 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics &#43; Uptime Monitor &#43; Server Status. not only another GA alternatives (4 days ago)
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) -  (today)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad (today)
+- [kristuff/abuseipdb-cli](https://github.com/kristuff/abuseipdb-cli) - A CLI tool to check ✔️, report 🚩 IP addresses, download blacklist 🚫 with AbuseIPDB API v2  (today)
 
 #### 🎧 Latest audios
 
@@ -53,7 +53,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on hashnode)
 
-- [📨Gmailnator：一个 Gmail 临时邮箱服务](https://hackpig520.hashnode.dev/gmailnator-gmail) (7 months ago)
+- [📨Gmailnator：一个 Gmail 临时邮箱服务](https://hackpig520.hashnode.dev/gmailnator-gmail) (8 months ago)
 
 #### 📫 Find me here
 
