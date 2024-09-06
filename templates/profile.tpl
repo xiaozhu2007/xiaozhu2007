@@ -24,21 +24,21 @@ Length: 250 [text/x-plain]
 20%[=========>                                                     ] 102400       2K/s     in +∞s Python
 74%[===========================================>                   ] 65535        655K/s   in 38s C#
 ??%[??????????????????????????????????????????????????????????????>] ???          ??K/s    in ??s ???
-22:33:44 (2.33333 MB/s) - `README.md' saved [81/81]
+22:33:44 (2.33333 MB/s) - `README.md' saved [932/932]
 ```
 
 ## 📈 Overview
 
 #### 👷 Check out what I'm currently working on
 
-{{range recentContributions 2 }}
+{{range recentContributions 5 }}
 
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
   {{- end}}
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-{{range recentStars 1 }}
+{{range recentStars 5 }}
 
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
   {{- end}}
@@ -59,14 +59,14 @@ Length: 250 [text/x-plain]
 
 #### 📫 Find me here
 
-[![](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=nextra&logoColor=white)](https://liuzhen932.top/)
+[![](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=nextra&logoColor=white)](https://blog.liuzhen932.top/)
 [![](https://img.shields.io/badge/-Email-0078d4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:hackpig520@outlook.com)
 [![](https://img.shields.io/badge/QQ-eb1923?style=flat-square&logo=tencent-qq&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=3356136957&site=qq&menu=yes)
 ![](https://img.shields.io/badge/HackPig520-C160?style=flat-square&logo=wechat&logoColor=white)
 
 #### 🛠 Platform & Tools
 
-[![](https://img.shields.io/badge/-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/-Windows%2010-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-AdGuard-688c71?style=flat-square&logo=adguard&logoColor=ffffff)](https://adguard.com/zh_cn/welcome.html)
 [![](https://img.shields.io/badge/-P60-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huawei.com/)
@@ -97,4 +97,4 @@ Want more? Click [here](https://github.com/xiaozhu2007/-) to explore more!
 
 ---
 
-[Home](https://xiaozhu2007.pages.dev/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#) | [Status (cloudflare)](https://status.liuzhen932.top/status/main)
+[Home](https://xiaozhu2007.pages.dev/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#)
