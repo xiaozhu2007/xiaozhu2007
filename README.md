@@ -24,7 +24,7 @@ Length: 250 [text/x-plain]
 20%[=========>                                                     ] 102400       2K/s     in +∞s Python
 74%[===========================================>                   ] 65535        655K/s   in 38s C#
 ??%[??????????????????????????????????????????????????????????????>] ???          ??K/s    in ??s ???
-22:33:44 (2.33333 MB/s) - `README.md' saved [81/81]
+22:33:44 (2.33333 MB/s) - `README.md' saved [932/932]
 ```
 
 ## 📈 Overview
@@ -35,13 +35,27 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 day ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (today)
+
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) -  (1 day ago)
+
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (1 day ago)
+
+- [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics &#43; Uptime Monitor &#43; Server Status. not only another GA alternatives (1 week ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API (1 day ago)
+- [abordage/wakatime-box](https://github.com/abordage/wakatime-box) - Show your WakaTime statistics in a pinned gist for your GitHub profile (today)
+
+- [YouEclipse/waka-box-go](https://github.com/YouEclipse/waka-box-go) - 📊 Update profile README / pinned gist to contain your weekly WakaTime stats.  This is a Golang implementation, see the original version https://github.com/matchai/waka-box.   将你的 WakaTime 每周语言使用统计显示在 profile README / pined gist。 (today)
+
+- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (today)
+
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy. (today)
+
+- [othman4dev/dashlite-3.2.1](https://github.com/othman4dev/dashlite-3.2.1) - A beautifull Bootstrap template with HTML CSS &amp; javaScript (today)
 
 #### 🎧 Latest audios
 
@@ -57,14 +71,14 @@ Length: 250 [text/x-plain]
 
 #### 📫 Find me here
 
-[![](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=nextra&logoColor=white)](https://liuzhen932.top/)
+[![](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=nextra&logoColor=white)](https://blog.liuzhen932.top/)
 [![](https://img.shields.io/badge/-Email-0078d4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:hackpig520@outlook.com)
 [![](https://img.shields.io/badge/QQ-eb1923?style=flat-square&logo=tencent-qq&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=3356136957&site=qq&menu=yes)
 ![](https://img.shields.io/badge/HackPig520-C160?style=flat-square&logo=wechat&logoColor=white)
 
 #### 🛠 Platform & Tools
 
-[![](https://img.shields.io/badge/-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/-Windows%2010-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-AdGuard-688c71?style=flat-square&logo=adguard&logoColor=ffffff)](https://adguard.com/zh_cn/welcome.html)
 [![](https://img.shields.io/badge/-P60-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huawei.com/)
@@ -95,4 +109,4 @@ Want more? Click [here](https://github.com/xiaozhu2007/-) to explore more!
 
 ---
 
-[Home](https://xiaozhu2007.pages.dev/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#) | [Status (cloudflare)](https://status.liuzhen932.top/status/main)
+[Home](https://xiaozhu2007.pages.dev/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#)
