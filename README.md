@@ -35,27 +35,27 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (3 days ago)
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (4 days ago)
 
-- [uextra/ScreenShot](https://github.com/uextra/ScreenShot) -  (3 days ago)
+- [uextra/ScreenShot](https://github.com/uextra/ScreenShot) -  (4 days ago)
 
-- [xiaozhu2007/AutoScreenShot](https://github.com/xiaozhu2007/AutoScreenShot) - 基于 Github Actions 的自动网站截图程序，同时保存为png和pdf两种格式，可以回溯网站建造历史等。 (4 days ago)
+- [xiaozhu2007/AutoScreenShot](https://github.com/xiaozhu2007/AutoScreenShot) - 基于 Github Actions 的自动网站截图程序，同时保存为png和pdf两种格式，可以回溯网站建造历史等。 (5 days ago)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (6 days ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 week ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser. (1 day ago)
+- [ra-jeev/hub-chat](https://github.com/ra-jeev/hub-chat) - Cloudflare Workers AI LLM Playground with Nuxt (1 day ago)
 
-- [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法） (1 day ago)
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser. (2 days ago)
 
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 day ago)
+- [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法） (2 days ago)
 
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (1 day ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (2 days ago)
 
-- [HZJQF/help_tool](https://github.com/HZJQF/help_tool) - 推理算法助手(降维打击)  (1 day ago)
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (2 days ago)
 
 #### 🎧 Latest audios
 
