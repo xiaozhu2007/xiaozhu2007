@@ -2,9 +2,8 @@
 <div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)"></div>
 
 - 🌱 I’m currently learning **JavaScript**
-- 📝 I regularly write articles on [Hashnode](https://hackpig520.hashnode.dev/) and [my own blog](https://blog.liuzhen932.top/)
+- 📝 I regularly write articles on [xLog](https://hackpig520.xlog.app/) and [my own blog](https://blog.liuzhen932.top/)
 - 🧧 Donate me at [爱发电](https://afdian.net/a/xiaozhu2021)
-- 😀 I have some [Github](https://github.com) accounts for guest login, please [contact me](mailto:hackpig520@outlook.com) for detailed information
 
 ## 📄 Profile
 
@@ -53,6 +52,20 @@ Length: 250 [text/x-plain]
 #### 📰 Latest posts (Based on hashnode)
 
 {{- range rss "https://hackpig520.hashnode.dev/rss.xml" 1 }}
+
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+  {{- end }}
+
+#### 📰 Latest posts (Based on xLog)
+
+{{- range rss "https://hackpig520.xlog.app/feed" 2 }}
+
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+  {{- end }}
+
+#### 📰 Latest posts (Based on my own blog)
+
+{{- range rss "https://www-api.liuzhen932.top/feed" 5 }}
 
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
   {{- end }}
