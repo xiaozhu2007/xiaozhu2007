@@ -2,9 +2,8 @@
 <div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)"></div>
 
 - 🌱 I’m currently learning **JavaScript**
-- 📝 I regularly write articles on [Hashnode](https://hackpig520.hashnode.dev/) and [my own blog](https://blog.liuzhen932.top/)
+- 📝 I regularly write articles on [xLog](https://hackpig520.xlog.app/) and [my own blog](https://blog.liuzhen932.top/)
 - 🧧 Donate me at [爱发电](https://afdian.net/a/xiaozhu2021)
-- 😀 I have some [Github](https://github.com) accounts for guest login, please [contact me](mailto:hackpig520@outlook.com) for detailed information
 
 ## 📄 Profile
 
@@ -37,9 +36,9 @@ Length: 250 [text/x-plain]
 
 - [WolfYangFan/ts-node](https://github.com/WolfYangFan/ts-node) -  (1 week ago)
 
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (2 weeks ago)
-
 - [uextra/ScreenShot](https://github.com/uextra/ScreenShot) -  (2 weeks ago)
+
+- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (2 weeks ago)
 
 - [xiaozhu2007/AutoScreenShot](https://github.com/xiaozhu2007/AutoScreenShot) - 基于 Github Actions 的自动网站截图程序，同时保存为png和pdf两种格式，可以回溯网站建造历史等。 (2 weeks ago)
 
@@ -68,6 +67,24 @@ Length: 250 [text/x-plain]
 #### 📰 Latest posts (Based on hashnode)
 
 - [📨Gmailnator：一个 Gmail 临时邮箱服务](https://hackpig520.hashnode.dev/gmailnator-gmail) (8 months ago)
+
+#### 📰 Latest posts (Based on xLog)
+
+- [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (1 month ago)
+
+- [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (3 months ago)
+
+#### 📰 Latest posts (Based on my own blog)
+
+- [记一次有趣的钓鱼邮件分析](https://www.liuzhen932.top/posts/default/email-fishing) (4 days ago)
+
+- [互联网低龄化：我们该何去何从？](https://www.liuzhen932.top/posts/default/shabi-1) (1 week ago)
+
+- [[译] 谁正在使用 Accept-Language 请求头？](https://www.liuzhen932.top/posts/t/who-uses-accept-language-header) (1 week ago)
+
+- [[译] 余弦相似度是如何工作的？](https://www.liuzhen932.top/posts/t/cosine-similarity) (2 weeks ago)
+
+- [利用 IPFS 链查看 xLog 博客匿名评论的邮箱](https://www.liuzhen932.top/posts/default/xlog-email) (2 weeks ago)
 
 #### 📫 Find me here
 
