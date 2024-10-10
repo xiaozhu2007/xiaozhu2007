@@ -34,11 +34,11 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) -  (3 days ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (today)
+
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (today)
 
 - [WolfYangFan/ts-node](https://github.com/WolfYangFan/ts-node) -  (1 week ago)
-
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (1 month ago)
 
 - [uextra/ScreenShot](https://github.com/uextra/ScreenShot) -  (1 month ago)
 
@@ -46,15 +46,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin) - A web-based control panel for PowerDNS (1 day ago)
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (today)
 
-- [deepfield/bird2](https://github.com/deepfield/bird2) - deepfield&#39;s fork of BIRD bgp daemon (1 day ago)
+- [bangbang93/home-ddns](https://github.com/bangbang93/home-ddns) -  (1 day ago)
 
-- [koishijs/koishi-plugin-subscribe-at](https://github.com/koishijs/koishi-plugin-subscribe-at) - Record messages that mention you. | 记录@你的消息 (1 day ago)
+- [MCSLTeam/MCServerLauncher-Future](https://github.com/MCSLTeam/MCServerLauncher-Future) - Future version of MCSL, a brand new server management tool. Redefined, Versatile, Easy to use. (WPF Launcher &amp; Daemon) (1 day ago)
 
-- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status &amp; toolbox (2 days ago)
+- [shangxueink/koishi-shangxue-apps](https://github.com/shangxueink/koishi-shangxue-apps) - 小学在koishi的插件合集？ (1 day ago)
 
-- [MCSLTeam/MCServerLauncher-Future-Web](https://github.com/MCSLTeam/MCServerLauncher-Future-Web) - Future version of MCSL, a brand new server management tool. Redefined, Versatile, Easy to use. (WebPanel) (2 days ago)
+- [Kokoro-js/koishi-plugin-vericode](https://github.com/Kokoro-js/koishi-plugin-vericode) -  (1 day ago)
 
 #### 🎧 Latest audios
 
@@ -82,7 +82,7 @@ Length: 250 [text/x-plain]
 
 - [[译] 谁正在使用 Accept-Language 请求头？](https://www.liuzhen932.top/posts/t/who-uses-accept-language-header) (3 weeks ago)
 
-- [[译] 余弦相似度是如何工作的？](https://www.liuzhen932.top/posts/t/cosine-similarity) (3 weeks ago)
+- [[译] 余弦相似度是如何工作的？](https://www.liuzhen932.top/posts/t/cosine-similarity) (4 weeks ago)
 
 - [利用 IPFS 链查看 xLog 博客匿名评论的邮箱](https://www.liuzhen932.top/posts/default/xlog-email) (1 month ago)
 
