@@ -32,29 +32,29 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (today)
-
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (1 day ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 day ago)
+
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (1 day ago)
+
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (2 days ago)
 
 - [WolfYangFan/ts-node](https://github.com/WolfYangFan/ts-node) -  (1 week ago)
-
-- [xiaozhu2007/ScreenShot](https://github.com/xiaozhu2007/ScreenShot) - 友链截图 (1 month ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (1 day ago)
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (1 day ago)
 
-- [bangbang93/home-ddns](https://github.com/bangbang93/home-ddns) -  (2 days ago)
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (2 days ago)
 
-- [MCSLTeam/MCServerLauncher-Future](https://github.com/MCSLTeam/MCServerLauncher-Future) - Future version of MCSL, a brand new server management tool. Redefined, Versatile, Easy to use. (WPF Launcher &amp; Daemon) (2 days ago)
+- [bangbang93/home-ddns](https://github.com/bangbang93/home-ddns) -  (3 days ago)
 
-- [shangxueink/koishi-shangxue-apps](https://github.com/shangxueink/koishi-shangxue-apps) - 小学在koishi的插件合集？ (2 days ago)
+- [MCSLTeam/MCServerLauncher-Future](https://github.com/MCSLTeam/MCServerLauncher-Future) - Future version of MCSL, a brand new server management tool. Redefined, Versatile, Easy to use. (WPF Launcher &amp; Daemon) (3 days ago)
 
-- [Kokoro-js/koishi-plugin-vericode](https://github.com/Kokoro-js/koishi-plugin-vericode) -  (2 days ago)
+- [shangxueink/koishi-shangxue-apps](https://github.com/shangxueink/koishi-shangxue-apps) - 小学在koishi的插件合集？ (3 days ago)
 
 #### 🎧 Latest audios
 
@@ -70,9 +70,9 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on xLog)
 
-- [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (1 month ago)
+- [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (2 months ago)
 
-- [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (3 months ago)
+- [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (4 months ago)
 
 #### 📰 Latest posts (Based on my own blog)
 
@@ -80,9 +80,9 @@ Length: 250 [text/x-plain]
 
 - [互联网低龄化：我们该何去何从？](https://www.liuzhen932.top/posts/default/shabi-1) (3 weeks ago)
 
-- [[译] 谁正在使用 Accept-Language 请求头？](https://www.liuzhen932.top/posts/t/who-uses-accept-language-header) (3 weeks ago)
+- [[译] 谁正在使用 Accept-Language 请求头？](https://www.liuzhen932.top/posts/t/who-uses-accept-language-header) (4 weeks ago)
 
-- [[译] 余弦相似度是如何工作的？](https://www.liuzhen932.top/posts/t/cosine-similarity) (4 weeks ago)
+- [[译] 余弦相似度是如何工作的？](https://www.liuzhen932.top/posts/t/cosine-similarity) (1 month ago)
 
 - [利用 IPFS 链查看 xLog 博客匿名评论的邮箱](https://www.liuzhen932.top/posts/default/xlog-email) (1 month ago)
 
