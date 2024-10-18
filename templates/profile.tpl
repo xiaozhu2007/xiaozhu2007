@@ -97,18 +97,6 @@ Length: 250 [text/x-plain]
 [![](https://img.shields.io/badge/-Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![](https://img.shields.io/badge/-Pages-f38020?style=flat-square&logo=cloudflarepages&logoColor=white)](https://www.cloudflare.com/)
 
-<details>
-  <summary>各种镜像站推荐</summary>
-
-| TYPE          | NODE                                                                  |
-| ------------- | --------------------------------------------------------------------- |
-| Google Search | [HTMirror](https://pig.cn.eu.org)                                     |
-| Web Proxy     | [HelloTools Global Proxy](https://e.hellotools.eu.org/)(cloudflare)   |
-
-Want more? Click [here](https://github.com/xiaozhu2007/-) to explore more!
-
-</details>
-
 ---
 
-[Home](https://xiaozhu2007.pages.dev/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#)
+[Home](https://www.932.moe/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#)
