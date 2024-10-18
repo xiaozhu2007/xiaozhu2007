@@ -34,11 +34,11 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (1 day ago)
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (2 days ago)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (6 days ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 week ago)
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (6 days ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (1 week ago)
 
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (1 week ago)
 
@@ -46,15 +46,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [medokin/soundpad-text-to-speech](https://github.com/medokin/soundpad-text-to-speech) - Text-To-Speech for Soundpad (1 day ago)
+- [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme (1 day ago)
 
-- [Sakurasan/scf-proxy](https://github.com/Sakurasan/scf-proxy) - 云函数代理服务 (1 day ago)
+- [bokuweb/zstd-wasm](https://github.com/bokuweb/zstd-wasm) - Zstandard for browser, Node.js and Deno (1 day ago)
 
-- [lyc8503/Sandboxie-crack](https://github.com/lyc8503/Sandboxie-crack) - Sandboxie with all advanced features cracked (latest version: v1.14.7, 20240823) (1 day ago)
+- [medokin/soundpad-text-to-speech](https://github.com/medokin/soundpad-text-to-speech) - Text-To-Speech for Soundpad (2 days ago)
 
-- [MuskaNet/DN42-bird-configuration](https://github.com/MuskaNet/DN42-bird-configuration) - DN42配置文件 (2 days ago)
+- [Sakurasan/scf-proxy](https://github.com/Sakurasan/scf-proxy) - 云函数代理服务 (2 days ago)
 
-- [MuskaNet/OpenGFW-configuration](https://github.com/MuskaNet/OpenGFW-configuration) - Our rules to block some connection. (2 days ago)
+- [lyc8503/Sandboxie-crack](https://github.com/lyc8503/Sandboxie-crack) - Sandboxie with all advanced features cracked (latest version: v1.14.7, 20240823) (2 days ago)
 
 #### 🎧 Latest audios
 
@@ -78,7 +78,7 @@ Length: 250 [text/x-plain]
 
 - [记一次有趣的钓鱼邮件分析](https://www.liuzhen932.top/posts/default/email-fishing) (3 weeks ago)
 
-- [互联网低龄化：我们该何去何从？](https://www.liuzhen932.top/posts/default/shabi-1) (4 weeks ago)
+- [互联网低龄化：我们该何去何从？](https://www.liuzhen932.top/posts/default/shabi-1) (1 month ago)
 
 - [[译] 谁正在使用 Accept-Language 请求头？](https://www.liuzhen932.top/posts/t/who-uses-accept-language-header) (1 month ago)
 
