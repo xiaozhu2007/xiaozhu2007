@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 - 📝 I regularly write articles on [xLog](https://hackpig520.xlog.app/) and [my own blog](https://blog.liuzhen932.top/)
-- 🧧 Donate me at [爱发电](https://afdian.net/a/xiaozhu2021)
+- 🧧 Donate me at [爱发电](https://afdian.com/a/xiaozhu2021)
 
 ## 📄 Profile
 
@@ -65,7 +65,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-{{- range rss "https://www-api.liuzhen932.top/feed" 5 }}
+{{- range rss "https://blog.liuzhen932.top/rss.xml" 5 }}
 
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
   {{- end }}
