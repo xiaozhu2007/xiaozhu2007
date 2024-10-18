@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 - 📝 I regularly write articles on [xLog](https://hackpig520.xlog.app/) and [my own blog](https://blog.liuzhen932.top/)
-- 🧧 Donate me at [爱发电](https://afdian.net/a/xiaozhu2021)
+- 🧧 Donate me at [爱发电](https://afdian.com/a/xiaozhu2021)
 
 ## 📄 Profile
 
@@ -76,15 +76,15 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [记一次有趣的钓鱼邮件分析](https://www.liuzhen932.top/posts/default/email-fishing) (3 weeks ago)
+- [记一次有趣的钓鱼邮件分析](https://blog.liuzhen932.top/posts/email-fishing/) (3 weeks ago)
 
-- [互联网低龄化：我们该何去何从？](https://www.liuzhen932.top/posts/default/shabi-1) (1 month ago)
+- [[译] 谁正在使用 Accept-Language 请求头？](https://blog.liuzhen932.top/posts/who-uses-accept-language-header/) (1 month ago)
 
-- [[译] 谁正在使用 Accept-Language 请求头？](https://www.liuzhen932.top/posts/t/who-uses-accept-language-header) (1 month ago)
+- [FAQ: GoNoBot](https://blog.liuzhen932.top/posts/gonobot-faq/) (1 month ago)
 
-- [[译] 余弦相似度是如何工作的？](https://www.liuzhen932.top/posts/t/cosine-similarity) (1 month ago)
+- [利用 IPFS 链查看 xLog 博客匿名评论的邮箱](https://blog.liuzhen932.top/posts/xlog-email/) (1 month ago)
 
-- [利用 IPFS 链查看 xLog 博客匿名评论的邮箱](https://www.liuzhen932.top/posts/default/xlog-email) (1 month ago)
+- [溯源：推荐几个图像溯源平台](https://blog.liuzhen932.top/posts/img-search/) (1 month ago)
 
 #### 📫 Find me here
 
