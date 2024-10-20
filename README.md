@@ -32,29 +32,29 @@ Length: 250 [text/x-plain]
 
 
 
-- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (today)
-
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (3 days ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 day ago)
+
+- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (1 day ago)
+
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (4 days ago)
 
 - [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 week ago)
-
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (1 week ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [adlered/bolo-solo](https://github.com/adlered/bolo-solo) - 🍍Bolo菠萝博客 专为程序员设计的精致Java博客系统 | 🎸基于Solo深度定制 | ❤️完善文档轻松安装，贴心的技术支持 | 免登录评论 | 邮件/微信提醒 | 自定义图床 | 备案模式 | ✨精致主题持续更新 | 一键备份 | 防火墙 | 评论过滤 | 独立分类 | 文章与GitHub同步 | ✅安装太轻松！支持 Tomcat  Docker   宝塔面板 | 支持Windows  Linux  MacOS  Web容器 | 支持ARM处理器  X86/64处理器 | 🚚支持从Solo轻松迁移 (today)
+- [jech/babeld](https://github.com/jech/babeld) - The Babel routing daemon (today)
 
-- [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme (2 days ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 day ago)
 
-- [bokuweb/zstd-wasm](https://github.com/bokuweb/zstd-wasm) - Zstandard for browser, Node.js and Deno (2 days ago)
+- [IcyBlue17/Github_pusher_telegram](https://github.com/IcyBlue17/Github_pusher_telegram) - 一个简单的基于Python的Telegram机器人，配合Github Webhook实现仓库Commit消息的推送 (1 day ago)
 
-- [medokin/soundpad-text-to-speech](https://github.com/medokin/soundpad-text-to-speech) - Text-To-Speech for Soundpad (3 days ago)
+- [adlered/bolo-solo](https://github.com/adlered/bolo-solo) - 🍍Bolo菠萝博客 专为程序员设计的精致Java博客系统 | 🎸基于Solo深度定制 | ❤️完善文档轻松安装，贴心的技术支持 | 免登录评论 | 邮件/微信提醒 | 自定义图床 | 备案模式 | ✨精致主题持续更新 | 一键备份 | 防火墙 | 评论过滤 | 独立分类 | 文章与GitHub同步 | ✅安装太轻松！支持 Tomcat  Docker   宝塔面板 | 支持Windows  Linux  MacOS  Web容器 | 支持ARM处理器  X86/64处理器 | 🚚支持从Solo轻松迁移 (1 day ago)
 
-- [Sakurasan/scf-proxy](https://github.com/Sakurasan/scf-proxy) - 云函数代理服务 (3 days ago)
+- [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme (3 days ago)
 
 #### 🎧 Latest audios
 
@@ -76,15 +76,15 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [刚刚！我更新了小站](https://blog.liuzhen932.top/posts/reblog-202410/) (1 day ago)
+- [如何编写一个摩斯电码转换工具：详解与实现](https://blog.liuzhen932.top/posts/how-to-create-a-morse-code-converter/) (1 day ago)
 
-- [记一次有趣的钓鱼邮件分析](https://blog.liuzhen932.top/posts/email-fishing/) (3 weeks ago)
+- [刚刚！我更新了小站](https://blog.liuzhen932.top/posts/reblog-202410/) (2 days ago)
+
+- [记一次有趣的钓鱼邮件分析](https://blog.liuzhen932.top/posts/email-fishing/) (4 weeks ago)
 
 - [[译] 谁正在使用 Accept-Language 请求头？](https://blog.liuzhen932.top/posts/who-uses-accept-language-header/) (1 month ago)
 
 - [FAQ: GoNoBot](https://blog.liuzhen932.top/posts/gonobot-faq/) (1 month ago)
-
-- [利用 IPFS 链查看 xLog 博客匿名评论的邮箱](https://blog.liuzhen932.top/posts/xlog-email/) (1 month ago)
 
 #### 📫 Find me here
 
