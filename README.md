@@ -46,9 +46,9 @@ Length: 250 [text/x-plain]
 
 
 
-- [jech/babeld](https://github.com/jech/babeld) - The Babel routing daemon (today)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (today)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 day ago)
+- [jech/babeld](https://github.com/jech/babeld) - The Babel routing daemon (today)
 
 - [IcyBlue17/Github_pusher_telegram](https://github.com/IcyBlue17/Github_pusher_telegram) - 一个简单的基于Python的Telegram机器人，配合Github Webhook实现仓库Commit消息的推送 (1 day ago)
 
@@ -90,7 +90,6 @@ Length: 250 [text/x-plain]
 
 [![](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=nextra&logoColor=white)](https://blog.liuzhen932.top/)
 [![](https://img.shields.io/badge/-Email-0078d4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:hackpig520@outlook.com)
-[![](https://img.shields.io/badge/QQ-eb1923?style=flat-square&logo=tencent-qq&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=3356136957&site=qq&menu=yes)
 ![](https://img.shields.io/badge/HackPig520-C160?style=flat-square&logo=wechat&logoColor=white)
 ![](https://wakatime.com/badge/user/98fc996b-8c43-4e70-beab-a2d62a86a757.svg?style=flat-square)
 
