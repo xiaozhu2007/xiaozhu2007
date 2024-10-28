@@ -76,6 +76,8 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
+- [使用 ss 命令过滤并分析 SSH 连接](https://blog.liuzhen932.top/posts/linux-ss-ssh/) (1 day ago)
+
 - [如何编写一个摩斯电码转换工具：详解与实现](https://blog.liuzhen932.top/posts/how-to-create-a-morse-code-converter/) (1 week ago)
 
 - [刚刚！我更新了小站](https://blog.liuzhen932.top/posts/reblog-202410/) (1 week ago)
@@ -84,15 +86,13 @@ Length: 250 [text/x-plain]
 
 - [[译] 谁正在使用 Accept-Language 请求头？](https://blog.liuzhen932.top/posts/who-uses-accept-language-header/) (1 month ago)
 
-- [FAQ: GoNoBot](https://blog.liuzhen932.top/posts/gonobot-faq/) (1 month ago)
-
 #### 📫 Find me here
 
-[![](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=nextra&logoColor=white)](https://blog.liuzhen932.top/)
+[![](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=cloudflarepages&logoColor=white)](https://blog.liuzhen932.top/)
 [![](https://img.shields.io/badge/-Email-0078d4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:hackpig520@outlook.com)
 ![](https://img.shields.io/badge/HackPig520-C160?style=flat-square&logo=wechat&logoColor=white)
 ![](https://wakatime.com/badge/user/98fc996b-8c43-4e70-beab-a2d62a86a757.svg?style=flat-square)
-![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199783068612&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+friends:%20liuzhen932&style=flat-square)
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199783068612&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+friends&style=flat-square)](https://steamcommunity.com/profiles/76561199783068612)
 
 #### 🛠 Platform & Tools
 
