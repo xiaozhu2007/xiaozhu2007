@@ -72,11 +72,11 @@ Length: 250 [text/x-plain]
 
 #### 📫 Find me here
 
-[![](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=nextra&logoColor=white)](https://blog.liuzhen932.top/)
+[![](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=cloudflarepages&logoColor=white)](https://blog.liuzhen932.top/)
 [![](https://img.shields.io/badge/-Email-0078d4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:hackpig520@outlook.com)
 ![](https://img.shields.io/badge/HackPig520-C160?style=flat-square&logo=wechat&logoColor=white)
 ![](https://wakatime.com/badge/user/98fc996b-8c43-4e70-beab-a2d62a86a757.svg?style=flat-square)
-![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199783068612&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+friends:%20liuzhen932&style=flat-square)
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199783068612&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+friends&style=flat-square)](https://steamcommunity.com/profiles/76561199783068612)
 
 #### 🛠 Platform & Tools
 
