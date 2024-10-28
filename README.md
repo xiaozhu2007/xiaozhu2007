@@ -40,21 +40,21 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (4 days ago)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 week ago)
+- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (1 week ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
+
+- [danger-dream/ebpf-firewall](https://github.com/danger-dream/ebpf-firewall) - eBPF Firewall 是基于 eBPF 技术的高性能网络防火墙系统，具有实时入站流量监控、规则过滤和黑名单管理等功能。主要用于在资源有限的 VPS 中进行入站流量监控和过滤。 (today)
+
+- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple (today)
 
 - [AntonyLeons/Ward](https://github.com/AntonyLeons/Ward) - Server dashboard (1 day ago)
 
 - [nekocode/neko-gallery](https://github.com/nekocode/neko-gallery) - A cyberpunk style gallery website for listing all your open sourced projects. (1 day ago)
 
 - [nekocode/Badge](https://github.com/nekocode/Badge) - :octocat: Drawable of badge. (1 day ago)
-
-- [xiaozhu2007/bing-indexnow](https://github.com/xiaozhu2007/bing-indexnow) - :fire: This is a Node.js module for submitting your sitemap to Bing&#39;s IndexNow service. 这是一个 Node.js 模块，用于将站点地图提交到 Bing 的 IndexNow 服务。 (1 day ago)
-
-- [Citrinate/BoosterManager](https://github.com/Citrinate/BoosterManager) - An ASF Plugin for creating Steam Booster Packs and managing trading card items (3 days ago)
 
 #### 🎧 Latest audios
 
@@ -92,6 +92,7 @@ Length: 250 [text/x-plain]
 [![](https://img.shields.io/badge/-Email-0078d4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:hackpig520@outlook.com)
 ![](https://img.shields.io/badge/HackPig520-C160?style=flat-square&logo=wechat&logoColor=white)
 ![](https://wakatime.com/badge/user/98fc996b-8c43-4e70-beab-a2d62a86a757.svg?style=flat-square)
+![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199783068612&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+friends:%20liuzhen932&style=flat-square)
 
 #### 🛠 Platform & Tools
 
