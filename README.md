@@ -34,27 +34,27 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (3 days ago)
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (1 day ago)
+
+- [xiaozhu2007/bing-indexnow](https://github.com/xiaozhu2007/bing-indexnow) - :fire: This is a Node.js module for submitting your sitemap to Bing&#39;s IndexNow service. 这是一个 Node.js 模块，用于将站点地图提交到 Bing 的 IndexNow 服务。 (1 day ago)
+
+- [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (4 days ago)
 
 - [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 week ago)
-
-- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (1 week ago)
-
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (1 week ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [Citrinate/BoosterManager](https://github.com/Citrinate/BoosterManager) - An ASF Plugin for creating Steam Booster Packs and managing trading card items (2 days ago)
+- [AntonyLeons/Ward](https://github.com/AntonyLeons/Ward) - Server dashboard (1 day ago)
 
-- [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously. (2 days ago)
+- [nekocode/neko-gallery](https://github.com/nekocode/neko-gallery) - A cyberpunk style gallery website for listing all your open sourced projects. (1 day ago)
 
-- [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (3 days ago)
+- [nekocode/Badge](https://github.com/nekocode/Badge) - :octocat: Drawable of badge. (1 day ago)
 
-- [IcyBlue17/Telegram_userinfo_api](https://github.com/IcyBlue17/Telegram_userinfo_api) - A simple program based python3 and used pyrogram to get the info of the telegram user (4 days ago)
+- [xiaozhu2007/bing-indexnow](https://github.com/xiaozhu2007/bing-indexnow) - :fire: This is a Node.js module for submitting your sitemap to Bing&#39;s IndexNow service. 这是一个 Node.js 模块，用于将站点地图提交到 Bing 的 IndexNow 服务。 (1 day ago)
 
-- [bgptools/anycast-prefixes](https://github.com/bgptools/anycast-prefixes) -  (5 days ago)
+- [Citrinate/BoosterManager](https://github.com/Citrinate/BoosterManager) - An ASF Plugin for creating Steam Booster Packs and managing trading card items (3 days ago)
 
 #### 🎧 Latest audios
 
