@@ -34,27 +34,27 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/uppercase](https://github.com/xiaozhu2007/uppercase) - A Node.js module to convert strings to uppercase and provide related utilities. (1 day ago)
+- [xiaozhu2007/uppercase](https://github.com/xiaozhu2007/uppercase) - A Node.js module to convert strings to uppercase and provide related utilities. (2 days ago)
 
-- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (1 day ago)
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (2 days ago)
 
-- [xiaozhu2007/bing-indexnow](https://github.com/xiaozhu2007/bing-indexnow) - :fire: This is a Node.js module for submitting your sitemap to Bing&#39;s IndexNow service. 这是一个 Node.js 模块，用于将站点地图提交到 Bing 的 IndexNow 服务。 (2 days ago)
+- [xiaozhu2007/bing-indexnow](https://github.com/xiaozhu2007/bing-indexnow) - :fire: This is a Node.js module for submitting your sitemap to Bing&#39;s IndexNow service. 这是一个 Node.js 模块，用于将站点地图提交到 Bing 的 IndexNow 服务。 (3 days ago)
 
-- [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (5 days ago)
+- [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (6 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [nodejs-mobile/nodejs-mobile](https://github.com/nodejs-mobile/nodejs-mobile) - Full-fledged Node.js on Android and iOS (1 day ago)
+- [bytescale/bytescale-javascript-sdk](https://github.com/bytescale/bytescale-javascript-sdk) - Official Bytescale JavaScript SDK (1 day ago)
 
-- [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo) - Makes it easy to add information that is relevant for SEO to your Astro app. (1 day ago)
+- [nodejs-mobile/nodejs-mobile](https://github.com/nodejs-mobile/nodejs-mobile) - Full-fledged Node.js on Android and iOS (2 days ago)
 
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 day ago)
+- [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo) - Makes it easy to add information that is relevant for SEO to your Astro app. (2 days ago)
 
-- [danger-dream/ebpf-firewall](https://github.com/danger-dream/ebpf-firewall) - eBPF Firewall 是基于 eBPF 技术的高性能网络防火墙系统，具有实时入站流量监控、规则过滤和黑名单管理等功能。主要用于在资源有限的 VPS 中进行入站流量监控和过滤。 (1 day ago)
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (2 days ago)
 
-- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple (1 day ago)
+- [danger-dream/ebpf-firewall](https://github.com/danger-dream/ebpf-firewall) - eBPF Firewall 是基于 eBPF 技术的高性能网络防火墙系统，具有实时入站流量监控、规则过滤和黑名单管理等功能。主要用于在资源有限的 VPS 中进行入站流量监控和过滤。 (2 days ago)
 
 #### 🎧 Latest audios
 
@@ -76,15 +76,15 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [使用 ss 命令过滤并分析 SSH 连接](https://blog.liuzhen932.top/posts/linux-ss-ssh/) (2 days ago)
+- [纯 CSS 实现自定义浏览器滚动条](https://blog.liuzhen932.top/posts/customizing-scrollbars/) (1 day ago)
+
+- [使用 ss 命令过滤并分析 SSH 连接](https://blog.liuzhen932.top/posts/linux-ss-ssh/) (3 days ago)
 
 - [如何编写一个摩斯电码转换工具：详解与实现](https://blog.liuzhen932.top/posts/how-to-create-a-morse-code-converter/) (1 week ago)
 
 - [刚刚！我更新了小站](https://blog.liuzhen932.top/posts/reblog-202410/) (1 week ago)
 
 - [记一次有趣的钓鱼邮件分析](https://blog.liuzhen932.top/posts/email-fishing/) (1 month ago)
-
-- [[译] 谁正在使用 Accept-Language 请求头？](https://blog.liuzhen932.top/posts/who-uses-accept-language-header/) (1 month ago)
 
 #### 📫 Find me here
 
