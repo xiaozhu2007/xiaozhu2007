@@ -34,9 +34,9 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (2 days ago)
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (3 days ago)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (5 days ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (6 days ago)
 
 - [xiaozhu2007/uppercase](https://github.com/xiaozhu2007/uppercase) - A Node.js module to convert strings to uppercase and provide related utilities. (1 week ago)
 
@@ -46,23 +46,23 @@ Length: 250 [text/x-plain]
 
 
 
-- [SukkaW/cloudflare-block-bad-bot-ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules (2 days ago)
+- [zhheo/Post-Abstract-AI](https://github.com/zhheo/Post-Abstract-AI) - 适用于博客的文章摘要生成器 (1 day ago)
 
-- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web (4 days ago)
+- [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player (1 day ago)
 
-- [v03413/bepusdt](https://github.com/v03413/bepusdt) - 一款更好用的个人USDT收款网关，兼容所有 Epusdt 插件，可无缝切换，支持交易所动态汇率、支持Docker一键部署；支持独角发卡 易支付 异次元发卡 (4 days ago)
+- [VirtualHotBar/WinNew_Web](https://github.com/VirtualHotBar/WinNew_Web) - 从微软服务器获取最新的Windows镜像 (1 day ago)
 
-- [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。 (4 days ago)
+- [SukkaW/cloudflare-block-bad-bot-ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules (3 days ago)
 
-- [qs5667/argon_bilibili_emoji](https://github.com/qs5667/argon_bilibili_emoji) - 一个argon主题的bilibili表情包插件资源 (5 days ago)
+- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web (5 days ago)
 
 #### 🎧 Latest audios
 
+- [Nova - Ahrix(Swing&#43;Noteblock)]() (1 day ago)
+
 - [黑人抬棺 (8-bit)]() (5 months ago)
 
-- [Nova - Ahrix]() (7 months ago)
-
-- [Nova - Ahrix(NoteBlock Editon)]() (7 months ago)
+- [Nova - Ahrix]() (8 months ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
@@ -82,7 +82,7 @@ Length: 250 [text/x-plain]
 
 - [如何编写一个摩斯电码转换工具：详解与实现](https://blog.liuzhen932.top/posts/how-to-create-a-morse-code-converter/) (2 weeks ago)
 
-- [刚刚！我更新了小站](https://blog.liuzhen932.top/posts/reblog-202410/) (2 weeks ago)
+- [刚刚！我更新了小站](https://blog.liuzhen932.top/posts/reblog-202410/) (3 weeks ago)
 
 - [记一次有趣的钓鱼邮件分析](https://blog.liuzhen932.top/posts/email-fishing/) (1 month ago)
 
