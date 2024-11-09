@@ -32,33 +32,33 @@ Length: 250 [text/x-plain]
 
 
 
+- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (today)
+
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (3 days ago)
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (4 days ago)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (6 days ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 week ago)
 
 - [xiaozhu2007/uppercase](https://github.com/xiaozhu2007/uppercase) - A Node.js module to convert strings to uppercase and provide related utilities. (1 week ago)
-
-- [xiaozhu2007/bing-indexnow](https://github.com/xiaozhu2007/bing-indexnow) - :fire: This is a Node.js module for submitting your sitemap to Bing&#39;s IndexNow service. 这是一个 Node.js 模块，用于将站点地图提交到 Bing 的 IndexNow 服务。 (1 week ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [zhheo/Post-Abstract-AI](https://github.com/zhheo/Post-Abstract-AI) - 适用于博客的文章摘要生成器 (1 day ago)
+- [kristofhracza/tim_apple](https://github.com/kristofhracza/tim_apple) - Simple CS2 external cheat (1 day ago)
 
-- [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player (1 day ago)
+- [ArmynC/ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ⚙️ ArminC&#39;s autoexec for CS2 - well documented, analysed and no misconfigurations (1 day ago)
 
-- [VirtualHotBar/WinNew_Web](https://github.com/VirtualHotBar/WinNew_Web) - 从微软服务器获取最新的Windows镜像 (1 day ago)
+- [Mzzzj/CS2_DMA_Radar](https://github.com/Mzzzj/CS2_DMA_Radar) - CS2 DMA 雷达 (1 day ago)
 
-- [SukkaW/cloudflare-block-bad-bot-ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules (3 days ago)
+- [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) - Companion application for your Counter-Strike demos. (1 day ago)
 
-- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web (5 days ago)
+- [wfxjz/Nixware](https://github.com/wfxjz/Nixware) - In CS2, Nixware has a good legitbot and great visuals, making it a solid choice for clear and effective gameplay. (1 day ago)
 
 #### 🎧 Latest audios
 
-- [Nova - Ahrix(Swing&#43;Noteblock)]() (1 day ago)
+- [Nova - Ahrix(Swing&#43;Noteblock)]() (2 days ago)
 
 - [黑人抬棺 (8-bit)]() (5 months ago)
 
@@ -80,7 +80,7 @@ Length: 250 [text/x-plain]
 
 - [使用 ss 命令过滤并分析 SSH 连接](https://blog.liuzhen932.top/posts/linux-ss-ssh/) (1 week ago)
 
-- [如何编写一个摩斯电码转换工具：详解与实现](https://blog.liuzhen932.top/posts/how-to-create-a-morse-code-converter/) (2 weeks ago)
+- [如何编写一个摩斯电码转换工具：详解与实现](https://blog.liuzhen932.top/posts/how-to-create-a-morse-code-converter/) (3 weeks ago)
 
 - [刚刚！我更新了小站](https://blog.liuzhen932.top/posts/reblog-202410/) (3 weeks ago)
 
