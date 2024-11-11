@@ -34,31 +34,31 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (1 day ago)
+- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (2 days ago)
 
-- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (5 days ago)
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (6 days ago)
 
 - [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 week ago)
 
-- [xiaozhu2007/uppercase](https://github.com/xiaozhu2007/uppercase) - A Node.js module to convert strings to uppercase and provide related utilities. (1 week ago)
+- [xiaozhu2007/uppercase](https://github.com/xiaozhu2007/uppercase) - A Node.js module to convert strings to uppercase and provide related utilities. (2 weeks ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [kristofhracza/tim_apple](https://github.com/kristofhracza/tim_apple) - Simple CS2 external cheat (2 days ago)
+- [kristofhracza/tim_apple](https://github.com/kristofhracza/tim_apple) - Simple CS2 external cheat (3 days ago)
 
-- [ArmynC/ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ⚙️ ArminC&#39;s autoexec for CS2 - well documented, analysed and no misconfigurations (2 days ago)
+- [ArmynC/ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ⚙️ ArminC&#39;s autoexec for CS2 - well documented, analysed and no misconfigurations (3 days ago)
 
-- [Mzzzj/CS2_DMA_Radar](https://github.com/Mzzzj/CS2_DMA_Radar) - CS2 DMA 雷达 (2 days ago)
+- [Mzzzj/CS2_DMA_Radar](https://github.com/Mzzzj/CS2_DMA_Radar) - CS2 DMA 雷达 (3 days ago)
 
-- [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) - Companion application for your Counter-Strike demos. (2 days ago)
+- [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) - Companion application for your Counter-Strike demos. (3 days ago)
 
-- [wfxjz/Nixware](https://github.com/wfxjz/Nixware) - In CS2, Nixware has a good legitbot and great visuals, making it a solid choice for clear and effective gameplay. (2 days ago)
+- [wfxjz/Nixware](https://github.com/wfxjz/Nixware) - In CS2, Nixware has a good legitbot and great visuals, making it a solid choice for clear and effective gameplay. (3 days ago)
 
 #### 🎧 Latest audios
 
-- [Nova - Ahrix(Swing&#43;Noteblock)]() (3 days ago)
+- [Nova - Ahrix(Swing&#43;Noteblock)]() (4 days ago)
 
 - [黑人抬棺 (8-bit)]() (5 months ago)
 
@@ -70,9 +70,9 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on xLog)
 
-- [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (2 months ago)
+- [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (3 months ago)
 
-- [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (4 months ago)
+- [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (5 months ago)
 
 #### 📰 Latest posts (Based on my own blog)
 
