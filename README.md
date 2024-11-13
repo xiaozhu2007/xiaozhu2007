@@ -34,9 +34,9 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (1 day ago)
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (2 days ago)
 
-- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (3 days ago)
+- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (4 days ago)
 
 - [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 week ago)
 
@@ -46,19 +46,19 @@ Length: 250 [text/x-plain]
 
 
 
-- [XrayR-project/XrayR](https://github.com/XrayR-project/XrayR) - A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接 (today)
+- [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox (today)
 
-- [kristofhracza/tim_apple](https://github.com/kristofhracza/tim_apple) - Simple CS2 external cheat (4 days ago)
+- [UIforFreedom/UIF](https://github.com/UIforFreedom/UIF) - 代理面板 UI for Freedom (today)
 
-- [ArmynC/ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ⚙️ ArminC&#39;s autoexec for CS2 - well documented, analysed and no misconfigurations (4 days ago)
+- [233boy/sing-box](https://github.com/233boy/sing-box) - 最好用的 sing-box 一键安装脚本 &amp; 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议 (today)
 
-- [Mzzzj/CS2_DMA_Radar](https://github.com/Mzzzj/CS2_DMA_Radar) - CS2 DMA 雷达 (4 days ago)
+- [zbronya/v6-proxy](https://github.com/zbronya/v6-proxy) -  (today)
 
-- [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) - Companion application for your Counter-Strike demos. (4 days ago)
+- [XrayR-project/XrayR](https://github.com/XrayR-project/XrayR) - A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接 (1 day ago)
 
 #### 🎧 Latest audios
 
-- [Nova - Ahrix(Swing&#43;Noteblock)]() (5 days ago)
+- [Nova - Ahrix(Swing&#43;Noteblock)]() (6 days ago)
 
 - [黑人抬棺 (8-bit)]() (5 months ago)
 
