@@ -34,11 +34,11 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (4 days ago)
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (5 days ago)
 
-- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (6 days ago)
+- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (1 week ago)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 week ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (2 weeks ago)
 
 - [xiaozhu2007/uppercase](https://github.com/xiaozhu2007/uppercase) - A Node.js module to convert strings to uppercase and provide related utilities. (2 weeks ago)
 
@@ -46,15 +46,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 (1 day ago)
+- [Archeb/opentrace](https://github.com/Archeb/opentrace) - A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。 (1 day ago)
 
-- [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox (2 days ago)
+- [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) - NextTrace, an open source visual route tracking CLI tool (1 day ago)
 
-- [UIforFreedom/UIF](https://github.com/UIforFreedom/UIF) - 代理面板 UI for Freedom (2 days ago)
+- [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray (1 day ago)
 
-- [233boy/sing-box](https://github.com/233boy/sing-box) - 最好用的 sing-box 一键安装脚本 &amp; 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议 (2 days ago)
+- [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader (1 day ago)
 
-- [zbronya/v6-proxy](https://github.com/zbronya/v6-proxy) -  (2 days ago)
+- [LloydAsp/OsMutation](https://github.com/LloydAsp/OsMutation) - Reinstall Any OpenVZ/LXC VPS to Debian/CentOS/Alpine (1 day ago)
 
 #### 🎧 Latest audios
 
@@ -76,15 +76,15 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
+- [写一个 JavaScript 脚本实现网页简繁体转换](https://blog.liuzhen932.top/posts/s2t-js/) (2 days ago)
+
 - [纯 CSS 实现自定义浏览器滚动条](https://blog.liuzhen932.top/posts/customizing-scrollbars/) (2 weeks ago)
 
 - [使用 ss 命令过滤并分析 SSH 连接](https://blog.liuzhen932.top/posts/linux-ss-ssh/) (2 weeks ago)
 
-- [如何编写一个摩斯电码转换工具：详解与实现](https://blog.liuzhen932.top/posts/how-to-create-a-morse-code-converter/) (3 weeks ago)
+- [如何编写一个摩斯电码转换工具：详解与实现](https://blog.liuzhen932.top/posts/how-to-create-a-morse-code-converter/) (4 weeks ago)
 
 - [刚刚！我更新了小站](https://blog.liuzhen932.top/posts/reblog-202410/) (4 weeks ago)
-
-- [记一次有趣的钓鱼邮件分析](https://blog.liuzhen932.top/posts/email-fishing/) (1 month ago)
 
 #### 📫 Find me here
 
