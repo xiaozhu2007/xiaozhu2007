@@ -34,9 +34,9 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (4 days ago)
+- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (5 days ago)
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (6 days ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (1 week ago)
 
 - [xiaozhu2007/vercel-pcl-bmclapi](https://github.com/xiaozhu2007/vercel-pcl-bmclapi) - 一个实时显示 OpenBMCLAPI 负载的 PCL2 主页，基于 Vercel Function PHP（修改版） (1 week ago)
 
@@ -46,21 +46,21 @@ Length: 250 [text/x-plain]
 
 
 
-- [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream) (2 days ago)
+- [robinv8/daily](https://github.com/robinv8/daily) - 日常收集优质内容 (1 day ago)
 
-- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what&#39;s your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。 (4 days ago)
+- [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案 (1 day ago)
 
-- [Xposed-Modules-Repo/Hook.JiuWu.Xp](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp) - HookVip (5 days ago)
+- [tw93/weekly](https://github.com/tw93/weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~ (1 day ago)
 
-- [KoriIku/any-referrer](https://github.com/KoriIku/any-referrer) - 伪装 referrer (5 days ago)
+- [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream) (3 days ago)
 
-- [samdenty/console-feed](https://github.com/samdenty/console-feed) - Captures console.log&#39;s into a React Component 🔥 (5 days ago)
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what&#39;s your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。 (5 days ago)
 
 #### 🎧 Latest audios
 
 - [Nova - Ahrix(Swing&#43;Noteblock)]() (3 weeks ago)
 
-- [黑人抬棺 (8-bit)]() (5 months ago)
+- [黑人抬棺 (8-bit)]() (6 months ago)
 
 - [Nova - Ahrix]() (8 months ago)
 
@@ -76,9 +76,9 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [继续提速！我对网页优化的建议](https://blog.liuzhen932.top/posts/speedup-2/) (2 days ago)
+- [继续提速！我对网页优化的建议](https://blog.liuzhen932.top/posts/speedup-2/) (3 days ago)
 
-- [[译] 在 JavaScriptCore 中对变量、对象和函数进行格式化打印](https://blog.liuzhen932.top/posts/pretty-printing-javascriptcore/) (5 days ago)
+- [[译] 在 JavaScriptCore 中对变量、对象和函数进行格式化打印](https://blog.liuzhen932.top/posts/pretty-printing-javascriptcore/) (6 days ago)
 
 - [从实践中学习：我的云服务器管理策略](https://blog.liuzhen932.top/posts/how2manage-vps/) (1 week ago)
 
