@@ -46,15 +46,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [nolebase/nolebase](https://github.com/nolebase/nolebase) - A place to record memories, knowledge and ideas | 记录回忆，知识和畅想的地方 (1 day ago)
+- [yuntuanzi/TuanICP](https://github.com/yuntuanzi/TuanICP) - 云团子ICP备案系统是一款开源、UI可爱、界面美观的第三方icp虚拟备案系统，适合作为博客页脚可爱的装饰哦！ (1 day ago)
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
+- [mholt/archives](https://github.com/mholt/archives) - Cross-platform library to create &amp; extract archives, compress &amp; decompress files, and walk virtual file systems across various formats (1 day ago)
 
-- [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud! (1 day ago)
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples (1 day ago)
 
-- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo (1 day ago)
+- [hanbings/antares](https://github.com/hanbings/antares) - 😶‍🌫️ Antares - 基于 Cloudflare Workers、Cloudflare KV 和 Cloudflare R2 的随机图片 API 服务端 (1 day ago)
 
-- [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server (1 day ago)
+- [QuentinHsu/oh-cloudflare-r2](https://github.com/QuentinHsu/oh-cloudflare-r2) - Manage your Cloudflare R2 Blob Storage (1 day ago)
 
 #### 🎧 Latest audios
 
@@ -76,7 +76,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (3 days ago)
+- [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (4 days ago)
 
 - [继续提速！我对网页优化的建议](https://blog.liuzhen932.top/posts/speedup-2/) (1 week ago)
 
