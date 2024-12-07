@@ -38,7 +38,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (1 week ago)
 
-- [xiaozhu2007/vercel-pcl-bmclapi](https://github.com/xiaozhu2007/vercel-pcl-bmclapi) - 一个实时显示 OpenBMCLAPI 负载的 PCL2 主页，基于 Vercel Function PHP（修改版） (1 week ago)
+- [xiaozhu2007/vercel-pcl-bmclapi](https://github.com/xiaozhu2007/vercel-pcl-bmclapi) - 一个实时显示 OpenBMCLAPI 负载的 PCL2 主页，基于 Vercel Function PHP（修改版） (2 weeks ago)
 
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (3 weeks ago)
 
@@ -46,19 +46,19 @@ Length: 250 [text/x-plain]
 
 
 
-- [yuntuanzi/TuanICP](https://github.com/yuntuanzi/TuanICP) - 云团子ICP备案系统是一款开源、UI可爱、界面美观的第三方icp虚拟备案系统，适合作为博客页脚可爱的装饰哦！ (1 day ago)
+- [sindresorhus/hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file. (1 day ago)
 
-- [mholt/archives](https://github.com/mholt/archives) - Cross-platform library to create &amp; extract archives, compress &amp; decompress files, and walk virtual file systems across various formats (1 day ago)
+- [yuntuanzi/TuanICP](https://github.com/yuntuanzi/TuanICP) - 云团子ICP备案系统是一款开源、UI可爱、界面美观的第三方icp虚拟备案系统，适合作为博客页脚可爱的装饰哦！ (2 days ago)
 
-- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples (1 day ago)
+- [mholt/archives](https://github.com/mholt/archives) - Cross-platform library to create &amp; extract archives, compress &amp; decompress files, and walk virtual file systems across various formats (2 days ago)
 
-- [hanbings/antares](https://github.com/hanbings/antares) - 😶‍🌫️ Antares - 基于 Cloudflare Workers、Cloudflare KV 和 Cloudflare R2 的随机图片 API 服务端 (1 day ago)
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples (2 days ago)
 
-- [QuentinHsu/oh-cloudflare-r2](https://github.com/QuentinHsu/oh-cloudflare-r2) - Manage your Cloudflare R2 Blob Storage (1 day ago)
+- [hanbings/antares](https://github.com/hanbings/antares) - 😶‍🌫️ Antares - 基于 Cloudflare Workers、Cloudflare KV 和 Cloudflare R2 的随机图片 API 服务端 (2 days ago)
 
 #### 🎧 Latest audios
 
-- [Nova - Ahrix(Swing&#43;Noteblock)]() (4 weeks ago)
+- [Nova - Ahrix(Swing&#43;Noteblock)]() (1 month ago)
 
 - [黑人抬棺 (8-bit)]() (6 months ago)
 
@@ -76,15 +76,15 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (4 days ago)
+- [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (today)
+
+- [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (5 days ago)
 
 - [继续提速！我对网页优化的建议](https://blog.liuzhen932.top/posts/speedup-2/) (1 week ago)
 
 - [[译] 在 JavaScriptCore 中对变量、对象和函数进行格式化打印](https://blog.liuzhen932.top/posts/pretty-printing-javascriptcore/) (1 week ago)
 
 - [从实践中学习：我的云服务器管理策略](https://blog.liuzhen932.top/posts/how2manage-vps/) (2 weeks ago)
-
-- [写一个 JavaScript 脚本实现网页简繁体转换](https://blog.liuzhen932.top/posts/s2t-js/) (3 weeks ago)
 
 #### 📫 Find me here
 
