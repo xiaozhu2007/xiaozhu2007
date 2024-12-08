@@ -36,7 +36,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (1 week ago)
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (1 week ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (2 weeks ago)
 
 - [xiaozhu2007/vercel-pcl-bmclapi](https://github.com/xiaozhu2007/vercel-pcl-bmclapi) - 一个实时显示 OpenBMCLAPI 负载的 PCL2 主页，基于 Vercel Function PHP（修改版） (2 weeks ago)
 
@@ -46,15 +46,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [sindresorhus/hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file. (1 day ago)
+- [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics. (1 day ago)
 
-- [yuntuanzi/TuanICP](https://github.com/yuntuanzi/TuanICP) - 云团子ICP备案系统是一款开源、UI可爱、界面美观的第三方icp虚拟备案系统，适合作为博客页脚可爱的装饰哦！ (2 days ago)
+- [caronc/apprise-api](https://github.com/caronc/apprise-api) - A lightweight REST framework that wraps the Apprise Notification Library (1 day ago)
 
-- [mholt/archives](https://github.com/mholt/archives) - Cross-platform library to create &amp; extract archives, compress &amp; decompress files, and walk virtual file systems across various formats (2 days ago)
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (1 day ago)
 
-- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples (2 days ago)
+- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations. (1 day ago)
 
-- [hanbings/antares](https://github.com/hanbings/antares) - 😶‍🌫️ Antares - 基于 Cloudflare Workers、Cloudflare KV 和 Cloudflare R2 的随机图片 API 服务端 (2 days ago)
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.  (1 day ago)
 
 #### 🎧 Latest audios
 
@@ -62,7 +62,7 @@ Length: 250 [text/x-plain]
 
 - [黑人抬棺 (8-bit)]() (6 months ago)
 
-- [Nova - Ahrix]() (8 months ago)
+- [Nova - Ahrix]() (9 months ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
@@ -78,7 +78,7 @@ Length: 250 [text/x-plain]
 
 - [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (today)
 
-- [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (5 days ago)
+- [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (6 days ago)
 
 - [继续提速！我对网页优化的建议](https://blog.liuzhen932.top/posts/speedup-2/) (1 week ago)
 
