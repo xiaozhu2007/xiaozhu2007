@@ -40,21 +40,21 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/vercel-pcl-bmclapi](https://github.com/xiaozhu2007/vercel-pcl-bmclapi) - 一个实时显示 OpenBMCLAPI 负载的 PCL2 主页，基于 Vercel Function PHP（修改版） (2 weeks ago)
 
-- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (3 weeks ago)
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (4 weeks ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics. (1 day ago)
+- [koishijs/koishi-plugin-bgp](https://github.com/koishijs/koishi-plugin-bgp) - 一个bgp工具机器人插件 (today)
 
-- [caronc/apprise-api](https://github.com/caronc/apprise-api) - A lightweight REST framework that wraps the Apprise Notification Library (1 day ago)
+- [koishijs/koishi-plugin-imagify](https://github.com/koishijs/koishi-plugin-imagify) -  (1 day ago)
 
-- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (1 day ago)
+- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 (1 day ago)
 
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations. (1 day ago)
+- [hitokoto-osc/hitokoto-api](https://github.com/hitokoto-osc/hitokoto-api) - 版本：1，现行的 API 运行框架。 (1 day ago)
 
-- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.  (1 day ago)
+- [hitokoto-osc/sentences-bundle](https://github.com/hitokoto-osc/sentences-bundle) - 一言开源社区官方提供的语句库，系 hitokoto.cn 数据库打包集合。语句接口默认使用此库。 (1 day ago)
 
 #### 🎧 Latest audios
 
@@ -76,15 +76,15 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (today)
+- [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (1 day ago)
 
-- [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (6 days ago)
+- [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (1 week ago)
 
 - [继续提速！我对网页优化的建议](https://blog.liuzhen932.top/posts/speedup-2/) (1 week ago)
 
-- [[译] 在 JavaScriptCore 中对变量、对象和函数进行格式化打印](https://blog.liuzhen932.top/posts/pretty-printing-javascriptcore/) (1 week ago)
+- [[译] 在 JavaScriptCore 中对变量、对象和函数进行格式化打印](https://blog.liuzhen932.top/posts/pretty-printing-javascriptcore/) (2 weeks ago)
 
-- [从实践中学习：我的云服务器管理策略](https://blog.liuzhen932.top/posts/how2manage-vps/) (2 weeks ago)
+- [从实践中学习：我的云服务器管理策略](https://blog.liuzhen932.top/posts/how2manage-vps/) (3 weeks ago)
 
 #### 📫 Find me here
 
