@@ -34,7 +34,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (1 week ago)
+- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (2 weeks ago)
 
 - [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (2 weeks ago)
 
@@ -46,15 +46,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [koishijs/koishi-plugin-bgp](https://github.com/koishijs/koishi-plugin-bgp) - 一个bgp工具机器人插件 (today)
+- [konsheng/Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon) - 敏感词库旨在建立一个词汇集，用于识别和过滤文本内容中的不当或不适宜的语言，以保护用户免受有害信息的影响并维持沟通环境的健康。 (1 day ago)
 
-- [koishijs/koishi-plugin-imagify](https://github.com/koishijs/koishi-plugin-imagify) -  (1 day ago)
+- [bot-myrtus/forward](https://github.com/bot-myrtus/forward) - Provides a message forwarding feature. (1 day ago)
 
-- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 (1 day ago)
+- [koishijs/koishi-plugin-bgp](https://github.com/koishijs/koishi-plugin-bgp) - 一个bgp工具机器人插件 (1 day ago)
 
-- [hitokoto-osc/hitokoto-api](https://github.com/hitokoto-osc/hitokoto-api) - 版本：1，现行的 API 运行框架。 (1 day ago)
+- [koishijs/koishi-plugin-imagify](https://github.com/koishijs/koishi-plugin-imagify) -  (2 days ago)
 
-- [hitokoto-osc/sentences-bundle](https://github.com/hitokoto-osc/sentences-bundle) - 一言开源社区官方提供的语句库，系 hitokoto.cn 数据库打包集合。语句接口默认使用此库。 (1 day ago)
+- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 (2 days ago)
 
 #### 🎧 Latest audios
 
@@ -76,7 +76,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (1 day ago)
+- [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (2 days ago)
 
 - [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (1 week ago)
 
