@@ -40,21 +40,21 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/vercel-pcl-bmclapi](https://github.com/xiaozhu2007/vercel-pcl-bmclapi) - 一个实时显示 OpenBMCLAPI 负载的 PCL2 主页，基于 Vercel Function PHP（修改版） (2 weeks ago)
 
-- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (4 weeks ago)
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (1 month ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [konsheng/Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon) - 敏感词库旨在建立一个词汇集，用于识别和过滤文本内容中的不当或不适宜的语言，以保护用户免受有害信息的影响并维持沟通环境的健康。 (1 day ago)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface). (1 day ago)
 
-- [bot-myrtus/forward](https://github.com/bot-myrtus/forward) - Provides a message forwarding feature. (1 day ago)
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 day ago)
 
-- [koishijs/koishi-plugin-bgp](https://github.com/koishijs/koishi-plugin-bgp) - 一个bgp工具机器人插件 (1 day ago)
+- [konsheng/Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon) - 敏感词库旨在建立一个词汇集，用于识别和过滤文本内容中的不当或不适宜的语言，以保护用户免受有害信息的影响并维持沟通环境的健康。 (2 days ago)
 
-- [koishijs/koishi-plugin-imagify](https://github.com/koishijs/koishi-plugin-imagify) -  (2 days ago)
+- [bot-myrtus/forward](https://github.com/bot-myrtus/forward) - Provides a message forwarding feature. (2 days ago)
 
-- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 (2 days ago)
+- [koishijs/koishi-plugin-bgp](https://github.com/koishijs/koishi-plugin-bgp) - 一个bgp工具机器人插件 (2 days ago)
 
 #### 🎧 Latest audios
 
@@ -70,13 +70,13 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on xLog)
 
-- [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (3 months ago)
+- [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (4 months ago)
 
-- [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (5 months ago)
+- [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (6 months ago)
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (2 days ago)
+- [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (3 days ago)
 
 - [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (1 week ago)
 
