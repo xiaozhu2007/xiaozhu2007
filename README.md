@@ -36,7 +36,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (2 weeks ago)
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (2 weeks ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (3 weeks ago)
 
 - [xiaozhu2007/vercel-pcl-bmclapi](https://github.com/xiaozhu2007/vercel-pcl-bmclapi) - 一个实时显示 OpenBMCLAPI 负载的 PCL2 主页，基于 Vercel Function PHP（修改版） (3 weeks ago)
 
@@ -46,15 +46,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (3 days ago)
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (4 days ago)
 
-- [akile-network/akile_monitor](https://github.com/akile-network/akile_monitor) - Akile Monitor (3 days ago)
+- [akile-network/akile_monitor](https://github.com/akile-network/akile_monitor) - Akile Monitor (4 days ago)
 
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface). (4 days ago)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface). (5 days ago)
 
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (4 days ago)
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (5 days ago)
 
-- [konsheng/Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon) - 敏感词库旨在建立一个词汇集，用于识别和过滤文本内容中的不当或不适宜的语言，以保护用户免受有害信息的影响并维持沟通环境的健康。 (5 days ago)
+- [konsheng/Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon) - 敏感词库旨在建立一个词汇集，用于识别和过滤文本内容中的不当或不适宜的语言，以保护用户免受有害信息的影响并维持沟通环境的健康。 (6 days ago)
 
 #### 🎧 Latest audios
 
@@ -76,7 +76,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (6 days ago)
+- [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (1 week ago)
 
 - [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (1 week ago)
 
