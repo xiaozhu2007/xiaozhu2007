@@ -46,15 +46,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (4 days ago)
+- [miaomiaotail/ChatE2EEFeatureExplain](https://github.com/miaomiaotail/ChatE2EEFeatureExplain) - 介绍一种基于同时兼顾对称加密性能和非对称加密的安全性的加密聊天策略 (1 day ago)
 
-- [akile-network/akile_monitor](https://github.com/akile-network/akile_monitor) - Akile Monitor (4 days ago)
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (5 days ago)
 
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface). (5 days ago)
+- [akile-network/akile_monitor](https://github.com/akile-network/akile_monitor) - Akile Monitor (5 days ago)
 
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (5 days ago)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface). (6 days ago)
 
-- [konsheng/Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon) - 敏感词库旨在建立一个词汇集，用于识别和过滤文本内容中的不当或不适宜的语言，以保护用户免受有害信息的影响并维持沟通环境的健康。 (6 days ago)
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (6 days ago)
 
 #### 🎧 Latest audios
 
@@ -78,13 +78,13 @@ Length: 250 [text/x-plain]
 
 - [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (1 week ago)
 
-- [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (1 week ago)
+- [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (2 weeks ago)
 
 - [继续提速！我对网页优化的建议](https://blog.liuzhen932.top/posts/speedup-2/) (2 weeks ago)
 
-- [[译] 在 JavaScriptCore 中对变量、对象和函数进行格式化打印](https://blog.liuzhen932.top/posts/pretty-printing-javascriptcore/) (2 weeks ago)
+- [[译] 在 JavaScriptCore 中对变量、对象和函数进行格式化打印](https://blog.liuzhen932.top/posts/pretty-printing-javascriptcore/) (3 weeks ago)
 
-- [从实践中学习：我的云服务器管理策略](https://blog.liuzhen932.top/posts/how2manage-vps/) (3 weeks ago)
+- [从实践中学习：我的云服务器管理策略](https://blog.liuzhen932.top/posts/how2manage-vps/) (4 weeks ago)
 
 #### 📫 Find me here
 
