@@ -5,6 +5,8 @@
 - 📝 I regularly write articles on [xLog](https://hackpig520.xlog.app/) and [my own blog](https://blog.liuzhen932.top/)
 - 🧧 Donate me at [爱发电](https://afdian.com/a/xiaozhu2021)
 
+![编码时间统计（图炸了请联系）](https://wakapi.liuzhen932.top/api/activity/chart/liuzhen932.svg)
+
 ## 📄 Profile
 
 > wget -O README.md profile://xiaozhu2007/README.md
@@ -32,6 +34,8 @@ Length: 250 [text/x-plain]
 
 
 
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (today)
+
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (3 days ago)
@@ -40,11 +44,11 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (3 weeks ago)
 
-- [xiaozhu2007/vercel-pcl-bmclapi](https://github.com/xiaozhu2007/vercel-pcl-bmclapi) - 一个实时显示 OpenBMCLAPI 负载的 PCL2 主页，基于 Vercel Function PHP（修改版） (3 weeks ago)
-
 #### ⭐ Recent Stars (Including **private** repo)
 
 
+
+- [wakatime/discord-wakatime](https://github.com/wakatime/discord-wakatime) - BetterDiscord plugin for automatic time tracking and stats about your Discord usage (today)
 
 - [muety/mininote](https://github.com/muety/mininote) - 📔 A simple, self-hosted, encrypted Markdown note-taking editor (1 day ago)
 
@@ -53,8 +57,6 @@ Length: 250 [text/x-plain]
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (2 days ago)
 
 - [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制 (2 days ago)
-
-- [CHKZL/DDTV](https://github.com/CHKZL/DDTV) - 可对阿B进行直播多窗口观看、开播提醒、自动录制、合并、转码的跨平台工具 (2 days ago)
 
 #### 🎧 Latest audios
 
