@@ -5,6 +5,8 @@
 - 📝 I regularly write articles on [xLog](https://hackpig520.xlog.app/) and [my own blog](https://blog.liuzhen932.top/)
 - 🧧 Donate me at [爱发电](https://afdian.com/a/xiaozhu2021)
 
+![编码时间统计（图炸了请联系）](https://wakapi.liuzhen932.top/api/activity/chart/liuzhen932.svg)
+
 ## 📄 Profile
 
 > wget -O README.md profile://xiaozhu2007/README.md
