@@ -5,8 +5,6 @@
 - 📝 I regularly write articles on [xLog](https://hackpig520.xlog.app/) and [my own blog](https://blog.liuzhen932.top/)
 - 🧧 Donate me at [爱发电](https://afdian.com/a/xiaozhu2021)
 
-![编码时间统计（图炸了请联系）](https://wakapi.liuzhen932.top/api/activity/chart/liuzhen932.svg)
-
 ## 📄 Profile
 
 > wget -O README.md profile://xiaozhu2007/README.md
@@ -29,6 +27,8 @@ Length: 250 [text/x-plain]
 ```
 
 ## 📈 Overview
+
+![编码时间统计（图炸了请联系）](https://wakapi.liuzhen932.top/api/activity/chart/liuzhen932.svg)
 
 #### 👷 Check out what I'm currently working on
 
@@ -93,8 +93,8 @@ Length: 250 [text/x-plain]
 [![](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=cloudflarepages&logoColor=white)](https://blog.liuzhen932.top/)
 [![](https://img.shields.io/badge/-Email-0078d4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:hackpig520@outlook.com)
 ![](https://img.shields.io/badge/HackPig520-C160?style=flat-square&logo=wechat&logoColor=white)
-![](https://wakatime.com/badge/user/98fc996b-8c43-4e70-beab-a2d62a86a757.svg?style=flat-square)
-![](https://img.shields.io/endpoint?url=https://wakapi.liuzhen932.top/api/compat/shields/v1/liuzhen932/interval:today&label=Today&color=darkgreen&logo=wakatime&style=flat-square)
+[![](https://wakatime.com/badge/user/98fc996b-8c43-4e70-beab-a2d62a86a757.svg?style=flat-square)](https://wakatime.com/@xiaozhu2007)
+[![](https://img.shields.io/endpoint?url=https://wakapi.liuzhen932.top/api/compat/shields/v1/liuzhen932/interval:today&label=Today&color=darkgreen&logo=wakatime&style=flat-square)](https://wakapi.liuzhen932.top/leaderboard)
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199783068612&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+friends&style=flat-square)](https://steamcommunity.com/profiles/76561199783068612)
 
 #### 🛠 Platform & Tools
