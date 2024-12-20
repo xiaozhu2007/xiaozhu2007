@@ -34,29 +34,29 @@ Length: 250 [text/x-plain]
 
 
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (today)
-
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (3 days ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (today)
+
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 day ago)
+
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (4 days ago)
 
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (3 weeks ago)
-
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (3 weeks ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [wakatime/discord-wakatime](https://github.com/wakatime/discord-wakatime) - BetterDiscord plugin for automatic time tracking and stats about your Discord usage (today)
+- [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours) - 🛡️ Generate a badge that shows actual hours spent programming using wakatime (1 day ago)
 
-- [muety/mininote](https://github.com/muety/mininote) - 📔 A simple, self-hosted, encrypted Markdown note-taking editor (1 day ago)
+- [wakatime/discord-wakatime](https://github.com/wakatime/discord-wakatime) - BetterDiscord plugin for automatic time tracking and stats about your Discord usage (1 day ago)
 
-- [xenv/gushici](https://github.com/xenv/gushici) - 一言·古诗词 API (Hitokoto API)，随机返回一条古诗词名句。采用  Vert.x &#43; Redis 全异步开发，毫秒级稳定响应。 (1 day ago)
+- [muety/mininote](https://github.com/muety/mininote) - 📔 A simple, self-hosted, encrypted Markdown note-taking editor (2 days ago)
 
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (2 days ago)
+- [xenv/gushici](https://github.com/xenv/gushici) - 一言·古诗词 API (Hitokoto API)，随机返回一条古诗词名句。采用  Vert.x &#43; Redis 全异步开发，毫秒级稳定响应。 (2 days ago)
 
-- [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制 (2 days ago)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (3 days ago)
 
 #### 🎧 Latest audios
 
@@ -78,7 +78,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [[译] Cloudflare 2024 年度回顾](https://blog.liuzhen932.top/posts/radar-2024-year-in-review/) (3 days ago)
+- [[译] Cloudflare 2024 年度回顾](https://blog.liuzhen932.top/posts/radar-2024-year-in-review/) (4 days ago)
 
 - [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (1 week ago)
 
