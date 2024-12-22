@@ -36,11 +36,11 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (1 day ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (2 days ago)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (2 days ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (3 days ago)
 
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (5 days ago)
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (6 days ago)
 
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (3 weeks ago)
 
@@ -48,15 +48,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (1 day ago)
+- [Atemu/nix-fuck-up-assessment-form](https://github.com/Atemu/nix-fuck-up-assessment-form) - To be filled by anyone who fucks up using Nix. (1 day ago)
 
-- [Bill-Stewart/SyncthingWindowsSetup](https://github.com/Bill-Stewart/SyncthingWindowsSetup) - Syncthing Windows Setup (1 day ago)
+- [LeedRSS/Leed](https://github.com/LeedRSS/Leed) - Leed (contraction de Light Feed) est un agrégateur RSS libre et minimaliste qui permet la consultation de flux RSS de manière rapide et non intrusive. (1 day ago)
 
-- [IgorKowalczyk/wakatime-hours](https://github.com/IgorKowalczyk/wakatime-hours) - 🛡️ Generate a badge that shows actual hours spent programming using wakatime (2 days ago)
+- [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. (1 day ago)
 
-- [wakatime/discord-wakatime](https://github.com/wakatime/discord-wakatime) - BetterDiscord plugin for automatic time tracking and stats about your Discord usage (2 days ago)
+- [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application (1 day ago)
 
-- [muety/mininote](https://github.com/muety/mininote) - 📔 A simple, self-hosted, encrypted Markdown note-taking editor (3 days ago)
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (2 days ago)
 
 #### 🎧 Latest audios
 
@@ -78,9 +78,9 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [[译] Cloudflare 2024 年度回顾](https://blog.liuzhen932.top/posts/radar-2024-year-in-review/) (5 days ago)
+- [[译] Cloudflare 2024 年度回顾](https://blog.liuzhen932.top/posts/radar-2024-year-in-review/) (6 days ago)
 
-- [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (1 week ago)
+- [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (2 weeks ago)
 
 - [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (2 weeks ago)
 
