@@ -36,27 +36,27 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (5 days ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (6 days ago)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (6 days ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 week ago)
 
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (1 week ago)
 
-- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (4 weeks ago)
+- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (1 month ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. (1 day ago)
+- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights (1 day ago)
 
-- [wyx2685/V2bX-script](https://github.com/wyx2685/V2bX-script) -  (1 day ago)
+- [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog. (1 day ago)
 
-- [InazumaV/V2bX-script](https://github.com/InazumaV/V2bX-script) -  (1 day ago)
+- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. (2 days ago)
 
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 days ago)
+- [wyx2685/V2bX-script](https://github.com/wyx2685/V2bX-script) -  (2 days ago)
 
-- [rustodon/rustodon](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust (2 days ago)
+- [InazumaV/V2bX-script](https://github.com/InazumaV/V2bX-script) -  (2 days ago)
 
 #### 🎧 Latest audios
 
@@ -84,7 +84,7 @@ Length: 250 [text/x-plain]
 
 - [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (3 weeks ago)
 
-- [继续提速！我对网页优化的建议](https://blog.liuzhen932.top/posts/speedup-2/) (3 weeks ago)
+- [继续提速！我对网页优化的建议](https://blog.liuzhen932.top/posts/speedup-2/) (4 weeks ago)
 
 - [[译] 在 JavaScriptCore 中对变量、对象和函数进行格式化打印](https://blog.liuzhen932.top/posts/pretty-printing-javascriptcore/) (1 month ago)
 
