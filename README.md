@@ -48,15 +48,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. (1 day ago)
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup. (1 day ago)
 
-- [element-hq/dendrite](https://github.com/element-hq/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!  (1 day ago)
+- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx (1 day ago)
 
-- [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go! (1 day ago)
+- [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required. (1 day ago)
 
-- [clansty/Q2TG](https://github.com/clansty/Q2TG) - QQ 与 Telegram 群相互转发的 bot (1 day ago)
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend. (1 day ago)
 
-- [TelechaBot/Kitan](https://github.com/TelechaBot/Kitan) - 🌟 Kitan: A Telegram bot guardian ensuring friendly interactions by authenticating users as real humans with cutting-edge verification methods. (1 day ago)
+- [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video) (1 day ago)
 
 #### 🎧 Latest audios
 
@@ -84,7 +84,7 @@ Length: 250 [text/x-plain]
 
 - [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (3 weeks ago)
 
-- [继续提速！我对网页优化的建议](https://blog.liuzhen932.top/posts/speedup-2/) (4 weeks ago)
+- [继续提速！我对网页优化的建议](https://blog.liuzhen932.top/posts/speedup-2/) (1 month ago)
 
 - [[译] 在 JavaScriptCore 中对变量、对象和函数进行格式化打印](https://blog.liuzhen932.top/posts/pretty-printing-javascriptcore/) (1 month ago)
 
