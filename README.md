@@ -40,7 +40,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 week ago)
 
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (1 week ago)
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (2 weeks ago)
 
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (1 month ago)
 
@@ -48,15 +48,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [casbin/caswaf](https://github.com/casbin/caswaf) - HTTP &amp; OAuth Gateway and Web Application Firewall (WAF) based on ModSecurity, online demo: https://door.caswaf.com (1 day ago)
+- [casbin/caswaf](https://github.com/casbin/caswaf) - HTTP &amp; OAuth Gateway and Web Application Firewall (WAF) based on ModSecurity, online demo: https://door.caswaf.com (2 days ago)
 
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 day ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 days ago)
 
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web (1 day ago)
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web (2 days ago)
 
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more. (1 day ago)
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more. (2 days ago)
 
-- [HuolalaTech/page-spy](https://github.com/HuolalaTech/page-spy) - 📦 The platform SDKs for PageSpy (1 day ago)
+- [HuolalaTech/page-spy](https://github.com/HuolalaTech/page-spy) - 📦 The platform SDKs for PageSpy (2 days ago)
 
 #### 🎧 Latest audios
 
@@ -78,15 +78,15 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [Misskey 系列教程（一）：环境准备](https://blog.liuzhen932.top/posts/misskey-1/) (3 days ago)
+- [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (2 days ago)
 
-- [[译] Cloudflare 2024 年度回顾](https://blog.liuzhen932.top/posts/radar-2024-year-in-review/) (1 week ago)
+- [Misskey 系列教程（一）：环境准备](https://blog.liuzhen932.top/posts/misskey-1/) (4 days ago)
+
+- [[译] Cloudflare 2024 年度回顾](https://blog.liuzhen932.top/posts/radar-2024-year-in-review/) (2 weeks ago)
 
 - [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (3 weeks ago)
 
-- [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (3 weeks ago)
-
-- [继续提速！我对网页优化的建议](https://blog.liuzhen932.top/posts/speedup-2/) (1 month ago)
+- [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (4 weeks ago)
 
 #### 📫 Find me here
 
