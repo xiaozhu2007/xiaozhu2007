@@ -48,21 +48,21 @@ Length: 250 [text/x-plain]
 
 
 
-- [casbin/caswaf](https://github.com/casbin/caswaf) - HTTP &amp; OAuth Gateway and Web Application Firewall (WAF) based on ModSecurity, online demo: https://door.caswaf.com (2 days ago)
+- [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) - 开源社区中最优秀的广告规则之一，适用于AdGuard (iOS/Android)/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等众多主流广告拦截工具/代理工具的广告规则。 (1 day ago)
 
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 days ago)
+- [casbin/caswaf](https://github.com/casbin/caswaf) - HTTP &amp; OAuth Gateway and Web Application Firewall (WAF) based on ModSecurity, online demo: https://door.caswaf.com (3 days ago)
 
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web (2 days ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 days ago)
 
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more. (2 days ago)
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web (3 days ago)
 
-- [HuolalaTech/page-spy](https://github.com/HuolalaTech/page-spy) - 📦 The platform SDKs for PageSpy (2 days ago)
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more. (3 days ago)
 
 #### 🎧 Latest audios
 
 - [Nova - Ahrix(Swing&#43;Noteblock)]() (1 month ago)
 
-- [黑人抬棺 (8-bit)]() (6 months ago)
+- [黑人抬棺 (8-bit)]() (7 months ago)
 
 - [Nova - Ahrix]() (9 months ago)
 
@@ -78,9 +78,9 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (2 days ago)
+- [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (3 days ago)
 
-- [Misskey 系列教程（一）：环境准备](https://blog.liuzhen932.top/posts/misskey-1/) (4 days ago)
+- [Misskey 系列教程（一）：环境准备](https://blog.liuzhen932.top/posts/misskey-1/) (5 days ago)
 
 - [[译] Cloudflare 2024 年度回顾](https://blog.liuzhen932.top/posts/radar-2024-year-in-review/) (2 weeks ago)
 
