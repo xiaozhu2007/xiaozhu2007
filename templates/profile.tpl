@@ -28,8 +28,6 @@ Length: 250 [text/x-plain]
 
 ## 📈 Overview
 
-![编码时间统计（图炸了请联系）](https://wakapi.liuzhen932.top/api/activity/chart/liuzhen932.svg)
-
 #### 👷 Check out what I'm currently working on
 
 {{range recentContributions 5 }}
