@@ -48,20 +48,22 @@ Length: 250 [text/x-plain]
 
 
 
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (today)
+
+- [hzhilong/bilibili-backup](https://github.com/hzhilong/bilibili-backup) - 一键对B站账号进行数据备份和还原，方便账号数据迁移/快速转生(哗哩哗哩 bilibili) (today)
+
 - [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) - 开源社区中最优秀的广告规则之一，适用于AdGuard (iOS/Android)/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等众多主流广告拦截工具/代理工具的广告规则。 (1 day ago)
 
 - [casbin/caswaf](https://github.com/casbin/caswaf) - HTTP &amp; OAuth Gateway and Web Application Firewall (WAF) based on ModSecurity, online demo: https://door.caswaf.com (3 days ago)
 
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 days ago)
 
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web (3 days ago)
-
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more. (3 days ago)
-
 #### 🎧 Latest audios
 
 - [Nova - Ahrix(Swing&#43;Noteblock)]() (1 month ago)
+
 - [黑人抬棺 (8-bit)]() (7 months ago)
+
 - [Nova - Ahrix]() (9 months ago)
 
 #### 📰 Latest posts (Based on hashnode)
