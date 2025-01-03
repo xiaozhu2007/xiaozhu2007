@@ -34,7 +34,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (1 week ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (2 weeks ago)
 
 - [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (2 weeks ago)
 
@@ -46,15 +46,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [darkwire/darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat (1 day ago)
+- [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit (1 day ago)
 
-- [shishkin/astro-pagefind](https://github.com/shishkin/astro-pagefind) - Astro integration for Pagefind static site search. (1 day ago)
+- [AsenHu/Nekos.Chat](https://github.com/AsenHu/Nekos.Chat) -  (1 day ago)
 
-- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (1 day ago)
+- [ccbikai/RSS.Beauty](https://github.com/ccbikai/RSS.Beauty) - Make Your RSS Beautiful! (1 day ago)
 
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and run any docker image. (1 day ago)
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail. (1 day ago)
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative (1 day ago)
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!) (1 day ago)
 
 #### 🎧 Latest audios
 
@@ -76,15 +76,15 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (5 days ago)
+- [我的 2024 —— 从 A 到 Z](https://blog.liuzhen932.top/posts/back-2024/) (2 days ago)
+
+- [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (6 days ago)
 
 - [Misskey 系列教程（一）：环境准备](https://blog.liuzhen932.top/posts/misskey-1/) (1 week ago)
 
 - [[译] Cloudflare 2024 年度回顾](https://blog.liuzhen932.top/posts/radar-2024-year-in-review/) (2 weeks ago)
 
 - [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (3 weeks ago)
-
-- [Steam 假入库代码详解分析](https://blog.liuzhen932.top/posts/fake-steam-cdk/) (1 month ago)
 
 #### 📫 Find me here
 
