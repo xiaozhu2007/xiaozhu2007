@@ -38,7 +38,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (2 weeks ago)
 
-- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (2 weeks ago)
+- [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (3 weeks ago)
 
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (1 month ago)
 
@@ -46,19 +46,19 @@ Length: 250 [text/x-plain]
 
 
 
-- [getdrunkonmovies-com/TS3AudioBot_docker](https://github.com/getdrunkonmovies-com/TS3AudioBot_docker) -  (1 day ago)
+- [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols (1 day ago)
 
-- [Splamy/TS3AudioBot](https://github.com/Splamy/TS3AudioBot) - Advanced Musicbot for Teamspeak 3 (1 day ago)
+- [thilobillerbeck/skymoth](https://github.com/thilobillerbeck/skymoth) - A service to automatically crosspost your Toots to Bluesky (1 day ago)
 
-- [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit (3 days ago)
+- [beeper/bridge-manager](https://github.com/beeper/bridge-manager) - A tool for running self-hosted bridges with the Beeper Matrix server. (1 day ago)
 
-- [AsenHu/Nekos.Chat](https://github.com/AsenHu/Nekos.Chat) -  (3 days ago)
+- [VigorousPro/TS3-Translation_zh-CN](https://github.com/VigorousPro/TS3-Translation_zh-CN) - TeamSpeak 3 客户端 简体中文 翻译源文件 (1 day ago)
 
-- [ccbikai/RSS.Beauty](https://github.com/ccbikai/RSS.Beauty) - Make Your RSS Beautiful! (3 days ago)
+- [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support! (1 day ago)
 
 #### 🎧 Latest audios
 
-- [Nova - Ahrix(Swing&#43;Noteblock)]() (1 month ago)
+- [Nova - Ahrix(Swing&#43;Noteblock)]() (2 months ago)
 
 - [黑人抬棺 (8-bit)]() (7 months ago)
 
@@ -76,13 +76,13 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [我的 2024 —— 从 A 到 Z](https://blog.liuzhen932.top/posts/back-2024/) (4 days ago)
+- [我的 2024 —— 从 A 到 Z](https://blog.liuzhen932.top/posts/back-2024/) (5 days ago)
 
 - [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (1 week ago)
 
 - [Misskey 系列教程（一）：环境准备](https://blog.liuzhen932.top/posts/misskey-1/) (1 week ago)
 
-- [[译] Cloudflare 2024 年度回顾](https://blog.liuzhen932.top/posts/radar-2024-year-in-review/) (2 weeks ago)
+- [[译] Cloudflare 2024 年度回顾](https://blog.liuzhen932.top/posts/radar-2024-year-in-review/) (3 weeks ago)
 
 - [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (4 weeks ago)
 
