@@ -46,23 +46,23 @@ Length: 250 [text/x-plain]
 
 
 
-- [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols (1 day ago)
+- [anthony81799/PowerToysRun-RDP](https://github.com/anthony81799/PowerToysRun-RDP) - A PowerToysRun plugin to launch RDP connections (1 day ago)
 
-- [thilobillerbeck/skymoth](https://github.com/thilobillerbeck/skymoth) - A service to automatically crosspost your Toots to Bluesky (1 day ago)
+- [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run (1 day ago)
 
-- [beeper/bridge-manager](https://github.com/beeper/bridge-manager) - A tool for running self-hosted bridges with the Beeper Matrix server. (1 day ago)
+- [hlaueriksson/GEmojiSharp](https://github.com/hlaueriksson/GEmojiSharp) - :octocat: GitHub Emoji for C#, ASP.NET Core and Blazor, dotnet tool for the terminal and PowerToys Run plugin (1 day ago)
 
-- [VigorousPro/TS3-Translation_zh-CN](https://github.com/VigorousPro/TS3-Translation_zh-CN) - TeamSpeak 3 客户端 简体中文 翻译源文件 (1 day ago)
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity (1 day ago)
 
-- [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support! (1 day ago)
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file (1 day ago)
 
 #### 🎧 Latest audios
 
-- [Nova - Ahrix(Swing&#43;Noteblock)]() (2 months ago)
+- [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (1 day ago)
 
-- [黑人抬棺 (8-bit)]() (7 months ago)
+- [【全损音质·护耳版】DJ Blyatman,Russian Village Boys - Сука блядь]() (1 day ago)
 
-- [Nova - Ahrix]() (9 months ago)
+- [【全损音质】Glichery; MXCCREE; DJ GL3CHEKY - X-GALACTICO (Super Slowed)]() (1 day ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
@@ -76,7 +76,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [我的 2024 —— 从 A 到 Z](https://blog.liuzhen932.top/posts/back-2024/) (5 days ago)
+- [我的 2024 —— 从 A 到 Z](https://blog.liuzhen932.top/posts/back-2024/) (6 days ago)
 
 - [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (1 week ago)
 
@@ -84,7 +84,7 @@ Length: 250 [text/x-plain]
 
 - [[译] Cloudflare 2024 年度回顾](https://blog.liuzhen932.top/posts/radar-2024-year-in-review/) (3 weeks ago)
 
-- [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (4 weeks ago)
+- [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (1 month ago)
 
 #### 📫 Find me here
 
