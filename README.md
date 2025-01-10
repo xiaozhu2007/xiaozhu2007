@@ -34,9 +34,9 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (2 weeks ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (3 weeks ago)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (2 weeks ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (3 weeks ago)
 
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (3 weeks ago)
 
@@ -46,23 +46,23 @@ Length: 250 [text/x-plain]
 
 
 
-- [LOOHP/ViaLimbo](https://github.com/LOOHP/ViaLimbo) - Limbo plugin integrating ViaProxy for more Minecraft versions to join (1 day ago)
+- [electh/ReactFlux](https://github.com/electh/ReactFlux) - A Simple but Powerful RSS Reader for Miniflux (1 day ago)
 
-- [Elytrium/LimboAuth](https://github.com/Elytrium/LimboAuth) - Minecraft Auth System for Velocity proxy built in virtual server (Limbo). Built with LimboAPI. (1 day ago)
+- [Qetesh/miniflux-ai](https://github.com/Qetesh/miniflux-ai) - Miniflux with AI. Add AI summaries, translations, and AI news based on RSS content (1 day ago)
 
-- [LOOHP/Limbo](https://github.com/LOOHP/Limbo) - Standalone Limbo Minecraft Server (Currently 1.21.4) (1 day ago)
+- [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader (1 day ago)
 
-- [FxMorin/carpet-fixes](https://github.com/FxMorin/carpet-fixes) - fabric-carpet extension mod which attempts to fix as many vanilla minecraft bugs as possible. Feel free to add as many fixes as you want!   Currently 220&#43; Fixes! (1 day ago)
+- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布 (1 day ago)
 
-- [gnembon/carpet-extra](https://github.com/gnembon/carpet-extra) - Extra Features for Carpet Mod (1 day ago)
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis (1 day ago)
 
 #### 🎧 Latest audios
 
-- [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (2 days ago)
+- [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (4 days ago)
 
-- [【全损音质·护耳版】DJ Blyatman,Russian Village Boys - Сука блядь]() (2 days ago)
+- [【全损音质·护耳版】DJ Blyatman,Russian Village Boys - Сука блядь]() (4 days ago)
 
-- [【全损音质】Glichery; MXCCREE; DJ GL3CHEKY - X-GALACTICO (Super Slowed)]() (2 days ago)
+- [【全损音质】Glichery; MXCCREE; DJ GL3CHEKY - X-GALACTICO (Super Slowed)]() (4 days ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
@@ -70,9 +70,9 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on xLog)
 
-- [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (4 months ago)
+- [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (5 months ago)
 
-- [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (6 months ago)
+- [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (7 months ago)
 
 #### 📰 Latest posts (Based on my own blog)
 
@@ -80,7 +80,7 @@ Length: 250 [text/x-plain]
 
 - [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (1 week ago)
 
-- [Misskey 系列教程（一）：环境准备](https://blog.liuzhen932.top/posts/misskey-1/) (1 week ago)
+- [Misskey 系列教程（一）：环境准备](https://blog.liuzhen932.top/posts/misskey-1/) (2 weeks ago)
 
 - [[译] Cloudflare 2024 年度回顾](https://blog.liuzhen932.top/posts/radar-2024-year-in-review/) (3 weeks ago)
 
