@@ -34,35 +34,35 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
+- [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (1 day ago)
+
 - [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (3 weeks ago)
 
 - [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (3 weeks ago)
 
 - [xiaozhu2007/GitHosts](https://github.com/xiaozhu2007/GitHosts) - 提供最新的GithubHost文件，解决GitHub及其附属网站无法访问的问题 (3 weeks ago)
 
-- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (1 month ago)
-
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [electh/ReactFlux](https://github.com/electh/ReactFlux) - A Simple but Powerful RSS Reader for Miniflux (1 day ago)
+- [torrust/torrust-tracker](https://github.com/torrust/torrust-tracker) - A modern and feature-rich (private) BitTorrent tracker. (1 day ago)
 
-- [Qetesh/miniflux-ai](https://github.com/Qetesh/miniflux-ai) - Miniflux with AI. Add AI summaries, translations, and AI news based on RSS content (1 day ago)
+- [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) - newTrackon, a public open BitTorrent trackers monitoring tool (1 day ago)
 
-- [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader (1 day ago)
+- [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services. (1 day ago)
 
-- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布 (1 day ago)
+- [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (1 day ago)
 
-- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis (1 day ago)
+- [electh/ReactFlux](https://github.com/electh/ReactFlux) - A Simple but Powerful RSS Reader for Miniflux (2 days ago)
 
 #### 🎧 Latest audios
 
-- [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (4 days ago)
+- [【全损音质】Counter-Strike 2]() (1 day ago)
 
-- [【全损音质·护耳版】DJ Blyatman,Russian Village Boys - Сука блядь]() (4 days ago)
+- [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (5 days ago)
 
-- [【全损音质】Glichery; MXCCREE; DJ GL3CHEKY - X-GALACTICO (Super Slowed)]() (4 days ago)
+- [【全损音质·护耳版】DJ Blyatman,Russian Village Boys - Сука блядь]() (5 days ago)
 
 #### 📰 Latest posts (Based on hashnode)
 
@@ -76,15 +76,15 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
+- [推荐一个手机上管理 ProxmoxVE 的应用：ProxMon](https://blog.liuzhen932.top/posts/proxmon/) (2 days ago)
+
 - [我的 2024 —— 从 A 到 Z](https://blog.liuzhen932.top/posts/back-2024/) (1 week ago)
 
-- [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (1 week ago)
+- [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (2 weeks ago)
 
 - [Misskey 系列教程（一）：环境准备](https://blog.liuzhen932.top/posts/misskey-1/) (2 weeks ago)
 
 - [[译] Cloudflare 2024 年度回顾](https://blog.liuzhen932.top/posts/radar-2024-year-in-review/) (3 weeks ago)
-
-- [本站近期的亿点点更改](https://blog.liuzhen932.top/posts/changelog-202412/) (1 month ago)
 
 #### 📫 Find me here
 
