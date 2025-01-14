@@ -34,11 +34,11 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (1 day ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (2 days ago)
 
-- [xiaozhu2007/koishi-plugin-nrich](https://github.com/xiaozhu2007/koishi-plugin-nrich) - nrich implementation in Koishi (2 days ago)
+- [xiaozhu2007/koishi-plugin-nrich](https://github.com/xiaozhu2007/koishi-plugin-nrich) - nrich implementation in Koishi (3 days ago)
 
-- [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (3 days ago)
+- [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (4 days ago)
 
 - [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (3 weeks ago)
 
@@ -46,19 +46,19 @@ Length: 250 [text/x-plain]
 
 
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 day ago)
+- [BasixKOR/awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) - Awesome list of ActivityPub based projects (1 day ago)
 
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (1 day ago)
+- [Awesome-Iwb/Awesome-Iwb](https://github.com/Awesome-Iwb/Awesome-Iwb) - 🕶️ ✨ Collection of practical software for interactive whiteboard.  ✨ 适用于教学一体机和电子白板的实用软件收录，由 ChenCy Lew, Aris 及其他贡献者倾情撰写。 (1 day ago)
 
-- [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd&#43;k interface for your site (1 day ago)
+- [akazwz/smail](https://github.com/akazwz/smail) - Temporary email  临时邮箱 Cloudflare email (1 day ago)
 
-- [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀 (1 day ago)
+- [robertoszek/pleroma-bot](https://github.com/robertoszek/pleroma-bot) - Bot for mirroring one or multiple Twitter accounts in Pleroma/Mastodon/Misskey. (1 day ago)
 
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (1 day ago)
+- [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts. (1 day ago)
 
 #### 🎧 Latest audios
 
-- [【全损音质】Counter-Strike 2]() (3 days ago)
+- [【全损音质】Counter-Strike 2]() (4 days ago)
 
 - [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (1 week ago)
 
@@ -76,9 +76,9 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [水篇文章，介绍一下阿里云免费企业邮](https://blog.liuzhen932.top/posts/ali-free-mail/) (2 days ago)
+- [水篇文章，介绍一下阿里云免费企业邮](https://blog.liuzhen932.top/posts/ali-free-mail/) (3 days ago)
 
-- [推荐一个手机上管理 ProxmoxVE 的应用：ProxMon](https://blog.liuzhen932.top/posts/proxmon/) (4 days ago)
+- [推荐一个手机上管理 ProxmoxVE 的应用：ProxMon](https://blog.liuzhen932.top/posts/proxmon/) (5 days ago)
 
 - [我的 2024 —— 从 A 到 Z](https://blog.liuzhen932.top/posts/back-2024/) (1 week ago)
 
