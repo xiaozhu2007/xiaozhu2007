@@ -1,9 +1,10 @@
 <h1 align="center"> 👋 Hi there, I'm 甜力怕(HackPig520)</h1>
 <div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)"></div>
 
-- 🌱 I’m currently learning **JavaScript**
-- 📝 I regularly write articles on [xLog](https://hackpig520.xlog.app/) and [my own blog](https://blog.liuzhen932.top/)
-- 🧧 Donate me at [爱发电](https://afdian.com/a/xiaozhu2021)
+- 🌱 I’m currently learning **TypeScript** and **Dart**
+- 📝 I regularly write articles on [my own blog](https://blog.liuzhen932.top)
+- 🔎 Sometimes I write code on [private instances](https://git.213891.xyz)
+- 🧧 Donate me at [AFDian](https://afdian.com/a/xiaozhu2021)
 
 ## 📄 Profile
 
@@ -100,4 +101,4 @@ Length: 250 [text/x-plain]
 
 ---
 
-[Home](https://www.932.moe/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#)
+[Home](https://www.932.moe/) | [932のGit](https://git.213891.xyz/liuzhen932) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#)
