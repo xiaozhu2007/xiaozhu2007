@@ -1,9 +1,10 @@
 <h1 align="center"> 👋 Hi there, I'm 甜力怕(HackPig520)</h1>
 <div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="甜力怕 的 首页访问次数(旧版)"></div>
 
-- 🌱 I’m currently learning **JavaScript**
-- 📝 I regularly write articles on [xLog](https://hackpig520.xlog.app/) and [my own blog](https://blog.liuzhen932.top/)
-- 🧧 Donate me at [爱发电](https://afdian.com/a/xiaozhu2021)
+- 🌱 I’m currently learning **TypeScript** and **Dart**
+- 📝 I regularly write articles on [my own blog](https://blog.liuzhen932.top)
+- 🔎 Sometimes I write code on [private instances](https://git.213891.xyz)
+- 🧧 Donate me at [AFDian](https://afdian.com/a/xiaozhu2021)
 
 ## 📄 Profile
 
@@ -46,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [sorz/moproxy](https://github.com/sorz/moproxy) - A transparent TCP to SOCKSv5/HTTP proxy on Linux written in Rust. (1 day ago)
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE&#39;RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 17, 2025. See you in the new year! (today)
 
-- [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub (1 day ago)
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚 (today)
 
-- [Apisium/Uniporter](https://github.com/Apisium/Uniporter) - A netty wrapper for Minecraft, which allows to run mutiple protocols in same port (1 day ago)
+- [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。 (today)
 
-- [veo/ebpf_shell](https://github.com/veo/ebpf_shell) - ebpf WebShell/内核马，一种新型内核马/WebShell技术 (1 day ago)
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools. (today)
 
-- [veo/vscan](https://github.com/veo/vscan) - 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) (1 day ago)
+- [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories. (today)
 
 #### 🎧 Latest audios
 
@@ -116,4 +117,4 @@ Length: 250 [text/x-plain]
 
 ---
 
-[Home](https://www.932.moe/) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#)
+[Home](https://www.932.moe/) | [932のGit](https://git.213891.xyz/liuzhen932) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#)
