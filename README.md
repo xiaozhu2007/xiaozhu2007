@@ -35,31 +35,31 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (1 day ago)
+- [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (1 day ago)
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (4 days ago)
+- [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (2 days ago)
 
-- [xiaozhu2007/koishi-plugin-nrich](https://github.com/xiaozhu2007/koishi-plugin-nrich) - nrich implementation in Koishi (5 days ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (5 days ago)
 
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (4 weeks ago)
+- [xiaozhu2007/koishi-plugin-nrich](https://github.com/xiaozhu2007/koishi-plugin-nrich) - nrich implementation in Koishi (6 days ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE&#39;RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 17, 2025. See you in the new year! (1 day ago)
+- [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) - 好耶 是女装 | 备份·接受PR (1 day ago)
 
-- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚 (1 day ago)
+- [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files (1 day ago)
 
-- [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。 (1 day ago)
+- [spencerwooo/icp-dummy-page](https://github.com/spencerwooo/icp-dummy-page) - Dummy ICP page for censorship. (1 day ago)
 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools. (1 day ago)
+- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring (1 day ago)
 
-- [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories. (1 day ago)
+- [mozillazg/mirror-hg-repo](https://github.com/mozillazg/mirror-hg-repo) - GitHub Action for mirror Mercurial (hg) repository to GitHub. (1 day ago)
 
 #### 🎧 Latest audios
 
-- [【全损音质】Counter-Strike 2]() (6 days ago)
+- [【全损音质】Counter-Strike 2]() (1 week ago)
 
 - [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (1 week ago)
 
@@ -77,15 +77,15 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [水篇文章，介绍一下阿里云免费企业邮](https://blog.liuzhen932.top/posts/ali-free-mail/) (5 days ago)
+- [在 Debian 12 上安装 Forgejo 配置私有 Git](https://blog.liuzhen932.top/posts/hello-forgejo/) (1 day ago)
+
+- [水篇文章，介绍一下阿里云免费企业邮](https://blog.liuzhen932.top/posts/ali-free-mail/) (6 days ago)
 
 - [推荐一个手机上管理 ProxmoxVE 的应用：ProxMon](https://blog.liuzhen932.top/posts/proxmon/) (1 week ago)
 
 - [我的 2024 —— 从 A 到 Z](https://blog.liuzhen932.top/posts/back-2024/) (2 weeks ago)
 
 - [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (2 weeks ago)
-
-- [Misskey 系列教程（一）：环境准备](https://blog.liuzhen932.top/posts/misskey-1/) (3 weeks ago)
 
 #### 📫 Find me here
 
