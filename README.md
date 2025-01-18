@@ -35,27 +35,27 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (1 day ago)
+- [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (2 days ago)
 
-- [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (2 days ago)
+- [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (3 days ago)
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (5 days ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (6 days ago)
 
-- [xiaozhu2007/koishi-plugin-nrich](https://github.com/xiaozhu2007/koishi-plugin-nrich) - nrich implementation in Koishi (6 days ago)
+- [xiaozhu2007/koishi-plugin-nrich](https://github.com/xiaozhu2007/koishi-plugin-nrich) - nrich implementation in Koishi (1 week ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) - 好耶 是女装 | 备份·接受PR (1 day ago)
+- [SkiMinoAPI/API](https://github.com/SkiMinoAPI/API) - (Open Source)API Code Public Repository. (1 day ago)
 
-- [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files (1 day ago)
+- [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go) - Go backend for LibreSpeed (1 day ago)
 
-- [spencerwooo/icp-dummy-page](https://github.com/spencerwooo/icp-dummy-page) - Dummy ICP page for censorship. (1 day ago)
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️ (1 day ago)
 
-- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring (1 day ago)
+- [gnmyt/myspeed](https://github.com/gnmyt/myspeed) - A speed test analysis software that shows your internet speed for up to 30 days (1 day ago)
 
-- [mozillazg/mirror-hg-repo](https://github.com/mozillazg/mirror-hg-repo) - GitHub Action for mirror Mercurial (hg) repository to GitHub. (1 day ago)
+- [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾 (1 day ago)
 
 #### 🎧 Latest audios
 
@@ -77,15 +77,15 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [在 Debian 12 上安装 Forgejo 配置私有 Git](https://blog.liuzhen932.top/posts/hello-forgejo/) (1 day ago)
+- [在 Debian 12 上安装 Forgejo 配置私有 Git](https://blog.liuzhen932.top/posts/hello-forgejo/) (2 days ago)
 
-- [水篇文章，介绍一下阿里云免费企业邮](https://blog.liuzhen932.top/posts/ali-free-mail/) (6 days ago)
+- [水篇文章，介绍一下阿里云免费企业邮](https://blog.liuzhen932.top/posts/ali-free-mail/) (1 week ago)
 
 - [推荐一个手机上管理 ProxmoxVE 的应用：ProxMon](https://blog.liuzhen932.top/posts/proxmon/) (1 week ago)
 
 - [我的 2024 —— 从 A 到 Z](https://blog.liuzhen932.top/posts/back-2024/) (2 weeks ago)
 
-- [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (2 weeks ago)
+- [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (3 weeks ago)
 
 #### 📫 Find me here
 
