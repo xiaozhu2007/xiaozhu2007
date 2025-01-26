@@ -39,7 +39,7 @@ Length: 250 [text/x-plain]
 
 - [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (1 week ago)
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (1 week ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (2 weeks ago)
 
 - [xiaozhu2007/koishi-plugin-nrich](https://github.com/xiaozhu2007/koishi-plugin-nrich) - nrich implementation in Koishi (2 weeks ago)
 
@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [HuJK-Data/JKNET-BIRD](https://github.com/HuJK-Data/JKNET-BIRD) -  (3 days ago)
+- [bison--/pridever](https://github.com/bison--/pridever) - Forget semantic versioning, use PRIDE VERSIONING 🏳️‍ (1 day ago)
 
-- [VaalaCat/vorker](https://github.com/VaalaCat/vorker) - 🔥🔥Vorker is a simple self host cloudflare worker alternative which built with cloudflare&#39;s workerd🔥🔥 (6 days ago)
+- [1812z/sleepy](https://github.com/1812z/sleepy) - What are you doing? (1 day ago)
 
-- [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternative (6 days ago)
+- [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) - 一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。 (1 day ago)
 
-- [SkiMinoAPI/API](https://github.com/SkiMinoAPI/API) - (Open Source)API Code Public Repository. (1 week ago)
+- [HuJK-Data/JKNET-BIRD](https://github.com/HuJK-Data/JKNET-BIRD) -  (4 days ago)
 
-- [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go) - Go backend for LibreSpeed (1 week ago)
+- [VaalaCat/vorker](https://github.com/VaalaCat/vorker) - 🔥🔥Vorker is a simple self host cloudflare worker alternative which built with cloudflare&#39;s workerd🔥🔥 (1 week ago)
 
 #### 🎧 Latest audios
 
