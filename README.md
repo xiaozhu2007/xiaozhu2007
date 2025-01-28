@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [bison--/pridever](https://github.com/bison--/pridever) - Forget semantic versioning, use PRIDE VERSIONING 🏳️‍ (2 days ago)
+- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully. (1 day ago)
 
-- [1812z/sleepy](https://github.com/1812z/sleepy) - What are you doing? (2 days ago)
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (1 day ago)
 
-- [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) - 一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。 (2 days ago)
+- [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup &amp; Restore (1 day ago)
 
-- [HuJK-Data/JKNET-BIRD](https://github.com/HuJK-Data/JKNET-BIRD) -  (5 days ago)
+- [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework (1 day ago)
 
-- [VaalaCat/vorker](https://github.com/VaalaCat/vorker) - 🔥🔥Vorker is a simple self host cloudflare worker alternative which built with cloudflare&#39;s workerd🔥🔥 (1 week ago)
+- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor (1 day ago)
 
 #### 🎧 Latest audios
 
