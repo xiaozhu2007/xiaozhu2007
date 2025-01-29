@@ -37,7 +37,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (1 week ago)
 
-- [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (1 week ago)
+- [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (2 weeks ago)
 
 - [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (2 weeks ago)
 
@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully. (1 day ago)
+- [engity-com/bifroest](https://github.com/engity-com/bifroest) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user&#39;s session. (1 day ago)
 
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (1 day ago)
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (1 day ago)
 
-- [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup &amp; Restore (1 day ago)
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (1 day ago)
 
-- [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework (1 day ago)
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure. (1 day ago)
 
-- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor (1 day ago)
+- [veops/oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure (1 day ago)
 
 #### 🎧 Latest audios
 
@@ -83,7 +83,7 @@ Length: 250 [text/x-plain]
 
 - [推荐一个手机上管理 ProxmoxVE 的应用：ProxMon](https://blog.liuzhen932.top/posts/proxmon/) (2 weeks ago)
 
-- [我的 2024 —— 从 A 到 Z](https://blog.liuzhen932.top/posts/back-2024/) (3 weeks ago)
+- [我的 2024 —— 从 A 到 Z](https://blog.liuzhen932.top/posts/back-2024/) (4 weeks ago)
 
 - [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (1 month ago)
 
