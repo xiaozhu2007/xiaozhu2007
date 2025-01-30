@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [engity-com/bifroest](https://github.com/engity-com/bifroest) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user&#39;s session. (1 day ago)
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings. (1 day ago)
 
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (1 day ago)
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (1 day ago)
 
-- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (1 day ago)
+- [samwafgo/SamWaf](https://github.com/samwafgo/SamWaf) - SamWaf开源轻量级网站防火墙，完全私有化部署 SamWaf is a lightweight, open-source web application firewall for small companies, studios, and personal websites. It supports fully private deployment, encrypts data stored locally, is easy to start, and supports Linux and Windows 64-bit. (1 day ago)
 
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure. (1 day ago)
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (1 day ago)
 
-- [veops/oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure (1 day ago)
+- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries. (1 day ago)
 
 #### 🎧 Latest audios
 
@@ -77,11 +77,11 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [在 Debian 12 上安装 Forgejo 配置私有 Git](https://blog.liuzhen932.top/posts/hello-forgejo/) (1 week ago)
+- [在 Debian 12 上安装 Forgejo 配置私有 Git](https://blog.liuzhen932.top/posts/hello-forgejo/) (2 weeks ago)
 
 - [水篇文章，介绍一下阿里云免费企业邮](https://blog.liuzhen932.top/posts/ali-free-mail/) (2 weeks ago)
 
-- [推荐一个手机上管理 ProxmoxVE 的应用：ProxMon](https://blog.liuzhen932.top/posts/proxmon/) (2 weeks ago)
+- [推荐一个手机上管理 ProxmoxVE 的应用：ProxMon](https://blog.liuzhen932.top/posts/proxmon/) (3 weeks ago)
 
 - [我的 2024 —— 从 A 到 Z](https://blog.liuzhen932.top/posts/back-2024/) (4 weeks ago)
 
