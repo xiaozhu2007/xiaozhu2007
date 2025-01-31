@@ -47,19 +47,19 @@ Length: 250 [text/x-plain]
 
 
 
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings. (1 day ago)
+- [WolfYangFan/PortHog](https://github.com/WolfYangFan/PortHog) - A minimalist port occupier that aggressively holds TCP ports for testing and development purposes. (1 day ago)
 
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (1 day ago)
+- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (1 day ago)
 
-- [samwafgo/SamWaf](https://github.com/samwafgo/SamWaf) - SamWaf开源轻量级网站防火墙，完全私有化部署 SamWaf is a lightweight, open-source web application firewall for small companies, studios, and personal websites. It supports fully private deployment, encrypts data stored locally, is easy to start, and supports Linux and Windows 64-bit. (1 day ago)
+- [cjhdevact/IDM-Activation-Script-Chinese](https://github.com/cjhdevact/IDM-Activation-Script-Chinese) - IDM 激活 &amp; 试用重置脚本 中文翻译版本 (1 day ago)
 
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (1 day ago)
+- [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification (1 day ago)
 
-- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries. (1 day ago)
+- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... (1 day ago)
 
 #### 🎧 Latest audios
 
-- [【全损音质】Counter-Strike 2]() (2 weeks ago)
+- [【全损音质】Counter-Strike 2]() (3 weeks ago)
 
 - [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (3 weeks ago)
 
@@ -83,7 +83,7 @@ Length: 250 [text/x-plain]
 
 - [推荐一个手机上管理 ProxmoxVE 的应用：ProxMon](https://blog.liuzhen932.top/posts/proxmon/) (3 weeks ago)
 
-- [我的 2024 —— 从 A 到 Z](https://blog.liuzhen932.top/posts/back-2024/) (4 weeks ago)
+- [我的 2024 —— 从 A 到 Z](https://blog.liuzhen932.top/posts/back-2024/) (1 month ago)
 
 - [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (1 month ago)
 
