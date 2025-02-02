@@ -35,27 +35,27 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 day ago)
+
 - [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (2 weeks ago)
 
 - [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (2 weeks ago)
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (2 weeks ago)
-
-- [xiaozhu2007/koishi-plugin-nrich](https://github.com/xiaozhu2007/koishi-plugin-nrich) - nrich implementation in Koishi (3 weeks ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (3 weeks ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (1 day ago)
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (2 days ago)
 
-- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (1 day ago)
+- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (2 days ago)
 
-- [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards, LLM RAGs, observability platforms, or any other analytics product. (1 day ago)
+- [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards, LLM RAGs, observability platforms, or any other analytics product. (2 days ago)
 
-- [WolfYangFan/PortHog](https://github.com/WolfYangFan/PortHog) - A minimalist port occupier that aggressively holds TCP ports for testing and development purposes. (2 days ago)
+- [WolfYangFan/PortHog](https://github.com/WolfYangFan/PortHog) - A minimalist port occupier that aggressively holds TCP ports for testing and development purposes. (3 days ago)
 
-- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (2 days ago)
+- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (3 days ago)
 
 #### 🎧 Latest audios
 
