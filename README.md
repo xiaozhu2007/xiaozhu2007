@@ -35,27 +35,27 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (4 days ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (5 days ago)
 
 - [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (3 weeks ago)
 
 - [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (3 weeks ago)
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (4 weeks ago)
+- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (1 month ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [jehna/mastofeeder](https://github.com/jehna/mastofeeder) - RSS to ActivityPub bridge (2 days ago)
+- [vijos/vj4](https://github.com/vijos/vj4) - The online judge service with millions of submissions, since 2005. (1 day ago)
 
-- [moesoha/bird-bgp-kickstart](https://github.com/moesoha/bird-bgp-kickstart) - [Chinese] 给想使用 BIRD 配置 BGP 的新手一个教程。 (2 days ago)
+- [jehna/mastofeeder](https://github.com/jehna/mastofeeder) - RSS to ActivityPub bridge (3 days ago)
 
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻 (2 days ago)
+- [moesoha/bird-bgp-kickstart](https://github.com/moesoha/bird-bgp-kickstart) - [Chinese] 给想使用 BIRD 配置 BGP 的新手一个教程。 (3 days ago)
 
-- [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software (2 days ago)
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻 (3 days ago)
 
-- [kitsune-soc/kitsune](https://github.com/kitsune-soc/kitsune) - 🦊 (fast) ActivityPub-federated microblogging (2 days ago)
+- [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software (3 days ago)
 
 #### 🎧 Latest audios
 
@@ -77,7 +77,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [在 Debian 12 上安装 Warpgate 配置堡垒机](https://blog.liuzhen932.top/posts/hello-warpgate/) (4 days ago)
+- [在 Debian 12 上安装 Warpgate 配置堡垒机](https://blog.liuzhen932.top/posts/hello-warpgate/) (5 days ago)
 
 - [在 Debian 12 上安装 Forgejo 配置私有 Git](https://blog.liuzhen932.top/posts/hello-forgejo/) (3 weeks ago)
 
