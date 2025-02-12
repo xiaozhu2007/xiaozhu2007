@@ -35,11 +35,11 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (5 days ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (6 days ago)
 
 - [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (3 weeks ago)
 
-- [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (3 weeks ago)
+- [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (4 weeks ago)
 
 - [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (1 month ago)
 
@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [vijos/vj4](https://github.com/vijos/vj4) - The online judge service with millions of submissions, since 2005. (1 day ago)
+- [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network (1 day ago)
 
-- [jehna/mastofeeder](https://github.com/jehna/mastofeeder) - RSS to ActivityPub bridge (3 days ago)
+- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. (1 day ago)
 
-- [moesoha/bird-bgp-kickstart](https://github.com/moesoha/bird-bgp-kickstart) - [Chinese] 给想使用 BIRD 配置 BGP 的新手一个教程。 (3 days ago)
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 day ago)
 
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻 (3 days ago)
+- [chef/automate](https://github.com/chef/automate) - Chef Automate provides a full suite of enterprise capabilities for maintaining continuous visibility into application, infrastructure, and security automation.  (1 day ago)
 
-- [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software (3 days ago)
+- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Install Salt from the Salt package repositories here: (1 day ago)
 
 #### 🎧 Latest audios
 
@@ -77,7 +77,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [在 Debian 12 上安装 Warpgate 配置堡垒机](https://blog.liuzhen932.top/posts/hello-warpgate/) (5 days ago)
+- [在 Debian 12 上安装 Warpgate 配置堡垒机](https://blog.liuzhen932.top/posts/hello-warpgate/) (6 days ago)
 
 - [在 Debian 12 上安装 Forgejo 配置私有 Git](https://blog.liuzhen932.top/posts/hello-forgejo/) (3 weeks ago)
 
