@@ -37,7 +37,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 week ago)
 
-- [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (3 weeks ago)
+- [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (4 weeks ago)
 
 - [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (1 month ago)
 
@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. (2 days ago)
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. (3 days ago)
 
-- [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (2 days ago)
+- [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (3 days ago)
 
-- [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network (3 days ago)
+- [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network (4 days ago)
 
-- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. (3 days ago)
+- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. (4 days ago)
 
-- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (3 days ago)
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (4 days ago)
 
 #### 🎧 Latest audios
 
@@ -77,15 +77,15 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
+- [青年人的第一个运营商：注册一个 ASN](https://blog.liuzhen932.top/posts/asn-1-registration/) (1 day ago)
+
 - [在 Debian 12 上安装 Warpgate 配置堡垒机](https://blog.liuzhen932.top/posts/hello-warpgate/) (1 week ago)
 
-- [在 Debian 12 上安装 Forgejo 配置私有 Git](https://blog.liuzhen932.top/posts/hello-forgejo/) (4 weeks ago)
+- [在 Debian 12 上安装 Forgejo 配置私有 Git](https://blog.liuzhen932.top/posts/hello-forgejo/) (1 month ago)
 
 - [水篇文章，介绍一下阿里云免费企业邮](https://blog.liuzhen932.top/posts/ali-free-mail/) (1 month ago)
 
 - [推荐一个手机上管理 ProxmoxVE 的应用：ProxMon](https://blog.liuzhen932.top/posts/proxmon/) (1 month ago)
-
-- [我的 2024 —— 从 A 到 Z](https://blog.liuzhen932.top/posts/back-2024/) (1 month ago)
 
 #### 📫 Find me here
 
