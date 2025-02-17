@@ -37,7 +37,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 week ago)
 
-- [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (4 weeks ago)
+- [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (1 month ago)
 
 - [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (1 month ago)
 
@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages &amp; blog. Built with Astro &amp; TailwindCSS (today)
+- [mariusor/brutalinks](https://github.com/mariusor/brutalinks) - Link aggregator inspired by (old)reddit using ActivityPub federation. (mirror repository) (today)
 
-- [Tailus-UI/astro-theme](https://github.com/Tailus-UI/astro-theme) - Home page template built with astro and tailwindcss using tailus blocks (today)
+- [waylyrics/waylyrics](https://github.com/waylyrics/waylyrics) - the furry way to show desktop lyrics (today)
 
-- [Tailus-UI/ada-html](https://github.com/Tailus-UI/ada-html) - Modern html landing page built with tailus themer (today)
+- [swajp/swajp.me](https://github.com/swajp/swajp.me) - My personal portfolio. (1 day ago)
 
-- [prinsss/blog-friend-circle](https://github.com/prinsss/blog-friend-circle) - Show latest posts from your subscribed blogs as a more attractive friends page. (博客友链朋友圈) (today)
+- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) - New design 🎉 Nextjs &#43; Shadcn &#43; TypeScript &#43; Tailwind. Landing page template ease-to-use (1 day ago)
 
-- [beilunyang/moemail](https://github.com/beilunyang/moemail) - 一个基于 NextJS &#43; Cloudflare 技术栈构建的可爱临时邮箱服务🎉 (today)
+- [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages &amp; blog. Built with Astro &amp; TailwindCSS (1 day ago)
 
 #### 🎧 Latest audios
 
@@ -77,7 +77,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [青年人的第一个运营商：注册一个 ASN](https://blog.liuzhen932.top/posts/asn-1-registration/) (2 days ago)
+- [青年人的第一个运营商：注册一个 ASN](https://blog.liuzhen932.top/posts/asn-1-registration/) (3 days ago)
 
 - [在 Debian 12 上安装 Warpgate 配置堡垒机](https://blog.liuzhen932.top/posts/hello-warpgate/) (1 week ago)
 
