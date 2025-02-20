@@ -35,7 +35,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 day ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (2 days ago)
 
 - [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (1 month ago)
 
@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline (today)
+- [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版 (today)
 
-- [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes&#39; cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台 (today)
+- [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription) - Disables the &#34;No valid subscription&#34; dialog on all Proxmox products, all versions. (today)
 
-- [Janik-Haag/woodpecker-grafana-dashboard](https://github.com/Janik-Haag/woodpecker-grafana-dashboard) - This is a simple Woodpecker dashboard for Grafana (1 day ago)
+- [HiDeoo/starlight-heading-badges](https://github.com/HiDeoo/starlight-heading-badges) - Starlight plugin to add badges to your Markdown and MDX headings (today)
 
-- [SnowballXueQiu/sb.h](https://github.com/SnowballXueQiu/sb.h) - sb.h —— 让你的 C&#43;&#43; 代码秒变“优秀”！ (1 day ago)
+- [HiDeoo/starlight-kbd](https://github.com/HiDeoo/starlight-kbd) - Starlight plugin to quickly and easily document keyboard shortcuts (today)
 
-- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (1 day ago)
+- [HiDeoo/starlight-showcases](https://github.com/HiDeoo/starlight-showcases) - Set of Starlight components to author showcase pages (today)
 
 #### 🎧 Latest audios
 
@@ -77,9 +77,9 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [青年人的第一个运营商：注册一个 ASN](https://blog.liuzhen932.top/posts/asn-1-registration/) (5 days ago)
+- [青年人的第一个运营商：注册一个 ASN](https://blog.liuzhen932.top/posts/asn-1-registration/) (6 days ago)
 
-- [在 Debian 12 上安装 Warpgate 配置堡垒机](https://blog.liuzhen932.top/posts/hello-warpgate/) (1 week ago)
+- [在 Debian 12 上安装 Warpgate 配置堡垒机](https://blog.liuzhen932.top/posts/hello-warpgate/) (2 weeks ago)
 
 - [在 Debian 12 上安装 Forgejo 配置私有 Git](https://blog.liuzhen932.top/posts/hello-forgejo/) (1 month ago)
 
