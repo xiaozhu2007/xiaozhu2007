@@ -35,7 +35,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (3 days ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (4 days ago)
 
 - [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (1 month ago)
 
@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server (today)
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. (1 day ago)
 
-- [kokonect-link/cherrypick](https://github.com/kokonect-link/cherrypick) - 🌎 A interplanetary communication platform 🚀 (today)
+- [prismelabs/analytics](https://github.com/prismelabs/analytics) - 💎 An Open Source, privacy-focused and progressive analytics service. (1 day ago)
 
-- [hefengbao/yuzhu](https://github.com/hefengbao/yuzhu) - 『玉竹』一套简洁的内容管理（博客、微博客）、财务管理（记账）系统。 (today)
+- [dysf888/fake-nezha-agent-v1](https://github.com/dysf888/fake-nezha-agent-v1) - :trollface:帮助你在哪吒探针中快速装逼,拥有整个地球的算力! 改自 nezhahq/agent (1 day ago)
 
-- [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client (today)
+- [hi2shark/nazhua](https://github.com/hi2shark/nazhua) - Nazhua（那爪），一个哪吒监控的前端主题。 (1 day ago)
 
-- [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace) - 三网回程路由测试 (today)
+- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client (1 day ago)
 
 #### 🎧 Latest audios
 
