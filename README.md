@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [Candinya/ink](https://github.com/Candinya/ink) - 如果写一本关于自己的书，最重要的第一件事，一定是给最趁手的钢笔，灌上最心爱的墨水。 (today)
+- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信个人号(Gewechat)、企业微信、飞书、内置 Web Chat，OpenAI GPT、DeepSeek、Ollama、Llama、GLM、Gemini、硅基流动、月之暗面、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。支持 Dify 工作流、代码执行器、Whisper 语音转文字。 (today)
 
-- [Candinya/CandyMade](https://github.com/Candinya/CandyMade) - 简单，清晰，干净的项目展示页 (today)
+- [pinka-social/pinka](https://github.com/pinka-social/pinka) - A commenting server that bridges static sites to ActivityPub sites like Mastdon (today)
 
-- [the-draupnir-project/Draupnir](https://github.com/the-draupnir-project/Draupnir) - A Matrix moderation bot (1 day ago)
+- [wxwmoe/wxwClub](https://github.com/wxwmoe/wxwClub) - A simple social groups compatible with ActivityPub. (today)
 
-- [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance (1 day ago)
+- [immers-space/guppe](https://github.com/immers-space/guppe) - Federated social groups with ActivityPub, NodeJS, Express, and Mongodb (today)
 
-- [adamperkowski/highlightos](https://github.com/adamperkowski/highlightos) - 🌄 x86_64 OS (kernel) made from scratch in Rust &amp; Assembly (1 day ago)
+- [element-hq/synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted. (1 day ago)
 
 #### 🎧 Latest audios
 
