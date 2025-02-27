@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信个人号(Gewechat)、企业微信、飞书、内置 Web Chat，OpenAI GPT、DeepSeek、Ollama、Llama、GLM、Gemini、硅基流动、月之暗面、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。支持 Dify 工作流、代码执行器、Whisper 语音转文字。 (today)
+- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram 等消息平台 | 支持 ChatGPT、DeepSeek、Dify、Claude、Gemini、xAI Grok、Ollama、LM Studio、阿里云百炼、火山方舟、SiliconFlow、Qwen、Moonshot、ChatGLM 等 LLM 的机器人 / Agent | LLM-based instant messaging bots platform, supports Discord, Telegram, WeChat, Lark, DingTalk, QQ, OpenAI GPT, DeepSeek (today)
 
-- [pinka-social/pinka](https://github.com/pinka-social/pinka) - A commenting server that bridges static sites to ActivityPub sites like Mastdon (today)
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (1 day ago)
 
-- [wxwmoe/wxwClub](https://github.com/wxwmoe/wxwClub) - A simple social groups compatible with ActivityPub. (today)
+- [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers (1 day ago)
 
-- [immers-space/guppe](https://github.com/immers-space/guppe) - Federated social groups with ActivityPub, NodeJS, Express, and Mongodb (today)
+- [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH (1 day ago)
 
-- [element-hq/synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted. (1 day ago)
+- [OblivionOcean/Goh](https://github.com/OblivionOcean/Goh) - Goh is a pre-compiled and fast template engine for the Go language. The fastest known go template package ⭐️ Goh 是一款Go语言的预编译快速模板引擎。（已知最快的go模板包） (1 day ago)
 
 #### 🎧 Latest audios
 
@@ -79,7 +79,7 @@ Length: 250 [text/x-plain]
 
 - [青年人的第一个运营商：注册一个 ASN](https://blog.liuzhen932.top/posts/asn-1-registration/) (1 week ago)
 
-- [在 Debian 12 上安装 Warpgate 配置堡垒机](https://blog.liuzhen932.top/posts/hello-warpgate/) (2 weeks ago)
+- [在 Debian 12 上安装 Warpgate 配置堡垒机](https://blog.liuzhen932.top/posts/hello-warpgate/) (3 weeks ago)
 
 - [在 Debian 12 上安装 Forgejo 配置私有 Git](https://blog.liuzhen932.top/posts/hello-forgejo/) (1 month ago)
 
