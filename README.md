@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [jlvihv/R2Uploader](https://github.com/jlvihv/R2Uploader) - 易用的文件上传工具，专为多文件和大文件处理而优化，可以将文件轻松上传到 Cloudflare R2 存储。 (today)
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (1 day ago)
 
-- [greatest-ape/aquatic](https://github.com/greatest-ape/aquatic) - High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent) (1 day ago)
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics (1 day ago)
 
-- [joaoviictorti/shadow-rs](https://github.com/joaoviictorti/shadow-rs) - Windows Kernel Rootkit in Rust (1 day ago)
+- [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (1 day ago)
 
-- [pbzweihander/rust-trending](https://github.com/pbzweihander/rust-trending) - A Twitter and Mastodon bot to post trending rust repositories, inspired by TrendingGithub (1 day ago)
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. (1 day ago)
 
-- [XiaoMengXinX/Music163bot-Go](https://github.com/XiaoMengXinX/Music163bot-Go) - 一个用来下载/分享网易云歌曲的Telegram Bot (1 day ago)
+- [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant (1 day ago)
 
 #### 🎧 Latest audios
 
