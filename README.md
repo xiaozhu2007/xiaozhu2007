@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (1 day ago)
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (today)
 
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics (1 day ago)
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (today)
 
-- [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go. (1 day ago)
+- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source. (today)
 
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. (1 day ago)
+- [Lissy93/who-dat](https://github.com/Lissy93/who-dat) - 🔎 A free no-CORS WHOIS/RDAP lookup API, for fetching domain registration info (today)
 
-- [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant (1 day ago)
+- [KarinJS/Karin](https://github.com/KarinJS/Karin) - 轻量、高效、简洁的 NodeJS 机器人框架 (1 day ago)
 
 #### 🎧 Latest audios
 
