@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (today)
+- [BrilliantTeam/SuperHarvest](https://github.com/BrilliantTeam/SuperHarvest) - 連鎖伐木，挖礦和採收農田 (today)
 
-- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (today)
+- [getwtxt/getwtxt](https://github.com/getwtxt/getwtxt) - twtxt registry server (1 day ago)
 
-- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source. (today)
+- [XXIIVV/webring](https://github.com/XXIIVV/webring) - Make yourself a website (1 day ago)
 
-- [Lissy93/who-dat](https://github.com/Lissy93/who-dat) - 🔎 A free no-CORS WHOIS/RDAP lookup API, for fetching domain registration info (today)
+- [maxboeck/webring](https://github.com/maxboeck/webring) - A boilerplate for hosting a webring community (1 day ago)
 
-- [KarinJS/Karin](https://github.com/KarinJS/Karin) - 轻量、高效、简洁的 NodeJS 机器人框架 (1 day ago)
+- [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites (1 day ago)
 
 #### 🎧 Latest audios
 
