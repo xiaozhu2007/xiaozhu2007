@@ -35,7 +35,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 week ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (2 weeks ago)
 
 - [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (1 month ago)
 
@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [BrilliantTeam/SuperHarvest](https://github.com/BrilliantTeam/SuperHarvest) - 連鎖伐木，挖礦和採收農田 (today)
+- [BrilliantTeam/SuperHarvest](https://github.com/BrilliantTeam/SuperHarvest) - 連鎖伐木，挖礦和採收農田 (1 day ago)
 
-- [getwtxt/getwtxt](https://github.com/getwtxt/getwtxt) - twtxt registry server (1 day ago)
+- [getwtxt/getwtxt](https://github.com/getwtxt/getwtxt) - twtxt registry server (2 days ago)
 
-- [XXIIVV/webring](https://github.com/XXIIVV/webring) - Make yourself a website (1 day ago)
+- [XXIIVV/webring](https://github.com/XXIIVV/webring) - Make yourself a website (2 days ago)
 
-- [maxboeck/webring](https://github.com/maxboeck/webring) - A boilerplate for hosting a webring community (1 day ago)
+- [maxboeck/webring](https://github.com/maxboeck/webring) - A boilerplate for hosting a webring community (2 days ago)
 
-- [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites (1 day ago)
+- [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites (2 days ago)
 
 #### 🎧 Latest audios
 
