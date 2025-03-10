@@ -35,27 +35,27 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
+- [liuzhen9320/liuzhen9320](https://github.com/liuzhen9320/liuzhen9320) - 你好啊~ (1 day ago)
+
 - [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (2 weeks ago)
 
 - [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (1 month ago)
 
 - [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (1 month ago)
 
-- [xiaozhu2007/koishi-plugin-zanwo](https://github.com/xiaozhu2007/koishi-plugin-zanwo) - QQ 名片赞点赞插件 For Koishi (1 month ago)
-
 #### ⭐ Recent Stars (Including **private** repo)
 
 
 
-- [nfe-w/aio-dynamic-push](https://github.com/nfe-w/aio-dynamic-push) - 一款整合多平台动态/直播开播提醒检测与推送的小工具， 目前支持：B站、微博、小红书、抖音、斗鱼、虎牙。 (1 day ago)
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. (1 day ago)
 
-- [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations (1 day ago)
+- [hmjz100/bilibili-comment-checker](https://github.com/hmjz100/bilibili-comment-checker) - B站评论区自动标注成分，支持动态和关注识别以及手动输入 UID 识别 (1 day ago)
 
-- [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack (1 day ago)
+- [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead. (1 day ago)
 
-- [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) - Tunnel (TUN) interface for SOCKS and HTTP proxies (1 day ago)
+- [nfe-w/aio-dynamic-push](https://github.com/nfe-w/aio-dynamic-push) - 一款整合多平台动态/直播开播提醒检测与推送的小工具， 目前支持：B站、微博、小红书、抖音、斗鱼、虎牙。 (2 days ago)
 
-- [wzshiming/gh-ci-bot](https://github.com/wzshiming/gh-ci-bot) - Let CI Robot automatically execute commands for your PR/issue in your Github repository, hosting on Github Action does not require your server. (1 day ago)
+- [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations (2 days ago)
 
 #### 🎧 Latest audios
 
@@ -77,6 +77,8 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
+- [【技术】如何获得一个长长的域名](https://blog.liuzhen932.top/posts/looong-domain/) (2 days ago)
+
 - [青年人的第一个运营商：注册一个 ASN](https://blog.liuzhen932.top/posts/asn-1-registration/) (3 weeks ago)
 
 - [在 Debian 12 上安装 Warpgate 配置堡垒机](https://blog.liuzhen932.top/posts/hello-warpgate/) (1 month ago)
@@ -84,8 +86,6 @@ Length: 250 [text/x-plain]
 - [在 Debian 12 上安装 Forgejo 配置私有 Git](https://blog.liuzhen932.top/posts/hello-forgejo/) (1 month ago)
 
 - [水篇文章，介绍一下阿里云免费企业邮](https://blog.liuzhen932.top/posts/ali-free-mail/) (1 month ago)
-
-- [推荐一个手机上管理 ProxmoxVE 的应用：ProxMon](https://blog.liuzhen932.top/posts/proxmon/) (1 month ago)
 
 #### 📫 Find me here
 
