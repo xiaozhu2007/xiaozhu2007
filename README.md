@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (today)
+
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. (today)
+
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents (today)
+
+- [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless) - NamelessMC is a free, easy to use &amp; powerful website software for your Minecraft server, which includes a large range of features. (today)
+
 - [ApliNi/aplPanel](https://github.com/ApliNi/aplPanel) - Node-OpenBMCLAPI Dashboard (1 day ago)
-
-- [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system (1 day ago)
-
-- [pysio2007/Blog-TUI](https://github.com/pysio2007/Blog-TUI) -  (1 day ago)
-
-- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. (2 days ago)
-
-- [hmjz100/bilibili-comment-checker](https://github.com/hmjz100/bilibili-comment-checker) - B站评论区自动标注成分，支持动态和关注识别以及手动输入 UID 识别 (2 days ago)
 
 #### 🎧 Latest audios
 
