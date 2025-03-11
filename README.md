@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript** and **Dart**
 - 📝 I regularly write articles on [my own blog](https://blog.liuzhen932.top)
-- 🔎 Sometimes I write code on [private instances](https://git.213891.xyz)
+- 🔎 Sometimes I write code on [private instances](https://git.xmsl.im)
 - 🧧 Donate me at [AFDian](https://afdian.com/a/xiaozhu2021)
 
 ## 📄 Profile
@@ -117,4 +117,4 @@ Length: 250 [text/x-plain]
 
 ---
 
-[Home](https://www.932.moe/) | [932のGit](https://git.213891.xyz/liuzhen932) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#)
+[Home](https://www.932.moe/) | [XMSL Git](https://git.xmsl.im/liuzhen932) | [Github](https://github.com/xiaozhu2007) | [Gitlab](https://gitlab.com/xiaozhu2007) | [Gitee](https://gitee.com/xiaozhu2007) | [Discord: liuzhen932](#)
