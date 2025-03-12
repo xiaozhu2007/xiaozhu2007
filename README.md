@@ -35,7 +35,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [liuzhen9320/liuzhen9320](https://github.com/liuzhen9320/liuzhen9320) - 你好啊~ (2 days ago)
+- [liuzhen9320/liuzhen9320](https://github.com/liuzhen9320/liuzhen9320) - 你好啊~ (3 days ago)
 
 - [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (3 weeks ago)
 
@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (today)
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (1 day ago)
 
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. (today)
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. (1 day ago)
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents (today)
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents (1 day ago)
 
-- [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless) - NamelessMC is a free, easy to use &amp; powerful website software for your Minecraft server, which includes a large range of features. (today)
+- [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless) - NamelessMC is a free, easy to use &amp; powerful website software for your Minecraft server, which includes a large range of features. (1 day ago)
 
-- [ApliNi/aplPanel](https://github.com/ApliNi/aplPanel) - Node-OpenBMCLAPI Dashboard (1 day ago)
+- [ApliNi/aplPanel](https://github.com/ApliNi/aplPanel) - Node-OpenBMCLAPI Dashboard (2 days ago)
 
 #### 🎧 Latest audios
 
@@ -77,7 +77,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [【技术】如何获得一个长长的域名](https://blog.liuzhen932.top/posts/looong-domain/) (3 days ago)
+- [【技术】如何获得一个长长的域名](https://blog.liuzhen932.top/posts/looong-domain/) (1 day ago)
 
 - [青年人的第一个运营商：注册一个 ASN](https://blog.liuzhen932.top/posts/asn-1-registration/) (3 weeks ago)
 
@@ -85,7 +85,7 @@ Length: 250 [text/x-plain]
 
 - [在 Debian 12 上安装 Forgejo 配置私有 Git](https://blog.liuzhen932.top/posts/hello-forgejo/) (1 month ago)
 
-- [水篇文章，介绍一下阿里云免费企业邮](https://blog.liuzhen932.top/posts/ali-free-mail/) (1 month ago)
+- [水篇文章，介绍一下阿里云免费企业邮](https://blog.liuzhen932.top/posts/ali-free-mail/) (2 months ago)
 
 #### 📫 Find me here
 
