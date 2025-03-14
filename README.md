@@ -35,7 +35,7 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [liuzhen9320/liuzhen9320](https://github.com/liuzhen9320/liuzhen9320) - 你好啊~ (4 days ago)
+- [liuzhen9320/liuzhen9320](https://github.com/liuzhen9320/liuzhen9320) - 你好啊~ (5 days ago)
 
 - [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (3 weeks ago)
 
@@ -47,15 +47,15 @@ Length: 250 [text/x-plain]
 
 
 
-- [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud (today)
+- [alikia2x/openrewind](https://github.com/alikia2x/openrewind) - OpenRewind is a fully open-source, privacy-first alternative to rewind.ai. With OpenRewind, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy. (1 day ago)
 
-- [missdeer/ifconfig](https://github.com/missdeer/ifconfig) - Yet Another ifconfig inspired by ifconfig.me (1 day ago)
+- [netdisco/netdisco](https://github.com/netdisco/netdisco) - A web-based network management tool. (1 day ago)
 
-- [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (1 day ago)
+- [Brandawg93/PeaNUT](https://github.com/Brandawg93/PeaNUT) - A tiny dashboard for Network UPS Tools (1 day ago)
 
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure (1 day ago)
+- [flashcatcloud/categraf](https://github.com/flashcatcloud/categraf) - one-stop telemetry collector for nightingale (1 day ago)
 
-- [openfaas/faasd](https://github.com/openfaas/faasd) - Lightweight and portable version of OpenFaaS (1 day ago)
+- [Minoru/minoru-fediverse-crawler](https://github.com/Minoru/minoru-fediverse-crawler) - Crawls the Fediverse and produces a list of instances that are alive (1 day ago)
 
 #### 🎧 Latest audios
 
@@ -77,9 +77,9 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 
-- [【技术】如何获得一个长长的域名](https://blog.liuzhen932.top/posts/looong-domain/) (2 days ago)
+- [【技术】如何获得一个长长的域名](https://blog.liuzhen932.top/posts/looong-domain/) (3 days ago)
 
-- [青年人的第一个运营商：注册一个 ASN](https://blog.liuzhen932.top/posts/asn-1-registration/) (3 weeks ago)
+- [青年人的第一个运营商：注册一个 ASN](https://blog.liuzhen932.top/posts/asn-1-registration/) (4 weeks ago)
 
 - [在 Debian 12 上安装 Warpgate 配置堡垒机](https://blog.liuzhen932.top/posts/hello-warpgate/) (1 month ago)
 
