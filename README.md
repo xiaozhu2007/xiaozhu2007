@@ -35,57 +35,38 @@ Length: 250 [text/x-plain]
 
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 
-- [liuzhen9320/liuzhen9320](https://github.com/liuzhen9320/liuzhen9320) - 你好啊~ (5 days ago)
+- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (1 day ago)
 
-- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (3 weeks ago)
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (3 days ago)
 
-- [xiaozhu2007/utils](https://github.com/xiaozhu2007/utils) - 这是 liuzhen932/utils 的 Github 镜像 (1 month ago)
+- [liuzhen9320/liuzhen9320](https://github.com/liuzhen9320/liuzhen9320) - 你好啊~ (3 weeks ago)
 
-- [HelloTools-Studio/docs](https://github.com/HelloTools-Studio/docs) -  (1 month ago)
+- [xiaozhu2007/ShitCode](https://github.com/xiaozhu2007/ShitCode) - 分门别类的lj代码 - For Github CodeSpace (1 month ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 
-
-- [alikia2x/openrewind](https://github.com/alikia2x/openrewind) - OpenRewind is a fully open-source, privacy-first alternative to rewind.ai. With OpenRewind, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy. (1 day ago)
-
-- [netdisco/netdisco](https://github.com/netdisco/netdisco) - A web-based network management tool. (1 day ago)
-
-- [Brandawg93/PeaNUT](https://github.com/Brandawg93/PeaNUT) - A tiny dashboard for Network UPS Tools (1 day ago)
-
-- [flashcatcloud/categraf](https://github.com/flashcatcloud/categraf) - one-stop telemetry collector for nightingale (1 day ago)
-
-- [Minoru/minoru-fediverse-crawler](https://github.com/Minoru/minoru-fediverse-crawler) - Crawls the Fediverse and produces a list of instances that are alive (1 day ago)
+- [maxim-zhao/SidWizPlus](https://github.com/maxim-zhao/SidWizPlus) - Oscilloscope view audio renderer originally based on SidWiz (today)
+- [kalaksi/lightkeeper](https://github.com/kalaksi/lightkeeper) - LightkeeperRM (Remote Management) is a lightweight and modular drop-in replacement for maintaining servers over SSH. (1 day ago)
+- [ad-si/Rust-Flashcards](https://github.com/ad-si/Rust-Flashcards) - Over 550 flashcards to learn Rust from first principles. Written in markdown with script to convert them to an Anki deck or PDF file. (1 day ago)
+- [clitic/vsd](https://github.com/clitic/vsd) - Download video streams served over HTTP from websites, HLS and DASH playlists. (1 day ago)
+- [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time. (1 day ago)
 
 #### 🎧 Latest audios
-
 - [【全损音质】Counter-Strike 2]() (2 months ago)
-
 - [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (2 months ago)
-
 - [【全损音质·护耳版】DJ Blyatman,Russian Village Boys - Сука блядь]() (2 months ago)
 
-#### 📰 Latest posts (Based on hashnode)
-
-- [📨Gmailnator：一个 Gmail 临时邮箱服务](https://hackpig520.hashnode.dev/gmailnator-gmail) (1 year ago)
-
 #### 📰 Latest posts (Based on xLog)
-
 - [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (7 months ago)
-
 - [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (9 months ago)
 
 #### 📰 Latest posts (Based on my own blog)
-
-- [【技术】如何获得一个长长的域名](https://blog.liuzhen932.top/posts/looong-domain/) (3 days ago)
-
-- [青年人的第一个运营商：注册一个 ASN](https://blog.liuzhen932.top/posts/asn-1-registration/) (4 weeks ago)
-
-- [在 Debian 12 上安装 Warpgate 配置堡垒机](https://blog.liuzhen932.top/posts/hello-warpgate/) (1 month ago)
-
-- [在 Debian 12 上安装 Forgejo 配置私有 Git](https://blog.liuzhen932.top/posts/hello-forgejo/) (1 month ago)
-
-- [水篇文章，介绍一下阿里云免费企业邮](https://blog.liuzhen932.top/posts/ali-free-mail/) (2 months ago)
+- [愚人节特供：一些 JavaScript 奇技淫巧](https://blog.liuzhen932.top/posts/js-tips-2025/) (1 day ago)
+- [二〇二五第一季度小结](https://blog.liuzhen932.top/posts/quarterly-202501/) (2 days ago)
+- [在 Debian 12 上安装 Pocket ID 配置单点登录 SSO 教程](https://blog.liuzhen932.top/posts/hello-portal/) (1 week ago)
+- [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (2 weeks ago)
+- [简单谈谈我的建站历程](https://blog.liuzhen932.top/posts/why-blog/) (2 weeks ago)
 
 #### 📫 Find me here
 
