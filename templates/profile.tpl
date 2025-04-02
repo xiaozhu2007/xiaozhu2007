@@ -31,13 +31,13 @@ Length: 250 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 
-{{range recentContributions 5 }}
+{{- range recentContributions 5 }}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### ⭐ Recent Stars (Including **private** repo)
 
-{{range recentStars 5 }}
+{{- range recentStars 5 }}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
