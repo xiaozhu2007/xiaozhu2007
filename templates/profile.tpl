@@ -34,42 +34,31 @@ Length: 250 [text/x-plain]
 {{range recentContributions 5 }}
 
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-  {{- end}}
+{{- end}}
 
 #### ⭐ Recent Stars (Including **private** repo)
 
 {{range recentStars 5 }}
-
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-  {{- end}}
+{{- end}}
 
 #### 🎧 Latest audios
 
 {{- range rss "https://audio.com/rss/author/1779649775223659" 3 }}
-
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-  {{- end }}
-
-#### 📰 Latest posts (Based on hashnode)
-
-{{- range rss "https://hackpig520.hashnode.dev/rss.xml" 1 }}
-
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-  {{- end }}
+{{- end }}
 
 #### 📰 Latest posts (Based on xLog)
 
 {{- range rss "https://hackpig520.xlog.app/feed" 2 }}
-
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-  {{- end }}
+{{- end }}
 
 #### 📰 Latest posts (Based on my own blog)
 
 {{- range rss "https://blog.liuzhen932.top/rss.xml" 5 }}
-
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-  {{- end }}
+{{- end }}
 
 #### 📫 Find me here
 
