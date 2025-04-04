@@ -32,16 +32,16 @@ Length: 250 [text/x-plain]
 #### 👷 Check out what I'm currently working on
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 - [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (1 day ago)
-- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (2 days ago)
-- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (4 days ago)
+- [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (3 days ago)
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (5 days ago)
 - [liuzhen9320/liuzhen9320](https://github.com/liuzhen9320/liuzhen9320) - 你好啊~ (3 weeks ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [Candinya/full-stack-in-7-days](https://github.com/Candinya/full-stack-in-7-days) - ⚡ 7天全栈计划 (1 day ago)
-- [xmcp/pakku.js](https://github.com/xmcp/pakku.js) - 拯救B站的弹幕体验！ (1 day ago)
-- [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (1 day ago)
-- [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;) (1 day ago)
-- [CoreyMSchafer/dotfiles](https://github.com/CoreyMSchafer/dotfiles) - My dotfiles and personal preferences (1 day ago)
+- [wildfirechat/im-server](https://github.com/wildfirechat/im-server) - 即时通讯(IM)系统 (today)
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! (today)
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25&#43; databases and any API. (today)
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (today)
+- [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation (today)
 
 #### 🎧 Latest audios
 - [【全损音质】Counter-Strike 2]() (2 months ago)
@@ -53,11 +53,11 @@ Length: 250 [text/x-plain]
 - [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (9 months ago)
 
 #### 📰 Latest posts (Based on my own blog)
-- [愚人节特供：一些 JavaScript 奇技淫巧](https://blog.liuzhen932.top/posts/js-tips-2025/) (2 days ago)
-- [二〇二五第一季度小结](https://blog.liuzhen932.top/posts/quarterly-202501/) (3 days ago)
+- [利用 Vector 将 Caddy 日志馈送至 OpenObserve](https://blog.liuzhen932.top/posts/caddy2openobserve/) (today)
+- [愚人节特供：一些 JavaScript 奇技淫巧](https://blog.liuzhen932.top/posts/js-tips-2025/) (3 days ago)
+- [二〇二五第一季度小结](https://blog.liuzhen932.top/posts/quarterly-202501/) (4 days ago)
 - [在 Debian 12 上安装 Pocket ID 配置单点登录 SSO 教程](https://blog.liuzhen932.top/posts/hello-portal/) (1 week ago)
 - [自建服务整理大合集](https://blog.liuzhen932.top/posts/self-hosted-services/) (2 weeks ago)
-- [简单谈谈我的建站历程](https://blog.liuzhen932.top/posts/why-blog/) (2 weeks ago)
 
 #### 📫 Find me here
 
