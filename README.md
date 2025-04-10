@@ -31,31 +31,31 @@ Length: 250 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
-- [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (2 days ago)
+- [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (3 days ago)
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (1 week ago)
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (1 week ago)
 - [liuzhen9320/liuzhen9320](https://github.com/liuzhen9320/liuzhen9320) - 你好啊~ (1 month ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。 (today)
-- [cworld1/astro-theme-pure](https://github.com/cworld1/astro-theme-pure) - ⭐ A simple, fast and powerful blog theme built by Astro (today)
-- [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network. (1 day ago)
-- [cactus/go-camo](https://github.com/cactus/go-camo) - A secure image proxy server (1 day ago)
-- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (1 day ago)
+- [wadackel/vim-dogrun](https://github.com/wadackel/vim-dogrun) - :dog: A dark Neovim / Vim colorscheme for the GUI and 256 / true-color terminals. (today)
+- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator for nearly 20 languages 📚 Generate proper code documentation with a single keypress. ⚡️🔥 (today)
+- [picatz/doh](https://github.com/picatz/doh) - 🍩  DNS over HTTPS command-line client (1 day ago)
+- [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client. (1 day ago)
+- [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail (1 day ago)
 
 #### 🎧 Latest audios
-- [【全损音质】Counter-Strike 2]() (2 months ago)
+- [【全损音质】Counter-Strike 2]() (3 months ago)
 - [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (3 months ago)
 - [【全损音质·护耳版】DJ Blyatman,Russian Village Boys - Сука блядь]() (3 months ago)
 
 #### 📰 Latest posts (Based on xLog)
-- [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (7 months ago)
-- [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (9 months ago)
+- [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (8 months ago)
+- [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (10 months ago)
 
 #### 📰 Latest posts (Based on my own blog)
-- [记一次 QQ 邮箱「他域互通」折腾日记](https://blog.liuzhen932.top/posts/hello-openmailqq/) (today)
-- [记一次 Starship 折腾日记](https://blog.liuzhen932.top/posts/hello-starship/) (2 days ago)
-- [利用 Vector 将 Caddy 日志馈送至 OpenObserve](https://blog.liuzhen932.top/posts/caddy2openobserve/) (5 days ago)
+- [记一次 QQ 邮箱「他域互通」折腾日记](https://blog.liuzhen932.top/posts/hello-openmailqq/) (1 day ago)
+- [记一次 Starship 折腾日记](https://blog.liuzhen932.top/posts/hello-starship/) (3 days ago)
+- [利用 Vector 将 Caddy 日志馈送至 OpenObserve](https://blog.liuzhen932.top/posts/caddy2openobserve/) (6 days ago)
 - [愚人节特供：一些 JavaScript 奇技淫巧](https://blog.liuzhen932.top/posts/js-tips-2025/) (1 week ago)
 - [二〇二五第一季度小结](https://blog.liuzhen932.top/posts/quarterly-202501/) (1 week ago)
 
