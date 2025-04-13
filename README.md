@@ -31,17 +31,17 @@ Length: 250 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
-- [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (5 days ago)
+- [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (6 days ago)
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (1 week ago)
-- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (1 week ago)
+- [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (2 weeks ago)
 - [liuzhen9320/liuzhen9320](https://github.com/liuzhen9320/liuzhen9320) - 你好啊~ (1 month ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [OpenWater-DL/work-log-tool](https://github.com/OpenWater-DL/work-log-tool) - 日报小助手 (today)
-- [fullcalendar/temporal-polyfill](https://github.com/fullcalendar/temporal-polyfill) - A lightweight polyfill for Temporal, successor to the JavaScript Date object (today)
-- [surmon-china/surmon-china.github.io](https://github.com/surmon-china/surmon-china.github.io) - My GitHub repositories homepage. (1 day ago)
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server. (1 day ago)
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more. (1 day ago)
+- [OpenWater-DL/work-log-tool](https://github.com/OpenWater-DL/work-log-tool) - 日报小助手 (1 day ago)
+- [fullcalendar/temporal-polyfill](https://github.com/fullcalendar/temporal-polyfill) - A lightweight polyfill for Temporal, successor to the JavaScript Date object (1 day ago)
+- [surmon-china/surmon-china.github.io](https://github.com/surmon-china/surmon-china.github.io) - My GitHub repositories homepage. (2 days ago)
+- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server. (2 days ago)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more. (2 days ago)
 
 #### 🎧 Latest audios
 - [【全损音质】Counter-Strike 2]() (3 months ago)
@@ -53,8 +53,8 @@ Length: 250 [text/x-plain]
 - [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (10 months ago)
 
 #### 📰 Latest posts (Based on my own blog)
-- [记一次 QQ 邮箱「他域互通」折腾日记](https://blog.liuzhen932.top/posts/hello-openmailqq/) (3 days ago)
-- [记一次 Starship 折腾日记](https://blog.liuzhen932.top/posts/hello-starship/) (5 days ago)
+- [记一次 QQ 邮箱「他域互通」折腾日记](https://blog.liuzhen932.top/posts/hello-openmailqq/) (4 days ago)
+- [记一次 Starship 折腾日记](https://blog.liuzhen932.top/posts/hello-starship/) (6 days ago)
 - [利用 Vector 将 Caddy 日志馈送至 OpenObserve](https://blog.liuzhen932.top/posts/caddy2openobserve/) (1 week ago)
 - [愚人节特供：一些 JavaScript 奇技淫巧](https://blog.liuzhen932.top/posts/js-tips-2025/) (1 week ago)
 - [二〇二五第一季度小结](https://blog.liuzhen932.top/posts/quarterly-202501/) (1 week ago)
