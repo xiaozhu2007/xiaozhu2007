@@ -31,32 +31,32 @@ Length: 250 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
-- [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (3 days ago)
+- [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (4 days ago)
 - [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (2 weeks ago)
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (1 month ago)
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (1 month ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [tinkink-net/tinkses](https://github.com/tinkink-net/tinkses) -  (1 day ago)
-- [pion/stun](https://github.com/pion/stun) - A Go implementation of STUN (1 day ago)
-- [feynmanix/pipask](https://github.com/feynmanix/pipask) - Safer python package installs with audit and consent 𝘣𝘦𝘧𝘰𝘳𝘦 install (1 day ago)
-- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal) (1 day ago)
-- [DeanWard/CaddyGen](https://github.com/DeanWard/CaddyGen) - Simplify Caddy configs with SSL, proxies, file servers, security headers, compression &amp; more. (3 days ago)
+- [anycast-ac/website](https://github.com/anycast-ac/website) -  (1 day ago)
+- [tinkink-net/tinkses](https://github.com/tinkink-net/tinkses) -  (2 days ago)
+- [pion/stun](https://github.com/pion/stun) - A Go implementation of STUN (2 days ago)
+- [feynmanix/pipask](https://github.com/feynmanix/pipask) - Safer python package installs with audit and consent 𝘣𝘦𝘧𝘰𝘳𝘦 install (2 days ago)
+- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal) (2 days ago)
 
 #### 🎧 Latest audios
 - [【全损音质】Counter-Strike 2]() (3 months ago)
-- [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (3 months ago)
-- [【全损音质·护耳版】DJ Blyatman,Russian Village Boys - Сука блядь]() (3 months ago)
+- [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (4 months ago)
+- [【全损音质·护耳版】DJ Blyatman,Russian Village Boys - Сука блядь]() (4 months ago)
 
 #### 📰 Latest posts (Based on xLog)
 - [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (8 months ago)
 - [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (10 months ago)
 
 #### 📰 Latest posts (Based on my own blog)
-- [开网站五年多了，分享下我的 Cloudflare WAF 规则](https://blog.liuzhen932.top/posts/cloudflare-waf-rules/) (2 days ago)
+- [开网站五年多了，分享下我的 Cloudflare WAF 规则](https://blog.liuzhen932.top/posts/cloudflare-waf-rules/) (3 days ago)
 - [XMSL 免费递归 DNS 服务现已上线！](https://blog.liuzhen932.top/posts/public-dns-service/) (1 week ago)
-- [RIPE Atlas 不完全入门指南](https://blog.liuzhen932.top/posts/hello-ripe-atlas/) (1 week ago)
-- [[译] dn42 多服务器环境中的 iBGP 与 IGP 配置](https://blog.liuzhen932.top/posts/dn42-multiple-servers-ibgp-igps/) (2 weeks ago)
+- [RIPE Atlas 不完全入门指南](https://blog.liuzhen932.top/posts/hello-ripe-atlas/) (2 weeks ago)
+- [[译] dn42 多服务器环境中的 iBGP 与 IGP 配置](https://blog.liuzhen932.top/posts/dn42-multiple-servers-ibgp-igps/) (3 weeks ago)
 - [记一次 QQ 邮箱「他域互通」折腾日记](https://blog.liuzhen932.top/posts/hello-openmailqq/) (3 weeks ago)
 
 #### 📫 Find me here
