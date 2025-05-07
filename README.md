@@ -31,17 +31,17 @@ Length: 250 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
-- [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (4 days ago)
+- [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (5 days ago)
 - [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (2 weeks ago)
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (1 month ago)
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (1 month ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [anycast-ac/website](https://github.com/anycast-ac/website) -  (1 day ago)
-- [tinkink-net/tinkses](https://github.com/tinkink-net/tinkses) -  (2 days ago)
-- [pion/stun](https://github.com/pion/stun) - A Go implementation of STUN (2 days ago)
-- [feynmanix/pipask](https://github.com/feynmanix/pipask) - Safer python package installs with audit and consent 𝘣𝘦𝘧𝘰𝘳𝘦 install (2 days ago)
-- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal) (2 days ago)
+- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (1 day ago)
+- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux (1 day ago)
+- [Virviil/oci2git](https://github.com/Virviil/oci2git) - Introspecting Docker images as easy as using Git (1 day ago)
+- [anycast-ac/website](https://github.com/anycast-ac/website) -  (2 days ago)
+- [tinkink-net/tinkses](https://github.com/tinkink-net/tinkses) -  (3 days ago)
 
 #### 🎧 Latest audios
 - [【全损音质】Counter-Strike 2]() (3 months ago)
@@ -53,11 +53,11 @@ Length: 250 [text/x-plain]
 - [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (10 months ago)
 
 #### 📰 Latest posts (Based on my own blog)
-- [开网站五年多了，分享下我的 Cloudflare WAF 规则](https://blog.liuzhen932.top/posts/cloudflare-waf-rules/) (3 days ago)
+- [开网站五年多了，分享下我的 Cloudflare WAF 规则](https://blog.liuzhen932.top/posts/cloudflare-waf-rules/) (4 days ago)
 - [XMSL 免费递归 DNS 服务现已上线！](https://blog.liuzhen932.top/posts/public-dns-service/) (1 week ago)
 - [RIPE Atlas 不完全入门指南](https://blog.liuzhen932.top/posts/hello-ripe-atlas/) (2 weeks ago)
 - [[译] dn42 多服务器环境中的 iBGP 与 IGP 配置](https://blog.liuzhen932.top/posts/dn42-multiple-servers-ibgp-igps/) (3 weeks ago)
-- [记一次 QQ 邮箱「他域互通」折腾日记](https://blog.liuzhen932.top/posts/hello-openmailqq/) (3 weeks ago)
+- [记一次 QQ 邮箱「他域互通」折腾日记](https://blog.liuzhen932.top/posts/hello-openmailqq/) (4 weeks ago)
 
 #### 📫 Find me here
 
