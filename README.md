@@ -37,23 +37,23 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (1 month ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [czerwonk/bird_exporter](https://github.com/czerwonk/bird_exporter) - Bird protocol state exporter for bird routing daemon to use with https://prometheus.io/ (1 day ago)
-- [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. (1 day ago)
-- [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go (1 day ago)
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals (1 day ago)
-- [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology (1 day ago)
+- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust. (1 day ago)
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal. (1 day ago)
+- [stefanhaustein/TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C&#43;&#43; program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters (1 day ago)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (1 day ago)
+- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (1 day ago)
 
 #### 🎧 Latest audios
-- [【全损音质】Counter-Strike 2]() (3 months ago)
+- [【全损音质】Counter-Strike 2]() (4 months ago)
 - [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (4 months ago)
 - [【全损音质·护耳版】DJ Blyatman,Russian Village Boys - Сука блядь]() (4 months ago)
 
 #### 📰 Latest posts (Based on xLog)
-- [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (8 months ago)
-- [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (10 months ago)
+- [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (9 months ago)
+- [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (11 months ago)
 
 #### 📰 Latest posts (Based on my own blog)
-- [开网站五年多了，分享下我的 Cloudflare WAF 规则](https://blog.liuzhen932.top/posts/cloudflare-waf-rules/) (6 days ago)
+- [开网站五年多了，分享下我的 Cloudflare WAF 规则](https://blog.liuzhen932.top/posts/cloudflare-waf-rules/) (1 week ago)
 - [XMSL 免费递归 DNS 服务现已上线！](https://blog.liuzhen932.top/posts/public-dns-service/) (1 week ago)
 - [RIPE Atlas 不完全入门指南](https://blog.liuzhen932.top/posts/hello-ripe-atlas/) (2 weeks ago)
 - [[译] dn42 多服务器环境中的 iBGP 与 IGP 配置](https://blog.liuzhen932.top/posts/dn42-multiple-servers-ibgp-igps/) (3 weeks ago)
