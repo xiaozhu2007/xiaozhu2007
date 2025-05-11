@@ -37,11 +37,11 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (1 month ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust. (1 day ago)
-- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal. (1 day ago)
-- [stefanhaustein/TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C&#43;&#43; program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters (1 day ago)
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (1 day ago)
-- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (1 day ago)
+- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust. (2 days ago)
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal. (2 days ago)
+- [stefanhaustein/TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C&#43;&#43; program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters (2 days ago)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (2 days ago)
+- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (2 days ago)
 
 #### 🎧 Latest audios
 - [【全损音质】Counter-Strike 2]() (4 months ago)
