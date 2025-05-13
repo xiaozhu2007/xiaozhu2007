@@ -37,11 +37,11 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (1 month ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [ThisSeanZhang/landscape](https://github.com/ThisSeanZhang/landscape) - The goal is to easily configure your favorite Linux distribution as a router using the web UI (1 day ago)
-- [Candinya/nekops](https://github.com/Candinya/nekops) - Ops&#39; now nyaing (1 day ago)
-- [Cicada000/VV](https://github.com/Cicada000/VV) - 你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！ (1 day ago)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 day ago)
-- [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator (1 day ago)
+- [ThisSeanZhang/landscape](https://github.com/ThisSeanZhang/landscape) - The goal is to easily configure your favorite Linux distribution as a router using the web UI (2 days ago)
+- [Candinya/nekops](https://github.com/Candinya/nekops) - Ops&#39; now nyaing (2 days ago)
+- [Cicada000/VV](https://github.com/Cicada000/VV) - 你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！ (2 days ago)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 days ago)
+- [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator (2 days ago)
 
 #### 🎧 Latest audios
 - [【全损音质】Counter-Strike 2]() (4 months ago)
@@ -53,11 +53,11 @@ Length: 250 [text/x-plain]
 - [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (11 months ago)
 
 #### 📰 Latest posts (Based on my own blog)
+- [在 Debian 12 上安装 step-ca 配置 PKI 和证书颁发机构教程](https://blog.liuzhen932.top/posts/hello-step-ca/) (1 day ago)
 - [开网站五年多了，分享下我的 Cloudflare WAF 规则](https://blog.liuzhen932.top/posts/cloudflare-waf-rules/) (1 week ago)
 - [XMSL 免费递归 DNS 服务现已上线！](https://blog.liuzhen932.top/posts/public-dns-service/) (2 weeks ago)
-- [RIPE Atlas 不完全入门指南](https://blog.liuzhen932.top/posts/hello-ripe-atlas/) (2 weeks ago)
-- [[译] dn42 多服务器环境中的 iBGP 与 IGP 配置](https://blog.liuzhen932.top/posts/dn42-multiple-servers-ibgp-igps/) (3 weeks ago)
-- [记一次 QQ 邮箱「他域互通」折腾日记](https://blog.liuzhen932.top/posts/hello-openmailqq/) (1 month ago)
+- [RIPE Atlas 不完全入门指南](https://blog.liuzhen932.top/posts/hello-ripe-atlas/) (3 weeks ago)
+- [[译] dn42 多服务器环境中的 iBGP 与 IGP 配置](https://blog.liuzhen932.top/posts/dn42-multiple-servers-ibgp-igps/) (4 weeks ago)
 
 #### 📫 Find me here
 
