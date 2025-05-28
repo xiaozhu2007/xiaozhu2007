@@ -31,17 +31,17 @@ Length: 250 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
-- [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (6 days ago)
+- [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (1 week ago)
 - [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 week ago)
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (1 month ago)
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (1 month ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) (2 days ago)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (2 days ago)
-- [grishka/Smithereen](https://github.com/grishka/Smithereen) - Federated, ActivityPub-compatible social network server with friends, walls, and groups. (3 days ago)
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks. (4 days ago)
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. (4 days ago)
+- [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator (today)
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) (3 days ago)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (3 days ago)
+- [grishka/Smithereen](https://github.com/grishka/Smithereen) - Federated, ActivityPub-compatible social network server with friends, walls, and groups. (4 days ago)
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks. (5 days ago)
 
 #### 🎧 Latest audios
 - [【全损音质】Counter-Strike 2]() (4 months ago)
@@ -56,7 +56,7 @@ Length: 250 [text/x-plain]
 - [为博客集成 Twtxt：快速接入去中心化社交，兼容 Yarn 社交平台](https://blog.liuzhen932.top/posts/hello-twtxt/) (1 week ago)
 - [在 Debian 12 上安装 step-ca 配置 PKI 和证书颁发机构教程](https://blog.liuzhen932.top/posts/hello-step-ca/) (2 weeks ago)
 - [开网站五年多了，分享下我的 Cloudflare WAF 规则](https://blog.liuzhen932.top/posts/cloudflare-waf-rules/) (3 weeks ago)
-- [XMSL 免费递归 DNS 服务现已上线！](https://blog.liuzhen932.top/posts/public-dns-service/) (4 weeks ago)
+- [XMSL 免费递归 DNS 服务现已上线！](https://blog.liuzhen932.top/posts/public-dns-service/) (1 month ago)
 - [RIPE Atlas 不完全入门指南](https://blog.liuzhen932.top/posts/hello-ripe-atlas/) (1 month ago)
 
 #### 📫 Find me here
