@@ -37,11 +37,11 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (2 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [pendulum-project/ntpd-rs](https://github.com/pendulum-project/ntpd-rs) - A full-featured implementation of the Network Time Protocol, including NTS support. (2 days ago)
+- [justjavac/herlang](https://github.com/justjavac/herlang) - Her Programming Language written in Rust. (1 day ago)
+- [pendulum-project/ntpd-rs](https://github.com/pendulum-project/ntpd-rs) - A full-featured implementation of the Network Time Protocol, including NTS support. (3 days ago)
 - [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb (1 week ago)
 - [pocket-id/analytics](https://github.com/pocket-id/analytics) -  (1 week ago)
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker (1 week ago)
-- [ObsidianMC/Obsidian](https://github.com/ObsidianMC/Obsidian) - A C# implementation of the Minecraft server protocol. (1 week ago)
 
 #### 🎧 Latest audios
 - [【全损音质】Counter-Strike 2]() (5 months ago)
@@ -54,7 +54,7 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 - [五月小结：聊聊我的 Homelab 和基础设施](https://blog.liuzhen932.top/posts/monthly-summary-202505/) (2 weeks ago)
-- [为博客集成 Twtxt：快速接入去中心化社交，兼容 Yarn 社交平台](https://blog.liuzhen932.top/posts/hello-twtxt/) (3 weeks ago)
+- [为博客集成 Twtxt：快速接入去中心化社交，兼容 Yarn 社交平台](https://blog.liuzhen932.top/posts/hello-twtxt/) (4 weeks ago)
 - [在 Debian 12 上安装 step-ca 配置 PKI 和证书颁发机构教程](https://blog.liuzhen932.top/posts/hello-step-ca/) (1 month ago)
 - [开网站五年多了，分享下我的 Cloudflare WAF 规则](https://blog.liuzhen932.top/posts/cloudflare-waf-rules/) (1 month ago)
 - [XMSL 免费递归 DNS 服务现已上线！](https://blog.liuzhen932.top/posts/public-dns-service/) (1 month ago)
