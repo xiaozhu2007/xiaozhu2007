@@ -37,11 +37,11 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (2 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics (2 days ago)
-- [Kumassy/ownserver](https://github.com/Kumassy/ownserver) - Expose your local game server to the Internet. (2 days ago)
-- [NickAcPT/nmsr-rs](https://github.com/NickAcPT/nmsr-rs) - NickAc&#39;s Minecraft Skin Renderer - Render Minecraft skins with true perspective (2 days ago)
-- [bangbang93/minecraft-proxy](https://github.com/bangbang93/minecraft-proxy) - Reverse proxy Minecraft. With full forge support. (2 days ago)
-- [RelativityMC/raknetify](https://github.com/RelativityMC/raknetify) - A Fabric mod / Velocity plugin / BungeeCord plugin that uses RakNet to improve multiplayer experience significantly under unreliable and rate-limited connections. (2 days ago)
+- [liuliangsir/chromium-style-qrcode-generator-with-wasm](https://github.com/liuliangsir/chromium-style-qrcode-generator-with-wasm) - A Chromium Style QR Code Generator using Rust and WebAssembly (1 day ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 day ago)
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 day ago)
+- [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go. (1 day ago)
+- [SplittyDev/spacebadgers](https://github.com/SplittyDev/spacebadgers) - Fast and clean SVG badges (1 day ago)
 
 #### 🎧 Latest audios
 - [【全损音质】Counter-Strike 2]() (5 months ago)
