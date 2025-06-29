@@ -37,7 +37,7 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (3 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [heiher/sockstun](https://github.com/heiher/sockstun) -  A simple and lightweight VPN over socks5 proxy  (tun2socks) for Android. (5 days ago)
+- [heiher/sockstun](https://github.com/heiher/sockstun) -  A simple and lightweight VPN over socks5 proxy  (tun2socks) for Android. (6 days ago)
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (1 week ago)
 - [vladkens/ogp](https://github.com/vladkens/ogp) - Open Graph Image Generator for Static Sites (1 week ago)
 - [owntracks/recorder](https://github.com/owntracks/recorder) - Store and access data published by OwnTracks apps (1 week ago)
