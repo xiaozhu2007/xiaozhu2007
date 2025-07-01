@@ -37,8 +37,8 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (3 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale (today)
-- [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. (1 day ago)
+- [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale (1 day ago)
+- [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. (2 days ago)
 - [heiher/sockstun](https://github.com/heiher/sockstun) -  A simple and lightweight VPN over socks5 proxy  (tun2socks) for Android. (1 week ago)
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (1 week ago)
 - [vladkens/ogp](https://github.com/vladkens/ogp) - Open Graph Image Generator for Static Sites (1 week ago)
