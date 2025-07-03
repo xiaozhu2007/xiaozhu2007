@@ -31,17 +31,17 @@ Length: 250 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (3 weeks ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (4 weeks ago)
 - [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (1 month ago)
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (3 months ago)
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (3 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale (2 days ago)
-- [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. (3 days ago)
-- [heiher/sockstun](https://github.com/heiher/sockstun) -  A simple and lightweight VPN over socks5 proxy  (tun2socks) for Android. (1 week ago)
-- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (1 week ago)
-- [vladkens/ogp](https://github.com/vladkens/ogp) - Open Graph Image Generator for Static Sites (1 week ago)
+- [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code (today)
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - The only Kubernetes dashboard you need (today)
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules (today)
+- [timvisee/lazymc](https://github.com/timvisee/lazymc) - 💤 Put your Minecraft server to rest when idle. (today)
+- [mapcrafter/mapcrafter](https://github.com/mapcrafter/mapcrafter) - High Performance Minecraft Map Renderer. (today)
 
 #### 🎧 Latest audios
 - [【全损音质】Counter-Strike 2]() (5 months ago)
