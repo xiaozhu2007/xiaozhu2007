@@ -37,11 +37,11 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (3 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code (today)
-- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - The only Kubernetes dashboard you need (today)
-- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules (today)
-- [timvisee/lazymc](https://github.com/timvisee/lazymc) - 💤 Put your Minecraft server to rest when idle. (today)
-- [mapcrafter/mapcrafter](https://github.com/mapcrafter/mapcrafter) - High Performance Minecraft Map Renderer. (today)
+- [Chleba/netscanner](https://github.com/Chleba/netscanner) - Terminal Network scanner &amp; diagnostic tool with modern TUI (1 day ago)
+- [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner (1 day ago)
+- [wormtql/yas](https://github.com/wormtql/yas) - Blazingly fast Genshin Impact/Honkai: Starrail artifacts scanner (1 day ago)
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (1 day ago)
+- [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000&#43;PoCs; 23 kinds of application password crack; 7000&#43;Web fingerprints; 146 protocols and 90000&#43; rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... (1 day ago)
 
 #### 🎧 Latest audios
 - [【全损音质】Counter-Strike 2]() (5 months ago)
