@@ -37,11 +37,11 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/CFWAF2AbuseIPDB](https://github.com/xiaozhu2007/CFWAF2AbuseIPDB) - :fire: Report bad IPs from Cloudflare WAF to AbuseIPDB with one click. (3 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [Chleba/netscanner](https://github.com/Chleba/netscanner) - Terminal Network scanner &amp; diagnostic tool with modern TUI (2 days ago)
-- [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner (2 days ago)
-- [wormtql/yas](https://github.com/wormtql/yas) - Blazingly fast Genshin Impact/Honkai: Starrail artifacts scanner (2 days ago)
-- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (2 days ago)
-- [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000&#43;PoCs; 23 kinds of application password crack; 7000&#43;Web fingerprints; 146 protocols and 90000&#43; rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... (2 days ago)
+- [Chleba/netscanner](https://github.com/Chleba/netscanner) - Terminal Network scanner &amp; diagnostic tool with modern TUI (3 days ago)
+- [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner (3 days ago)
+- [wormtql/yas](https://github.com/wormtql/yas) - Blazingly fast Genshin Impact/Honkai: Starrail artifacts scanner (3 days ago)
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (3 days ago)
+- [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000&#43;PoCs; 23 kinds of application password crack; 7000&#43;Web fingerprints; 146 protocols and 90000&#43; rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... (3 days ago)
 
 #### 🎧 Latest audios
 - [【全损音质】Counter-Strike 2]() (5 months ago)
