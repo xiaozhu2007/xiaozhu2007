@@ -31,17 +31,17 @@ Length: 250 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
-- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (3 days ago)
+- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (4 days ago)
 - [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (1 month ago)
 - [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (1 month ago)
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (3 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go (2 days ago)
-- [sujoshua/terminal-portfolio](https://github.com/sujoshua/terminal-portfolio) - Terminal style portfolio website built with Vue, TypeScript  (3 days ago)
-- [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It&#39;s a New Kind of Wrapper for Exposing LLVM (Safely) (3 days ago)
-- [YouXam/soviet-matrix](https://github.com/YouXam/soviet-matrix) - Tetris game in Typst (3 days ago)
-- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform (3 days ago)
+- [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). (1 day ago)
+- [mehatab/fettle](https://github.com/mehatab/fettle) - Free GitHub-powered beautiful status page utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management. Make sure to share love by giving it a star.🌟 (1 day ago)
+- [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker! (1 day ago)
+- [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - A flexible, modern and blazingly fast ☄️ status page (1 day ago)
+- [dermv/cute-kuma](https://github.com/dermv/cute-kuma) - Give your Uptime Kuma status page a cute and modern look with custom CSS (1 day ago)
 
 #### 🎧 Latest audios
 - [【全损音质】Counter-Strike 2]() (6 months ago)
@@ -53,10 +53,10 @@ Length: 250 [text/x-plain]
 - [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (1 year ago)
 
 #### 📰 Latest posts (Based on my own blog)
-- [DE-CIX 误将 MANRS 邮件当支持工单，引发邮件列表大混乱](https://blog.liuzhen932.top/posts/de-cix-manrs-email-mixup/) (2 days ago)
+- [DE-CIX 误将 MANRS 邮件当支持工单，引发邮件列表大混乱](https://blog.liuzhen932.top/posts/de-cix-manrs-email-mixup/) (3 days ago)
 - [五月小结：聊聊我的 Homelab 和基础设施](https://blog.liuzhen932.top/posts/monthly-summary-202505/) (1 month ago)
 - [为博客集成 Twtxt：快速接入去中心化社交，兼容 Yarn 社交平台](https://blog.liuzhen932.top/posts/hello-twtxt/) (1 month ago)
-- [在 Debian 12 上安装 step-ca 配置 PKI 和证书颁发机构教程](https://blog.liuzhen932.top/posts/hello-step-ca/) (1 month ago)
+- [在 Debian 12 上安装 step-ca 配置 PKI 和证书颁发机构教程](https://blog.liuzhen932.top/posts/hello-step-ca/) (2 months ago)
 - [开网站五年多了，分享下我的 Cloudflare WAF 规则](https://blog.liuzhen932.top/posts/cloudflare-waf-rules/) (2 months ago)
 
 #### 📫 Find me here
