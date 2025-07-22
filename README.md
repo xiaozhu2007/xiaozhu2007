@@ -37,14 +37,14 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (3 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System (4 days ago)
-- [webcompat/web-bugs](https://github.com/webcompat/web-bugs) - A place to report bugs on websites. (6 days ago)
+- [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System (5 days ago)
+- [webcompat/web-bugs](https://github.com/webcompat/web-bugs) - A place to report bugs on websites. (1 week ago)
 - [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。 (1 week ago)
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more (1 week ago)
 - [gamelinux/passivedns](https://github.com/gamelinux/passivedns) - A network sniffer that logs all DNS server replies for use in a passive DNS setup (1 week ago)
 
 #### 🎧 Latest audios
-- [凯旋进行曲 (Triumphal March) (8-bit)]() (4 days ago)
+- [凯旋进行曲 (Triumphal March) (8-bit)]() (5 days ago)
 - [【全损音质】Counter-Strike 2]() (6 months ago)
 - [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (6 months ago)
 
@@ -55,7 +55,7 @@ Length: 250 [text/x-plain]
 #### 📰 Latest posts (Based on my own blog)
 - [博客更新实录：代码块体验翻倍，性能优化全公开！](https://blog.liuzhen932.top/posts/changelog-202507/) (1 week ago)
 - [在 Debian 12 上使用 Docker 安装 Icecast 配置流媒体服务器](https://blog.liuzhen932.top/posts/use-docker-deploy-icecast/) (1 week ago)
-- [DE-CIX 误将 MANRS 邮件当支持工单，引发邮件列表大混乱](https://blog.liuzhen932.top/posts/de-cix-manrs-email-mixup/) (1 week ago)
+- [DE-CIX 误将 MANRS 邮件当支持工单，引发邮件列表大混乱](https://blog.liuzhen932.top/posts/de-cix-manrs-email-mixup/) (2 weeks ago)
 - [五月小结：聊聊我的 Homelab 和基础设施](https://blog.liuzhen932.top/posts/monthly-summary-202505/) (1 month ago)
 - [为博客集成 Twtxt：快速接入去中心化社交，兼容 Yarn 社交平台](https://blog.liuzhen932.top/posts/hello-twtxt/) (2 months ago)
 
