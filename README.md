@@ -31,17 +31,17 @@ Length: 250 [text/x-plain]
 
 #### 👷 Check out what I'm currently working on
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
-- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (4 weeks ago)
+- [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (1 month ago)
 - [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (2 months ago)
 - [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (2 months ago)
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (4 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users. (2 days ago)
-- [glasskube/operator](https://github.com/glasskube/operator) - 🧊 Glasskube Apps Operator (1 week ago)
-- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (1 week ago)
-- [EtaPanel-dev/EtaPanel](https://github.com/EtaPanel-dev/EtaPanel) - A brand new server maintaince tool integrated with AI. Developed at AdventureX 2025 Hackathon (1 week ago)
-- [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) - HTTP rate limiting module for Caddy 2 (1 week ago)
+- [bknd-io/bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda &amp; more. (1 day ago)
+- [j178/prefligit](https://github.com/j178/prefligit) - ⚡ Better `pre-commit`, re-engineered in Rust (1 day ago)
+- [aquasecurity/btfhub-archive](https://github.com/aquasecurity/btfhub-archive) - The BTFhub Archive repository provides BTF files for those published kernels that lack native support for embedded BTF, thereby enhancing the versatility of eBPF programs across different kernel versions. (1 day ago)
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient. (1 day ago)
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux (1 day ago)
 
 #### 🎧 Latest audios
 - [凯旋进行曲 (Triumphal March) (8-bit)]() (2 weeks ago)
