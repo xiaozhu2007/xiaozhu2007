@@ -37,14 +37,14 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (4 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [bknd-io/bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda &amp; more. (1 day ago)
-- [j178/prefligit](https://github.com/j178/prefligit) - ⚡ Better `pre-commit`, re-engineered in Rust (1 day ago)
-- [aquasecurity/btfhub-archive](https://github.com/aquasecurity/btfhub-archive) - The BTFhub Archive repository provides BTF files for those published kernels that lack native support for embedded BTF, thereby enhancing the versatility of eBPF programs across different kernel versions. (1 day ago)
-- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient. (1 day ago)
-- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux (1 day ago)
+- [bknd-io/bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda &amp; more. (2 days ago)
+- [j178/prefligit](https://github.com/j178/prefligit) - ⚡ Better `pre-commit`, re-engineered in Rust (2 days ago)
+- [aquasecurity/btfhub-archive](https://github.com/aquasecurity/btfhub-archive) - The BTFhub Archive repository provides BTF files for those published kernels that lack native support for embedded BTF, thereby enhancing the versatility of eBPF programs across different kernel versions. (2 days ago)
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient. (2 days ago)
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux (2 days ago)
 
 #### 🎧 Latest audios
-- [凯旋进行曲 (Triumphal March) (8-bit)]() (2 weeks ago)
+- [凯旋进行曲 (Triumphal March) (8-bit)]() (3 weeks ago)
 - [【全损音质】Counter-Strike 2]() (6 months ago)
 - [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (7 months ago)
 
@@ -56,7 +56,7 @@ Length: 250 [text/x-plain]
 - [GPG 完全指南：从入门到实践](https://blog.liuzhen932.top/posts/gpg-complete-guide/) (1 week ago)
 - [博客更新实录：代码块体验翻倍，性能优化全公开！](https://blog.liuzhen932.top/posts/changelog-202507/) (3 weeks ago)
 - [在 Debian 12 上使用 Docker 安装 Icecast 配置流媒体服务器](https://blog.liuzhen932.top/posts/use-docker-deploy-icecast/) (3 weeks ago)
-- [DE-CIX 误将 MANRS 邮件当支持工单，引发邮件列表大混乱](https://blog.liuzhen932.top/posts/de-cix-manrs-email-mixup/) (4 weeks ago)
+- [DE-CIX 误将 MANRS 邮件当支持工单，引发邮件列表大混乱](https://blog.liuzhen932.top/posts/de-cix-manrs-email-mixup/) (1 month ago)
 - [五月小结：聊聊我的 Homelab 和基础设施](https://blog.liuzhen932.top/posts/monthly-summary-202505/) (2 months ago)
 
 #### 📫 Find me here
