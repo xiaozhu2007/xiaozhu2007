@@ -37,14 +37,14 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (4 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web. (1 day ago)
-- [CyCraft/pepicons](https://github.com/CyCraft/pepicons) - 🥤 An awesome icon pack of retro icons for your apps and websites. (3 days ago)
+- [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web. (2 days ago)
+- [CyCraft/pepicons](https://github.com/CyCraft/pepicons) - 🥤 An awesome icon pack of retro icons for your apps and websites. (4 days ago)
 - [bknd-io/bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda &amp; more. (1 week ago)
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (1 week ago)
 - [aquasecurity/btfhub-archive](https://github.com/aquasecurity/btfhub-archive) - The BTFhub Archive repository provides BTF files for those published kernels that lack native support for embedded BTF, thereby enhancing the versatility of eBPF programs across different kernel versions. (1 week ago)
 
 #### 🎧 Latest audios
-- [凯旋进行曲 (Triumphal March) (8-bit)]() (3 weeks ago)
+- [凯旋进行曲 (Triumphal March) (8-bit)]() (4 weeks ago)
 - [【全损音质】Counter-Strike 2]() (7 months ago)
 - [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (7 months ago)
 
@@ -53,8 +53,8 @@ Length: 250 [text/x-plain]
 - [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (1 year ago)
 
 #### 📰 Latest posts (Based on my own blog)
-- [各厂商 DNS 的域名速查表及其介绍评测](https://blog.liuzhen932.top/posts/dns-hosting-provider-list/) (1 day ago)
-- [新开了一个 Minecraft 服务器，欢迎来玩](https://blog.liuzhen932.top/posts/nebula-forest-minecraft-server/) (1 day ago)
+- [各厂商 DNS 的域名速查表及其介绍评测](https://blog.liuzhen932.top/posts/dns-hosting-provider-list/) (2 days ago)
+- [新开了一个 Minecraft 服务器，欢迎来玩](https://blog.liuzhen932.top/posts/nebula-forest-minecraft-server/) (2 days ago)
 - [GPG 完全指南：从入门到实践](https://blog.liuzhen932.top/posts/gpg-complete-guide/) (2 weeks ago)
 - [博客更新实录：代码块体验翻倍，性能优化全公开！](https://blog.liuzhen932.top/posts/changelog-202507/) (1 month ago)
 - [在 Debian 12 上使用 Docker 安装 Icecast 配置流媒体服务器](https://blog.liuzhen932.top/posts/use-docker-deploy-icecast/) (1 month ago)
