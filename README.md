@@ -37,11 +37,11 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (4 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [redtrillix/SpaceSniffer](https://github.com/redtrillix/SpaceSniffer) - SpaceSniffer is a freeware disk space analyzer for Windows that make use of the Treemap concept to view the current disk usage. (4 days ago)
-- [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) - Farm Steam trading cards, manage achievements, and idle games automatically — an all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master (4 days ago)
-- [chr233/ASFEnhance](https://github.com/chr233/ASFEnhance) - ASF 扩展命令插件 / External commands for ArchiSteamFarm (4 days ago)
-- [umaim/SKE](https://github.com/umaim/SKE) - 🗝 A PWA Steam Key Extractor (4 days ago)
-- [Citrinate/FreePackages](https://github.com/Citrinate/FreePackages) - An ASF plugin for finding and redeeming free Steam games (4 days ago)
+- [redtrillix/SpaceSniffer](https://github.com/redtrillix/SpaceSniffer) - SpaceSniffer is a freeware disk space analyzer for Windows that make use of the Treemap concept to view the current disk usage. (5 days ago)
+- [zevnda/steam-game-idler](https://github.com/zevnda/steam-game-idler) - Farm Steam trading cards, manage achievements, and idle games automatically — an all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master (5 days ago)
+- [chr233/ASFEnhance](https://github.com/chr233/ASFEnhance) - ASF 扩展命令插件 / External commands for ArchiSteamFarm (5 days ago)
+- [umaim/SKE](https://github.com/umaim/SKE) - 🗝 A PWA Steam Key Extractor (5 days ago)
+- [Citrinate/FreePackages](https://github.com/Citrinate/FreePackages) - An ASF plugin for finding and redeeming free Steam games (5 days ago)
 
 #### 🎧 Latest audios
 - [凯旋进行曲 (Triumphal March) (8-bit)]() (1 month ago)
@@ -53,10 +53,10 @@ Length: 250 [text/x-plain]
 - [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (1 year ago)
 
 #### 📰 Latest posts (Based on my own blog)
-- [使用 Forgejo 搭建私有 Cargo 包注册中心：从配置到发布的完整指南](https://blog.liuzhen932.top/posts/use-forgejo-as-cargo-registry/) (6 days ago)
+- [使用 Forgejo 搭建私有 Cargo 包注册中心：从配置到发布的完整指南](https://blog.liuzhen932.top/posts/use-forgejo-as-cargo-registry/) (1 week ago)
 - [各厂商 DNS 的域名速查表及其介绍评测](https://blog.liuzhen932.top/posts/dns-hosting-provider-list/) (1 week ago)
 - [新开了一个 Minecraft 服务器，欢迎来玩](https://blog.liuzhen932.top/posts/nebula-forest-minecraft-server/) (1 week ago)
-- [GPG 完全指南：从入门到实践](https://blog.liuzhen932.top/posts/gpg-complete-guide/) (4 weeks ago)
+- [GPG 完全指南：从入门到实践](https://blog.liuzhen932.top/posts/gpg-complete-guide/) (1 month ago)
 - [博客更新实录：代码块体验翻倍，性能优化全公开！](https://blog.liuzhen932.top/posts/changelog-202507/) (1 month ago)
 
 #### 📫 Find me here
