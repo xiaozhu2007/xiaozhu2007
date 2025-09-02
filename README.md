@@ -37,11 +37,11 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (5 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [omarmhaimdat/pepe](https://github.com/omarmhaimdat/pepe) - HTTP Load Generator (4 days ago)
-- [eveseat/seat](https://github.com/eveseat/seat) -  🌀✳️ SeAT: A Simple, EVE Online API Tool and Corporation Manager (6 days ago)
-- [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (1 week ago)
-- [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET (1 week ago)
-- [redtrillix/SpaceSniffer](https://github.com/redtrillix/SpaceSniffer) - SpaceSniffer is a freeware disk space analyzer for Windows that make use of the Treemap concept to view the current disk usage. (1 week ago)
+- [HuangRunzhe/sohu](https://github.com/HuangRunzhe/sohu) - 搜户引擎，搜索户晨风高论，为清洗数据，训练户子AI做准备工作 (1 day ago)
+- [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant (1 day ago)
+- [ItusiAI/Modern-AI-Corporate-Website](https://github.com/ItusiAI/Modern-AI-Corporate-Website) - 现代AI企业网站 (1 day ago)
+- [omarmhaimdat/pepe](https://github.com/omarmhaimdat/pepe) - HTTP Load Generator (5 days ago)
+- [eveseat/seat](https://github.com/eveseat/seat) -  🌀✳️ SeAT: A Simple, EVE Online API Tool and Corporation Manager (1 week ago)
 
 #### 🎧 Latest audios
 - [凯旋进行曲 (Triumphal March) (8-bit)]() (1 month ago)
@@ -54,8 +54,8 @@ Length: 250 [text/x-plain]
 
 #### 📰 Latest posts (Based on my own blog)
 - [使用 Forgejo 搭建私有 Cargo 包注册中心：从配置到发布的完整指南](https://blog.liuzhen932.top/posts/use-forgejo-as-cargo-registry/) (2 weeks ago)
-- [各厂商 DNS 的域名速查表及其介绍评测](https://blog.liuzhen932.top/posts/dns-hosting-provider-list/) (2 weeks ago)
-- [新开了一个 Minecraft 服务器，欢迎来玩](https://blog.liuzhen932.top/posts/nebula-forest-minecraft-server/) (2 weeks ago)
+- [各厂商 DNS 的域名速查表及其介绍评测](https://blog.liuzhen932.top/posts/dns-hosting-provider-list/) (3 weeks ago)
+- [新开了一个 Minecraft 服务器，欢迎来玩](https://blog.liuzhen932.top/posts/nebula-forest-minecraft-server/) (3 weeks ago)
 - [GPG 完全指南：从入门到实践](https://blog.liuzhen932.top/posts/gpg-complete-guide/) (1 month ago)
 - [博客更新实录：代码块体验翻倍，性能优化全公开！](https://blog.liuzhen932.top/posts/changelog-202507/) (1 month ago)
 
