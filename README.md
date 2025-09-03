@@ -33,20 +33,20 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/rss-feed](https://github.com/xiaozhu2007/rss-feed) -  (today)
 - [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 &amp; WolfYangFan&#39;s dotfiles (2 weeks ago)
 - [HelloTools-Studio/IAUP](https://github.com/HelloTools-Studio/IAUP) - ItemsAdderUploadPlus  (1 month ago)
-- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (2 months ago)
+- [xiaozhu2007/boom](https://github.com/xiaozhu2007/boom) - :star: &amp; :eyes: (3 months ago)
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (5 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [HuangRunzhe/sohu](https://github.com/HuangRunzhe/sohu) - 搜户引擎，搜索户晨风高论，为清洗数据，训练户子AI做准备工作 (1 day ago)
-- [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant (1 day ago)
-- [ItusiAI/Modern-AI-Corporate-Website](https://github.com/ItusiAI/Modern-AI-Corporate-Website) - 现代AI企业网站 (1 day ago)
-- [omarmhaimdat/pepe](https://github.com/omarmhaimdat/pepe) - HTTP Load Generator (5 days ago)
-- [eveseat/seat](https://github.com/eveseat/seat) -  🌀✳️ SeAT: A Simple, EVE Online API Tool and Corporation Manager (1 week ago)
+- [achen007/okstrm](https://github.com/achen007/okstrm) - 媒体库直连115直链，支持emby Jellyfin等支持strm的媒体库 (1 day ago)
+- [HuangRunzhe/sohu](https://github.com/HuangRunzhe/sohu) - 搜户引擎，搜索户晨风高论，为清洗数据，训练户子AI做准备工作 (2 days ago)
+- [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant (2 days ago)
+- [ItusiAI/Modern-AI-Corporate-Website](https://github.com/ItusiAI/Modern-AI-Corporate-Website) - 现代AI企业网站 (2 days ago)
+- [omarmhaimdat/pepe](https://github.com/omarmhaimdat/pepe) - HTTP Load Generator (6 days ago)
 
 #### 🎧 Latest audios
 - [凯旋进行曲 (Triumphal March) (8-bit)]() (1 month ago)
 - [【全损音质】Counter-Strike 2]() (7 months ago)
-- [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (7 months ago)
+- [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (8 months ago)
 
 #### 📰 Latest posts (Based on xLog)
 - [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (1 year ago)
