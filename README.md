@@ -38,7 +38,7 @@ Length: 250 [text/x-plain]
 
 #### ⭐ Recent Stars (Including **private** repo)
 - [shuakami/qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) - 🚀 QQ聊天记录导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ  (1 week ago)
-- [achen007/okstrm](https://github.com/achen007/okstrm) - 媒体库直连115直链，支持emby Jellyfin等支持strm的媒体库 (1 week ago)
+- [achen007/okstrm](https://github.com/achen007/okstrm) - 媒体库直连115直链，支持emby Jellyfin等支持strm的媒体库 (2 weeks ago)
 - [HuangRunzhe/sohu](https://github.com/HuangRunzhe/sohu) - 搜户引擎，搜索户晨风高论，为清洗数据，训练户子AI做准备工作 (2 weeks ago)
 - [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant (2 weeks ago)
 - [ItusiAI/Modern-AI-Corporate-Website](https://github.com/ItusiAI/Modern-AI-Corporate-Website) - 现代AI企业网站 (2 weeks ago)
@@ -53,7 +53,7 @@ Length: 250 [text/x-plain]
 - [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (1 year ago)
 
 #### 📰 Latest posts (Based on my own blog)
-- [2025 年了，还应该自建 DNS 吗？](https://blog.liuzhen932.top/posts/should-selfhost-dns/) (1 day ago)
+- [2025 年了，还应该自建 DNS 吗？](https://blog.liuzhen932.top/posts/should-selfhost-dns/) (2 days ago)
 - [六周年，致我们共同走过的时光](https://blog.liuzhen932.top/posts/six-years-with-this-blog/) (2 weeks ago)
 - [使用 Forgejo 搭建私有 Cargo 包注册中心：从配置到发布的完整指南](https://blog.liuzhen932.top/posts/use-forgejo-as-cargo-registry/) (4 weeks ago)
 - [各厂商 DNS 的域名速查表及其介绍评测](https://blog.liuzhen932.top/posts/dns-hosting-provider-list/) (1 month ago)
