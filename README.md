@@ -48,10 +48,6 @@ Length: 250 [text/x-plain]
 - [【全损音质】Counter-Strike 2]() (8 months ago)
 - [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (8 months ago)
 
-#### 📰 Latest posts (Based on xLog)
-- [查看 Git 历史，但是动画](https://xlog.app/api/redirection?characterId=57409&amp;noteId=56) (1 year ago)
-- [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (1 year ago)
-
 #### 📰 Latest posts (Based on my own blog)
 - [2025 年了，还应该自建 DNS 吗？](https://blog.liuzhen932.top/posts/should-selfhost-dns/) (3 days ago)
 - [六周年，致我们共同走过的时光](https://blog.liuzhen932.top/posts/six-years-with-this-blog/) (2 weeks ago)
