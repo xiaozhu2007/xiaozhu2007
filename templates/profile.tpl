@@ -47,12 +47,6 @@ Length: 250 [text/x-plain]
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
-#### 📰 Latest posts (Based on xLog)
-
-{{- range rss "https://hackpig520.xlog.app/feed" 2 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-{{- end }}
-
 #### 📰 Latest posts (Based on my own blog)
 
 {{- range rss "https://blog.liuzhen932.top/rss.xml" 5 }}
