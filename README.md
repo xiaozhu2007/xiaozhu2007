@@ -53,9 +53,9 @@ Length: 250 [text/x-plain]
 - [阿里云学生300元优惠券领取方法（无门槛代金券）](https://xlog.app/api/redirection?characterId=57409&amp;noteId=55) (1 year ago)
 
 #### 📰 Latest posts (Based on my own blog)
-- [2025 年了，还应该自建 DNS 吗？](https://blog.liuzhen932.top/posts/should-selfhost-dns/) (2 days ago)
+- [2025 年了，还应该自建 DNS 吗？](https://blog.liuzhen932.top/posts/should-selfhost-dns/) (3 days ago)
 - [六周年，致我们共同走过的时光](https://blog.liuzhen932.top/posts/six-years-with-this-blog/) (2 weeks ago)
-- [使用 Forgejo 搭建私有 Cargo 包注册中心：从配置到发布的完整指南](https://blog.liuzhen932.top/posts/use-forgejo-as-cargo-registry/) (4 weeks ago)
+- [使用 Forgejo 搭建私有 Cargo 包注册中心：从配置到发布的完整指南](https://blog.liuzhen932.top/posts/use-forgejo-as-cargo-registry/) (1 month ago)
 - [各厂商 DNS 的域名速查表及其介绍评测](https://blog.liuzhen932.top/posts/dns-hosting-provider-list/) (1 month ago)
 - [新开了一个 Minecraft 服务器，欢迎来玩](https://blog.liuzhen932.top/posts/nebula-forest-minecraft-server/) (1 month ago)
 
