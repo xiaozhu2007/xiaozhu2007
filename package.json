@@ -34,7 +34,7 @@
     "@semantic-release/npm": "^12.0.2",
     "core-js": "^3.21.1",
     "cz-conventional-changelog": "^3.3.0",
-    "husky": "^7.0.4",
+    "husky": "^9.1.7",
     "rimraf": "^3.0.2"
   },
   "dependencies": {
