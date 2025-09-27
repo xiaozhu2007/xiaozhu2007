@@ -37,11 +37,11 @@ Length: 250 [text/x-plain]
 - [xiaozhu2007/CFWAF2Axiom](https://github.com/xiaozhu2007/CFWAF2Axiom) - 测试项目，将 Cloudflare WAF 日志传输到 Axiom.co 储存和分析 (5 months ago)
 
 #### ⭐ Recent Stars (Including **private** repo)
-- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (2 days ago)
-- [Serilum/.issue-tracker](https://github.com/Serilum/.issue-tracker) - Tracks all issues for Serilum&#39;s Minecraft mods on CurseForge and Modrinth. (2 days ago)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🧹 Like a mole, dig deep to clean your mac. (2 days ago)
-- [tw93/homebrew-tap](https://github.com/tw93/homebrew-tap) - Homebrew tap for tw93&#39;s tools (2 days ago)
-- [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system (2 days ago)
+- [u9sky/cdn-cname-domain](https://github.com/u9sky/cdn-cname-domain) - 全国主流CDN厂商cname域名汇总合集 (1 day ago)
+- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (3 days ago)
+- [Serilum/.issue-tracker](https://github.com/Serilum/.issue-tracker) - Tracks all issues for Serilum&#39;s Minecraft mods on CurseForge and Modrinth. (3 days ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🧹 Like a mole, dig deep to clean your mac. (3 days ago)
+- [tw93/homebrew-tap](https://github.com/tw93/homebrew-tap) - Homebrew tap for tw93&#39;s tools (3 days ago)
 
 #### 🎧 Latest audios
 - [凯旋进行曲 (Triumphal March) (8-bit)]() (2 months ago)
@@ -49,7 +49,7 @@ Length: 250 [text/x-plain]
 - [【全损音质】DJ Blyatman,Russian Village Boys - Сука блядь]() (8 months ago)
 
 #### 📰 Latest posts (Based on my own blog)
-- [为你的站点启用 ECH，实现全加密链路访问](https://blog.liuzhen932.top/posts/enable-ech-for-your-website/) (3 days ago)
+- [为你的站点启用 ECH，实现全加密链路访问](https://blog.liuzhen932.top/posts/enable-ech-for-your-website/) (4 days ago)
 - [2025 年了，还应该自建 DNS 吗？](https://blog.liuzhen932.top/posts/should-selfhost-dns/) (1 week ago)
 - [六周年，致我们共同走过的时光](https://blog.liuzhen932.top/posts/six-years-with-this-blog/) (3 weeks ago)
 - [使用 Forgejo 搭建私有 Cargo 包注册中心：从配置到发布的完整指南](https://blog.liuzhen932.top/posts/use-forgejo-as-cargo-registry/) (1 month ago)
